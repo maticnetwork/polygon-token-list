@@ -1,0 +1,12 @@
+{
+  "api-polygon-tokens.polygon.technology/tokenlists/default.tokenlist.json": {
+    "name": "Default Polygon Tokens List",
+    "homepage": "polygon.technology",
+    "logoUri": ""
+  },
+  "api-polygon-tokens.polygon.technology/tokenlists/allTokens.tokenlist.json": {
+    "name": "All Polygon Tokens List",
+    "homepage": "polygon.technology",
+    "logoUri": ""
+  }
+}
