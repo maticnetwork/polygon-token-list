@@ -1,0 +1,19 @@
+{
+  "name": "polygon-token-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maticnetwork/polygon-token-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maticnetwork/polygon-token-list/issues"
+  },
+  "homepage": "https://github.com/maticnetwork/polygon-token-list#readme"
+}
