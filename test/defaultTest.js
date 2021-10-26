@@ -3,6 +3,7 @@ const { expect } = require('chai')
 const Ajv = require('ajv').default
 const addFormats = require('ajv-formats').default
 const buildList = require('../src/build')
+const lists = require('../src/listRegistry.json')
 
 const ajv = new Ajv({ allErrors: true, format: 'full' })
 addFormats(ajv)
@@ -80,6 +81,26 @@ describe('buildList', () => {
       const key = `${token.name.toLowerCase()}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate name: ${token.name} - default list`)
+      map[key] = true
+    }
+  })
+
+  it('contains no duplicate names in list registry', () => {
+    let map = {}
+    for (const list of lists) {
+      const key = `${list.name.toLowerCase()}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate name: ${list.name} - list registry`)
+      map[key] = true
+    }
+  })
+
+  it('contains no duplicate URIs in list registry', () => {
+    let map = {}
+    for (const list of lists) {
+      const key = `${list.listURI.toLowerCase()}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate name: ${list.listURI} - list registry`)
       map[key] = true
     }
   })
