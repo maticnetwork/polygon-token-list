@@ -1,5 +1,5 @@
 {
-  "name": "All Polygon Tokens List",
+  "name": "Polygon Tokens",
   "version": {
     "major": 1,
     "minor": 0,
@@ -8,6 +8,7 @@
   "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
   "keywords": [
     "polygon",
+    "default",
     "tokens"
   ],
   "tags": {
