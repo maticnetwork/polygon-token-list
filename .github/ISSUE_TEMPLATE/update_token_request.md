@@ -6,8 +6,6 @@ labels: update token request
 assignees: ''
 ---
 
-- [ ] I will not ping the Polygon Support through any means about this updation request.
-
 **Please only fill in the information you want to update for your token.**
 
 Token Name:
