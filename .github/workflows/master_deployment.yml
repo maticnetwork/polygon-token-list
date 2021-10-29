@@ -20,6 +20,9 @@ jobs:
           ref: master
 
       # Runs a set of commands using the runners shell
+      - name: Build tokenlists
+        run: npm run build
+      
       - name: Uploading to s3 bucket
         uses: jakejarvis/s3-sync-action@master
         with:
