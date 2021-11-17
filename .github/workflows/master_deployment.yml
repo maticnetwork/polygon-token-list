@@ -20,6 +20,9 @@ jobs:
           ref: master
 
       # Runs a set of commands using the runners shell
+      - name: Install dependencies
+        run: npm i
+      
       - name: Build tokenlists
         run: npm run build
       
