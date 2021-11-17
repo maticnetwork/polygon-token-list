@@ -21,7 +21,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Install dependencies
-        run: npm i
+        run: npm ci
       
       - name: Build tokenlists
         run: npm run build
