@@ -5,7 +5,7 @@
   "main": "index.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js"
+    "build": "npm ci && rimraf build && mkdir -p build && node src/write.js"
   },
   "repository": {
     "type": "git",
