@@ -31,6 +31,18 @@
     "plasma": {
       "name": "Plasma",
       "description": "Plasma tokens"
+    },
+    "metaTx": {
+      "name": "MetaTx",
+      "description": "Tokens are eligible for meta transactions"
+    },
+    "depositDisabled": {
+      "name": "Deposit Disabled",
+      "description": "Tokens are not eligible for deposits"
+    },
+    "withdrawDisabled": {
+      "name": "Withdraw Disabled",
+      "description": "Tokens are not eligible for withdraws"
     }
   }
 }
