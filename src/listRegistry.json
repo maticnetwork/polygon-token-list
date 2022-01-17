@@ -12,5 +12,12 @@
     "summary": "A list of most used tokens on the polygon wallet",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
+  },
+  {
+    "name": "Polygon Testnet List",
+    "listURI": "api-polygon-tokens.polygon.technology/testnet.tokenlist.json",
+    "summary": "A list of tokens on the Mumbai testnet",
+    "homepage": "polygon.technology",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   }
 ]

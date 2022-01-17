@@ -15,6 +15,7 @@ describe('buildList', () => {
   it('validates', () => {
     expect(validator(tokenlists.allTokensTokenList)).to.equal(true)
     expect(validator(tokenlists.defaultTokenList)).to.equal(true)
+    expect(validator(tokenlists.testnetTokenList)).to.equal(true)
   })
 
   it('contains no duplicate child addresses', () => {
@@ -30,6 +31,13 @@ describe('buildList', () => {
       const key = `${token.address}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate child address: ${token.address} - default list`)
+      map[key] = true
+    }
+    map = {}
+    for (const token of tokenlists.testnetTokenList.tokens) {
+      const key = `${token.address}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate child address: ${token.address} - testnet list`)
       map[key] = true
     }
   })
@@ -49,6 +57,13 @@ describe('buildList', () => {
         .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - default list`)
       map[key] = true
     }
+    map = {}
+    for (const token of tokenlists.testnetTokenList.tokens) {
+      const key = `${token.extensions.parentAddress}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - testnet list`)
+      map[key] = true
+    }
   })
 
   it('contains no duplicate symbols', () => {
@@ -66,6 +81,13 @@ describe('buildList', () => {
         .to.equal('undefined', `duplicate symbol: ${token.symbol} - default list`)
       map[key] = true
     }
+    map = {}
+    for (const token of tokenlists.testnetTokenList.tokens) {
+      const key = `${token.symbol.toLowerCase()}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate symbol: ${token.symbol} - testent list`)
+      map[key] = true
+    }
   })
 
   it('contains no duplicate names', () => {
@@ -81,6 +103,13 @@ describe('buildList', () => {
       const key = `${token.name.toLowerCase()}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate name: ${token.name} - default list`)
+      map[key] = true
+    }
+    map = {}
+    for (const token of tokenlists.testnetTokenList.tokens) {
+      const key = `${token.name.toLowerCase()}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate name: ${token.name} - testnet list`)
       map[key] = true
     }
   })

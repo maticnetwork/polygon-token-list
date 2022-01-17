@@ -18,6 +18,13 @@ fs.writeFile('build/tokenlists/default.tokenlist.json', JSON.stringify(tokenlist
   console.log('default.tokenlist.json successfully built')
 })
 
+fs.writeFile('build/tokenlists/testnet.tokenlist.json', JSON.stringify(tokenlists.testnetTokenList, null, 2), (err) => {
+  if (err) {
+    throw err
+  }
+  console.log('testnet.tokenlist.json successfully built')
+})
+
 fs.writeFile('build/listRegistry.json', JSON.stringify(listRegistry, null, 2), (err) => {
   if (err) {
     throw err
