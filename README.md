@@ -12,6 +12,10 @@ The community can raise token addition and updation issues to help us keep the t
 
 This default list is a subset of the allTokens list. It contains the mostly used tokens on Polygon Wallet Web.
 
+3. Testnet Tokens List : https://api-polygon-tokens.polygon.technology/tokenlists/testnet.tokenlist.json
+
+This tokenlist contains the tokens mapped on the Mumbai chain.
+
 ## Adding a token
 
 To add a token to the list, please 

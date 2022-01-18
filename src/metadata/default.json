@@ -3,7 +3,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
   "keywords": [
@@ -31,6 +31,18 @@
     "plasma": {
       "name": "Plasma",
       "description": "Plasma tokens"
+    },
+    "metaTx": {
+      "name": "MetaTx",
+      "description": "Tokens are eligible for meta transactions"
+    },
+    "noDeposit": {
+      "name": "Deposit Disabled",
+      "description": "Tokens are not eligible for deposits"
+    },
+    "noWithdraw": {
+      "name": "Withdraw Disabled",
+      "description": "Tokens are not eligible for withdraws"
     }
   }
 }

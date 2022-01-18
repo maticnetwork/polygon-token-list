@@ -20,3 +20,6 @@ Project Name:
 Project Summary:
 Project Contact:
 Project Website:
+
+Mainnet/Testnet:
+Additonal Notes:
