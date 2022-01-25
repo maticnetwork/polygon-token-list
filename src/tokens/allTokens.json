@@ -30,7 +30,7 @@
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
     "tags": [
       "erc20",
-      "pos",
+      "plasma",
       "swapable"
     ],
     "extensions": {
