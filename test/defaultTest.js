@@ -43,74 +43,83 @@ describe('buildList', () => {
   })
 
   it('contains no duplicate parent addresses', () => {
-    let map = {}
+    let map = {pos: {}, plasma: {}}
     for (const token of tokenlists.allTokensTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.extensions.parentAddress}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - allTokens list`)
-      map[key] = true
+      map[tag][key] = true
     }
-    map = {}
+    map = {pos: {}, plasma: {}}
     for (const token of tokenlists.defaultTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.extensions.parentAddress}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - default list`)
-      map[key] = true
+      map[tag][key] = true
     }
-    map = {}
+    map = {pos: {}, plasma: {}}
     for (const token of tokenlists.testnetTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.extensions.parentAddress}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - testnet list`)
-      map[key] = true
+      map[tag][key] = true
     }
   })
 
   it('contains no duplicate symbols', () => {
-    let map = {}
+    let map = {pos: {}, plasma: {}}
     for (const token of tokenlists.allTokensTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.symbol.toLowerCase()}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate symbol: ${token.symbol} - allTokens list`)
-      map[key] = true
+      map[tag][key] = true
     }
-    map = {}
+    map = {pos: {}, plasma: {}}
     for (const token of tokenlists.defaultTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.symbol.toLowerCase()}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate symbol: ${token.symbol} - default list`)
-      map[key] = true
+      map[tag][key] = true
     }
-    map = {}
+    map = {pos: {}, plasma: {}}
     for (const token of tokenlists.testnetTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.symbol.toLowerCase()}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate symbol: ${token.symbol} - testent list`)
-      map[key] = true
+      map[tag][key] = true
     }
   })
 
   it('contains no duplicate names', () => {
-    let map = {}
+    let map = {pos: {}, plasma: {}}
     for (const token of tokenlists.allTokensTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.name.toLowerCase()}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate name: ${token.name} - allTokens list`)
-      map[key] = true
+      map[tag][key] = true
     }
-    map = {}
+    map = {pos: {}, plasma: {}}
     for (const token of tokenlists.defaultTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.name.toLowerCase()}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate name: ${token.name} - default list`)
-      map[key] = true
+      map[tag][key] = true
     }
-    map = {}
+    map = {pos: {}, plasma: {}}
     for (const token of tokenlists.testnetTokenList.tokens) {
+      const tag = token.tags.includes("pos") ? "pos" : "plasma"
       const key = `${token.name.toLowerCase()}`
-      expect(typeof map[key])
+      expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate name: ${token.name} - testnet list`)
-      map[key] = true
+      map[tag][key] = true
     }
   })
 
