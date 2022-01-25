@@ -23,6 +23,28 @@
   },
   {
     "chainId": 137,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+    "tags": [
+      "erc20",
+      "plasma",
+      "noDeposit"
+    ],
+    "extensions": {
+      "parentAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
+      "project": {
+        "name": "-",
+        "summary": "-",
+        "contact": "-",
+        "website": "https://weth.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
     "name": "Matic Token",
     "symbol": "MATIC",
     "decimals": 18,
@@ -101,6 +123,29 @@
       "pos",
       "swapable",
       "stablecoin"
+    ],
+    "extensions": {
+      "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "project": {
+        "name": "-",
+        "summary": "-",
+        "contact": "-",
+        "website": "https://makerdao.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+    "tags": [
+      "erc20",
+      "plasma",
+      "stablecoin",
+      "noDeposit"
     ],
     "extensions": {
       "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
