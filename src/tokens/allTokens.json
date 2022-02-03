@@ -9,7 +9,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -76,6 +77,7 @@
       "pos",
       "erc20",
       "swapable",
+      "metaTx",
       "stablecoin"
     ],
     "extensions": {
@@ -97,9 +99,10 @@
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
     "tags": [
       "pos",
+      "stablecoin",
       "erc20",
       "swapable",
-      "stablecoin"
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -120,9 +123,10 @@
     "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
     "tags": [
       "pos",
+      "stablecoin",
       "erc20",
       "swapable",
-      "stablecoin"
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -143,8 +147,8 @@
     "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
     "tags": [
       "plasma",
-      "erc20",
       "stablecoin",
+      "erc20",
       "noDeposit"
     ],
     "extensions": {
@@ -167,7 +171,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
@@ -189,7 +194,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -211,7 +217,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -233,7 +240,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -298,7 +306,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
@@ -320,7 +329,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
@@ -364,7 +374,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
@@ -386,7 +397,8 @@
     "tags": [
       "pos",
       "erc20",
-      "swapable"
+      "swapable",
+      "metaTx"
     ],
     "extensions": {
       "parentAddress": "0xffffffff2ba8f66d4e51811c5190992176930278",
