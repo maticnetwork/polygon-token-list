@@ -23,28 +23,6 @@
   },
   {
     "chainId": 137,
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": 18,
-    "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
-    "tags": [
-      "erc20",
-      "plasma",
-      "noDeposit"
-    ],
-    "extensions": {
-      "parentAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
-      "project": {
-        "name": "-",
-        "summary": "-",
-        "contact": "-",
-        "website": "https://weth.io/"
-      }
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Matic Token",
     "symbol": "MATIC",
     "decimals": 18,

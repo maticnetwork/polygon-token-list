@@ -1,8 +1,8 @@
 [
   {
     "chainId": 137,
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
+    "name": "Ether - PoS",
+    "symbol": "ETH-PoS",
     "decimals": 18,
     "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
@@ -23,8 +23,8 @@
   },
   {
     "chainId": 137,
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
+    "name": "Wrapped Ether - Plasma",
+    "symbol": "WETH-PLASMA",
     "decimals": 18,
     "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
