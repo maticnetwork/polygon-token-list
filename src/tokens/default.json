@@ -7,8 +7,8 @@
     "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -29,8 +29,8 @@
     "address": "0x0000000000000000000000000000000000001010",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
     "tags": [
-      "erc20",
       "plasma",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -51,10 +51,10 @@
     "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
     "tags": [
-      "erc20",
       "pos",
-      "swapable",
-      "stablecoin"
+      "stablecoin",
+      "erc20",
+      "swapable"
     ],
     "extensions": {
       "parentAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -74,10 +74,10 @@
     "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
     "tags": [
-      "erc20",
       "pos",
-      "swapable",
-      "stablecoin"
+      "stablecoin",
+      "erc20",
+      "swapable"
     ],
     "extensions": {
       "parentAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -97,10 +97,10 @@
     "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
     "tags": [
-      "erc20",
       "pos",
-      "swapable",
-      "stablecoin"
+      "stablecoin",
+      "erc20",
+      "swapable"
     ],
     "extensions": {
       "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -120,9 +120,9 @@
     "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
     "tags": [
-      "erc20",
       "plasma",
       "stablecoin",
+      "erc20",
       "noDeposit"
     ],
     "extensions": {
@@ -143,8 +143,8 @@
     "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/aave.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -165,8 +165,8 @@
     "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/link.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -187,8 +187,8 @@
     "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -209,8 +209,8 @@
     "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/uni.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -231,8 +231,8 @@
     "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/sushi.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -253,8 +253,8 @@
     "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/quick.svg",
     "tags": [
-      "erc20",
-      "pos"
+      "pos",
+      "erc20"
     ],
     "extensions": {
       "parentAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
@@ -274,8 +274,8 @@
     "address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
     "logoURI": "https://polygonscan.com/token/images/aavegotchighst_32.png",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -296,8 +296,8 @@
     "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/tel.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -318,8 +318,8 @@
     "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/bal.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
@@ -334,14 +334,14 @@
   },
   {
     "chainId": 137,
-    "name": "Binance USB",
+    "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
     "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/busd.svg",
     "tags": [
-      "erc20",
       "pos",
+      "erc20",
       "swapable"
     ],
     "extensions": {
