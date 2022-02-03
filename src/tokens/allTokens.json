@@ -23,8 +23,8 @@
   },
   {
     "chainId": 137,
-    "name": "Wrapped Ether - Plasma",
-    "symbol": "WETH-PLASMA",
+    "name": "Ether - Plasma",
+    "symbol": "ETH-PLASMA",
     "decimals": 18,
     "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
