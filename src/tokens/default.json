@@ -118,29 +118,6 @@
   },
   {
     "chainId": 137,
-    "name": "Dai - Plasma",
-    "symbol": "DAI",
-    "decimals": 18,
-    "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
-    "tags": [
-      "plasma",
-      "stablecoin",
-      "erc20",
-      "noDeposit"
-    ],
-    "extensions": {
-      "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-      "project": {
-        "name": "-",
-        "summary": "-",
-        "contact": "-",
-        "website": "https://makerdao.com/"
-      }
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
