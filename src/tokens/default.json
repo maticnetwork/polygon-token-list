@@ -94,7 +94,7 @@
   },
   {
     "chainId": 137,
-    "name": "Dai Stablecoin",
+    "name": "Dai - PoS",
     "symbol": "DAI",
     "decimals": 18,
     "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
@@ -118,7 +118,7 @@
   },
   {
     "chainId": 137,
-    "name": "Dai Stablecoin",
+    "name": "Dai - Plasma",
     "symbol": "DAI",
     "decimals": 18,
     "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
