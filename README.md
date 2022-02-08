@@ -1,20 +1,18 @@
 # polygon-token-list
 
 This repo contains the token lists to be used in Polygon products' interfaces.
-There are two token lists that we are maintaining currently.
 
-1. All Tokens List : https://api-polygon-tokens.polygon.technology/tokenlists/allTokens.tokenlist.json
+## Different Token Lists in JSON
 
-This all tokens list contains all the tokens added by the community that are mapped on the Polygon PoS chain.
-The community can raise token addition and updation issues to help us keep the tokenlist upto date.
+the JSON schema for the tokens includes: chainId, name, address, decimals, symbol, logoURI (optional), tags (optional), and custom extensions metadata.
 
-2. Default Tokens List : https://api-polygon-tokens.polygon.technology/tokenlists/default.tokenlist.json
+There are two token lists that we are maintaining currently on mainet and another one on testnet:
 
-This default list is a subset of the allTokens list. It contains the mostly used tokens on Polygon Wallet Web.
+1. [All Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/allTokens.tokenlist.json) contains all the tokens added by the community that are mapped on the Polygon PoS chain. The community can raise token addition and updation issues to help us keep the token list up-to-date.
 
-3. Testnet Tokens List : https://api-polygon-tokens.polygon.technology/tokenlists/testnet.tokenlist.json
+2. [Default Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/default.tokenlist.json) is a subset of the allTokens list. It contains the mostly used tokens on Polygon Wallet Web.
 
-This tokenlist contains the tokens mapped on the Mumbai chain.
+3. [Testnet Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/testnet.tokenlist.json) contains the tokens mapped on the Mumbai chain.
 
 ## Adding a token
 
@@ -28,5 +26,5 @@ To update a token in the list, please
 
 ### Disclaimer
 
-After filing an issue please allow us some time to verify the issue's authenticity.
+After filing an issue, please allow us some time to verify the issue's authenticity.
 We do not follow any particular order in reviewing token additions and updations.
