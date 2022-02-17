@@ -1,8 +1,8 @@
 [
   {
     "chainId": 80001,
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
+    "name": "Ether - PoS",
+    "symbol": "ETH",
     "decimals": 18,
     "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
