@@ -8,7 +8,7 @@ const testnetTokenList = require('./metadata/testnetTokens.json')
 // Cross-chain lists
 const ccTokensList = require('./metadata/crossChain.json')
 const ccBscTokenList = require('./tokens/crossChain/bsc.json')
-const ccPolygonTokenList = require('./tokens/crossChain/polygonPos.json')
+const ccPolygonTokenList = require('./tokens/crossChain/polygonPoS.json')
 const ccFantomTokenList = require('./tokens/crossChain/fantom.json')
 
 module.exports = function buildList () {
