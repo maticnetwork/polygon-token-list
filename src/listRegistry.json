@@ -14,6 +14,13 @@
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   },
   {
+    "name": "Cross-Chain List",
+    "listURI": "api-polygon-tokens.polygon.technology/cross-chain.tokenlist.json",
+    "summary": "A cross-chain tokens list for transfers and swaps",
+    "homepage": "polygon.technology",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
+  },
+  {
     "name": "Polygon Testnet List",
     "listURI": "api-polygon-tokens.polygon.technology/testnet.tokenlist.json",
     "summary": "A list of tokens on the Mumbai testnet",
