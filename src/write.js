@@ -25,6 +25,13 @@ fs.writeFile('build/tokenlists/testnet.tokenlist.json', JSON.stringify(tokenlist
   console.log('testnet.tokenlist.json successfully built')
 })
 
+fs.writeFile('build/tokenlists/cross-chain.tokenlist.json', JSON.stringify(tokenlists.ccTokensList, null, 2), (err) => {
+  if (err) {
+    throw err
+  }
+  console.log('cross-chain.tokenlist.json successfully built')
+})
+
 fs.writeFile('build/listRegistry.json', JSON.stringify(listRegistry, null, 2), (err) => {
   if (err) {
     throw err

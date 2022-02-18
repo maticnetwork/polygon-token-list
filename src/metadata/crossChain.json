@@ -1,0 +1,25 @@
+{
+  "name": "Cross Chain List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+  "keywords": [
+    "polygon",
+    "cross-chain",
+    "swap",
+    "tokens"
+  ],
+  "tags": {
+    "erc20": {
+      "name": "ERC20",
+      "description": "Tokens are of erc20 token type"
+    },
+    "bep20": {
+      "name": "BEP20",
+      "description": "Tokens are of bep20 token type"
+    }
+  }
+}
