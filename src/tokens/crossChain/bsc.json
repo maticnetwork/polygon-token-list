@@ -14,7 +14,7 @@
     "chainId": 56,
     "name": "USD Coin",
     "symbol": "USDC",
-    "decimals": 6,
+    "decimals": 18,
     "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
     "tags": [
@@ -25,7 +25,7 @@
     "chainId": 56,
     "name": "Tether",
     "symbol": "USDT",
-    "decimals": 6,
+    "decimals": 18,
     "address": "0x55d398326f99059ff775485246999027b3197955",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
     "tags": [
