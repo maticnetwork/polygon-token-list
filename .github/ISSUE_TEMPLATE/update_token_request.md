@@ -13,7 +13,7 @@ Token Symbol:
 Decimals:
 Polygon Address:
 Ethereum Address:
-Logo URI:
+Logo URI (svg):
 Project Name:
 Project Summary:
 Project Contact:
