@@ -431,5 +431,27 @@
         "website": "http://www.paxos.com/busd"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Satoshi Inu Vision",
+    "symbol": "SAV",
+    "decimals": 18,
+    "address": "0x38fb090891ad01aeee9e58775f3dc7dd4bdaed61",
+    "logoURI": "https://github.com/Payo254/satoshivision/blob/main/logo.png",
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"  
+    ],
+    "extensions": {
+      "parentAddress": "0x69e3862fA9C8b01F654d88eFDaF0ed58bA8f46E8",
+      "project": {
+        "name": "Pius Murithi",
+        "summary": "-",
+        "contact": "-",
+        "website": "https://dolacodecorporation.com/"
+      }
+    }
   }
 ]
