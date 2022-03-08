@@ -431,5 +431,509 @@
         "website": "http://www.paxos.com/busd"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Mintopoly Money",
+    "symbol": "MM",
+    "decimals": 8,
+    "address": "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa",
+    "logoURI": "https://etherscan.io/token/images/mintopolymoney_32.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa",
+      "project": {
+        "name": "Mintopoly",
+        "summary": "Mintopoly is a blockchain simulation game powered by NFT Mintopoly Cards and Mintopoly Money (MM) token - our in-game currency airdropped freely to hundreds of top players each week with uses throughout the Mintopoly ecosystem.",
+        "contact": "mr@mintopoly.io",
+        "website": "https://mintopoly.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "CoinPoker Chips",
+    "symbol": "CHP",
+    "decimals": 18,
+    "address": "0x59B5654a17Ac44F3068b3882F298881433bB07Ef",
+    "logoURI": "https://coinpoker.com/assets/img/logox2.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x0a6E18fB2842855C3AF925310B0F50a4BfA17909",
+      "project": {
+        "name": "CoinPoker",
+        "summary": "CoinPoker is a cryptocurrency-powered online poker room built on the principles of transparency, security, and fair play.",
+        "contact": "info@coinpoker.com",
+        "website": "https://coinpoker.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Dreamr Platform Token",
+    "symbol": "DMR",
+    "decimals": 18,
+    "address": "0x955ce23f20217a6aa205620b40ede4c9e83d325f",
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmepiCxpZqks5sjB6r55gErgCXqhGdCsbXYpuauG5yxCyB",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2",
+      "project": {
+        "name": "Dreamr",
+        "summary": "Web3 Social+NFT+DeFi Platform, a suite of tools to make the pursuit of big dreams more practical.",
+        "contact": "chris@dreamrlabs.org",
+        "website": "https://dreamrlabs.org"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Yup",
+    "symbol": "YUP",
+    "decimals": 18,
+    "address": "0x086373fad3447F7F86252fb59d56107e9E0FaaFa",
+    "logoURI": "https://i.imgur.com/QC2UG1G.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
+      "project": {
+        "name": "Yup",
+        "summary": "Social network for curators, reputation mechanism.",
+        "contact": "community@yup.io",
+        "website": "https://yup.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Paint",
+    "symbol": "PAINT",
+    "decimals": 18,
+    "address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmSqt6RAgNYWq3kJRhEoLquY2xcZ7QXAJGovaeaxmZYCVJ",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+      "project": {
+        "name": "MurAll",
+        "summary": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
+        "contact": "keiron@murall.art",
+        "website": "https://murall.art"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Swash Token",
+    "symbol": "SWASH",
+    "decimals": 18,
+    "address": "0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275",
+    "logoURI": "https://github.com/swashapp/token/blob/main/logo/Logo.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80",
+      "project": {
+        "name": "Swash",
+        "summary": "Swash is an ecosystem of tools and services that enable people, businesses, and developers to unlock the latent value of data by pooling, securely sharing, and monetizing its value.",
+        "contact": "contact@swashapp.io",
+        "website": "https://swashapp.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Angel",
+    "symbol": "ANGEL",
+    "decimals": 18,
+    "address": "0xa78da5d9f0c488c51b9712434f0498cbb7bff23d",
+    "logoURI": "https://i.imgur.com/I8S1GPZ.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x14d86EaeB7F669a6b84D51E1ac14b3F2723fA08D",
+      "project": {
+        "name": "Give an Angel",
+        "summary": "Give an Angel is a social media platform on which people share their good deeds and they get rewarded for them. Their purpose is to educate people to do good and help each other. These acts of kindness will be rewarded with ANGELs, our tokens",
+        "contact": "alina.anton@giveanangel.com",
+        "website": "https://giveanangel.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "ExSports",
+    "symbol": "EXS",
+    "decimals": 18,
+    "address": "0x11928CFCbC0398b9206C6D57ff7D8201555D6773",
+    "logoURI": "https://img.ex-sports.io/imgs/icons/exs.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x7331355e2DaD3b55f9ce0fd460D082558952099e",
+      "project": {
+        "name": "ExSports",
+        "summary": "EX Sport Starz is a platform that allows sport fans to buy, trade and sell digital sport collectibles. The app offers a variety of sports and has a special reward program for the collectors, athletes and sport fans.",
+        "contact": "technical@ex-sports.io",
+        "website": "https://www.ex-sports.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Royale (PoS)",
+    "symbol": "ROYA",
+    "decimals": 18,
+    "address": "0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561",
+    "logoURI": "https://assets.coingecko.com/coins/images/13602/small/roya.png?1636031771",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+      "project": {
+        "name": "Royale Finance",
+        "summary": "Royale Finance is an industry-focused decentralized lending protocol and blockchain game launchpad. Its purpose is to create Web 3.0 decentralized liquidity funding solutions using DeFi primitives to support the innovation of gaming products and platforms.",
+        "contact": "team@royale.finance",
+        "website": "https://royale.finance"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "PRUF",
+    "symbol": "PRUF",
+    "decimals": 18,
+    "address": "0xAdf72D32E511eE00c6E0FF5D62Cd5C7C40A6aDEA",
+    "logoURI": "https://pruf.io/assets/images/prufcircle-1200x1200.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xa49811140e1d6f653dec28037be0924c811c4538",
+      "project": {
+        "name": "PRüF Protocol",
+        "summary": "The PRüF Protocol brings legitimacy and permanence to tokenized assets, endowing standards compliant tokens with super-powers. PRüF enabled NFTs and assets deliver lasting value through permanent storage, future-proof protocols, and DAO governance.",
+        "contact": "james@pruf.io",
+        "website": "https://pruf.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Arch Ethereum Web3",
+    "symbol": "WEB3",
+    "decimals": 18,
+    "address": "0xBcD2C5C78000504EFBC1cE6489dfcaC71835406A",
+    "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/ETHWEB3.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xe8e8486228753E01Dbc222dA262Aa706Bd67e601",
+      "project": {
+        "name": "Arch",
+        "summary": "The Arch Ethereum Web3 Token is comprised of governance tokens from the major decentralized protocols. Its objective is to track the returns of the Ethereum Web3 Index (a broad market index, considered a gauge for the overall web3 ecosystem). This well-diversified asset provides market-weighted exposure to a wide selection of sectors, and its constituents represent roughly 70% of the market capitalization in the Ethereum Web3 Index.",
+        "contact": "hello@archfinance.io",
+        "website": "https://www.archfinance.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Unlock Discount Token",
+    "symbol": "UDT",
+    "decimals": 18,
+    "address": "0xf7e78d9c4c74df889a83c8c8d6d05bf70ff75876",
+    "logoURI": "https://github.com/unlock-protocol/unlock/blob/master/design/brand/1808-Unlock-Identity_Unlock-LogoMark-Circle.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x90de74265a416e1393a450752175aed98fe11517",
+      "project": {
+        "name": "Unlock Protocol",
+        "summary": "The Unlock Protocol is a protocol for memberships where members cards are NFT with an expiration date",
+        "contact": "hello@unlock-protocol.com",
+        "website": "https://unlock-protocol.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Altafin",
+    "symbol": "AFN",
+    "decimals": 18,
+    "address": "0xB4A055786EE8B9c9a09156bb185EBA7B91540eE5",
+    "logoURI": "https://images.ctfassets.net/dj2ij87ekk1y/6QLADorHyGFcr804X0spbG/a11f3a582c9f6b40bc7b010d481c9242/AltaFin-Logo-Square-700x.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xE46F290Cd59195a83e757891430d8D517d16b334",
+      "project": {
+        "name": "AltaFin",
+        "summary": "Providing a stable, long term yield by bringing real world assets to crypto and web3.",
+        "contact": "help@altafin.co",
+        "website": "https://altafin.co/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "UCT Cash",
+    "symbol": "UCTC",
+    "decimals": 18,
+    "address": "0xD4b42287F1EE04aF246aD792153C39D62733f826",
+    "logoURI": "https://www.uct-token.org/wp-content/uploads/2021/06/UCT-token-transp-500-500.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x2707ab358B5383D087FE4736Da36c1C70179e3BD",
+      "project": {
+        "name": "UCT Token",
+        "summary": "The currency exists in a government-free jurisdiction. Which means it can't be regulated. As such, it is tax-exempt. It is also backed by tangible commercial paper, in the form of notes.",
+        "contact": "developers@uct-token.org",
+        "website": "https://www.uct-token.org"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "UCT Token",
+    "symbol": "UCT",
+    "decimals": 18,
+    "address": "0xfd5962484BE2c3574D70131BF5D452CcC7C69F67",
+    "logoURI": "https://www.uct-token.org/wp-content/uploads/2021/06/UCT-token-transp-500-500.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xCC7dCc3F649Cb3932857d4edC6268e0eF4960995",
+      "project": {
+        "name": "UCT Token",
+        "summary": "The currency exists in a government-free jurisdiction. Which means it can't be regulated. As such, it is tax-exempt. It is also backed by tangible commercial paper, in the form of notes.",
+        "contact": "developers@uct-token.org",
+        "website": "https://www.uct-token.org"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "IQ",
+    "symbol": "IQ",
+    "decimals": 18,
+    "address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+    "logoURI": "https://www.dropbox.com/sh/g97lq77b9mv9lfz/AABRnKWx9aiv6x8KShkIgDgla/Brain%20Logo%20Design-03.png?dl=0",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+      "project": {
+        "name": "Everipedia",
+        "summary": "Everipedia's vision is to bring blockchain knowledge to the world and knowledge onto the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in the blockchain space.",
+        "contact": "https://t.me/everipedia",
+        "website": "https://everipedia.org/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Polytrade (PoS)",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
+      "project": {
+        "name": "Polytrade",
+        "summary": "Polytrade brings safe and insurance backed real world assets to crypto world. We will provide real world borrowers access to low interest and swift financing to free up critical working capital, tapped from crypto lenders.",
+        "contact": "support@polytrade.finance",
+        "website": "Polytrade.finance"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Fleato coin",
+    "symbol": "FLEATO",
+    "decimals": 18,
+    "address": "0x6804b07d883d0169c05233332ccf17aa956424c5",
+    "logoURI": "https://www.fleato.com/images/flea120.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xAF4dE4076095A20A37E4E885B255C58f9917366e",
+      "project": {
+        "name": "Fleato Marketplace",
+        "summary": "Fleato is the defi marketplace of physical goods and services. Buy, sell any physical good or service, and get paid in crypto. Turn your clutter into crypto. Earn up to 9% fleato rewards while doing so. Read our whitepaper at https://docs.google.com/document/d/1fVNSPS3k6sr0JjqwV6XBn4I5tHaPO82Asm_XW-fQbL4/edit?usp=sharing",
+        "contact": "mano.samy@fleato.com",
+        "website": "www.fleato.com"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Efinity Token",
+    "symbol": "EFI",
+    "decimals": 18,
+    "address": "0x891254dbb6112cf938d16c1880540b8469df6c0e",
+    "logoURI": "https://cdn.efinity.io/static/logo.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+      "project": {
+        "name": "Efinity",
+        "summary": "Efinity is a cross-chain superhighway bringing NFTs to Polkadot. (Learn More: https://efinity.io/whitepaper/company)",
+        "contact": "support@efinity.io",
+        "website": "https://efinity.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Pillar",
+    "symbol": "PLR",
+    "decimals": 18,
+    "address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
+    "logoURI": "https://etherscan.io/token/images/pillar_32.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+      "project": {
+        "name": "Pillar",
+        "summary": "Pillar is a community-run smart wallet supporting Ethereum and EVM-compatible chains - Polygon, xDai & Binance Smart Chain and Avalanche - in a unified multichain experience. Powered by Etherspot and governed by the DAO through its own native token - PLR. Pillar aims to become a one stop DeFi experience.",
+        "contact": "https://twitter.com/pillarwallet",
+        "website": "https://www.pillar.fi/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Equalizer",
+    "symbol": "EQZ",
+    "decimals": 18,
+    "address": "0xEAf631ac57F3CDDDd261770dD47F85066131a156",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0/logo.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+      "project": {
+        "name": "Equalizer",
+        "summary": "Equalizer represents the next generation marketplace for flash loans, a dedicated platform that brings together liquidity providers and borrowers. On one side we incentivize LPs for staking their funds in secure vaults, by receiving more tokens coming from the fees of the flash loans provided. Additionally, the LPs are automatically part of our yield farming program, designed to stimulate long-term liquidity providers. On the other side, borrowers are provided with a plethora of liquid pools (vaults) that bring more advantages than any other competitor in the market: lower fees, a wider range of tokens, a minimum level of available liquidity, reliability in all market conditions, available on multiple chains.",
+        "contact": "info@equalizer.finance",
+        "website": "https://equalizer.finance/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "GoBlank Token",
+    "symbol": "BLANK",
+    "decimals": 18,
+    "address": "0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x41A3Dba3D677E573636BA691a70ff2D606c29666/logo.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+      "project": {
+        "name": "BlockWallet",
+        "summary": "BlockWallet is a privacy-focused non-custodial crypto wallet. Besides full privacy functionality, BlockWallet comes packed with an array of features that go beyond privacy for a seamless user experience. Reclaim your financial privacy. Get BlockWallet.",
+        "contact": "https://twitter.com/GetBlockWallet",
+        "website": "BlockWallet.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Cryptopia Token",
+    "symbol": "CRT",
+    "decimals": 18,
+    "address": "0x7348565F0A5077252D310392C3CeCD8dB87a7704",
+    "logoURI": "https://cryptopia.com/images/icons/icon_CRT.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xABdD22dFE5Db2be20262050523470B650E91F246",
+      "project": {
+        "name": "Cryptopia",
+        "summary": "Cryptopia is a ground-breaking blockchain-driven metaverse. Join a rising nation-state where you can build either a business empire or a successful profession. Stake and collect NFTs. Buy, sell, and earn using an integrated wallet. P2E is as easy as browsing the web!",
+        "contact": "info@cryptopia.com",
+        "website": "https://www.cryptopia.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "BTU Protocol",
+    "symbol": "BTU",
+    "decimals": 18,
+    "address": "0xfdc26cda2d2440d0e83cd1dee8e8be48405806dc",
+    "logoURI": "https://btu-protocol.com/images/log-BTU-256w.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
+      "project": {
+        "name": "BTU Protocol",
+        "summary": "BTU Protocol provides asset, software & APIs to create frictionless bankless incentives, send rewards and manage redemptions.",
+        "contact": "support@btu-protocol.com",
+        "website": "https://btu-protocol.com/"
+      }
+    }
   }
 ]
