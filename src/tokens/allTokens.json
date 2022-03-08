@@ -935,5 +935,509 @@
         "website": "https://btu-protocol.com/"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Trips",
+    "symbol": "TRIPS",
+    "decimals": 18,
+    "address": "0x77F0F7d657f362C4b703417B800B83B989a288a2",
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmVxZCAvxab8bUhaScwqw6NWABmqz4jmjJ3qnYUbdKweEf/trips_T_logo256x256.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x1350fbe8ce27762ec19134bf8fc405a427fe9bf1",
+      "project": {
+        "name": "Trips Community",
+        "summary": "Open Protocol for Web3 in Travel",
+        "contact": "info@tripscommunity.com",
+        "website": "https://www.tripscommunity.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "0xMonero",
+    "symbol": "0xMR",
+    "decimals": 18,
+    "address": "0x52ede6bba83b7b4ba1d738df0df713d6a2036b71",
+    "logoURI": "https://avatars.githubusercontent.com/u/65775032?v=4",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+      "project": {
+        "name": "0xMonero",
+        "summary": "0xMonero is a minable privacy focused project on Ethereum, Polygon, Fantom, BNB and other popular chains. $0xMR can be used in a variety of privacy DApps and in our partner casinos: LNOcasino & Betcrypt365. The project is managed by MotherbrainDAO and development is by SemillaLabs.",
+        "contact": "0xMonero@gmail.com",
+        "website": "https://0xmonero.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Ispolink",
+    "symbol": "ISP",
+    "decimals": 18,
+    "address": "0x1e289178612f5b6d32f692e312dcf783c74b2162",
+    "logoURI": "https://raw.githubusercontent.com/mikyjo/crypto_assets/main/tokens/ispolink/ispolink_icon_white_400x400.jpg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+      "project": {
+        "name": "Ispolink",
+        "summary": "Ispolink is a Metaverse based cross-chain platform for developers, leveraging BSC and AI. We empower Blockchain, Metaverse, DeFi and Gaming companies to source leading Web3 talents seamlessly",
+        "contact": "https://discord.com/invite/eahn6gxCV3",
+        "website": "https://www.ispolink.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Gistcoin",
+    "symbol": "GIST",
+    "decimals": 18,
+    "address": "0xF6db73D0495Fe4648d494046cCbdc5625F2740F0",
+    "logoURI": "https://etherscan.io/token/images/gistcoin_32.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x6cd775540cce9adb01872db9f794142f53595c71",
+      "project": {
+        "name": "Gistcoin Payment",
+        "summary": "Gistcoin is a utility token for all influencers, streamers, musicians, artists, brands, and content creators from all backgrounds who create content across social media communities. We believe that a decentralized token system allows for all creators - including creators from underrepresented groups - to have direct access to their fans and monetization methods.",
+        "contact": "hello@gistcoin.com",
+        "website": "gistcoin.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Orbs Token",
+    "symbol": "ORBS",
+    "decimals": 18,
+    "address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+    "logoURI": "https://raw.githubusercontent.com/orbs-network/graphical-assets/main/orbs/ethereum/token/logo256.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+      "project": {
+        "name": "Orbs Network",
+        "summary": "Orbs' advanced architecture puts it in a unique position to work in conjunction with EVM-based L1s and L2s by serving as a separate execution layer that runs decentralized applications that enrich the capabilities of EVM-based smart contracts.",
+        "contact": "https://discord.gg/sswGDYGBt5",
+        "website": "https://www.orbs.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "InsurAce",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "address": "0x8a0e8b4b0903929f47C3ea30973940D4a9702067",
+    "logoURI": "https://app.insurace.io/asset/token/insur.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+      "project": {
+        "name": "InsurAce",
+        "summary": "InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",
+        "contact": "contact@insurace.io",
+        "website": "https://www.insurace.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "MASQ",
+    "symbol": "MASQ",
+    "decimals": 18,
+    "address": "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35",
+    "logoURI": "https://github.com/MASQ-Project/MASQ-contract/raw/master/MASQ%20Logo%20Blue%20Solo%20Transparent.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
+      "project": {
+        "name": "MASQ Network",
+        "summary": "The MASQ software offers users a true privacy web3.0 browsing experience, based on a peer to peer mesh network. Users can earn cryptocurrency by supporting the network, and provides Internet freedom for users worldwide.",
+        "contact": "https://discord.gg/masqo",
+        "website": "https://masq.ai/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Voltage",
+    "symbol": "VOLT",
+    "decimals": 18,
+    "address": "0xe8a05e85883f9663b18a38d7aa89853deaba56e3",
+    "logoURI": "https://assets.coingecko.com/coins/images/18515/small/volt.png?1632219924",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xffbf315f70e458e49229654dea4ce192d26f9b25",
+      "project": {
+        "name": "SupDucks",
+        "summary": "VOLT is a utility token that is used to fuel mechanics in the SupDucks universe. The mechanics include things like breeding, forging, metadata upgrades, gaming, content unlocks and future drops. Additionally, it serves as community rewards for participating in and contributing to the SupDucks community. Volt is also used to redeem SupDucks branded merch and will be integral in the forthcoming SupDucks metaverse.",
+        "contact": "sup@megavoltcorp.com",
+        "website": "supducks.com"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Pinjour",
+    "symbol": "PIN",
+    "decimals": 18,
+    "address": "0x1d5278cbd93ff50260fddc93282e2e67ca3317c9",
+    "logoURI": "https://d26jz7p3kula4l.cloudfront.net/static/img/pinjour-192x192.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x76c9a9583bda3ac6440fc153c7ffd89f99823a2c",
+      "project": {
+        "name": "Pinjour",
+        "summary": "Photo maps for explorers",
+        "contact": "jesse@pinjour.com",
+        "website": "https://pinjour.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Candle",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "address": "0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+    "logoURI": "https://i.ibb.co/86yLQRZ/candlelogo.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+      "project": {
+        "name": "Candle",
+        "summary": "Decentralizing Religion",
+        "contact": "contact@candlelabs.org",
+        "website": "https://candlelabs.org/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Tower Token",
+    "symbol": "TOWER",
+    "decimals": 18,
+    "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+    "logoURI": "https://crazydefenseheroes.com/static/media/logo-tower.2bca4bdd.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+      "project": {
+        "name": "Tower Token",
+        "summary": "The TOWER Token is a utility token for the TOWER Platform that comprises the token, the Free-to-Play games in the Crazy Kings franchise and the blockchain game.",
+        "contact": "towertoken@crazydefenseheroes.com",
+        "website": "https://crazydefenseheroes.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Meeds",
+    "symbol": "MEED",
+    "decimals": 18,
+    "address": "0x6aca77cf3bab0c4e8210a09b57b07854a995289a",
+    "logoURI": "https://github.com/Meeds-io/.github/raw/main/profile/meeds-256x256.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7",
+      "project": {
+        "name": "Meeds",
+        "summary": "Meeds DAO aims at reinventing the employment relationship, bridging the gap between traditional corporations and DAOs through a new decentralized work paradigm. The Meed is the currency that is earned by workers by proof of engagement.",
+        "contact": "info@meeds.io",
+        "website": "https://meeds.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "inSure DeFi",
+    "symbol": "SURE",
+    "decimals": 18,
+    "address": "0xF88332547c680F755481Bf489D890426248BB275",
+    "logoURI": "https://insuretoken.net/images/logo-grey-circle.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+      "project": {
+        "name": "inSure DeFi",
+        "summary": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations. inSure DeFi provides insurance solutions for the crypto space to stabilize and secure Crypto & DeFi portfolios.",
+        "contact": "info@insuretoken.net",
+        "website": "https://insuretoken.net/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Beverage Token",
+    "symbol": "DRINK",
+    "decimals": 18,
+    "address": "0x366a39a2f73de32df17cc9bdd027aa054f6ba9cb",
+    "logoURI": "https://raw.githubusercontent.com/Beverage-Finance/beverage-docs/main/assets/beverage-token-logos/beverage-200X200.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x9257fb8fab616867cEe67C3289547403617B1938",
+      "project": {
+        "name": "Beverage Finance",
+        "summary": "Beverage Finance is a decentralized asset manager for structured products. Similar to Sushi and Yearn, Beverage is a fair launch, no premine project that is governed by the vote of the community. 80% of fees are sold to $DRINK and distributed to $xDRINK stakers. Beverage is developer first, anyone can create a strategy and launch it on Beverage with minimal governance and receive 20% of fees.",
+        "contact": "support@beverage.finance",
+        "website": "https://beverage.finance/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Wrapped CHI",
+    "symbol": "WCHI",
+    "decimals": 8,
+    "address": "0xE79feAAA457ad7899357E8E2065a3267aC9eE601",
+    "logoURI": "https://arweave.net/cLtOpcOcgshTnA3aWe8a1lKRG0baZHfWGsi1mq5Cgt4",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x6DC02164d75651758aC74435806093E421b64605",
+      "project": {
+        "name": "Xaya",
+        "summary": "A platform for scalable and fully decentralised games and applications.",
+        "contact": "https://t.me/xaya_en",
+        "website": "https://xaya.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Indorse",
+    "symbol": "IND",
+    "decimals": 18,
+    "address": "0x9611452965b63cFeA2C9774e5386AB6D4F0abf16",
+    "logoURI": "https://drive.google.com/file/d/1Wbw4t_hibR5zMBdrLysvhfJvSIe34q9N/view?usp=sharing",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
+      "project": {
+        "name": "Indorse",
+        "summary": "Indorse is a Blockchain-based coding assessment solution being used by Enterprise companies, banks and universities in Singapore and South East Asia.",
+        "contact": "info@indorse.io",
+        "website": "https://ecosystem.indorse.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Germoney",
+    "symbol": "GER",
+    "decimals": 2,
+    "address": "0x03a68f78107d102d26353e5476733b067950bab6",
+    "logoURI": "https://www.germoney.cash/static/media/logo.7c3abfc4.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x844Af22fBEC4D1bb9C062F33D29e4Ad8d0EFc01D",
+      "project": {
+        "name": "Germoney",
+        "summary": "Germoney represents the old currency of Germany. The D-Mark. Therefore the total supply equals the remaining D-Mark existing in circulation.",
+        "contact": "therealgermoney@protonmail.com",
+        "website": "https://germoney.cash/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Megaverse",
+    "symbol": "MEGA",
+    "decimals": 18,
+    "address": "0xD87958D9Cc146aBe382Ee20D1EF278321E61ADe9",
+    "logoURI": "https://i.imgur.com/1pDWnjT.jpeg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xCF9b27399447f92462Dad69491edbA304a063591",
+      "project": {
+        "name": "Megaverse",
+        "summary": "Where social media users and the world's most vibrant global communities enter the metaverse",
+        "contact": "mo@megaverse.game",
+        "website": "https://megaverse.game/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "RocketX",
+    "symbol": "RVF",
+    "decimals": 18,
+    "address": "0x2ce13e4199443fdfff531abb30c9b6594446bbc7",
+    "logoURI": "https://drive.google.com/file/d/106QzWJ-42p2FVsgZQ4pVCw_cTTAudU39/view?usp=sharing",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+      "project": {
+        "name": "RocketX exchange",
+        "summary": "We are building 'The Skyscanner for Crypto'. RocketX exchange aggregates both the Centralised and Decentralised Crypto Exchanges and makes it easy for the user to find the best rates to swap tokens across different exchanges with lowest gas fee (Save up to 80%).",
+        "contact": "contact@rocketvaults.io",
+        "website": "https://rocketx.exchange/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Forest Knight",
+    "symbol": "KNIGHT",
+    "decimals": 18,
+    "address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11324.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+      "project": {
+        "name": "Forest Knight",
+        "summary": "Forest Knight is a Free2Play Turn-Based Strategy for mobile powered by NFTs and the utility token $KNIGHT",
+        "contact": "support@chronogames.net",
+        "website": "http://www.forestknight.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Lepasa",
+    "symbol": "LEPA",
+    "decimals": 18,
+    "address": "0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F",
+    "logoURI": "https://www.lepasa.com/assets/img/logo_256.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xbBa6C7c7d673c48d90069ad2e9d2fE587fcB6bc3",
+      "project": {
+        "name": "Lepasa",
+        "summary": "Lepasa project offers finest ever mythological characters in the form of 3D game ready NFTs. Lepasa NTFs can be purchased from LEPA token which is an ERC20 token on Ethereum chain and bridged to Polygon and BSC.",
+        "contact": "info@lepasa.com",
+        "website": "https://www.lepasa.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Civilization",
+    "symbol": "CIV",
+    "decimals": 18,
+    "address": "0x42F6bdCfd82547e89F1069Bf375aa60e6c6c063d",
+    "logoURI": "https://app.civfund.org/CIV_logo_txt_192x192.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+      "project": {
+        "name": "Civilization",
+        "summary": "The first DeFi trading system achieving functional parity with Centralized Exchanges, at lower gas costs than any other platform.",
+        "contact": "civ@civfund.org",
+        "website": "https://civfund.org/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Move",
+    "symbol": "MOVE",
+    "decimals": 18,
+    "address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+    "logoURI": "https://assets.coingecko.com/coins/images/13719/small/o0KIvs7T_400x400.jpg?1617672818",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+      "project": {
+        "name": "MoverDAO",
+        "summary": "Mover is building the first metaverse savings card. It is an NFT card that is metaverse-ready, comes with automated DeFi Savings, and a crypto debit card. All in one place.",
+        "contact": "hello@viamover.com",
+        "website": "https://viamover.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Stacker Ventures Token",
+    "symbol": "STACK",
+    "decimals": 18,
+    "address": "0xccBe9B810d6574701d324fD6DbE0A1b68f9d5bf7",
+    "logoURI": "https://assets.coingecko.com/coins/images/14218/small/stack.jpg?1615000614",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "parentAddress": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+      "project": {
+        "name": "Stacker Ventures",
+        "summary": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
+        "contact": "communications@stacker.vc",
+        "website": "https://stacker.vc/"
+      }
+    }
   }
 ]
