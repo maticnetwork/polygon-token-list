@@ -29,7 +29,7 @@ fs.writeFile('build/tokenlists/testnet.tokenlist.json', JSON.stringify(tokenlist
 })
 
 // Cross-Chain Tokenlist
-fs.writeFile('build/tokenlists/cross-chain.tokenlist.json', JSON.stringify(tokenlists.ccTokensList, null, 2), (err) => {
+fs.writeFile('build/tokenlists/cross-chain.tokenlist.json', JSON.stringify(tokenlists.ccTokenList, null, 2), (err) => {
   if (err) {
     throw err
   }

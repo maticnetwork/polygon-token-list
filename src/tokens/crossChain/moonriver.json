@@ -1,0 +1,24 @@
+[
+  {
+    "chainId": 1285,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+    "tags": [
+      "erc20"
+    ]
+  },
+  {
+    "chainId": 1285,
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+    "tags": [
+      "erc20"
+    ]
+  }
+]
