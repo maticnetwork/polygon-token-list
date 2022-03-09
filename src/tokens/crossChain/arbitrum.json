@@ -1,54 +1,65 @@
 [
   {
-    "chainId": 250,
+    "chainId": 42162,
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
-    "address": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
+    "address": "0x0000000000000000000000000000000000000000",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
     "tags": [
       "erc20"
     ]
   },
   {
-    "chainId": 250,
+    "chainId": 42162,
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+    "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
     "tags": [
       "erc20"
     ]
   },
   {
-    "chainId": 250,
+    "chainId": 42162,
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+    "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
     "tags": [
       "erc20"
     ]
   },
   {
-    "chainId": 250,
+    "chainId": 42162,
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
-    "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
     "tags": [
       "erc20"
     ]
   },
   {
-    "chainId": 250,
+    "chainId": 42162,
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18,
+    "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/grt.svg",
+    "tags": [
+      "erc20"
+    ]
+  },
+  {
+    "chainId": 42162,
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "address": "0x321162cd933e2be498cd2267a90534a804051b11",
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
     "tags": [
       "erc20"

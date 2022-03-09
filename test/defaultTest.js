@@ -16,7 +16,7 @@ describe('buildList', () => {
     expect(validator(tokenlists.allTokensTokenList)).to.equal(true)
     expect(validator(tokenlists.defaultTokenList)).to.equal(true)
     expect(validator(tokenlists.testnetTokenList)).to.equal(true)
-    expect(validator(tokenlists.ccTokensList)).to.equal(true)
+    expect(validator(tokenlists.ccTokenList)).to.equal(true)
   })
 
   it('contains no duplicate child addresses', () => {

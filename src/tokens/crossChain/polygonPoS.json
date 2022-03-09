@@ -53,5 +53,16 @@
     "tags": [
       "erc20"
     ]
+  },
+  {
+    "chainId": 137,
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
+    "tags": [
+      "erc20"
+    ]
   }
 ]

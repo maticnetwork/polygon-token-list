@@ -1,0 +1,35 @@
+[
+  {
+    "chainId": 122,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "address": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+    "tags": [
+      "erc20"
+    ]
+  },
+  {
+    "chainId": 122,
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "address": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+    "tags": [
+      "erc20"
+    ]
+  },
+  {
+    "chainId": 122,
+    "name": "Dai",
+    "symbol": "DAI",
+    "decimals": 18,
+    "address": "0x94ba7a27c7a95863d1bdc7645ac2951e0cca06ba",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+    "tags": [
+      "erc20"
+    ]
+  }
+]
