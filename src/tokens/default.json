@@ -13,7 +13,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "rootAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "project": {
         "name": "-",
         "summary": "-",
@@ -35,7 +35,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "rootAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
       "project": {
         "name": "Polygon",
         "summary": "-",
@@ -59,7 +59,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "rootAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "project": {
         "name": "Centre",
         "summary": "-",
@@ -83,7 +83,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "rootAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "project": {
         "name": "Tether",
         "summary": "-",
@@ -107,7 +107,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "project": {
         "name": "-",
         "summary": "-",
@@ -130,7 +130,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "rootAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "project": {
         "name": "Aave",
         "summary": "-",
@@ -153,7 +153,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "rootAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
       "project": {
         "name": "ChainLink",
         "summary": "-",
@@ -176,7 +176,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "rootAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "project": {
         "name": "-",
         "summary": "-",
@@ -199,7 +199,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "rootAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
       "project": {
         "name": "Uniswap",
         "summary": "-",
@@ -221,7 +221,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "rootAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "project": {
         "name": "Sushi",
         "summary": "-",
@@ -242,7 +242,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+      "rootAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
       "project": {
         "name": "Quickswap",
         "summary": "-",
@@ -265,7 +265,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+      "rootAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
       "project": {
         "name": "Aavegotchi",
         "summary": "-",
@@ -288,7 +288,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+      "rootAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
       "project": {
         "name": "Telcoin",
         "summary": "-",
@@ -310,7 +310,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "rootAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
       "project": {
         "name": "-",
         "summary": "-",
@@ -332,7 +332,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "rootAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
       "project": {
         "name": "Paxos",
         "summary": "-",

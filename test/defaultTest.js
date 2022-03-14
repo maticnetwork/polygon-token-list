@@ -43,29 +43,29 @@ describe('buildList', () => {
     }
   })
 
-  it('contains no duplicate parent addresses', () => {
+  it('contains no duplicate root addresses', () => {
     let map = { pos: {}, plasma: {} }
     for (const token of tokenlists.allTokensTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
-      const key = `${token.extensions.parentAddress}`
+      const key = `${token.extensions.rootAddress}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - allTokens list`)
+        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - allTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
     for (const token of tokenlists.defaultTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
-      const key = `${token.extensions.parentAddress}`
+      const key = `${token.extensions.rootAddress}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - default list`)
+        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - default list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
     for (const token of tokenlists.testnetTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
-      const key = `${token.extensions.parentAddress}`
+      const key = `${token.extensions.rootAddress}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate parent address: ${token.extensions.parentAddress} - testnet list`)
+        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - testnet list`)
       map[tag][key] = true
     }
   })

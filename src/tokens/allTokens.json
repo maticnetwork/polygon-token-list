@@ -13,7 +13,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "rootAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "project": {
         "name": "-",
         "summary": "-",
@@ -35,7 +35,7 @@
       "noDeposit"
     ],
     "extensions": {
-      "parentAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
+      "rootAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
       "project": {
         "name": "-",
         "summary": "-",
@@ -57,7 +57,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "rootAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
       "project": {
         "name": "Polygon",
         "summary": "-",
@@ -81,7 +81,7 @@
       "stablecoin"
     ],
     "extensions": {
-      "parentAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "rootAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "project": {
         "name": "Centre",
         "summary": "-",
@@ -105,7 +105,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "rootAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "project": {
         "name": "Tether",
         "summary": "-",
@@ -129,7 +129,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "project": {
         "name": "-",
         "summary": "-",
@@ -152,7 +152,7 @@
       "noDeposit"
     ],
     "extensions": {
-      "parentAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
       "project": {
         "name": "-",
         "summary": "-",
@@ -175,7 +175,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "rootAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
       "project": {
         "name": "Aave",
         "summary": "-",
@@ -198,7 +198,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "rootAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
       "project": {
         "name": "ChainLink",
         "summary": "-",
@@ -221,7 +221,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "rootAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
       "project": {
         "name": "-",
         "summary": "-",
@@ -244,7 +244,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+      "rootAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
       "project": {
         "name": "Uniswap",
         "summary": "-",
@@ -266,7 +266,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "rootAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "project": {
         "name": "Sushi",
         "summary": "-",
@@ -287,7 +287,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+      "rootAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
       "project": {
         "name": "Quickswap",
         "summary": "-",
@@ -310,7 +310,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+      "rootAddress": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
       "project": {
         "name": "Aavegotchi",
         "summary": "-",
@@ -333,7 +333,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+      "rootAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
       "project": {
         "name": "Telcoin",
         "summary": "-",
@@ -355,7 +355,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "rootAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
       "project": {
         "name": "-",
         "summary": "-",
@@ -378,7 +378,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+      "rootAddress": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
       "project": {
         "name": "Ethermon",
         "summary": "-",
@@ -401,7 +401,7 @@
       "metaTx"
     ],
     "extensions": {
-      "parentAddress": "0xffffffff2ba8f66d4e51811c5190992176930278",
+      "rootAddress": "0xffffffff2ba8f66d4e51811c5190992176930278",
       "project": {
         "name": "Furucombo",
         "summary": "-",
@@ -423,7 +423,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+      "rootAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
       "project": {
         "name": "Paxos",
         "summary": "-",
@@ -444,7 +444,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa",
+      "rootAddress": "0xf6a09deadf5a10aa7822d95e3228b2315de8f6fa",
       "project": {
         "name": "Mintopoly",
         "summary": "Mintopoly is a blockchain simulation game powered by NFT Mintopoly Cards and Mintopoly Money (MM) token - our in-game currency airdropped freely to hundreds of top players each week with uses throughout the Mintopoly ecosystem.",
@@ -465,7 +465,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x0a6E18fB2842855C3AF925310B0F50a4BfA17909",
+      "rootAddress": "0x0a6E18fB2842855C3AF925310B0F50a4BfA17909",
       "project": {
         "name": "CoinPoker",
         "summary": "CoinPoker is a cryptocurrency-powered online poker room built on the principles of transparency, security, and fair play.",
@@ -486,7 +486,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2",
+      "rootAddress": "0xf74941046389c78f12fe44784c0ec9ca7ceb7dc2",
       "project": {
         "name": "Dreamr",
         "summary": "Web3 Social+NFT+DeFi Platform, a suite of tools to make the pursuit of big dreams more practical.",
@@ -507,7 +507,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
+      "rootAddress": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
       "project": {
         "name": "Yup",
         "summary": "Social network for curators, reputation mechanism.",
@@ -528,7 +528,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
+      "rootAddress": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
       "project": {
         "name": "MurAll",
         "summary": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
@@ -549,7 +549,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80",
+      "rootAddress": "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80",
       "project": {
         "name": "Swash",
         "summary": "Swash is an ecosystem of tools and services that enable people, businesses, and developers to unlock the latent value of data by pooling, securely sharing, and monetizing its value.",
@@ -570,7 +570,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x14d86EaeB7F669a6b84D51E1ac14b3F2723fA08D",
+      "rootAddress": "0x14d86EaeB7F669a6b84D51E1ac14b3F2723fA08D",
       "project": {
         "name": "Give an Angel",
         "summary": "Give an Angel is a social media platform on which people share their good deeds and they get rewarded for them. Their purpose is to educate people to do good and help each other. These acts of kindness will be rewarded with ANGELs, our tokens",
@@ -591,7 +591,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x7331355e2DaD3b55f9ce0fd460D082558952099e",
+      "rootAddress": "0x7331355e2DaD3b55f9ce0fd460D082558952099e",
       "project": {
         "name": "ExSports",
         "summary": "EX Sport Starz is a platform that allows sport fans to buy, trade and sell digital sport collectibles. The app offers a variety of sports and has a special reward program for the collectors, athletes and sport fans.",
@@ -612,7 +612,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+      "rootAddress": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
       "project": {
         "name": "Royale Finance",
         "summary": "Royale Finance is an industry-focused decentralized lending protocol and blockchain game launchpad. Its purpose is to create Web 3.0 decentralized liquidity funding solutions using DeFi primitives to support the innovation of gaming products and platforms.",
@@ -633,7 +633,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xa49811140e1d6f653dec28037be0924c811c4538",
+      "rootAddress": "0xa49811140e1d6f653dec28037be0924c811c4538",
       "project": {
         "name": "PRüF Protocol",
         "summary": "The PRüF Protocol brings legitimacy and permanence to tokenized assets, endowing standards compliant tokens with super-powers. PRüF enabled NFTs and assets deliver lasting value through permanent storage, future-proof protocols, and DAO governance.",
@@ -654,7 +654,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xe8e8486228753E01Dbc222dA262Aa706Bd67e601",
+      "rootAddress": "0xe8e8486228753E01Dbc222dA262Aa706Bd67e601",
       "project": {
         "name": "Arch",
         "summary": "The Arch Ethereum Web3 Token is comprised of governance tokens from the major decentralized protocols. Its objective is to track the returns of the Ethereum Web3 Index (a broad market index, considered a gauge for the overall web3 ecosystem). This well-diversified asset provides market-weighted exposure to a wide selection of sectors, and its constituents represent roughly 70% of the market capitalization in the Ethereum Web3 Index.",
@@ -675,7 +675,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x90de74265a416e1393a450752175aed98fe11517",
+      "rootAddress": "0x90de74265a416e1393a450752175aed98fe11517",
       "project": {
         "name": "Unlock Protocol",
         "summary": "The Unlock Protocol is a protocol for memberships where members cards are NFT with an expiration date",
@@ -696,7 +696,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xE46F290Cd59195a83e757891430d8D517d16b334",
+      "rootAddress": "0xE46F290Cd59195a83e757891430d8D517d16b334",
       "project": {
         "name": "AltaFin",
         "summary": "Providing a stable, long term yield by bringing real world assets to crypto and web3.",
@@ -717,7 +717,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x2707ab358B5383D087FE4736Da36c1C70179e3BD",
+      "rootAddress": "0x2707ab358B5383D087FE4736Da36c1C70179e3BD",
       "project": {
         "name": "UCT Token",
         "summary": "The currency exists in a government-free jurisdiction. Which means it can't be regulated. As such, it is tax-exempt. It is also backed by tangible commercial paper, in the form of notes.",
@@ -738,7 +738,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xCC7dCc3F649Cb3932857d4edC6268e0eF4960995",
+      "rootAddress": "0xCC7dCc3F649Cb3932857d4edC6268e0eF4960995",
       "project": {
         "name": "UCT Token",
         "summary": "The currency exists in a government-free jurisdiction. Which means it can't be regulated. As such, it is tax-exempt. It is also backed by tangible commercial paper, in the form of notes.",
@@ -759,7 +759,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+      "rootAddress": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
       "project": {
         "name": "Everipedia",
         "summary": "Everipedia's vision is to bring blockchain knowledge to the world and knowledge onto the blockchain, helping verify facts in an era of misinformation and unlocking a new class of use cases in the blockchain space.",
@@ -780,7 +780,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
+      "rootAddress": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
       "project": {
         "name": "Polytrade",
         "summary": "Polytrade brings safe and insurance backed real world assets to crypto world. We will provide real world borrowers access to low interest and swift financing to free up critical working capital, tapped from crypto lenders.",
@@ -801,7 +801,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xAF4dE4076095A20A37E4E885B255C58f9917366e",
+      "rootAddress": "0xAF4dE4076095A20A37E4E885B255C58f9917366e",
       "project": {
         "name": "Fleato Marketplace",
         "summary": "Fleato is the defi marketplace of physical goods and services. Buy, sell any physical good or service, and get paid in crypto. Turn your clutter into crypto. Earn up to 9% fleato rewards while doing so. Read our whitepaper at https://docs.google.com/document/d/1fVNSPS3k6sr0JjqwV6XBn4I5tHaPO82Asm_XW-fQbL4/edit?usp=sharing",
@@ -822,7 +822,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
+      "rootAddress": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
       "project": {
         "name": "Efinity",
         "summary": "Efinity is a cross-chain superhighway bringing NFTs to Polkadot. (Learn More: https://efinity.io/whitepaper/company)",
@@ -843,7 +843,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
+      "rootAddress": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
       "project": {
         "name": "Pillar",
         "summary": "Pillar is a community-run smart wallet supporting Ethereum and EVM-compatible chains - Polygon, xDai & Binance Smart Chain and Avalanche - in a unified multichain experience. Powered by Etherspot and governed by the DAO through its own native token - PLR. Pillar aims to become a one stop DeFi experience.",
@@ -864,7 +864,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+      "rootAddress": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
       "project": {
         "name": "Equalizer",
         "summary": "Equalizer represents the next generation marketplace for flash loans, a dedicated platform that brings together liquidity providers and borrowers. On one side we incentivize LPs for staking their funds in secure vaults, by receiving more tokens coming from the fees of the flash loans provided. Additionally, the LPs are automatically part of our yield farming program, designed to stimulate long-term liquidity providers. On the other side, borrowers are provided with a plethora of liquid pools (vaults) that bring more advantages than any other competitor in the market: lower fees, a wider range of tokens, a minimum level of available liquidity, reliability in all market conditions, available on multiple chains.",
@@ -885,7 +885,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+      "rootAddress": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
       "project": {
         "name": "BlockWallet",
         "summary": "BlockWallet is a privacy-focused non-custodial crypto wallet. Besides full privacy functionality, BlockWallet comes packed with an array of features that go beyond privacy for a seamless user experience. Reclaim your financial privacy. Get BlockWallet.",
@@ -906,7 +906,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xABdD22dFE5Db2be20262050523470B650E91F246",
+      "rootAddress": "0xABdD22dFE5Db2be20262050523470B650E91F246",
       "project": {
         "name": "Cryptopia",
         "summary": "Cryptopia is a ground-breaking blockchain-driven metaverse. Join a rising nation-state where you can build either a business empire or a successful profession. Stake and collect NFTs. Buy, sell, and earn using an integrated wallet. P2E is as easy as browsing the web!",
@@ -927,7 +927,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
+      "rootAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
       "project": {
         "name": "BTU Protocol",
         "summary": "BTU Protocol provides asset, software & APIs to create frictionless bankless incentives, send rewards and manage redemptions.",
@@ -948,7 +948,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x1350fbe8ce27762ec19134bf8fc405a427fe9bf1",
+      "rootAddress": "0x1350fbe8ce27762ec19134bf8fc405a427fe9bf1",
       "project": {
         "name": "Trips Community",
         "summary": "Open Protocol for Web3 in Travel",
@@ -969,7 +969,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+      "rootAddress": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
       "project": {
         "name": "0xMonero",
         "summary": "0xMonero is a minable privacy focused project on Ethereum, Polygon, Fantom, BNB and other popular chains. $0xMR can be used in a variety of privacy DApps and in our partner casinos: LNOcasino & Betcrypt365. The project is managed by MotherbrainDAO and development is by SemillaLabs.",
@@ -990,7 +990,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+      "rootAddress": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
       "project": {
         "name": "Ispolink",
         "summary": "Ispolink is a Metaverse based cross-chain platform for developers, leveraging BSC and AI. We empower Blockchain, Metaverse, DeFi and Gaming companies to source leading Web3 talents seamlessly",
@@ -1011,7 +1011,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x6cd775540cce9adb01872db9f794142f53595c71",
+      "rootAddress": "0x6cd775540cce9adb01872db9f794142f53595c71",
       "project": {
         "name": "Gistcoin Payment",
         "summary": "Gistcoin is a utility token for all influencers, streamers, musicians, artists, brands, and content creators from all backgrounds who create content across social media communities. We believe that a decentralized token system allows for all creators - including creators from underrepresented groups - to have direct access to their fans and monetization methods.",
@@ -1032,7 +1032,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+      "rootAddress": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
       "project": {
         "name": "Orbs Network",
         "summary": "Orbs' advanced architecture puts it in a unique position to work in conjunction with EVM-based L1s and L2s by serving as a separate execution layer that runs decentralized applications that enrich the capabilities of EVM-based smart contracts.",
@@ -1053,7 +1053,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+      "rootAddress": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
       "project": {
         "name": "InsurAce",
         "summary": "InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",
@@ -1074,7 +1074,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
+      "rootAddress": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
       "project": {
         "name": "MASQ Network",
         "summary": "The MASQ software offers users a true privacy web3.0 browsing experience, based on a peer to peer mesh network. Users can earn cryptocurrency by supporting the network, and provides Internet freedom for users worldwide.",
@@ -1095,7 +1095,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xffbf315f70e458e49229654dea4ce192d26f9b25",
+      "rootAddress": "0xffbf315f70e458e49229654dea4ce192d26f9b25",
       "project": {
         "name": "SupDucks",
         "summary": "VOLT is a utility token that is used to fuel mechanics in the SupDucks universe. The mechanics include things like breeding, forging, metadata upgrades, gaming, content unlocks and future drops. Additionally, it serves as community rewards for participating in and contributing to the SupDucks community. Volt is also used to redeem SupDucks branded merch and will be integral in the forthcoming SupDucks metaverse.",
@@ -1116,7 +1116,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x76c9a9583bda3ac6440fc153c7ffd89f99823a2c",
+      "rootAddress": "0x76c9a9583bda3ac6440fc153c7ffd89f99823a2c",
       "project": {
         "name": "Pinjour",
         "summary": "Photo maps for explorers",
@@ -1137,7 +1137,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+      "rootAddress": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
       "project": {
         "name": "Candle",
         "summary": "Decentralizing Religion",
@@ -1158,7 +1158,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+      "rootAddress": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
       "project": {
         "name": "Tower Token",
         "summary": "The TOWER Token is a utility token for the TOWER Platform that comprises the token, the Free-to-Play games in the Crazy Kings franchise and the blockchain game.",
@@ -1179,7 +1179,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7",
+      "rootAddress": "0x8503a7b00b4b52692cc6c14e5b96f142e30547b7",
       "project": {
         "name": "Meeds",
         "summary": "Meeds DAO aims at reinventing the employment relationship, bridging the gap between traditional corporations and DAOs through a new decentralized work paradigm. The Meed is the currency that is earned by workers by proof of engagement.",
@@ -1200,7 +1200,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+      "rootAddress": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
       "project": {
         "name": "inSure DeFi",
         "summary": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations. inSure DeFi provides insurance solutions for the crypto space to stabilize and secure Crypto & DeFi portfolios.",
@@ -1221,7 +1221,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x9257fb8fab616867cEe67C3289547403617B1938",
+      "rootAddress": "0x9257fb8fab616867cEe67C3289547403617B1938",
       "project": {
         "name": "Beverage Finance",
         "summary": "Beverage Finance is a decentralized asset manager for structured products. Similar to Sushi and Yearn, Beverage is a fair launch, no premine project that is governed by the vote of the community. 80% of fees are sold to $DRINK and distributed to $xDRINK stakers. Beverage is developer first, anyone can create a strategy and launch it on Beverage with minimal governance and receive 20% of fees.",
@@ -1242,7 +1242,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x6DC02164d75651758aC74435806093E421b64605",
+      "rootAddress": "0x6DC02164d75651758aC74435806093E421b64605",
       "project": {
         "name": "Xaya",
         "summary": "A platform for scalable and fully decentralised games and applications.",
@@ -1263,7 +1263,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
+      "rootAddress": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
       "project": {
         "name": "Indorse",
         "summary": "Indorse is a Blockchain-based coding assessment solution being used by Enterprise companies, banks and universities in Singapore and South East Asia.",
@@ -1284,7 +1284,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x844Af22fBEC4D1bb9C062F33D29e4Ad8d0EFc01D",
+      "rootAddress": "0x844Af22fBEC4D1bb9C062F33D29e4Ad8d0EFc01D",
       "project": {
         "name": "Germoney",
         "summary": "Germoney represents the old currency of Germany. The D-Mark. Therefore the total supply equals the remaining D-Mark existing in circulation.",
@@ -1305,7 +1305,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xCF9b27399447f92462Dad69491edbA304a063591",
+      "rootAddress": "0xCF9b27399447f92462Dad69491edbA304a063591",
       "project": {
         "name": "Megaverse",
         "summary": "Where social media users and the world's most vibrant global communities enter the metaverse",
@@ -1326,7 +1326,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
+      "rootAddress": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
       "project": {
         "name": "RocketX exchange",
         "summary": "We are building 'The Skyscanner for Crypto'. RocketX exchange aggregates both the Centralised and Decentralised Crypto Exchanges and makes it easy for the user to find the best rates to swap tokens across different exchanges with lowest gas fee (Save up to 80%).",
@@ -1347,7 +1347,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+      "rootAddress": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
       "project": {
         "name": "Forest Knight",
         "summary": "Forest Knight is a Free2Play Turn-Based Strategy for mobile powered by NFTs and the utility token $KNIGHT",
@@ -1368,7 +1368,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xbBa6C7c7d673c48d90069ad2e9d2fE587fcB6bc3",
+      "rootAddress": "0xbBa6C7c7d673c48d90069ad2e9d2fE587fcB6bc3",
       "project": {
         "name": "Lepasa",
         "summary": "Lepasa project offers finest ever mythological characters in the form of 3D game ready NFTs. Lepasa NTFs can be purchased from LEPA token which is an ERC20 token on Ethereum chain and bridged to Polygon and BSC.",
@@ -1389,7 +1389,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
+      "rootAddress": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
       "project": {
         "name": "Civilization",
         "summary": "The first DeFi trading system achieving functional parity with Centralized Exchanges, at lower gas costs than any other platform.",
@@ -1410,7 +1410,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
+      "rootAddress": "0x3fa729b4548becbad4eab6ef18413470e6d5324c",
       "project": {
         "name": "MoverDAO",
         "summary": "Mover is building the first metaverse savings card. It is an NFT card that is metaverse-ready, comes with automated DeFi Savings, and a crypto debit card. All in one place.",
@@ -1431,7 +1431,7 @@
       "erc20"
     ],
     "extensions": {
-      "parentAddress": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+      "rootAddress": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
       "project": {
         "name": "Stacker Ventures",
         "summary": "Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the blockchain.",
