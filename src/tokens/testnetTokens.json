@@ -12,7 +12,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x60D4dB9b534EF9260a88b0BED6c486fe13E604Fc"
+      "rootAddress": "0x60D4dB9b534EF9260a88b0BED6c486fe13E604Fc"
     }
   },
   {
@@ -28,7 +28,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
+      "rootAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
     }
   },
   {
@@ -44,7 +44,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x655F2166b0709cd575202630952D71E2bB0d61Af"
+      "rootAddress": "0x655F2166b0709cd575202630952D71E2bB0d61Af"
     }
   },
   {
@@ -60,7 +60,7 @@
       "swapable"
     ],
     "extensions": {
-      "parentAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
+      "rootAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
     }
   }
 ]
