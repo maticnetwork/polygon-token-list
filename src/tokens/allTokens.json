@@ -455,6 +455,40 @@
   },
   {
     "chainId": 137,
+    "name": "Tower",
+    "symbol": "TOWER",
+    "decimals": 18,
+    "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+    "logoURI": "https://etherscan.io/token/images/mintopolymoney_32.png",
+    "tags": [
+      "pos",
+      "erc20",
+      "customWithdrawEventSig"
+    ],
+    "extensions": {
+      "rootAddress": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+      "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Revv",
+    "symbol": "REVV",
+    "decimals": 18,
+    "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
+    "logoURI": "https://etherscan.io/token/images/mintopolymoney_32.png",
+    "tags": [
+      "pos",
+      "erc20",
+      "customWithdrawEventSig"
+    ],
+    "extensions": {
+      "rootAddress": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+      "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
+    }
+  },
+  {
+    "chainId": 137,
     "name": "CoinPoker Chips",
     "symbol": "CHP",
     "decimals": 18,
