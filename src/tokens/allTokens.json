@@ -459,7 +459,7 @@
     "symbol": "TOWER",
     "decimals": 18,
     "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
-    "logoURI": "https://etherscan.io/token/images/mintopolymoney_32.png",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/tower.svg",
     "tags": [
       "pos",
       "erc20",
@@ -476,7 +476,7 @@
     "symbol": "REVV",
     "decimals": 18,
     "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
-    "logoURI": "https://etherscan.io/token/images/mintopolymoney_32.png",
+    "logoURI": "https://etherscan.io/token/images/revv_32.png",
     "tags": [
       "pos",
       "erc20",
