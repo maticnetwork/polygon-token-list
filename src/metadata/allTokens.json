@@ -2,7 +2,7 @@
   "name": "Polygon Tokens List",
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   },
   "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
@@ -35,6 +35,10 @@
     "metaTx": {
       "name": "MetaTx",
       "description": "Tokens are eligible for meta transactions"
+    },
+    "customWithdrawEventSig": {
+      "name": "Custom Withdraw Event Signature",
+      "description": "The token has a custom withdraw event signature"
     },
     "noDeposit": {
       "name": "Deposit Disabled",

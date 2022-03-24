@@ -455,6 +455,23 @@
   },
   {
     "chainId": 137,
+    "name": "Revv",
+    "symbol": "REVV",
+    "decimals": 18,
+    "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
+    "logoURI": "https://etherscan.io/token/images/revv_32.png",
+    "tags": [
+      "pos",
+      "erc20",
+      "customWithdrawEventSig"
+    ],
+    "extensions": {
+      "rootAddress": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+      "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
+    }
+  },
+  {
+    "chainId": 137,
     "name": "CoinPoker Chips",
     "symbol": "CHP",
     "decimals": 18,
@@ -1155,10 +1172,12 @@
     "logoURI": "https://crazydefenseheroes.com/static/media/logo-tower.2bca4bdd.svg",
     "tags": [
       "pos",
-      "erc20"
+      "erc20",
+      "customWithdrawEventSig"
     ],
     "extensions": {
       "rootAddress": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+      "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5",
       "project": {
         "name": "Tower Token",
         "summary": "The TOWER Token is a utility token for the TOWER Platform that comprises the token, the Free-to-Play games in the Crazy Kings franchise and the blockchain game.",
@@ -15123,20 +15142,6 @@
     ],
     "extensions": {
       "rootAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "REVV",
-    "symbol": "REVV",
-    "decimals": 18,
-    "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca"
     }
   },
   {
