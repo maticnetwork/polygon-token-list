@@ -1,6 +1,6 @@
 [
   {
-    "chainId": 42162,
+    "chainId": 42161,
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "chainId": 42162,
+    "chainId": 42161,
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "chainId": 42162,
+    "chainId": 42161,
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "chainId": 42162,
+    "chainId": 42161,
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "chainId": 42162,
+    "chainId": 42161,
     "name": "The Graph",
     "symbol": "GRT",
     "decimals": 18,
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "chainId": 42162,
+    "chainId": 42161,
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
