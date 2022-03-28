@@ -490,26 +490,6 @@
   },
   {
     "chainId": 137,
-    "name": "GAME Credits",
-    "symbol": "GAME",
-    "decimals": 18,
-    "address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
-      "project": {
-        "name": "GAME Credits",
-        "summary": "GAME Credits (GAME) is the original token for the gaming industry. Launched in 2014, the token and team have grown, with an expanded vision to build the 100 year metaverse. The vision for the Genesis Worlds Project is to develop a decentralized RPG metaverse that will last beyond 100 years. The team at GAME Credits is supporting the project launch and shepherding early stages of the project in preparation for handoff to the Genesis Worlds community and Genesis Foundation. The GAME token provides critical support for the project, with utility that allows holders to invest in a variety of project opportunities, including farming GENESIS, the governance and in-world currency of Genesis Worlds.",
-        "contact": "info@gamecredits.org",
-        "website": "https://gamecredits.org"
-      }
-    }
-  },
-  {
-    "chainId": 137,
     "name": "CoinPoker Chips",
     "symbol": "CHP",
     "decimals": 18,
