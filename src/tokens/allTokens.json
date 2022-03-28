@@ -480,6 +480,7 @@
       "pos",
       "erc20"
     ],
+    "logoURI": "https://svgshare.com/i/fJw.svg",
     "extensions": {
       "rootAddress": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
       "project": {
