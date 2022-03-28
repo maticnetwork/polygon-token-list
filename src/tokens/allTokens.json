@@ -472,24 +472,6 @@
   },
   {
     "chainId": 137,
-    "name": "Decentral Games ICE",
-    "symbol": "ICE",
-    "decimals": 18,
-    "address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/ice.svg",
-    "tags": [
-      "pos",
-      "erc20",
-      "noDeposit",
-      "noWithdraw",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "GAME Credits",
     "symbol": "GAME",
     "decimals": 18,
