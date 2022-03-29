@@ -6515,7 +6515,7 @@
     "chainId": 137,
     "name": "Crypto Nijigen",
     "symbol": "NGN",
-    "decimals": 0,
+    "decimals": 10,
     "address": "0x4C2C04E6f0ec30EbD60b2fFbE11814C3d59910f7",
     "tags": [
       "pos",
