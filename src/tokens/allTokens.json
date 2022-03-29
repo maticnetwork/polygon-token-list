@@ -22102,7 +22102,7 @@
     "chainId": 137,
     "name": "SwissBorg",
     "symbol": "CHSB",
-    "decimals": 18,
+    "decimals": 8,
     "address": "0x67Ce67ec4fCd4aCa0Fcb738dD080b2a21ff69D75",
     "tags": [
       "pos",
