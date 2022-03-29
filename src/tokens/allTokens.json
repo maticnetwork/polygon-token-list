@@ -20577,7 +20577,7 @@
     "chainId": 137,
     "name": "NapoleonX Token",
     "symbol": "NPX",
-    "decimals": 18,
+    "decimals": 2,
     "address": "0x106035DEDcA635d75d6Ff05F98F25916829eDB77",
     "tags": [
       "pos",
