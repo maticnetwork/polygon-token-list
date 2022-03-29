@@ -22730,7 +22730,7 @@
     "chainId": 137,
     "name": "Atari",
     "symbol": "ATRI",
-    "decimals": 18,
+    "decimals": 0,
     "address": "0xB140665ddE25c644c6B418e417C930dE8A8a6Ac9",
     "tags": [
       "pos",
