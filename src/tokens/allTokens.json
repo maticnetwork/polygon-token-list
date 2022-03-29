@@ -23700,5 +23700,378 @@
     "extensions": {
       "rootAddress": "0xa63a5122E849d2Fbff88Fc44d3C7EAE9196F1293"
     }
+  },
+  {
+    "chainId": 137,
+    "name": "One For All",
+    "symbol": "O4A",
+    "decimals": 36,
+    "address": "0x30810b6e871f333ea6935b21871cde070921bc38",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xce8e76aa57fa4d9f0db1c05c232fa4cf071aebba"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Castello Coin",
+    "symbol": "CAST",
+    "decimals": 8,
+    "address": "0xa554e5a79caebfeae867c66a56a951338f748c8a",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "EVER META",
+    "symbol": "EVEM",
+    "decimals": 18,
+    "address": "0x62a3c5d6346a842d24053d871ebe908a78cb46ab",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xeefa9e2e5be13b6531eb45ba47917017b5affffb"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Wrapped STOR",
+    "symbol": "WSTOR",
+    "decimals": 12,
+    "address": "0x5d1245ad0e4f118186042040bb092aba59be4167",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xe51da1683f21a844269d0d23135f04c506ac8ae1"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "WGMI",
+    "symbol": "WGMI",
+    "decimals": 18,
+    "address": "0x1b9f699c6cb0aa6079f326a11d3c960680eab5d9",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x20f6a313cb250062331fe70b9567e3ee5f01888b"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "TOMI",
+    "symbol": "TOMI",
+    "decimals": 18,
+    "address": "0xcd966b72cff52dc349089b6b6f5865b5743b4e08",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x533e90705c0d1a364eb63d620ea16c8478179894"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Menlo One",
+    "symbol": "ONE",
+    "decimals": 18,
+    "address": "0x6dc1ed4402a9db4956e077876e72d3ac7ba7f47f",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x4d807509aece24c0fa5a102b6a3b059ec6e14392"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Streamr (old)",
+    "symbol": "XDATA",
+    "decimals": 18,
+    "address": "0xd668c5e8a4a837ca95be5e3a8d5bd62f5985390d",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x0cf0ee63788a0849fe5297f3407f701e122cc023"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Fei USD",
+    "symbol": "FEI",
+    "decimals": 18,
+    "address": "0xc7031408c7978da9aca03308cd104cb54e7a2eb3",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Liquid staked Ether 2.0",
+    "symbol": "stETH",
+    "decimals": 18,
+    "address": "0x4c6b65fe93fc9daf413498b88195fafff36dd960",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Tidal Token",
+    "symbol": "TIDAL",
+    "decimals": 18,
+    "address": "0xb41ec2c036f8a42da384dde6ada79884f8b84b26",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/tidal.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "DC Token",
+    "symbol": "DC",
+    "decimals": 18,
+    "address": "0x3ebeb3f48f3a16b6a1e1e19b82c09bc8aae5d983",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xb3fb97019e9f69d0fd2e76fbd113ec6960a5389a"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Wrapped Celo USD",
+    "symbol": "wCUSD",
+    "decimals": 18,
+    "address": "0x9fa22bda93a0ecef300928c0358003b63647c5d8",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xad3e3fc59dff318beceaab7d00eb4f68b1ecf195"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "JulSwap on ETH",
+    "symbol": "JulD",
+    "decimals": 18,
+    "address": "0x049f12f5a27132d06de128d48a914f6d82d33d23",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x93effd08e3e5a4b1b40c26137e63876b2501ffa4"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "JUL",
+    "symbol": "JUL",
+    "decimals": 18,
+    "address": "0x03bc3f7affbe592e3f3502cf818aafb93b12334c",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x5580ab97f226c324c671746a1787524aef42e415"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "OnX Ethereum Stablecoin",
+    "symbol": "onETH",
+    "decimals": 18,
+    "address": "0x057097bd91aa32aa10f5a42ba49637480963dc31",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xc1330acbbce97cb9695b7ee161c0f95b875a8b0f"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "QuadrantProtocol",
+    "symbol": "eQUAD",
+    "decimals": 18,
+    "address": "0xdab625853c2b35d0a9c6bd8e5a097a664ef4ccfb",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xc28e931814725bbeb9e670676fabbcb694fe7df2"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/equad.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Upfiring",
+    "symbol": "UFR",
+    "decimals": 18,
+    "address": "0x741b18e6db7a7dc3e686171b99387edc8dac1e32",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xea097a2b1db00627b2fa17460ad260c016016977"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/ufr.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Polkamon",
+    "symbol": "PMON",
+    "decimals": 18,
+    "address": "0xc8ed802a2cb6240b05b8c310137086bf4bc11b55",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/pmon.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Bidao",
+    "symbol": "BID",
+    "decimals": 18,
+    "address": "0xd7671bdce849eabef4da313ccc80e689151ee811",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/bid.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "UNION Protocol Governance Token",
+    "symbol": "UNN",
+    "decimals": 18,
+    "address": "0x67480287cb3715d1d9429b38772c71d6e94c16da",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/unn.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "aleph.im v2",
+    "symbol": "ALEPH",
+    "decimals": 18,
+    "address": "0x82dcf1df86ada26b2dcd9ba6334cedb8c2448e9e",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/aleph.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Panvala pan",
+    "symbol": "PAN",
+    "decimals": 18,
+    "address": "0xe9949106f0777e7a2e36df891d59583ac94dc896",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/pan.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "CheerMedal",
+    "symbol": "CHML",
+    "decimals": 18,
+    "address": "0x3c711f725272b05336b44c5c9dccb9fe2ff42ef4",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xfca0e33c4d9a7360a1caf517960be202c7693319"
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Concentrated Voting Power",
+    "symbol": "CVP",
+    "decimals": 18,
+    "address": "0x530d954549f3efa00799784bc7fe0c3fed76da19",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/cvp.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "EASYX",
+    "symbol": "EASYX",
+    "decimals": 18,
+    "address": "0xd4c1e34187edc72fb6ebf3c4011dee50cabf89c2",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x346e2c8925d3bdc406181340eb7485d646055744"
+    }
   }
 ]
