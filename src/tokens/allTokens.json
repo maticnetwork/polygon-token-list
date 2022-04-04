@@ -13290,20 +13290,6 @@
   },
   {
     "chainId": 137,
-    "name": "ScaleSwapToken",
-    "symbol": "SCA",
-    "decimals": 18,
-    "address": "0x07345baD63aB4dE51a1395317a8ECf050A71d69d",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x07345baD63aB4dE51a1395317a8ECf050A71d69d"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Based Loans Ownership",
     "symbol": "BLO",
     "decimals": 18,
