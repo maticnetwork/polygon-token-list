@@ -1390,6 +1390,22 @@
   },
   {
     "chainId": 137,
+    "name": "ScaleSwapToken",
+    "symbol": "SCA",
+    "decimals": 18,
+    "address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
+    "extensions": {
+      "rootAddress": "0x1FbD3dF007eB8A7477A1Eab2c63483dCc24EfFD6"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/sca.svg"
+  },
+  {
+    "chainId": 137,
     "name": "Megaverse",
     "symbol": "MEGA",
     "decimals": 18,
@@ -13271,21 +13287,6 @@
     "extensions": {
       "rootAddress": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd"
     }
-  },
-  {
-    "chainId": 137,
-    "name": "ScaleSwapToken",
-    "symbol": "SCA",
-    "decimals": 18,
-    "address": "0x07345baD63aB4dE51a1395317a8ECf050A71d69d",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x07345baD63aB4dE51a1395317a8ECf050A71d69d"
-    },
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/sca.svg"
   },
   {
     "chainId": 137,
