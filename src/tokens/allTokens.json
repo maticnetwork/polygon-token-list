@@ -14771,12 +14771,19 @@
     "symbol": "NFTFY",
     "decimals": 18,
     "address": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+    "logoURI": "https://gateway.ipfs.io/ipfs/QmS3W7dsYiMUqJdPofjetJPoiUTYjicZVjT2kSAiWZwJLh",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c"
+      "rootAddress": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+      "project": {
+        "name": "NFTFY",
+        "summary": "A decentralized protocol for NFT fractionalization",
+        "contact": "https://discord.com/invite/zyuawXTtrK",
+        "website": "https://nftfy.org"
+      }
     }
   },
   {
