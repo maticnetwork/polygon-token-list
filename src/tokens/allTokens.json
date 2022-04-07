@@ -23713,13 +23713,20 @@
     "symbol": "RBAL",
     "decimals": 18,
     "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
+    "logoURI": "https://cdn.coinranking.com/fLjFmBf-k/rbal.png",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xe5a6739b21Fe84847daDE7152Ae6C68895dFdb38"
+      "rootAddress": "0xe5a6739b21Fe84847daDE7152Ae6C68895dFdb38",
+      "project": {
+        "name": "Rebalance Token",
+        "summary": "Rebalance is a research project. It was launched initially to prove that holders can earn automatically by getting fees from token transactions. The project has now gained momentum and now extends to build bridges between blockchains and tokens.",
+        "contact": "info@rebalancetoken.io",
+        "website": "https://rebalancetoken.io/index.html"
+      }
     }
   },
   {
