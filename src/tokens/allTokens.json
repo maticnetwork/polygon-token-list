@@ -2635,6 +2635,7 @@
     "symbol": "MWAT",
     "decimals": 18,
     "address": "0x2b160eea11604f81d5adbbd2dcfe5b6cd983652b",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2533.png",
     "tags": [
       "pos",
       "erc20"
