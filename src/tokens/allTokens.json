@@ -26153,5 +26153,26 @@
         "website": "https://www.ludenaprotocol.io"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "dForce",
+    "symbol": "DF",
+    "decimals": 18,
+    "address": "0x08C15FA26E519A78a666D19CE5C646D55047e0a3",
+    "logoURI": "https://raw.githubusercontent.com/dforce-network/documents/master/logos/dForce/DF.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+      "project": {
+        "name": "dForce",
+        "summary": "A complete set of decentralized finance protocols covering assets, lending, and trading, serving as DeFi infrastructure in Web3.",
+        "contact": "contact@dforce.network",
+        "website": "https://dforce.network/"
+      }
+    }
   }
 ]
