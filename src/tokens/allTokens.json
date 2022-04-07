@@ -1835,6 +1835,7 @@
     "symbol": "MNTO",
     "decimals": 18,
     "address": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8",
+    "logoURI": "https://minatodao.com/wp-content/uploads/2022/03/pcs-96x96.svg",
     "tags": [
       "pos",
       "erc20",
@@ -2634,12 +2635,19 @@
     "symbol": "MWAT",
     "decimals": 18,
     "address": "0x2b160eea11604f81d5adbbd2dcfe5b6cd983652b",
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2533.png",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x6425c6be902d692ae2db752b3c268afadb099d3b"
+      "rootAddress": "0x6425c6be902d692ae2db752b3c268afadb099d3b",
+      "project": {
+        "name": "Restart Energy Democracy",
+        "summary": "Restart Energy Democracy Platform (RED Platform) is a web-based platform which uses Blockchain Technology to deliver users an extraordinary experience in the world of Carbon Offset, Sustainability Certificates and Renewable Energy from producers to end customers.",
+        "contact": "support@redplatform.com",
+        "website": "https://redplatform.com/en/"
+      }
     }
   },
   {
@@ -2861,12 +2869,19 @@
     "symbol": "KPT",
     "decimals": 18,
     "address": "0x7d369731e3d7f86417aa86ef4be26e309080bd2f",
+    "logoURI": "https://bafkreiawezzhlphckhopkolrkxsz4mtayjz4cjxz4bgsvvkjsclqacf2be.ipfs.nftstorage.link/",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x444f20a5d578862bf84b6d14ec3ca0c8be8e555f"
+      "rootAddress": "0x444f20a5d578862bf84b6d14ec3ca0c8be8e555f",
+      "project": {
+        "name": "Kitty Party Finance",
+        "summary": "Kitty Party enables community led yield and wealth creation.",
+        "contact": "https://discord.com/invite/JwDwxkjmMZ",
+        "website": "kittyparty.finance"
+      }
     }
   },
   {
@@ -3560,13 +3575,20 @@
     "symbol": "LIZ",
     "decimals": 18,
     "address": "0x6094a3ced47335b068efba7789ea578af1434947",
+    "logoURI": "https://www.theranosco.in/logo.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef"
+      "rootAddress": "0x102e941b77bcaa7e35d368cafe51ef8f79c8d1ef",
+      "project": {
+        "name": "Theranos Coin",
+        "summary": "Theranos Coin (LIZ) is an ERC-20 token immortalizing a story of revolutionary innovation and fantastic hypergrowth, stunning duplicity and scandalous fraud — the story of Elizabeth Holmes and Theranos.",
+        "contact": "https://twitter.com/drinksbydrew",
+        "website": "https://www.theranosco.in/"
+      }
     }
   },
   {
@@ -3704,12 +3726,19 @@
     "symbol": "PDAO",
     "decimals": 18,
     "address": "0x2b4fa97b84698dc1540d13d33754757bac3c8115",
+    "logoURI": "https://uploads-ssl.webflow.com/6096909a9f570cf818e33cf5/61e658c8fb13b00b5a4c40c2_Untitled%20design.png",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xa025f41f1a973e6649931f3ac96979071bda4c9f"
+      "rootAddress": "0xa025f41f1a973e6649931f3ac96979071bda4c9f",
+      "project": {
+        "name": "PlannerDAO",
+        "summary": "https://www.prnewswire.com/news-releases/plannerdao-co-founder-steve-larsen-cpa-cfp-launches-comprehensive-digital-asset-index-for-financial-planners-301462751.html",
+        "contact": "steve@larsenfin.com",
+        "website": "https://www.plannerdao.com/pdao"
+      }
     }
   },
   {
@@ -4621,7 +4650,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
+      "rootAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+      "project": {
+        "name": "Veritaseum",
+        "summary": "Veritaseum builds blockchain-based, peer-to-peer capital markets as software on a global scale.",
+        "contact": "https://mobile.twitter.com/dao_veri",
+        "website": "https://veritas.veritaseum.com/"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/veri.svg"
   },
@@ -6833,17 +6868,24 @@
   },
   {
     "chainId": 137,
-    "name": "Genesis",
+    "name": "Genesis Worlds",
     "symbol": "GENESIS",
     "decimals": 18,
     "address": "0x51869836681BcE74a514625c856aFb697a013797",
+    "logoURI": "https://svgshare.com/i/fJk.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x6b6F09997EbFa93F4E111c33825da3b938462FF1"
+      "rootAddress": "0x6b6F09997EbFa93F4E111c33825da3b938462FF1",
+      "project": {
+        "name": "Genesis Worlds",
+        "summary": "Genesis Worlds is a multi-creator gaming universe, with a diverse community working together to achieve a common goal: A metaverse that will still be growing, evolving, and actively played in 100 years. To achieve this, development and management of Genesis will be decentralized, with governance decisions guided by the Genesis Foundation, and voted on by players using the GENESIS token. Genesis will run as a nonprofit, with all assets owned by and revenue earned by the Genesis Foundation reinvested in the long-term success of the game.",
+        "contact": "info@gamecredits.org",
+        "website": "https://genesis.game"
+      }
     }
   },
   {
@@ -9398,12 +9440,19 @@
     "symbol": "WNAV",
     "decimals": 8,
     "address": "0x1a6872038B633Bc9EbD2ea36df3f81eAcd9b8823",
+    "logoURI": "https://navcoin.org/images/nav-logo-border.svg",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x75571a52de30e2d7160af134798acfb80cc9c0be"
+      "rootAddress": "0x75571a52de30e2d7160af134798acfb80cc9c0be",
+      "project": {
+        "name": "Navcoin",
+        "summary": "Privacy-oriented and community-based PoS cryptocurrency project with a wrapped representation (wNav) for cross-chain interoperatibility.",
+        "contact": "admin@navcoin.org",
+        "website": "https://navcoin.org"
+      }
     }
   },
   {
@@ -9498,12 +9547,19 @@
     "symbol": "MIGUEL",
     "decimals": 18,
     "address": "0x4B9D66B1d0343EB2f16ebc427270718b7E010f78",
+    "logoURI": "https://miguelpiedrafita.com/images/_site/logo.png",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x9eeab5dacad364017c400bfbf717543a0e3c35cb"
+      "rootAddress": "0x9eeab5dacad364017c400bfbf717543a0e3c35cb",
+      "project": {
+        "name": "Miguel Piedrafita",
+        "summary": "Social token for Miguel Piedrafita",
+        "contact": "soy@miguelpiedrafita.coml",
+        "website": "https://miguelpiedrafita.com"
+      }
     }
   },
   {
@@ -11922,12 +11978,19 @@
     "symbol": "DVF",
     "decimals": 18,
     "address": "0x02c46650701dD6b83dceC3472fC3fD69eA1a5ab7",
+    "logoURI": "https://deversifi.com/wp-content/uploads/2022/03/dvf.d8ad4805.svg",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xdddddd4301a082e62e84e43f474f044423921918"
+      "rootAddress": "0xdddddd4301a082e62e84e43f474f044423921918",
+      "project": {
+        "name": "DeversiFi",
+        "summary": "DeFi made easy. Swap, invest, trade and send all from the convenience of your gas-free layer 2 control centre.",
+        "contact": "info@deversifi.com",
+        "website": "https://deversifi.com/"
+      }
     }
   },
   {
@@ -12139,13 +12202,20 @@
     "symbol": "MLN",
     "decimals": 18,
     "address": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207",
+    "logoURI": "https://user-images.githubusercontent.com/28834887/157407476-6a64c697-341b-479c-be97-ce6aadc1a8fa.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+      "rootAddress": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+      "project": {
+        "name": "Enzyme Finance",
+        "summary": "Enzyme is the DeFi Operating System — enabling you to plug and play with dozens of protocols and hundreds of tokens. Discover how you can build, scale and monetize an investment strategy that suits your needs.",
+        "contact": "info@avantgarde.finance",
+        "website": "https://enzyme.finance/"
+      }
     }
   },
   {
@@ -12963,12 +13033,19 @@
     "symbol": "1PLCO2",
     "decimals": 18,
     "address": "0x14B5eD5dc05e9F7d35104D035719BD65a7EE93E0",
+    "logoURI": "https://1planet.app/images/1PL_Token_Logo.svg",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x2E8891AA76743ee96547AcB764a69b87872423f8"
+      "rootAddress": "0x2E8891AA76743ee96547AcB764a69b87872423f8",
+      "project": {
+        "name": "1PLANET Marketplace",
+        "summary": "The www.1PLANET.app enables people and companies to utilize tokenized carbon credits to participate in emissions trading and Carbon Markets 2.0. The 1PLANET token and platform can create EcoNFTs and enable automated carbon offsetting between smart contracts for many use cases.",
+        "contact": "info@climatefutures.io",
+        "website": "www.climatefutures.io"
+      }
     }
   },
   {
@@ -14728,12 +14805,19 @@
     "symbol": "NFTFY",
     "decimals": 18,
     "address": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+    "logoURI": "https://gateway.ipfs.io/ipfs/QmS3W7dsYiMUqJdPofjetJPoiUTYjicZVjT2kSAiWZwJLh",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c"
+      "rootAddress": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+      "project": {
+        "name": "NFTFY",
+        "summary": "A decentralized protocol for NFT fractionalization",
+        "contact": "https://discord.com/invite/zyuawXTtrK",
+        "website": "https://nftfy.org"
+      }
     }
   },
   {
@@ -15935,7 +16019,13 @@
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
+      "rootAddress": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+      "project": {
+        "name": "NFT Protocol",
+        "summary": "docs.nft.org",
+        "contact": "jake@nft.org",
+        "website": "nft.org"
+      }
     }
   },
   {
@@ -17407,7 +17497,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x8a854288a5976036a725879164ca3e91d30c6a1b"
+      "rootAddress": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+      "project": {
+        "name": "GET Protocol",
+        "summary": "GET Protocol provides infrastructure and tooling that enables ticketing companies worldwide to issue cutting edge NFT tickets.",
+        "contact": "https://discord.com/invite/jTkCWGASEw",
+        "website": "https://get-protocol.io"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/get.svg"
   },
@@ -21317,7 +21413,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361"
+      "rootAddress": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+      "project": {
+        "name": "Mysterium Network",
+        "summary": "Mysterium Network is an open-source ecosystem of protocols, tools, and Web3 infrastructure making the internet borderless and accessible for all. The network gives both users and builders the tools they need to defend online privacy, anonymous expression, and equal access to information. Mysterium held a token sale through which it raised $14 million CHF.",
+        "contact": "info@mysterium.network",
+        "website": "https://www.mysterium.network/"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/myst.svg"
   },
@@ -21765,13 +21867,20 @@
     "symbol": "SWAM",
     "decimals": 18,
     "address": "0x94C18174840F80D49d59DC3a1742aF0B884A8184",
+    "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x368306eb52c8313fd398418c8220ddd560940e68"
+      "rootAddress": "0x368306eb52c8313fd398418c8220ddd560940e68",
+      "project": {
+        "name": "SwapMatic",
+        "summary": "SwapMatic is a liquidity aggregator that provides a hassle-free interface and always finds the best price for the user.",
+        "contact": "contact@swapmatic.io",
+        "website": " https://swapmatic.io"
+      }
     }
   },
   {
@@ -23544,7 +23653,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xf406f7a9046793267bc276908778b29563323996"
+      "rootAddress": "0xf406f7a9046793267bc276908778b29563323996",
+      "project": {
+        "name": "APY Vision",
+        "summary": "APY.Vision is a historical analytics platform that provides clarity for liquidity providers and DeFi users with profit and loss tracking and useful liquidity pool fee calculators.",
+        "contact": "https://twitter.com/apyvision",
+        "website": "https://apy.vision"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/vision.svg"
   },
@@ -23649,13 +23764,20 @@
     "symbol": "RBAL",
     "decimals": 18,
     "address": "0x03247a4368A280bEc8133300cD930A3a61d604f6",
+    "logoURI": "https://cdn.coinranking.com/fLjFmBf-k/rbal.png",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xe5a6739b21Fe84847daDE7152Ae6C68895dFdb38"
+      "rootAddress": "0xe5a6739b21Fe84847daDE7152Ae6C68895dFdb38",
+      "project": {
+        "name": "Rebalance Token",
+        "summary": "Rebalance is a research project. It was launched initially to prove that holders can earn automatically by getting fees from token transactions. The project has now gained momentum and now extends to build bridges between blockchains and tokens.",
+        "contact": "info@rebalancetoken.io",
+        "website": "https://rebalancetoken.io/index.html"
+      }
     }
   },
   {
@@ -24115,7 +24237,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D"
+      "rootAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",
+      "project": {
+        "name": "KIWI Proof-of-Work Tokenl",
+        "summary": "KIWI is a mineable ERC20/EIP-918 token, and it has no pre-mine. Today KIWI is used in payments, NFT trading, engagement, and community development. It can be solo-mined using CPU or GPU.",
+        "contact": "contact@kiwi-token.com",
+        "website": "https://kiwi-token.com/"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/kiwi.svg"
   },
@@ -24833,13 +24961,20 @@
     "symbol": "DATA",
     "decimals": 18,
     "address": "0x3a9a81d576d83ff21f26f325066054540720fc34",
+    "logoURI": "https://raw.githubusercontent.com/streamr-dev/design-assets/main/Svg/Marks%20and%20Symbols/Token%20symbols/%24DATA%20new%20token%20symbol.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x8f693ca8d21b157107184d29d398a8d082b38b76"
+      "rootAddress": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
+      "project": {
+        "name": "Streamr Network",
+        "summary": "Streamr is a decentralized real-time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+        "contact": "contact@streamr.network",
+        "website": "https://streamr.network"
+      }
     }
   },
   {
@@ -26096,13 +26231,62 @@
     "symbol": "DUST",
     "decimals": 8,
     "address": "0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d",
+    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/dust.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xbca3c97837a39099ec3082df97e28ce91be14472"
+      "rootAddress": "0xbca3c97837a39099ec3082df97e28ce91be14472",
+      "project": {
+        "name": "Dust Token",
+        "summary": "DUST is a reward token for NFT farming.",
+        "contact": "contact@dust-token.com",
+        "website": "https://dust-token.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Ludena Protocol",
+    "symbol": "LDN",
+    "decimals": 18,
+    "address": "0x7df5638222bbe24cce39f726c3b61cc03610622a",
+    "logoURI": "https://www.ludenaprotocol.io/data/ludena_protocol_symbol_basic.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xb29663aa4e2e81e425294193616c1b102b70a158",
+      "project": {
+        "name": "Ludena Protocol",
+        "summary": "Ludena Protocol is the ultimate blockchain game platform combinding P2E games, NFTs, staking, and guild into one. Users get rewarded for doing simple game related activity such as live streaming, sharing strategies, and even playing mini games in Ludena's guild platform, GameTalkTalk.",
+        "contact": "official@ludenaprotocol.io",
+        "website": "https://www.ludenaprotocol.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "dForce",
+    "symbol": "DF",
+    "decimals": 18,
+    "address": "0x08C15FA26E519A78a666D19CE5C646D55047e0a3",
+    "logoURI": "https://raw.githubusercontent.com/dforce-network/documents/master/logos/dForce/DF.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+      "project": {
+        "name": "dForce",
+        "summary": "A complete set of decentralized finance protocols covering assets, lending, and trading, serving as DeFi infrastructure in Web3.",
+        "contact": "contact@dforce.network",
+        "website": "https://dforce.network/"
+      }
     }
   }
 ]
