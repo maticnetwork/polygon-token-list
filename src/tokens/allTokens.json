@@ -12978,12 +12978,19 @@
     "symbol": "1PLCO2",
     "decimals": 18,
     "address": "0x14B5eD5dc05e9F7d35104D035719BD65a7EE93E0",
+    "logoURI": "https://1planet.app/images/1PL_Token_Logo.svg",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x2E8891AA76743ee96547AcB764a69b87872423f8"
+      "rootAddress": "0x2E8891AA76743ee96547AcB764a69b87872423f8",
+      "project": {
+        "name": "1PLANET Marketplace",
+        "summary": "The www.1PLANET.app enables people and companies to utilize tokenized carbon credits to participate in emissions trading and Carbon Markets 2.0. The 1PLANET token and platform can create EcoNFTs and enable automated carbon offsetting between smart contracts for many use cases.",
+        "contact": "info@climatefutures.io",
+        "website": "www.climatefutures.io"
+      }
     }
   },
   {
