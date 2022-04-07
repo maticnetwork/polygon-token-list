@@ -1835,6 +1835,7 @@
     "symbol": "MNTO",
     "decimals": 18,
     "address": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8",
+    "logoURI": "https://minatodao.com/wp-content/uploads/2022/03/pcs-96x96.svg",
     "tags": [
       "pos",
       "erc20",
@@ -21765,13 +21766,20 @@
     "symbol": "SWAM",
     "decimals": 18,
     "address": "0x94C18174840F80D49d59DC3a1742aF0B884A8184",
+    "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/swam.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x368306eb52c8313fd398418c8220ddd560940e68"
+      "rootAddress": "0x368306eb52c8313fd398418c8220ddd560940e68",
+      "project": {
+        "name": "SwapMatic",
+        "summary": "SwapMatic is a liquidity aggregator that provides a hassle-free interface and always finds the best price for the user.",
+        "contact": "contact@swapmatic.io",
+        "website": " https://swapmatic.io"
+      }
     }
   },
   {
@@ -26109,13 +26117,20 @@
     "symbol": "DUST",
     "decimals": 8,
     "address": "0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d",
+    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/dust.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xbca3c97837a39099ec3082df97e28ce91be14472"
+      "rootAddress": "0xbca3c97837a39099ec3082df97e28ce91be14472",
+      "project": {
+        "name": "Dust Token",
+        "summary": "DUST is a reward token for NFT farming.",
+        "contact": "contact@dust-token.com",
+        "website": "https://dust-token.com/"
+      }
     }
   },
   {
