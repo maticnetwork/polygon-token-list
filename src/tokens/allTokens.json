@@ -4649,7 +4649,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
+      "rootAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+      "project": {
+        "name": "Veritaseum",
+        "summary": "Veritaseum builds blockchain-based, peer-to-peer capital markets as software on a global scale.",
+        "contact": "https://mobile.twitter.com/dao_veri",
+        "website": "https://veritas.veritaseum.com/"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/veri.svg"
   },
@@ -9540,12 +9546,19 @@
     "symbol": "MIGUEL",
     "decimals": 18,
     "address": "0x4B9D66B1d0343EB2f16ebc427270718b7E010f78",
+    "logoURI": "https://miguelpiedrafita.com/images/_site/logo.png",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x9eeab5dacad364017c400bfbf717543a0e3c35cb"
+      "rootAddress": "0x9eeab5dacad364017c400bfbf717543a0e3c35cb",
+      "project": {
+        "name": "Miguel Piedrafita",
+        "summary": "Social token for Miguel Piedrafita",
+        "contact": "soy@miguelpiedrafita.coml",
+        "website": "https://miguelpiedrafita.com"
+      }
     }
   },
   {
