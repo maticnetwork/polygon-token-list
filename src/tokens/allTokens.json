@@ -12168,13 +12168,20 @@
     "symbol": "MLN",
     "decimals": 18,
     "address": "0xa9f37d84c856fda3812ad0519dad44fa0a3fe207",
+    "logoURI": "https://user-images.githubusercontent.com/28834887/157407476-6a64c697-341b-479c-be97-ce6aadc1a8fa.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892"
+      "rootAddress": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+      "project": {
+        "name": "Enzyme Finance",
+        "summary": "Enzyme is the DeFi Operating System — enabling you to plug and play with dozens of protocols and hundreds of tokens. Discover how you can build, scale and monetize an investment strategy that suits your needs.",
+        "contact": "info@avantgarde.finance",
+        "website": "https://enzyme.finance/"
+      }
     }
   },
   {
