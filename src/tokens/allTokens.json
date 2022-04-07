@@ -24833,6 +24833,7 @@
     "symbol": "DATA",
     "decimals": 18,
     "address": "0x3a9a81d576d83ff21f26f325066054540720fc34",
+    "logoURI": "https://raw.githubusercontent.com/streamr-dev/design-assets/main/Svg/Marks%20and%20Symbols/Token%20symbols/%24DATA%20new%20token%20symbol.svg",
     "tags": [
       "pos",
       "erc20",
