@@ -3719,12 +3719,19 @@
     "symbol": "PDAO",
     "decimals": 18,
     "address": "0x2b4fa97b84698dc1540d13d33754757bac3c8115",
+    "logoURI": "https://uploads-ssl.webflow.com/6096909a9f570cf818e33cf5/61e658c8fb13b00b5a4c40c2_Untitled%20design.png",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xa025f41f1a973e6649931f3ac96979071bda4c9f"
+      "rootAddress": "0xa025f41f1a973e6649931f3ac96979071bda4c9f",
+      "project": {
+        "name": "PlannerDAO",
+        "summary": "https://www.prnewswire.com/news-releases/plannerdao-co-founder-steve-larsen-cpa-cfp-launches-comprehensive-digital-asset-index-for-financial-planners-301462751.html",
+        "contact": "steve@larsenfin.com",
+        "website": "https://www.plannerdao.com/pdao"
+      }
     }
   },
   {
