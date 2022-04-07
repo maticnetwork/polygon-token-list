@@ -15992,7 +15992,13 @@
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042"
+      "rootAddress": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+      "project": {
+        "name": "NFT Protocol",
+        "summary": "docs.nft.org",
+        "contact": "jake@nft.org",
+        "website": "nft.org"
+      }
     }
   },
   {
