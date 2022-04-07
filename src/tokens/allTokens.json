@@ -2640,7 +2640,13 @@
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x6425c6be902d692ae2db752b3c268afadb099d3b"
+      "rootAddress": "0x6425c6be902d692ae2db752b3c268afadb099d3b",
+      "project": {
+        "name": "Restart Energy Democracy",
+        "summary": "Restart Energy Democracy Platform (RED Platform) is a web-based platform which uses Blockchain Technology to deliver users an extraordinary experience in the world of Carbon Offset, Sustainability Certificates and Renewable Energy from producers to end customers.",
+        "contact": "support@redplatform.com",
+        "website": "https://redplatform.com/en/"
+      }
     }
   },
   {
