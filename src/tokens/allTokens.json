@@ -17470,7 +17470,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x8a854288a5976036a725879164ca3e91d30c6a1b"
+      "rootAddress": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+      "project": {
+        "name": "GET Protocol",
+        "summary": "GET Protocol provides infrastructure and tooling that enables ticketing companies worldwide to issue cutting edge NFT tickets.",
+        "contact": "https://discord.com/invite/jTkCWGASEw",
+        "website": "https://get-protocol.io"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/get.svg"
   },
