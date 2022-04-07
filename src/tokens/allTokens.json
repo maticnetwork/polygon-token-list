@@ -2862,12 +2862,19 @@
     "symbol": "KPT",
     "decimals": 18,
     "address": "0x7d369731e3d7f86417aa86ef4be26e309080bd2f",
+    "logoURI": "https://bafkreiawezzhlphckhopkolrkxsz4mtayjz4cjxz4bgsvvkjsclqacf2be.ipfs.nftstorage.link/",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x444f20a5d578862bf84b6d14ec3ca0c8be8e555f"
+      "rootAddress": "0x444f20a5d578862bf84b6d14ec3ca0c8be8e555f",
+      "project": {
+        "name": "Kitty Party Finance",
+        "summary": "Kitty Party enables community led yield and wealth creation.",
+        "contact": "https://discord.com/invite/JwDwxkjmMZ",
+        "website": "kittyparty.finance"
+      }
     }
   },
   {
