@@ -24115,7 +24115,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D"
+      "rootAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D",
+      "project": {
+        "name": "KIWI Proof-of-Work Tokenl",
+        "summary": "KIWI is a mineable ERC20/EIP-918 token, and it has no pre-mine. Today KIWI is used in payments, NFT trading, engagement, and community development. It can be solo-mined using CPU or GPU.",
+        "contact": "official@ludenaprotocol.io",
+        "website": "https://kiwi-token.com/"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/kiwi.svg"
   },
