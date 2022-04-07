@@ -21412,7 +21412,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361"
+      "rootAddress": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+      "project": {
+        "name": "Mysterium Network",
+        "summary": "Mysterium Network is an open-source ecosystem of protocols, tools, and Web3 infrastructure making the internet borderless and accessible for all. The network gives both users and builders the tools they need to defend online privacy, anonymous expression, and equal access to information. Mysterium held a token sale through which it raised $14 million CHF.",
+        "contact": "info@mysterium.network",
+        "website": "https://www.mysterium.network/"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/myst.svg"
   },
