@@ -24839,7 +24839,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x8f693ca8d21b157107184d29d398a8d082b38b76"
+      "rootAddress": "0x8f693ca8d21b157107184d29d398a8d082b38b76",
+      "project": {
+        "name": "Streamr Network",
+        "summary": "Streamr is a decentralized real-time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
+        "contact": "contact@streamr.network",
+        "website": "https://streamr.network"
+      }
     }
   },
   {
