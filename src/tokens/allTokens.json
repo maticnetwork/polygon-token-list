@@ -23633,7 +23633,13 @@
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xf406f7a9046793267bc276908778b29563323996"
+      "rootAddress": "0xf406f7a9046793267bc276908778b29563323996",
+      "project": {
+        "name": "APY Vision",
+        "summary": "APY.Vision is a historical analytics platform that provides clarity for liquidity providers and DeFi users with profit and loss tracking and useful liquidity pool fee calculators.",
+        "contact": "https://twitter.com/apyvision",
+        "website": "https://apy.vision"
+      }
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/vision.svg"
   },
