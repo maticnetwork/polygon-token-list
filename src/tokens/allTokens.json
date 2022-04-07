@@ -6834,17 +6834,24 @@
   },
   {
     "chainId": 137,
-    "name": "Genesis",
+    "name": "Genesis Worlds",
     "symbol": "GENESIS",
     "decimals": 18,
     "address": "0x51869836681BcE74a514625c856aFb697a013797",
+    "logoURI": "https://svgshare.com/i/fJk.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0x6b6F09997EbFa93F4E111c33825da3b938462FF1"
+      "rootAddress": "0x6b6F09997EbFa93F4E111c33825da3b938462FF1",
+      "project": {
+        "name": "Genesis Worlds",
+        "summary": "Genesis Worlds is a multi-creator gaming universe, with a diverse community working together to achieve a common goal: A metaverse that will still be growing, evolving, and actively played in 100 years. To achieve this, development and management of Genesis will be decentralized, with governance decisions guided by the Genesis Foundation, and voted on by players using the GENESIS token. Genesis will run as a nonprofit, with all assets owned by and revenue earned by the Genesis Foundation reinvested in the long-term success of the game.",
+        "contact": "info@gamecredits.org",
+        "website": "https://genesis.game"
+      }
     }
   },
   {
@@ -9399,12 +9406,19 @@
     "symbol": "WNAV",
     "decimals": 8,
     "address": "0x1a6872038B633Bc9EbD2ea36df3f81eAcd9b8823",
+    "logoURI": "https://navcoin.org/images/nav-logo-border.svg",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x75571a52de30e2d7160af134798acfb80cc9c0be"
+      "rootAddress": "0x75571a52de30e2d7160af134798acfb80cc9c0be",
+      "project": {
+        "name": "Navcoin",
+        "summary": "Privacy-oriented and community-based PoS cryptocurrency project with a wrapped representation (wNav) for cross-chain interoperatibility.",
+        "contact": "admin@navcoin.org",
+        "website": "https://navcoin.org"
+      }
     }
   },
   {
