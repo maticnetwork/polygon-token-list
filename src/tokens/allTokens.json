@@ -26104,5 +26104,26 @@
     "extensions": {
       "rootAddress": "0xbca3c97837a39099ec3082df97e28ce91be14472"
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Ludena Protocol",
+    "symbol": "LDN",
+    "decimals": 18,
+    "address": "0x7df5638222bbe24cce39f726c3b61cc03610622a",
+    "logoURI": "https://www.ludenaprotocol.io/data/ludena_protocol_symbol_basic.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xb29663aa4e2e81e425294193616c1b102b70a158",
+      "project": {
+        "name": "Ludena Protocol",
+        "summary": "Ludena Protocol is the ultimate blockchain game platform combinding P2E games, NFTs, staking, and guild into one. Users get rewarded for doing simple game related activity such as live streaming, sharing strategies, and even playing mini games in Ludena's guild platform, GameTalkTalk.",
+        "contact": "official@ludenaprotocol.io",
+        "website": "https://www.ludenaprotocol.io"
+      }
+    }
   }
 ]
