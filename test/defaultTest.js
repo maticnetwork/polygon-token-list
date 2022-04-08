@@ -22,21 +22,21 @@ describe('buildList', () => {
   it('contains no duplicate child addresses', () => {
     let map = {}
     for (const token of tokenlists.allTokensTokenList.tokens) {
-      const key = `${token.address}`
+      const key = `${token.address.toLowerCase()}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate child address: ${token.address} - allTokens list`)
       map[key] = true
     }
     map = {}
     for (const token of tokenlists.defaultTokenList.tokens) {
-      const key = `${token.address}`
+      const key = `${token.address.toLowerCase()}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate child address: ${token.address} - default list`)
       map[key] = true
     }
     map = {}
     for (const token of tokenlists.testnetTokenList.tokens) {
-      const key = `${token.address}`
+      const key = `${token.address.toLowerCase()}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate child address: ${token.address} - testnet list`)
       map[key] = true
@@ -47,7 +47,7 @@ describe('buildList', () => {
     let map = { pos: {}, plasma: {} }
     for (const token of tokenlists.allTokensTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
-      const key = `${token.extensions.rootAddress}`
+      const key = `${token.extensions.rootAddress.toLowerCase()}`
       expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - allTokens list`)
       map[tag][key] = true
@@ -55,7 +55,7 @@ describe('buildList', () => {
     map = { pos: {}, plasma: {} }
     for (const token of tokenlists.defaultTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
-      const key = `${token.extensions.rootAddress}`
+      const key = `${token.extensions.rootAddress.toLowerCase()}`
       expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - default list`)
       map[tag][key] = true
@@ -63,7 +63,7 @@ describe('buildList', () => {
     map = { pos: {}, plasma: {} }
     for (const token of tokenlists.testnetTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
-      const key = `${token.extensions.rootAddress}`
+      const key = `${token.extensions.rootAddress.toLowerCase()}`
       expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - testnet list`)
       map[tag][key] = true
