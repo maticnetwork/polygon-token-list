@@ -17399,20 +17399,6 @@
   },
   {
     "chainId": 137,
-    "name": "AdEx Network",
-    "symbol": "ADXX",
-    "decimals": 18,
-    "address": "0xdDa7b23D2D72746663E7939743f929a3d85FC975",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Bsit Token",
     "symbol": "BSIT",
     "decimals": 4,
@@ -20935,20 +20921,6 @@
   },
   {
     "chainId": 137,
-    "name": "Generation Of Yield",
-    "symbol": "mYGY",
-    "decimals": 6,
-    "address": "0x266aF96fece1C3dd4B8a0A6DE9aE7a3bD5408eE9",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x11b0a8C0FA626627601eD518c3538a39d92D609E"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Value USD",
     "symbol": "USDV",
     "decimals": 18,
@@ -22431,21 +22403,6 @@
   },
   {
     "chainId": 137,
-    "name": "Harvest Interest Token",
-    "symbol": "miFARM",
-    "decimals": 18,
-    "address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x1571eD0bed4D987fe2b498DdBaE7DFA19519F651"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
@@ -22459,20 +22416,6 @@
       "rootAddress": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/rai.svg"
-  },
-  {
-    "chainId": 137,
-    "name": "Wrapped Celo",
-    "symbol": "mwCELO",
-    "decimals": 18,
-    "address": "0xc30DD0cCE2e683aA68c87C280e73beB3DEc9B3BA",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a"
-    }
   },
   {
     "chainId": 137,
@@ -22779,20 +22722,6 @@
     ],
     "extensions": {
       "rootAddress": "0x6e742e29395cf5736c358538f0f1372ab3dfe731"
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "Harvest Reward Token",
-    "symbol": "mFARM",
-    "decimals": 18,
-    "address": "0x176f5AB638cf4Ff3B6239Ba609C3fadAA46ef5B0",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xa0246c9032bC3A600820415aE600c6388619A14D"
     }
   },
   {
@@ -25729,20 +25658,6 @@
   },
   {
     "chainId": 137,
-    "name": "IdleUSDC v4 [Best yield]",
-    "symbol": "idleUSDCYield",
-    "decimals": 18,
-    "address": "0xe8b3d257202a9dfe00ec396b8a8a45fced1f5798",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x5274891bec421b39d23760c04a6755ecb444797c"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "onG",
     "symbol": "ONG",
     "decimals": 18,
@@ -25753,20 +25668,6 @@
     ],
     "extensions": {
       "rootAddress": "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae"
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "AdEx Network",
-    "symbol": "ADX",
-    "decimals": 18,
-    "address": "0xdda7b23d2d72746663e7939743f929a3d85fc975",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3"
     }
   },
   {
