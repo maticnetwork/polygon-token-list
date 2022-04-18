@@ -24,6 +24,15 @@ const stagingTokenList = JSON.parse(JSON.stringify(allTokensTokenList))
 stagingTokenList.name = 'Polygon Staging List'
 const stagingList = [allTokens[0], allTokens[1], allTokens[2]]
 
+// Remove the project information from lists
+allTokens.forEach(token => {
+  delete token.extensions.project
+})
+
+defaultTokens.forEach(token => {
+  delete token.extensions.project
+})
+
 module.exports = function buildList () {
   const timestamp = new Date().toISOString()
 
