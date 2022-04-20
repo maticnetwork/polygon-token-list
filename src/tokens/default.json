@@ -340,5 +340,37 @@
         "website": "http://www.paxos.com/busd"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Decentral Games",
+    "symbol": "DG",
+    "decimals": 18,
+    "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
+    "extensions": {
+      "rootAddress": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/dg.svg"
+  },
+  {
+    "chainId": 137,
+    "name": "Decentraland MANA",
+    "symbol": "MANA",
+    "decimals": 18,
+    "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
+    "extensions": {
+      "rootAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+    },
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/mana.svg"
   }
 ]
