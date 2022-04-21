@@ -21,7 +21,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "address": "0x0000000000000000000000000000000000001010",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
     "tags": [
       "erc20",
       "plasma",
@@ -52,7 +52,7 @@
     "name": "Test Token",
     "symbol": "TST",
     "decimals": 18,
-    "address": "0x2d7882bedcbfddce29ba99965dd3cdf7fcb10a1e",
+    "address": "0xa0d9f8282cd48d22fd875e43be32793124f8ed47",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
     "tags": [
       "erc20",
