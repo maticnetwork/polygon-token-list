@@ -14748,6 +14748,7 @@
     "symbol": "GTC",
     "decimals": 18,
     "address": "0xdb95f9188479575F3F718a245EcA1B3BF74567EC",
+    "logoURI": "https://user-images.githubusercontent.com/9419140/164305478-c13be380-142e-4fe8-9adf-ac2c09e8f8d8.svg",
     "tags": [
       "pos",
       "erc20",
@@ -26187,27 +26188,6 @@
         "summary": "A complete set of decentralized finance protocols covering assets, lending, and trading, serving as DeFi infrastructure in Web3.",
         "contact": "contact@dforce.network",
         "website": "https://dforce.network/"
-      }
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "GitCoin",
-    "symbol": "GTC",
-    "decimals": 18,
-    "address": "0xdb95f9188479575F3F718a245EcA1B3BF74567EC",
-    "logoURI": "https://user-images.githubusercontent.com/9419140/164305478-c13be380-142e-4fe8-9adf-ac2c09e8f8d8.svg",
-    "tags": [
-      "gtc",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
-      "project": {
-        "name": "GitCoin DAO",
-        "summary": "DAO governance and staking coin",
-        "contact": "jason@gitcoin.co",
-        "website": "https://gitcoin.co/"
       }
     }
   }
