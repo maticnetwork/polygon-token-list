@@ -14748,13 +14748,20 @@
     "symbol": "GTC",
     "decimals": 18,
     "address": "0xdb95f9188479575F3F718a245EcA1B3BF74567EC",
+    "logoURI": "https://user-images.githubusercontent.com/9419140/164305478-c13be380-142e-4fe8-9adf-ac2c09e8f8d8.svg",
     "tags": [
       "pos",
       "erc20",
       "swapable"
     ],
     "extensions": {
-      "rootAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+      "rootAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "project": {
+        "name": "GitCoin DAO",
+        "summary": "DAO governance and staking coin",
+        "contact": "support@gitcoin.co",
+        "website": "https://gitcoin.co/"
+      }
     }
   },
   {
