@@ -253,27 +253,6 @@
   },
   {
     "chainId": 137,
-    "name": "QuickSwap - new",
-    "symbol": "QUICK",
-    "decimals": 18,
-    "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/quick.svg",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368",
-      "project": {
-        "name": "Quickswap",
-        "summary": "-",
-        "contact": "-",
-        "website": "https://quickswap.exchange/"
-      }
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Aavegotchi GHST Token",
     "symbol": "GHST",
     "decimals": 18,
