@@ -26217,5 +26217,26 @@
         "website": "https://dforce.network/"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Orbit Chain",
+    "symbol": "ORC",
+    "decimals": 18,
+    "address": "0x1bd5048e0b85c410dd039aa9c05069a9d82488b8",
+    "logoURI": "https://s.ozys.io/icon/orbitchain.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
+      "project": {
+        "name": "Orbit Chain",
+        "summary": "Orbit Chain is a cross-chain project that challenges the limitations of scalability due to the lack of connectivity and limited resources of existing public chains. Orbit Chain has worked to surpass the ever-present scalability and connectivity constraints that have limited traditional public chains. Its improvements and innovations grow user accessibility and convenience so blockchain-based protocols and services can have more real-life integration.",
+        "contact": "support@orbitchain.io",
+        "website": "https://orbitchain.io"
+      }
+    }
   }
 ]
