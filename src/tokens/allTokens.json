@@ -26229,6 +26229,8 @@
       "pos",
       "erc20"
     ],
+  
+    }
     "extensions": {
       "rootAddress": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
       "project": {
@@ -26237,6 +26239,17 @@
         "contact": "support@orbitchain.io",
         "website": "https://orbitchain.io"
       }
+    },
+    {
+      "chainId": 137,
+      "name": "VIP$",
+      "symbol": "VIP$",
+      "decimals": 18,
+      "address": "0x88C9F33b495904475378c20EC5AF9fb3408B52db",
+      "logoURI": "https://github.com/MCFRA6/VIP-/blob/main/VIP%24%20resize%20logo%203.png",
+      "tags": [
+        "pos",
+        "erc20"),
+      ]
+  
     }
-  }
-]
