@@ -6883,8 +6883,15 @@
       "pos",
       "erc20"
     ],
+    "logoURI": "https://changenow.io/images/sprite/currencies/blocks.svg",
     "extensions": {
-      "rootAddress": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb"
+      "rootAddress": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb",
+      "project": {
+        "name": "BLOCKS DAO",
+        "summary": "BLOCKS is focused on the migration of mainstream commerce into the blockchain space using a standard unit of measure, BLOCKS.",
+        "contact": "dao@blocks.io",
+        "website": "https://www.blocks.io/"
+      }
     }
   },
   {
@@ -26236,6 +26243,27 @@
         "summary": "Orbit Chain is a cross-chain project that challenges the limitations of scalability due to the lack of connectivity and limited resources of existing public chains. Orbit Chain has worked to surpass the ever-present scalability and connectivity constraints that have limited traditional public chains. Its improvements and innovations grow user accessibility and convenience so blockchain-based protocols and services can have more real-life integration.",
         "contact": "support@orbitchain.io",
         "website": "https://orbitchain.io"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "ClayStack Staked MATIC",
+    "symbol": "csMATIC",
+    "decimals": 18,
+    "address": "0x7ed6390f38d554B8518eF30B925b46972E768AF8",
+    "logoURI": "https://raw.githubusercontent.com/ClayStack/media-kit/14dd5b413d744230b299d2008e98c63ef112bbb6/token-images/csMATIC.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x38b7Bf4eeCF3EB530b1529c9401FC37d2a71a912",
+      "project": {
+        "name": "ClayStack",
+        "summary": "ClayStack is a liquid staking protocol that enables users to earn staking rewards and participate in DeFi simultaneously. Stake your tokens to receive csTokens in return, generating passive rewards without any lockups.",
+        "contact": "hello@claystack.com",
+        "website": "https://claystack.com/"
       }
     }
   }
