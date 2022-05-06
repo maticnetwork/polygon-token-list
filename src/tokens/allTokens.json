@@ -6883,8 +6883,15 @@
       "pos",
       "erc20"
     ],
+    "logoURI": "https://changenow.io/images/sprite/currencies/blocks.svg",
     "extensions": {
-      "rootAddress": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb"
+      "rootAddress": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb",
+      "project": {
+        "name": "BLOCKS DAO",
+        "summary": "BLOCKS is focused on the migration of mainstream commerce into the blockchain space using a standard unit of measure, BLOCKS.",
+        "contact": "dao@blocks.io",
+        "website": "https://www.blocks.io/"
+      }
     }
   },
   {
