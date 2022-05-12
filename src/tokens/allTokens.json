@@ -26266,5 +26266,26 @@
         "website": "https://claystack.com/"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Thales DAO Token",
+    "symbol": "THALES",
+    "decimals": 18,
+    "address": "0x692c44990e4f408ba0917f5c78a83160c1557237",
+    "logoURI": "https://raw.githubusercontent.com/0xProject/0x-staking-pool-registry/master/logos/thales_logo.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
+      "project": {
+        "name": "Thales",
+        "summary": "Decentralized Positional Markets",
+        "contact": "support@thalesmarket.io",
+        "website": "https://thalesmarket.io/"
+      }
+    }
   }
 ]
