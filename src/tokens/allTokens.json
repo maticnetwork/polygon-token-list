@@ -26278,6 +26278,28 @@
       "pos",
       "erc20"
     ],
+      {
+    "chainId": 137,
+    "name": "InterplanetaryExCredits",
+    "symbol": "IPEx",
+    "decimals": 18,
+    "address": "0x4799Ce6c0950e0073865Bb8603Df7f573D966647",
+    "logoURI": "https://github.com/codercoins/crypto/blob/main/logo.png?raw=true",
+    "tags": [
+      "IPEx",
+      "erc20",
+      "swapable"
+    ],
+    "extensions": {
+      "rootAddress": "InterplanetaryExCredits",
+      "project": {
+        "name": "IPEx",
+        "summary": "-",
+        "contact": "support@polygon.technology",
+        "website": "https://polygon.technology"
+      }
+    }
+  },
     "extensions": {
       "rootAddress": "0x8947da500eb47f82df21143d0c01a29862a8c3c5",
       "project": {
