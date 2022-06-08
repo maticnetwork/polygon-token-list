@@ -65,4 +65,15 @@
       "erc20"
     ]
   }
-]
+],  {
+  "chainId": 137,
+  "name": "KOCAKI",
+  "symbol": "KCK",
+  "decimals": 18,
+  "address": "0x9459C2da825fa8f16bD6Fe25158589fd42294fF8",
+  "logoURI": "https://ibb.co/vZbRSMz",
+  "tags": [
+    "erc20"
+  ]
+}
+
