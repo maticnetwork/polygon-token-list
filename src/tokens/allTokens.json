@@ -3812,12 +3812,19 @@
     "symbol": "PLSH",
     "decimals": 18,
     "address": "0x33044d2c29686795228b89b11d2d34727b8df9bc",
+    "logoURI": "https://raw.githubusercontent.com/PlushFamily/plush-design-assets/main/logos/plush/svg/plush-logo.svg",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0x26a22c97dd308657ada714d9ee0c08233b05fd48"
+      "rootAddress": "0x26a22c97dd308657ada714d9ee0c08233b05fd48",
+      "project": {
+        "name": "Plush Family",
+        "summary": "Intelligent open ecosystem of reliable dapps for families and their members.",
+        "contact": "https://discord.gg/wEguFDBbN6",
+        "website": "https://plush.family"
+      }
     }
   },
   {
@@ -5709,12 +5716,19 @@
     "symbol": "FOLO",
     "decimals": 18,
     "address": "0xeF205F99bD869e74b16050199d54327a0eCd343D",
+    "logoURI": "https://etherscan.io/token/images/alphaimpact_32.png",
     "tags": [
       "pos",
       "erc20"
     ],
     "extensions": {
-      "rootAddress": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a"
+      "rootAddress": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a",
+      "project": {
+        "name": "Alpha Impact",
+        "summary": "Alpha Impact is a social trading network that allows crypto enthusiasts to view and follow qualified, high performing investors.",
+        "contact": "austin@alphaimpact.fi",
+        "website": "https://alphaimpact.fi"
+      }
     }
   },
   {
@@ -26285,6 +26299,90 @@
         "summary": "Decentralized Positional Markets",
         "contact": "support@thalesmarket.io",
         "website": "https://thalesmarket.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Only Graded Coin",
+    "symbol": "OGUC",
+    "decimals": 18,
+    "address": "0xB4F74994FCBd60E1bC3603b9a33069eA1b32d4A4",
+    "logoURI": "https://onlygradedcoin.com/assets/images/ogc-logo.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xB4F74994FCBd60E1bC3603b9a33069eA1b32d4A4",
+      "project": {
+        "name": "Only Graded Coin",
+        "summary": "A Transparent and decentralized payment solution which projected to be one of the primary payment modes of the Only Graded Ecosystem.",
+        "contact": "developer@onlygradedcoin.com",
+        "website": "https://onlygradedcoin.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "TCGCoin",
+    "symbol": "TCGC",
+    "decimals": 18,
+    "address": "0x44ACD96620B708162af4A90524F29A6839675533",
+    "logoURI": "https://tcgverse-assets.s3.ap-northeast-1.amazonaws.com/tcgcoin_logo.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x2FFdE077455f81E28bAa675a46B9c085740216d4",
+      "project": {
+        "name": "TCGCoin",
+        "summary": "TCGCoin is a token issued by BOBG ltd. A basic token that can be used with services on CryptoSpells and TCGVerse.",
+        "contact": "info@cryptogames.co.jp",
+        "website": "https://tcgverse.gitbook.io/tcgverse/tcgc/tcgcoin"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Cityroots",
+    "symbol": "UNITY",
+    "decimals": 18,
+    "address": "0x9d7313E23C29e6d314A160A3fF345a2f7Ab0f3f5",
+    "logoURI": "https://etherscan.io/token/images/cityrootsunity_32.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x8fc1A87af3aD30a90cAa197B6c7aDb80d9F2aC44",
+      "project": {
+        "name": "Cityroots DAO",
+        "summary": "With scams, rugpulls, and ever changing market conditions, identifying quality projects is more critical now than ever before. Cityroots DAO aims to be the Amazon of NFT Marketplaces, providing an unprecedented experience on The Vault. All of the revenue goes to the treasury for Cityroots DAO, which is owned by the $UNITY token holders and managed by the City Council (informed by the DAO of 8k Elder Tree Soul NFTs). DAO members can vote to ‘Harvest’ so $UNITY holders can burn their tokens to receive funds from the treasury.",
+        "contact": "support@cityroots.io",
+        "website": "https://cityroots.io/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Respawn Finance Wrapped Staked Ethereum",
+    "symbol": "RFWSTETH",
+    "decimals": 18,
+    "address": "0x716ceb4Dc674FB91C4198c50b837F11f6ef75df0",
+    "logoURI": "https://assets.respawn.finance/rfwsteth.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x07FA101efde726E0956Edd2c4D5C8d3d1A5E9c53",
+      "project": {
+        "name": "Respawn Finance",
+        "summary": "Through respawn crypto economics respawn finance provides the base protocol layer between users and (game) content creators.",
+        "contact": "https://discord.gg/783Wr667VT",
+        "website": "https://respawn.finance/"
       }
     }
   }
