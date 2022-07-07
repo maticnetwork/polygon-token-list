@@ -12627,7 +12627,8 @@
     "address": "0xF11de26883EB2EBF9877a01703DDC1eB619094E6",
     "tags": [
       "pos",
-      "erc20"
+      "erc20",
+      "noDeposit"
     ],
     "extensions": {
       "rootAddress": "0x734c90044a0ba31b3f2e640c10dc5d3540499bfd"
