@@ -1,0 +1,52 @@
+{
+  "name": "Polygon Popular",
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 1
+  },
+  "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+  "keywords": [
+    "polygon",
+    "default",
+    "tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "swapable": {
+      "name": "Swapable",
+      "description": "Tokens are eligible for swaps"
+    },
+    "erc20": {
+      "name": "erc20",
+      "description": "Tokens are of ERC20 token type"
+    },
+    "pos": {
+      "name": "PoS",
+      "description": "PoS tokens"
+    },
+    "plasma": {
+      "name": "Plasma",
+      "description": "Plasma tokens"
+    },
+    "metaTx": {
+      "name": "MetaTx",
+      "description": "Tokens are eligible for meta transactions"
+    },
+    "customWithdrawEventSig": {
+      "name": "Custom Withdraw Event Signature",
+      "description": "The token has a custom withdraw event signature"
+    },
+    "noDeposit": {
+      "name": "Deposit Disabled",
+      "description": "Tokens are not eligible for deposits"
+    },
+    "noWithdraw": {
+      "name": "Withdraw Disabled",
+      "description": "Tokens are not eligible for withdraws"
+    }
+  }
+}
