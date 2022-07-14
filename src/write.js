@@ -1,53 +1,101 @@
-const fs = require('fs')
-const buildList = require('./build')
-const listRegistry = require('./listRegistry.json')
+const fs = require("fs")
+const buildList = require("./build")
+const listRegistry = require("./listRegistry.json")
 
 const tokenlists = buildList()
 
 // All Tokens Tokenlist
-fs.writeFile('build/tokenlists/allTokens.tokenlist.json', JSON.stringify(tokenlists.allTokensTokenList, null, 2), (err) => {
-  if (err) {
-    throw err
+fs.writeFile(
+  "build/tokenlists/allTokens.tokenlist.json",
+  JSON.stringify(tokenlists.vettedTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("allTokens.tokenlist.json successfully built")
   }
-  console.log('allTokens.tokenlist.json successfully built')
-})
+)
+
+// Vetted Tokenlist
+fs.writeFile(
+  "build/tokenlists/vetted.tokenlist.json",
+  JSON.stringify(tokenlists.vettedTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("vetted.tokenlist.json successfully built")
+  }
+)
 
 // Default Tokenlist
-fs.writeFile('build/tokenlists/default.tokenlist.json', JSON.stringify(tokenlists.defaultTokenList, null, 2), (err) => {
-  if (err) {
-    throw err
+fs.writeFile(
+  "build/tokenlists/default.tokenlist.json",
+  JSON.stringify(tokenlists.popularTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("default.tokenlist.json successfully built")
   }
-  console.log('default.tokenlist.json successfully built')
-})
+)
+
+// Popular Tokenlist
+fs.writeFile(
+  "build/tokenlists/popular.tokenlist.json",
+  JSON.stringify(tokenlists.popularTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("popular.tokenlist.json successfully built")
+  }
+)
 
 // Testnet Tokenlist
-fs.writeFile('build/tokenlists/testnet.tokenlist.json', JSON.stringify(tokenlists.testnetTokenList, null, 2), (err) => {
-  if (err) {
-    throw err
+fs.writeFile(
+  "build/tokenlists/testnet.tokenlist.json",
+  JSON.stringify(tokenlists.testnetTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("testnet.tokenlist.json successfully built")
   }
-  console.log('testnet.tokenlist.json successfully built')
-})
+)
 
 // Cross-Chain Tokenlist
-fs.writeFile('build/tokenlists/cross-chain.tokenlist.json', JSON.stringify(tokenlists.ccTokenList, null, 2), (err) => {
-  if (err) {
-    throw err
+fs.writeFile(
+  "build/tokenlists/cross-chain.tokenlist.json",
+  JSON.stringify(tokenlists.ccTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("cross-chain.tokenlist.json successfully built")
   }
-  console.log('cross-chain.tokenlist.json successfully built')
-})
+)
 
 // Staging Tokenlist
-fs.writeFile('build/tokenlists/staging.tokenlist.json', JSON.stringify(tokenlists.stagingTokenList, null, 2), (err) => {
-  if (err) {
-    throw err
+fs.writeFile(
+  "build/tokenlists/staging.tokenlist.json",
+  JSON.stringify(tokenlists.stagingTokenList, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("staging.tokenlist.json successfully built")
   }
-  console.log('staging.tokenlist.json successfully built')
-})
+)
 
 // List Registery
-fs.writeFile('build/listRegistry.json', JSON.stringify(listRegistry, null, 2), (err) => {
-  if (err) {
-    throw err
+fs.writeFile(
+  "build/listRegistry.json",
+  JSON.stringify(listRegistry, null, 2),
+  (err) => {
+    if (err) {
+      throw err
+    }
+    console.log("listRegistry.json successfully built")
   }
-  console.log('listRegistry.json successfully built')
-})
+)

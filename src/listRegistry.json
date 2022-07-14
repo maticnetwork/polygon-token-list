@@ -1,14 +1,14 @@
 [
   {
-    "name": "Polygon Tokens List",
-    "listURI": "api-polygon-tokens.polygon.technology/allTokens.tokenlist.json",
+    "name": "Polygon Vetted",
+    "listURI": "api-polygon-tokens.polygon.technology/vetted.tokenlist.json",
     "summary": "A list of tokens on the polygon network added by the community",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   },
   {
-    "name": "Default Polygon List",
-    "listURI": "api-polygon-tokens.polygon.technology/default.tokenlist.json",
+    "name": "Polygon Popular",
+    "listURI": "api-polygon-tokens.polygon.technology/popular.tokenlist.json",
     "summary": "A list of most used tokens on the polygon wallet",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
