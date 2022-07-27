@@ -3208,7 +3208,7 @@
     "name": "\"Ethereum Push Notification Service",
     "symbol": "PUSH",
     "decimals": 18,
-    "address": "0x858ac834c2c7b492db18e95afaf9654d003d5559",
+    "address": "0x58001cc1a9e17a20935079ab40b1b8f4fc19efd1",
     "tags": [
       "pos",
       "erc20"
@@ -4650,20 +4650,6 @@
     ],
     "extensions": {
       "rootAddress": "0xCCb4dFdb4f95697ab5c389185f0Ba9042A78576F"
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "MetalSwap",
-    "symbol": "XMT",
-    "decimals": 18,
-    "address": "0x5952A65759EA1f7b066532B26D7e347520cA6072",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e"
     }
   },
   {
@@ -26308,7 +26294,7 @@
     "name": "Only Graded Coin",
     "symbol": "OGUC",
     "decimals": 18,
-    "address": "0xB4F74994FCBd60E1bC3603b9a33069eA1b32d4A4",
+    "address": "0x2ae0e530ca7857b0e40078c43ba7158ce424838a",
     "logoURI": "https://onlygradedcoin.com/assets/images/ogc-logo.png",
     "tags": [
       "pos",
