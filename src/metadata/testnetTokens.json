@@ -2,8 +2,8 @@
   "name": "Polygon Testnet List",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   },
   "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
   "keywords": [
