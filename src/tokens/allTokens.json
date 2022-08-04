@@ -26372,5 +26372,21 @@
         "website": "https://respawn.finance/"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "REVV Motorsport Shard",
+    "symbol": "SHRD",
+    "decimals": 18,
+    "address": "0xc99fd38d967944d7c3578afc4451920404c238d1",
+    "tags": [
+      "pos",
+      "erc20",
+      "customWithdrawEventSig"
+    ],
+    "extensions": {
+      "rootAddress": "0x6d4a51c0ddfe6baeb7e233d6df5ae38a81f55c4b",
+      "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
+    }
   }
 ]
