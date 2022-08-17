@@ -26388,5 +26388,46 @@
       "rootAddress": "0x6d4a51c0ddfe6baeb7e233d6df5ae38a81f55c4b",
       "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Stader MaticX",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
+      "project": {
+        "name": "Stader",
+        "summary": "-",
+        "contact": "https://discord.com/invite/xJURAhSmav",
+        "website": "https://staderlabs.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "AnimeToken",
+    "symbol": "ANX",
+    "decimals": 18,
+    "address": "0xe57EAC8b4666032Cfa16b626FfE99403a40b64D3",
+    "logoURI": "https://animebank.s3.ap-northeast-1.amazonaws.com/assets/anx.png",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x8DaDC5124714bEd53fbc603478De7D4BFEE1fF2a",
+      "project": {
+        "name": "AnimeBank",
+        "summary": "Anime Bank is developed based on the system of “Stakes.social (https://stakes.social/ )”, a sponsor platform to support engineers by Dev Protocol that has raised 200M JPY in a year. We will announce the launch schedule of Anime Bank as soon as we receive an update from the developer.",
+        "contact": "https://docs.google.com/forms/d/e/1FAIpQLSdoUhSsfRJO2cB4ifoZaZfg6mUaKm2Oo6cXCYo4QF2UFsVk1w/viewform",
+        "website": "https://anime-bank.com/"
+      }
+    }
   }
 ]
