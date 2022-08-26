@@ -491,21 +491,6 @@
   },
   {
     "chainId": 137,
-    "name": "PYR Token",
-    "symbol": "PYR",
-    "decimals": 18,
-    "address": "0x430ef9263e76dae63c84292c3409d61c598e9682",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Wootrade Network",
     "symbol": "WOO",
     "decimals": 18,
@@ -585,21 +570,6 @@
         "contact": "https://discord.gg/sswGDYGBt5",
         "website": "https://www.orbs.com/"
       }
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "the metaverse game hub",
-    "symbol": "MGH",
-    "decimals": 18,
-    "address": "0xc3C604F1943B8C619c5D65cd11A876e9C8eDCF10",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x8765b1a0eb57ca49be7eacd35b24a574d0203656"
     }
   },
   {
@@ -795,21 +765,6 @@
   },
   {
     "chainId": 137,
-    "name": "Banana",
-    "symbol": "BANANA",
-    "decimals": 18,
-    "address": "0xbc91347e80886453f3f8bbd6d7ac07c122d87735",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "PLOT",
     "symbol": "PLOT",
     "decimals": 18,
@@ -882,21 +837,6 @@
     ],
     "extensions": {
       "rootAddress": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a"
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "THX Network",
-    "symbol": "THX",
-    "decimals": 18,
-    "address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xe632ea2ef2cfd8fc4a2731c76f99078aef6a4b31"
     }
   },
   {
@@ -1295,21 +1235,6 @@
   },
   {
     "chainId": 137,
-    "name": "DecentraWeb",
-    "symbol": "DWEB",
-    "decimals": 18,
-    "address": "0x8839e639F210B80ffea73AedF51baed8DAc04499",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xE7f58A92476056627f9FdB92286778aBd83b285F"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Instadapp",
     "symbol": "INST",
     "decimals": 18,
@@ -1339,21 +1264,6 @@
       "rootAddress": "0x4f81c790581b240a5c948afd173620ecc8c71c8d"
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/xdg.svg"
-  },
-  {
-    "chainId": 137,
-    "name": "Mechanium",
-    "symbol": "$MECHA",
-    "decimals": 18,
-    "address": "0xaCd4E2d936Be9B16c01848A3742A34B3D5A5bDfa",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5"
-    }
   },
   {
     "chainId": 137,
@@ -1390,21 +1300,6 @@
         "contact": "https://twitter.com/GetBlockWallet",
         "website": "BlockWallet.io"
       }
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "RIOT",
-    "symbol": "RIOT",
-    "decimals": 18,
-    "address": "0x4FF0b68ABc2b9E4e1401E9b691DBa7d66B264AC8",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xf56408077487cB879c992909C5b5C66D68c02Eb4"
     }
   },
   {
@@ -1502,21 +1397,6 @@
   },
   {
     "chainId": 137,
-    "name": "Burp",
-    "symbol": "BURP",
-    "decimals": 18,
-    "address": "0x538d47d142f6993038a667e9d6210d3735749b36",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x33f391f4c4fe802b70b77ae37670037a92114a7c"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "YfDAI.finance",
     "symbol": "Yf-DAI",
     "decimals": 18,
@@ -1530,36 +1410,6 @@
       "rootAddress": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/yf-dai.svg"
-  },
-  {
-    "chainId": 137,
-    "name": "UniX Gaming",
-    "symbol": "UNIX",
-    "decimals": 18,
-    "address": "0x8C4476DFEC8e7EEdf2DE3e9E9461B7c14C828d46",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xddd6a0ecc3c6f6c102e5ea3d8af7b801d1a77ac8"
-    }
-  },
-  {
-    "chainId": 137,
-    "name": "DOG COLLAR",
-    "symbol": "COLLAR",
-    "decimals": 18,
-    "address": "0xd5fa77A860FeA9cFf31DA91BbF9e0FaEa9538290",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x9783b81438c24848f85848f8df31845097341771"
-    }
   },
   {
     "chainId": 137,
