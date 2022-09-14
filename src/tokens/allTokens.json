@@ -25883,20 +25883,6 @@
   },
   {
     "chainId": 137,
-    "name": "CACHE Gold",
-    "symbol": "CGT",
-    "decimals": 8,
-    "address": "0xc17d249c8a675c2e67a5b305a3e6b23cc45d81aa",
-    "tags": [
-      "pos",
-      "erc20"
-    ],
-    "extensions": {
-      "rootAddress": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Yield",
     "symbol": "YLD",
     "decimals": 18,
@@ -26427,6 +26413,48 @@
         "summary": "Anime Bank is developed based on the system of “Stakes.social (https://stakes.social/ )”, a sponsor platform to support engineers by Dev Protocol that has raised 200M JPY in a year. We will announce the launch schedule of Anime Bank as soon as we receive an update from the developer.",
         "contact": "https://docs.google.com/forms/d/e/1FAIpQLSdoUhSsfRJO2cB4ifoZaZfg6mUaKm2Oo6cXCYo4QF2UFsVk1w/viewform",
         "website": "https://anime-bank.com/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Cobak Token",
+    "symbol": "CBK",
+    "decimals": 18,
+    "address": "0x4EC203dD0699Fac6adAF483CDd2519BC05D2c573",
+    "logoURI": "https://storage.cobak.co/logo/cbk_symbol.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+      "project": {
+        "name": "Cobak",
+        "summary": "-",
+        "contact": "partner@cobak.co",
+        "website": "https://cobak.co.kr/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Apecoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/ape.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "project": {
+        "name": "Project WL",
+        "summary": "Bored Ape Game",
+        "contact": "jongtae.choi@nway.com",
+        "website": "https://apecoin.com/"
       }
     }
   }
