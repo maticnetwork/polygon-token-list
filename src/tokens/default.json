@@ -1446,5 +1446,26 @@
         "website": "https://streamr.network"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Apecoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/ape.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "project": {
+        "name": "Project WL",
+        "summary": "Bored Ape Game",
+        "contact": "jongtae.choi@nway.com",
+        "website": "https://apecoin.com/"
+      }
+    }
   }
 ]
