@@ -1,8 +1,8 @@
-const allTokens = require('./tokens/allTokens.json')
-const defaultTokens = require('./tokens/default.json')
+const polygonTokens = require('./tokens/polygonTokens.json')
+const popularTokens = require('./tokens/popularTokens.json')
 const testnetTokens = require('./tokens/testnetTokens.json')
-const allTokensTokenList = require('./metadata/allTokens.json')
-const defaultTokenList = require('./metadata/default.json')
+const polygonTokensTokenList = require('./metadata/polygonTokens.json')
+const popularTokenList = require('./metadata/popularTokens.json')
 const testnetTokenList = require('./metadata/testnetTokens.json')
 
 // Cross-chain lists
@@ -20,24 +20,24 @@ const ccOptimismTokens = require('./tokens/crossChain/optimism.json')
 const ccPolygonTokens = require('./tokens/crossChain/polygonPoS.json')
 
 // Staging list
-const stagingTokenList = JSON.parse(JSON.stringify(allTokensTokenList))
+const stagingTokenList = JSON.parse(JSON.stringify(polygonTokensTokenList))
 stagingTokenList.name = 'Polygon Staging List'
-const stagingList = [allTokens[0], allTokens[1], allTokens[2]]
+const stagingList = [polygonTokens[0], polygonTokens[1], polygonTokens[2]]
 
 // Remove the project information from lists
-allTokens.forEach(token => {
+polygonTokens.forEach(token => {
   delete token.extensions.project
 })
 
-defaultTokens.forEach(token => {
+popularTokens.forEach(token => {
   delete token.extensions.project
 })
 
 module.exports = function buildList () {
   const timestamp = new Date().toISOString()
 
-  Object.assign(allTokensTokenList, { timestamp, tokens: allTokens }) // AllTokens tokenlist
-  Object.assign(defaultTokenList, { timestamp, tokens: defaultTokens }) // Defaulkt tokenlist
+  Object.assign(polygonTokensTokenList, { timestamp, tokens: polygonTokens }) // PolygonTokens tokenlist
+  Object.assign(popularTokenList, { timestamp, tokens: popularTokens }) // popular tokenlist
   Object.assign(testnetTokenList, { timestamp, tokens: testnetTokens }) // Testnet tokenlist
   Object.assign(
     ccTokenList,
@@ -58,5 +58,5 @@ module.exports = function buildList () {
   ) // Crosschain tokenlist
   Object.assign(stagingTokenList, { timestamp, tokens: stagingList }) // Staging Tokenlist
 
-  return { allTokensTokenList, defaultTokenList, testnetTokenList, ccTokenList, stagingTokenList }
+  return { polygonTokensTokenList, popularTokenList, testnetTokenList, ccTokenList, stagingTokenList }
 }
