@@ -13,25 +13,25 @@ describe('buildList', () => {
   const tokenlists = buildList()
 
   it('validates', () => {
-    expect(validator(tokenlists.allTokensTokenList)).to.equal(true)
-    expect(validator(tokenlists.defaultTokenList)).to.equal(true)
+    expect(validator(tokenlists.polygonTokensTokenList)).to.equal(true)
+    expect(validator(tokenlists.popularTokenList)).to.equal(true)
     expect(validator(tokenlists.testnetTokenList)).to.equal(true)
     expect(validator(tokenlists.ccTokenList)).to.equal(true)
   })
 
   it('contains no duplicate child addresses', () => {
     let map = {}
-    for (const token of tokenlists.allTokensTokenList.tokens) {
+    for (const token of tokenlists.polygonTokensTokenList.tokens) {
       const key = `${token.address.toLowerCase()}`
       expect(typeof map[key])
-        .to.equal('undefined', `duplicate child address: ${token.address} - allTokens list`)
+        .to.equal('undefined', `duplicate child address: ${token.address} - polygonTokens list`)
       map[key] = true
     }
     map = {}
-    for (const token of tokenlists.defaultTokenList.tokens) {
+    for (const token of tokenlists.popularTokenList.tokens) {
       const key = `${token.address.toLowerCase()}`
       expect(typeof map[key])
-        .to.equal('undefined', `duplicate child address: ${token.address} - default list`)
+        .to.equal('undefined', `duplicate child address: ${token.address} - polpularTokens list`)
       map[key] = true
     }
     map = {}
@@ -45,19 +45,19 @@ describe('buildList', () => {
 
   it('contains no duplicate root addresses', () => {
     let map = { pos: {}, plasma: {} }
-    for (const token of tokenlists.allTokensTokenList.tokens) {
+    for (const token of tokenlists.polygonTokensTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
       const key = `${token.extensions.rootAddress.toLowerCase()}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - allTokens list`)
+        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - polygonTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
-    for (const token of tokenlists.defaultTokenList.tokens) {
+    for (const token of tokenlists.popularTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
       const key = `${token.extensions.rootAddress.toLowerCase()}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - default list`)
+        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - polpularTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
@@ -72,19 +72,19 @@ describe('buildList', () => {
 
   it('contains no duplicate symbols', () => {
     let map = { pos: {}, plasma: {} }
-    for (const token of tokenlists.allTokensTokenList.tokens) {
+    for (const token of tokenlists.polygonTokensTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
       const key = `${token.symbol.toLowerCase()}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate symbol: ${token.symbol} - allTokens list`)
+        .to.equal('undefined', `duplicate symbol: ${token.symbol} - polygonTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
-    for (const token of tokenlists.defaultTokenList.tokens) {
+    for (const token of tokenlists.popularTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
       const key = `${token.symbol.toLowerCase()}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate symbol: ${token.symbol} - default list`)
+        .to.equal('undefined', `duplicate symbol: ${token.symbol} - polpularTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
@@ -99,19 +99,19 @@ describe('buildList', () => {
 
   it('contains no duplicate names', () => {
     let map = { pos: {}, plasma: {} }
-    for (const token of tokenlists.allTokensTokenList.tokens) {
+    for (const token of tokenlists.polygonTokensTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
       const key = `${token.name.toLowerCase()}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate name: ${token.name} - allTokens list`)
+        .to.equal('undefined', `duplicate name: ${token.name} - polygonTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
-    for (const token of tokenlists.defaultTokenList.tokens) {
+    for (const token of tokenlists.popularTokenList.tokens) {
       const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
       const key = `${token.name.toLowerCase()}`
       expect(typeof map[tag][key])
-        .to.equal('undefined', `duplicate name: ${token.name} - default list`)
+        .to.equal('undefined', `duplicate name: ${token.name} - polpularTokens list`)
       map[tag][key] = true
     }
     map = { pos: {}, plasma: {} }
