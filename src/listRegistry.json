@@ -26,5 +26,12 @@
     "summary": "A list of tokens on the Mumbai testnet",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
+  },
+  {
+    "name": "BlackList Tokens List",
+    "listURI": "api-polygon-tokens.polygon.technology/blacklist.tokenlist.json",
+    "summary": "A list of tokens that are blacklisted",
+    "homepage": "polygon.technology",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   }
 ]

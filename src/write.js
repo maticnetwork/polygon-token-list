@@ -58,6 +58,14 @@ fs.writeFile('build/tokenlists/staging.tokenlist.json', JSON.stringify(tokenlist
   console.log('staging.tokenlist.json successfully built')
 })
 
+// Blacklist Tokenlist
+fs.writeFile('build/tokenlists/blacklist.tokenlist.json', JSON.stringify(tokenlists.blacklistTokenList, null, 2), (err) => {
+  if (err) {
+    throw err
+  }
+  console.log('blacklist.tokenlist.json successfully built')
+})
+
 // List Registery
 fs.writeFile('build/listRegistry.json', JSON.stringify(listRegistry, null, 2), (err) => {
   if (err) {

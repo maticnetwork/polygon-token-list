@@ -1,9 +1,11 @@
 const polygonTokens = require('./tokens/polygonTokens.json')
 const popularTokens = require('./tokens/popularTokens.json')
 const testnetTokens = require('./tokens/testnetTokens.json')
+const blacklistTokens = require('./tokens/blacklistTokens.json')
 const polygonTokensTokenList = require('./metadata/polygonTokens.json')
 const popularTokenList = require('./metadata/popularTokens.json')
 const testnetTokenList = require('./metadata/testnetTokens.json')
+const blacklistTokenList = require('./metadata/blacklistTokens.json')
 
 // Cross-chain lists
 const ccTokenList = require('./metadata/crossChain.json')
@@ -39,6 +41,7 @@ module.exports = function buildList () {
   Object.assign(polygonTokensTokenList, { timestamp, tokens: polygonTokens }) // PolygonTokens tokenlist
   Object.assign(popularTokenList, { timestamp, tokens: popularTokens }) // popular tokenlist
   Object.assign(testnetTokenList, { timestamp, tokens: testnetTokens }) // Testnet tokenlist
+  Object.assign(blacklistTokenList, { timestamp, tokens: blacklistTokens }) // PolygonTokens tokenlist
   Object.assign(
     ccTokenList,
     {
@@ -58,5 +61,5 @@ module.exports = function buildList () {
   ) // Crosschain tokenlist
   Object.assign(stagingTokenList, { timestamp, tokens: stagingList }) // Staging Tokenlist
 
-  return { polygonTokensTokenList, popularTokenList, testnetTokenList, ccTokenList, stagingTokenList }
+  return { polygonTokensTokenList, popularTokenList, testnetTokenList, blacklistTokenList, ccTokenList, stagingTokenList }
 }

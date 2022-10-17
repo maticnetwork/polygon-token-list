@@ -14,6 +14,7 @@ describe('buildList', () => {
 
   it('validates', () => {
     expect(validator(tokenlists.polygonTokensTokenList)).to.equal(true)
+    expect(validator(tokenlists.blacklistTokenList)).to.equal(true)
     expect(validator(tokenlists.popularTokenList)).to.equal(true)
     expect(validator(tokenlists.testnetTokenList)).to.equal(true)
     expect(validator(tokenlists.ccTokenList)).to.equal(true)
@@ -39,6 +40,13 @@ describe('buildList', () => {
       const key = `${token.address.toLowerCase()}`
       expect(typeof map[key])
         .to.equal('undefined', `duplicate child address: ${token.address} - testnet list`)
+      map[key] = true
+    }
+    map = {}
+    for (const token of tokenlists.blacklistTokenList.tokens) {
+      const key = `${token.address.toLowerCase()}`
+      expect(typeof map[key])
+        .to.equal('undefined', `duplicate child address: ${token.address} - blacklist token list`)
       map[key] = true
     }
   })
@@ -68,6 +76,14 @@ describe('buildList', () => {
         .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - testnet list`)
       map[tag][key] = true
     }
+    map = { pos: {}, plasma: {} }
+    for (const token of tokenlists.blacklistTokenList.tokens) {
+      const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
+      const key = `${token.extensions.rootAddress.toLowerCase()}`
+      expect(typeof map[tag][key])
+        .to.equal('undefined', `duplicate root address: ${token.extensions.rootAddress} - blacklist token list`)
+      map[tag][key] = true
+    }
   })
 
   it('contains no duplicate symbols', () => {
@@ -95,6 +111,14 @@ describe('buildList', () => {
         .to.equal('undefined', `duplicate symbol: ${token.symbol} - testent list`)
       map[tag][key] = true
     }
+    map = { pos: {}, plasma: {} }
+    for (const token of tokenlists.blacklistTokenList.tokens) {
+      const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
+      const key = `${token.symbol.toLowerCase()}`
+      expect(typeof map[tag][key])
+        .to.equal('undefined', `duplicate symbol: ${token.symbol} - blacklist token list`)
+      map[tag][key] = true
+    }
   })
 
   it('contains no duplicate names', () => {
@@ -120,6 +144,14 @@ describe('buildList', () => {
       const key = `${token.name.toLowerCase()}`
       expect(typeof map[tag][key])
         .to.equal('undefined', `duplicate name: ${token.name} - testnet list`)
+      map[tag][key] = true
+    }
+    map = { pos: {}, plasma: {} }
+    for (const token of tokenlists.blacklistTokenList.tokens) {
+      const tag = token.tags.includes('pos') ? 'pos' : 'plasma'
+      const key = `${token.name.toLowerCase()}`
+      expect(typeof map[tag][key])
+        .to.equal('undefined', `duplicate name: ${token.name} - blacklist token list`)
       map[tag][key] = true
     }
   })
