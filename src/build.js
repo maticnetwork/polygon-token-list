@@ -41,7 +41,7 @@ module.exports = function buildList () {
   Object.assign(polygonTokensTokenList, { timestamp, tokens: polygonTokens }) // PolygonTokens tokenlist
   Object.assign(popularTokenList, { timestamp, tokens: popularTokens }) // popular tokenlist
   Object.assign(testnetTokenList, { timestamp, tokens: testnetTokens }) // Testnet tokenlist
-  Object.assign(blacklistTokenList, { timestamp, tokens: blacklistTokens }) // PolygonTokens tokenlist
+  Object.assign(blacklistTokenList, { timestamp, tokens: blacklistTokens }) // blacklist tokenlist
   Object.assign(
     ccTokenList,
     {

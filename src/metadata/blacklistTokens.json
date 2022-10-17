@@ -1,29 +1,28 @@
 {
     "name": "BlackList Tokens List",
     "version": {
-      "major": 3,
-      "minor": 0,
-      "patch": 0
+        "major": 3,
+        "minor": 0,
+        "patch": 0
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
     "keywords": [
-      "polygon",
-      "blacklist",
-      "tokens"
+        "polygon",
+        "blacklist",
+        "tokens"
     ],
     "tags": {
-      "erc20": {
-        "name": "erc20",
-        "description": "Tokens are of ERC20 token type"
-      },
-      "pos": {
-        "name": "PoS",
-        "description": "PoS tokens"
-      },
-      "plasma": {
-        "name": "Plasma",
-        "description": "Plasma tokens"
-      }
+        "erc20": {
+            "name": "erc20",
+            "description": "Tokens are of ERC20 token type"
+        },
+        "pos": {
+            "name": "PoS",
+            "description": "PoS tokens"
+        },
+        "plasma": {
+            "name": "Plasma",
+            "description": "Plasma tokens"
+        }
     }
-  }
-  
+}
