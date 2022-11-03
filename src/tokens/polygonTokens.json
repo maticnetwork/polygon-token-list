@@ -26457,5 +26457,26 @@
         "website": "https://apecoin.com/"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "decimals": 18,
+    "address": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc",
+    "logoURI": "https://2085701667-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo33kX1T6RRp4inOcEH1d%2Fuploads%2FQCmyGUDBYGZjov370F6T%2Facross%20symbol.svg?alt=media&token=0dd53bc2-d38d-4e3e-b90f-f6c3c981a89e",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
+      "project": {
+        "name": "Across Protocol",
+        "summary": "Across allows users to move tokens instantly and cheaply between EVM networks by borrowing liquidity from a decentralized network of relayers who are reimbursed on a chain of their choosing from a single liquidity pool on Ethereum Mainnet",
+        "contact": "hello@umaproject.org",
+        "website": "https://across.to/"
+      }
+    }
   }
 ]
