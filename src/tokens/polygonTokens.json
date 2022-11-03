@@ -26377,10 +26377,11 @@
   },
   {
     "chainId": 137,
-    "name": "Stader MaticX",
+    "name": "Liquid Staked Matic by Stader",
     "symbol": "MaticX",
     "decimals": 18,
     "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "logoURI": "https://user-images.githubusercontent.com/19915413/198746681-bcfd16fd-72e5-41b3-bcb8-5494d77195e0.svg",
     "tags": [
       "pos",
       "erc20"
@@ -26390,7 +26391,7 @@
       "project": {
         "name": "Stader",
         "summary": "-",
-        "contact": "https://discord.com/invite/xJURAhSmav",
+        "contact": "gm@staderlabs.com",
         "website": "https://staderlabs.com/"
       }
     }
