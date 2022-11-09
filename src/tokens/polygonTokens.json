@@ -26154,7 +26154,7 @@
     "symbol": "DUST",
     "decimals": 8,
     "address": "0x556f501cf8a43216df5bc9cc57eb04d4ffaa9e6d",
-    "logoURI":"https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/dust.svg",
+    "logoURI": "https://raw.githubusercontent.com/BlockTimeWorld/crawler/main/icons/dust.svg",
     "tags": [
       "pos",
       "erc20",
@@ -26477,6 +26477,27 @@
         "summary": "Across allows users to move tokens instantly and cheaply between EVM networks by borrowing liquidity from a decentralized network of relayers who are reimbursed on a chain of their choosing from a single liquidity pool on Ethereum Mainnet",
         "contact": "hello@umaproject.org",
         "website": "https://across.to/"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Apecoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/ape.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "project": {
+        "name": "Project WL",
+        "summary": "Bored Ape Game",
+        "contact": "jongtae.choi@nway.com",
+        "website": "https://apecoin.com/"
       }
     }
   }

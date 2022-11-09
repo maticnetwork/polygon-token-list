@@ -379,7 +379,11 @@
     "symbol": "ULT",
     "decimals": 18,
     "address": "0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
     },
@@ -391,7 +395,11 @@
     "symbol": "SAND",
     "decimals": 18,
     "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
     },
@@ -403,7 +411,11 @@
     "symbol": "stMATIC",
     "decimals": 18,
     "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599"
     }
@@ -414,7 +426,11 @@
     "symbol": "TUSD",
     "decimals": 18,
     "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x0000000000085d4780B73119b644AE5ecd22b376"
     },
@@ -426,7 +442,11 @@
     "symbol": "SX",
     "decimals": 18,
     "address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x99fE3B1391503A1bC1788051347A1324bff41452"
     },
@@ -438,7 +458,10 @@
     "symbol": "NZDS",
     "decimals": 6,
     "address": "0xeaFE31Cd9e8E01C8f0073A2C974f728Fb80e9DcE",
-    "tags": ["pos", "erc20"],
+    "tags": [
+      "pos",
+      "erc20"
+    ],
     "extensions": {
       "rootAddress": "0xDa446fAd08277B4D2591536F204E018f32B6831c"
     }
@@ -449,7 +472,11 @@
     "symbol": "FRAX",
     "decimals": 18,
     "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x853d955acef822db058eb8505911ed77f175b99e"
     },
@@ -461,7 +488,11 @@
     "symbol": "CRV",
     "decimals": 18,
     "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52"
     },
@@ -473,7 +504,11 @@
     "symbol": "CXO",
     "decimals": 18,
     "address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0xb6ee9668771a79be7967ee29a63d4184f8097143"
     }
@@ -484,7 +519,11 @@
     "symbol": "agEUR",
     "decimals": 18,
     "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
-    "tags": ["pos", "erc20", "swapable"],
+    "tags": [
+      "pos",
+      "erc20",
+      "swapable"
+    ],
     "extensions": {
       "rootAddress": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8"
     }
@@ -1444,6 +1483,27 @@
         "summary": "Streamr is a decentralized real-time data network for web3. Create, share and consume data streams on an open, scalable P2P protocol with powerful tools for monetization. As a layer zero protocol, it provides a publish/subscribe messaging framework for decentralized applications built on top.",
         "contact": "contact@streamr.network",
         "website": "https://streamr.network"
+      }
+    }
+  },
+  {
+    "chainId": 137,
+    "name": "Apecoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/ape.svg",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+      "project": {
+        "name": "Project WL",
+        "summary": "Bored Ape Game",
+        "contact": "jongtae.choi@nway.com",
+        "website": "https://apecoin.com/"
       }
     }
   },
