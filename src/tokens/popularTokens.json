@@ -507,21 +507,6 @@
   },
   {
     "chainId": 137,
-    "name": "Wrapped Ether",
-    "symbol": "WETH",
-    "decimals": 18,
-    "address": "0xae740d42e4ff0c5086b2b5b5d149eb2f9e1a754f",
-    "tags": [
-      "pos",
-      "erc20",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-    }
-  },
-  {
-    "chainId": 137,
     "name": "Kyber Network Crystal",
     "symbol": "KNC",
     "decimals": 18,
