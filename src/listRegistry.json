@@ -1,35 +1,35 @@
 [
   {
     "name": "Polygon Tokens",
-    "listURI": "api-polygon-tokens.polygon.technology/polygonTokens.tokenlist.json",
+    "listURI": "api-polygon-tokens.polygon.technology/tokenlists/polygonTokens.tokenlist.json",
     "summary": "A list of tokens on the polygon network added by the community",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   },
   {
     "name": "Popular Tokens",
-    "listURI": "api-polygon-tokens.polygon.technology/popularTokens.tokenlist.json",
+    "listURI": "api-polygon-tokens.polygon.technology/tokenlists/popularTokens.tokenlist.json",
     "summary": "A list of most used tokens on the polygon wallet",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   },
   {
     "name": "Cross-Chain",
-    "listURI": "api-polygon-tokens.polygon.technology/cross-chain.tokenlist.json",
+    "listURI": "api-polygon-tokens.polygon.technology/tokenlists/cross-chain.tokenlist.json",
     "summary": "A cross-chain tokens list for transfers and swaps",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   },
   {
     "name": "Polygon Testnet",
-    "listURI": "api-polygon-tokens.polygon.technology/testnet.tokenlist.json",
+    "listURI": "api-polygon-tokens.polygon.technology/tokenlists/testnet.tokenlist.json",
     "summary": "A list of tokens on the Mumbai testnet",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
   },
   {
     "name": "BlackList Tokens",
-    "listURI": "api-polygon-tokens.polygon.technology/blacklist.tokenlist.json",
+    "listURI": "api-polygon-tokens.polygon.technology/tokenlists/blacklist.tokenlist.json",
     "summary": "A list of tokens that are blacklisted",
     "homepage": "polygon.technology",
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
