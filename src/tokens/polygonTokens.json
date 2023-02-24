@@ -26464,5 +26464,29 @@
         "website": "https://across.to/"
       }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "VOXEL",
+    "symbol": "VOXEL",
+    "decimals": 6,
+    "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+    "logoURI": "https://user-images.githubusercontent.com/123928327/215405960-492e53a4-6fc8-4545-95e7-528cfda4538a.png",
+    "tags": [
+      "pos",
+      "erc20",
+      "noDeposit",
+      "noWithdraw",
+      "swapable"
+    ],
+    "extensions": {
+      "rootAddress": "0x0000000000000000000000000000000000000000",
+      "project": {
+        "name": "Voxies",
+        "summary": "Blockchain Video Game",
+        "contact": "https://discord.com/invite/eQzGhVJ8F9",
+        "website": "https://www.voxies.io/"
+      }
+    }
   }
 ]
