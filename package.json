@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.json",
     "scripts": {
-        "test": "mocha 'test/tokenAddition'",
+        "test": "mocha 'tests/tokenAddition'",
         "test-all": "mocha",
         "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js",
         "lint": "eslint \"./src/*\"",
