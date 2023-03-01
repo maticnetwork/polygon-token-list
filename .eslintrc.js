@@ -7,5 +7,7 @@ module.exports = {
     },
     rules: {
         "space-before-function-paren": ["error", "never"],
+        indent: ["error", 4],
+        quotes: ["error", "double"],
     },
 };

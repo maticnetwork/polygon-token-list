@@ -1,46 +1,38 @@
 [
-  {
-    "chainId": 1284,
-    "name": "Ethereum",
-    "symbol": "WETH",
-    "decimals": 18,
-    "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
-    "tags": [
-      "erc20"
-    ]
-  },
-  {
-    "chainId": 1284,
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
-    "tags": [
-      "erc20"
-    ]
-  },
-  {
-    "chainId": 1284,
-    "name": "Tether",
-    "symbol": "USDT",
-    "decimals": 6,
-    "address": "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
-    "tags": [
-      "erc20"
-    ]
-  },
-  {
-    "chainId": 1284,
-    "name": "Dai",
-    "symbol": "DAI",
-    "decimals": 18,
-    "address": "0xc234a67a4f840e61ade794be47de455361b52413",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
-    "tags": [
-      "erc20"
-    ]
-  }
+    {
+        "chainId": 1284,
+        "name": "Ethereum",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "tags": ["erc20"]
+    },
+    {
+        "chainId": 1284,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+        "tags": ["erc20"]
+    },
+    {
+        "chainId": 1284,
+        "name": "Tether",
+        "symbol": "USDT",
+        "decimals": 6,
+        "address": "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+        "tags": ["erc20"]
+    },
+    {
+        "chainId": 1284,
+        "name": "Dai",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0xc234a67a4f840e61ade794be47de455361b52413",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+        "tags": ["erc20"]
+    }
 ]
