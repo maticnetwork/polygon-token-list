@@ -1,25 +1,20 @@
 {
-  "name": "Cross Chain",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 1
-  },
-  "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
-  "keywords": [
-    "polygon",
-    "crosschain",
-    "swap",
-    "tokens"
-  ],
-  "tags": {
-    "erc20": {
-      "name": "ERC20",
-      "description": "Tokens are of erc20 token type"
+    "name": "Cross Chain",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 1
     },
-    "bep20": {
-      "name": "BEP20",
-      "description": "Tokens are of bep20 token type"
+    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+    "keywords": ["polygon", "crosschain", "swap", "tokens"],
+    "tags": {
+        "erc20": {
+            "name": "ERC20",
+            "description": "Tokens are of erc20 token type"
+        },
+        "bep20": {
+            "name": "BEP20",
+            "description": "Tokens are of bep20 token type"
+        }
     }
-  }
 }
