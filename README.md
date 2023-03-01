@@ -18,17 +18,82 @@ Apart from these 3 token list there is one blacklisted token list:
 
 1. [Blacklist Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/blacklist.tokenlist.json) contains all the blacklisted tokens which should be filtered out from the UI.
 
-## Adding a token
+## Adding or Updating a token
 
-To add a token to the list, please 
-[file an issue](https://github.com/maticnetwork/polygon-token-list/issues/new?assignees=&labels=add+token+request&template=add_token_request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+1. Fork the repository
 
-## Updating a token
+2. Add the new token at the end of the token array in `src/tokens/polygonTokens.json`
 
-To update a token in the list, please 
-[file an issue](https://github.com/maticnetwork/polygon-token-list/issues/new?assignees=&labels=update+token+request&template=update_token_request.md&title=Update+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+    Please make sure that the new token follows this schema.
+
+    ```json
+    {
+        "chainId": 137, // Should always be 137
+        "name": "token_name",
+        "symbol": "token_symbol",
+        "decimals": <token_decimals>,
+        "address": "token_address on Polygon",
+        "logoURI": "token_icon_uri",
+        "tags": ["<bridge>", "<token_type>", "<optional_tag>", "<optional_tag>", ...], // For all acceptable tags, check below
+        "extensions": {
+            "rootAddress": "token_address on Ethereum", // If not deployed on ethereum, use "0x0000000000000000000000000000000000000000" and add noDeposit and noWithdraw tags
+            "project": {
+                "name": "Project_Name",
+                "summary": "Short_Project_Description",
+                "contact": "Project_Support",
+                "website": "Project_Website"
+            }
+        }
+    }
+    ```
+
+    ### Tags
+
+    1. `stablecoin`: Tokens that are pegged to a fiat asset, e.g. USDC, USDT
+
+    2. `swapable`: Tokens are eligible for swapping through the 0x contracts
+
+    3. `erc20`: Tokens are of ERC20 token type
+
+    4. `pos`: Tokens can be bridged from Ethereum using the PoS bridge
+       Note: Also use this tag if the tokens cannot be bridged.
+
+    5. `plasma`: Tokens can be bridged from Ethereum using the PLASMA bridge
+
+    6. `metaTx`: Tokens are eligible for meta transactions
+       Note: Use this tag if the tokens support meta transactions and can be used for a gasless swaps.
+
+    7. `customWithdrawEventSig`: The token has its custom withdraw event signature and does not depend on the transfer event signature while verifing withdrawals
+
+    8. `noDeposit`: Tokens are not eligible for deposits from Ethereum
+       Note: Also use this tag if the tokens cannot be bridged.
+
+    9. `noWithdraw`: Tokens are not eligible for withdrawals back to Ethereum
+       Note: Also use this tag if the tokens cannot be bridged.
+
+3. Run linter and fix the issues if any
+
+    ```bash
+    npm run lint
+    ```
+
+    ```bash
+    npm run lint:fix
+    ```
+
+4. Make sure that the tests are passing and the tokenlist builds
+
+    ```bash
+    npm run test
+    ```
+
+    ```bash
+    npm run build
+    ```
+
+5. Commit the changes and raise a Pull request to our repo's dev branch
 
 ### Disclaimer
 
-After filing an issue, please allow us some time to verify the issue's authenticity.
+After raising a PR, please allow us some time to verify the PR.
 We do not follow any particular order in reviewing token additions and updations.

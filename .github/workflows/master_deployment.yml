@@ -1,46 +1,45 @@
 # This is a workflow to help you auto deploy master branch with Actions
 name: Master deployment
 # Controls when the workflow will run
-on: 
-  # Triggers the workflow on push or pull request events but only for the develop branch
-  push:
-    branches: [master]
+on:
+    # Triggers the workflow on push or pull request events but only for the develop branch
+    push:
+        branches: [master]
 
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+    # This workflow contains a single job called "build"
+    build:
+        # The type of runner that the job will run on
+        runs-on: ubuntu-latest
+        # Steps represent a sequence of tasks that will be executed as part of the job
+        steps:
+            # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+            - uses: actions/checkout@v2
+              with:
+                  ref: master
 
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-        with:
-          ref: master
+            # Runs a set of commands using the runners shell
+            - name: Install dependencies
+              run: npm ci
 
-      # Runs a set of commands using the runners shell
-      - name: Install dependencies
-        run: npm ci
-      
-      - name: Build tokenlists
-        run: npm run build
-      
-      - name: Uploading to s3 bucket
-        uses: jakejarvis/s3-sync-action@master
-        with:
-          args: --acl public-read --follow-symlinks --delete --exclude '.git/*' --exclude '.github/*' --exclude '.gitignore'
-        env:
-          AWS_S3_BUCKET: ${{ secrets.MASTER_AWS_S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.MASTER_AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.MASTER_AWS_SECRET_ACCESS_KEY }}
-          SOURCE_DIR: "build"
+            - name: Build tokenlists
+              run: npm run build
 
-      - name: invalidate cloudfront distribution and wait for completion
-        uses: muratiger/invalidate-cloudfront-and-wait-for-completion-action@master
-        env:
-          DISTRIBUTION_ID: ${{ secrets.MASTER_CLOUDFRONT_DISTRIBUTION_ID }}
-          PATHS: '/*'
-          AWS_REGION: 'us-east-1'
-          AWS_ACCESS_KEY_ID: ${{ secrets.MASTER_AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.MASTER_AWS_SECRET_ACCESS_KEY }}
+            - name: Uploading to s3 bucket
+              uses: jakejarvis/s3-sync-action@master
+              with:
+                  args: --acl public-read --follow-symlinks --delete --exclude '.git/*' --exclude '.github/*' --exclude '.gitignore'
+              env:
+                  AWS_S3_BUCKET: ${{ secrets.MASTER_AWS_S3_BUCKET }}
+                  AWS_ACCESS_KEY_ID: ${{ secrets.MASTER_AWS_ACCESS_KEY_ID }}
+                  AWS_SECRET_ACCESS_KEY: ${{ secrets.MASTER_AWS_SECRET_ACCESS_KEY }}
+                  SOURCE_DIR: "build"
+
+            - name: invalidate cloudfront distribution and wait for completion
+              uses: muratiger/invalidate-cloudfront-and-wait-for-completion-action@master
+              env:
+                  DISTRIBUTION_ID: ${{ secrets.MASTER_CLOUDFRONT_DISTRIBUTION_ID }}
+                  PATHS: "/*"
+                  AWS_REGION: "us-east-1"
+                  AWS_ACCESS_KEY_ID: ${{ secrets.MASTER_AWS_ACCESS_KEY_ID }}
+                  AWS_SECRET_ACCESS_KEY: ${{ secrets.MASTER_AWS_SECRET_ACCESS_KEY }}

@@ -1,9 +1,9 @@
 ---
 name: Update Token Request
 about: Request a token updation
-title: 'Update {TOKEN_SYMBOL}: {TOKEN_NAME}'
+title: "Update {TOKEN_SYMBOL}: {TOKEN_NAME}"
 labels: update token request
-assignees: ''
+assignees: ""
 ---
 
 **Please only fill in the information you want to update for your token.**

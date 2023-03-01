@@ -6,11 +6,7 @@
         "patch": 0
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
-    "keywords": [
-        "polygon",
-        "blacklist",
-        "tokens"
-    ],
+    "keywords": ["polygon", "blacklist", "tokens"],
     "tags": {
         "erc20": {
             "name": "erc20",

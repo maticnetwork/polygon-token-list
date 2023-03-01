@@ -1,66 +1,50 @@
 [
-  {
-    "chainId": 80001,
-    "name": "Ether - PoS",
-    "symbol": "ETH",
-    "decimals": 18,
-    "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
-    "tags": [
-      "erc20",
-      "pos",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    {
+        "chainId": 80001,
+        "name": "Ether - PoS",
+        "symbol": "ETH",
+        "decimals": 18,
+        "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "tags": ["erc20", "pos", "swapable"],
+        "extensions": {
+            "rootAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Matic",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "address": "0x0000000000000000000000000000000000001010",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+        "tags": ["erc20", "plasma", "swapable"],
+        "extensions": {
+            "rootAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "tags": ["erc20", "pos", "swapable"],
+        "extensions": {
+            "rootAddress": "0x655F2166b0709cd575202630952D71E2bB0d61Af"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Test Token",
+        "symbol": "TST",
+        "decimals": 18,
+        "address": "0xa0d9f8282cd48d22fd875e43be32793124f8ed47",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "tags": ["erc20", "pos", "swapable"],
+        "extensions": {
+            "rootAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
+        }
     }
-  },
-  {
-    "chainId": 80001,
-    "name": "Matic",
-    "symbol": "MATIC",
-    "decimals": 18,
-    "address": "0x0000000000000000000000000000000000001010",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
-    "tags": [
-      "erc20",
-      "plasma",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
-    }
-  },
-  {
-    "chainId": 80001,
-    "name": "Dummy ERC20",
-    "symbol": "DERC20",
-    "decimals": 18,
-    "address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
-    "tags": [
-      "erc20",
-      "pos",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x655F2166b0709cd575202630952D71E2bB0d61Af"
-    }
-  },
-  {
-    "chainId": 80001,
-    "name": "Test Token",
-    "symbol": "TST",
-    "decimals": 18,
-    "address": "0xa0d9f8282cd48d22fd875e43be32793124f8ed47",
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
-    "tags": [
-      "erc20",
-      "pos",
-      "swapable"
-    ],
-    "extensions": {
-      "rootAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
-    }
-  }
 ]
