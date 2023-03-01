@@ -35,7 +35,7 @@ popularTokens.forEach(token => {
   delete token.extensions.project
 })
 
-module.exports = function buildList () {
+module.exports = function buildList() {
   const timestamp = new Date().toISOString()
 
   Object.assign(polygonTokensTokenList, { timestamp, tokens: polygonTokens }) // PolygonTokens tokenlist
