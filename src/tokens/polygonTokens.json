@@ -25565,7 +25565,7 @@
   },
   {
     "chainId": 137,
-    "name": "Aave Interest bearing DAI",
+    "name": "Aave Interest bearing DAI V1",
     "symbol": "aDAI",
     "decimals": 18,
     "address": "0x6a9d92f366f01b1980c4e75f0d9fa54db658105d",
@@ -25579,7 +25579,7 @@
   },
   {
     "chainId": 137,
-    "name": "Aave interest bearing DAI",
+    "name": "Aave interest bearing DAI V2",
     "symbol": "aDAI",
     "decimals": 18,
     "address": "0x329434fe066ac71d5fb93489f955a6959658097b",

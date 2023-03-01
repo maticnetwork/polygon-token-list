@@ -1,28 +1,29 @@
 {
-  "name": "polygon-token-list",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.json",
-  "scripts": {
-    "test": "mocha",
-    "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maticnetwork/polygon-token-list.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maticnetwork/polygon-token-list/issues"
-  },
-  "homepage": "https://github.com/maticnetwork/polygon-token-list#readme",
-  "devDependencies": {
-    "@uniswap/token-lists": "^1.0.0-beta.26",
-    "ajv": "^8.6.3",
-    "ajv-formats": "^2.1.1",
-    "chai": "^4.3.4",
-    "mocha": "^9.1.3",
-    "rimraf": "^3.0.2"
-  }
+    "name": "polygon-token-list",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.json",
+    "scripts": {
+        "test": "mocha 'test/tokenAddition'",
+        "test-all": "mocha",
+        "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maticnetwork/polygon-token-list.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/maticnetwork/polygon-token-list/issues"
+    },
+    "homepage": "https://github.com/maticnetwork/polygon-token-list#readme",
+    "devDependencies": {
+        "@uniswap/token-lists": "^1.0.0-beta.26",
+        "ajv": "^8.6.3",
+        "ajv-formats": "^2.1.1",
+        "chai": "^4.3.4",
+        "mocha": "^9.1.3",
+        "rimraf": "^3.0.2"
+    }
 }
