@@ -16,6 +16,10 @@
             "name": "PoS",
             "description": "PoS tokens"
         },
+        "fx": {
+            "name": "fx",
+            "description": "fx tokens"
+        },
         "plasma": {
             "name": "Plasma",
             "description": "Plasma tokens"

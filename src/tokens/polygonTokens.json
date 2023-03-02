@@ -20445,5 +20445,24 @@
                 "website": "https://www.voxies.io/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Dola",
+        "symbol": "DOLA",
+        "decimals": 18,
+        "address": "0xbC2b48BC930Ddc4E5cFb2e87a45c379Aab3aac5C",
+        "logoURI": "https://raw.githubusercontent.com/InverseFinance/Media/6003bbc0b066bb86c342cc011f498c15ee32425a/images/DOLA_Logo.svg",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+            "project": {
+                "name": "Dola Stablecoin",
+                "summary": "The Dola stablecoin is a dollar denominated, debt backed stablecoin issued by Inverse Finance.",
+                "contact": "https://discord.gg/Wqebu3QW",
+                "website": "https://www.inverse.finance/"
+            }
+        }
     }
 ]
