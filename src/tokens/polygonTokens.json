@@ -20464,5 +20464,23 @@
                 "website": "https://www.inverse.finance/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Compound",
+        "symbol": "COMP",
+        "decimals": 18,
+        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+            "project": {
+                "name": "Compound",
+                "summary": "An efficient money market protocol",
+                "contact": "https://discord.gg/dHBzmMzH",
+                "website": "https://www.comp.xyz/"
+            }
+        }
     }
 ]
