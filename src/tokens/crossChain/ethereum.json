@@ -52,14 +52,5 @@
         "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
         "tags": ["erc20"]
-    },
-    {
-        "chainId": 1,
-        "name": "WrappedPeercoin",
-        "symbol": "wPPC",
-        "decimals": 6,
-        "address": "0x044d078f1c86508e13328842cc75ac021b272958",
-        "logoURI": "https://www.peercoin.net/img/logos/favicons/Icon/favicon256.png",
-        "tags": ["erc20"]
     }
 ]
