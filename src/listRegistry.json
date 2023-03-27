@@ -15,7 +15,7 @@
     },
     {
         "name": "ZKEVM Popular",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/popularTokens.tokenlist.json",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/zkevmPopular.tokenlist.json",
         "summary": "A list of most used tokens on the polygon wallet zkevm chain",
         "homepage": "polygon.technology",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
