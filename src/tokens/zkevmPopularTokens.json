@@ -6,7 +6,9 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000000000",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x0000000000000000000000000000000000000000"
         }
@@ -18,7 +20,9 @@
         "decimals": 18,
         "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
         }
@@ -30,7 +34,9 @@
         "decimals": 6,
         "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
-        "tags": ["stablecoin", "erc20"],
+        "tags": ["zkevm", "stablecoin", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
         }
@@ -42,7 +48,9 @@
         "decimals": 6,
         "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
-        "tags": ["stablecoin", "erc20"],
+        "tags": ["zkevm", "stablecoin", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
         }
@@ -54,7 +62,9 @@
         "decimals": 18,
         "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
-        "tags": ["stablecoin", "erc20"],
+        "tags": ["zkevm", "stablecoin", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
         }
@@ -66,7 +76,9 @@
         "decimals": 18,
         "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/aave.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
         }
@@ -78,7 +90,9 @@
         "decimals": 18,
         "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/link.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
         }
@@ -90,7 +104,9 @@
         "decimals": 8,
         "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
         }
@@ -102,7 +118,9 @@
         "decimals": 18,
         "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/uni.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
         }
@@ -114,7 +132,9 @@
         "decimals": 18,
         "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/bal.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0xba100000625a3754423978a60c9317c58a424e3d"
         }
@@ -126,7 +146,9 @@
         "decimals": 18,
         "address": "0x83b874c1e09d316059d929da402dcb1a98e92082",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18688.png",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599"
         }
@@ -137,8 +159,10 @@
         "symbol": "CRV",
         "decimals": 18,
         "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
         "logoURI": "https://wallet-asset.matic.network/img/tokens/crv.svg",
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52"
         }
@@ -149,8 +173,10 @@
         "symbol": "LDO",
         "decimals": 18,
         "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
         }
@@ -162,7 +188,9 @@
         "decimals": 18,
         "address": "0xf9ed88937b2d82707d0eabd8c3d9aa4870b714d3",
         "logoURI": "https://user-images.githubusercontent.com/19915413/198746681-bcfd16fd-72e5-41b3-bcb8-5494d77195e0.svg",
-        "tags": ["erc20"],
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645"
         }
@@ -174,7 +202,9 @@
         "decimals": 18,
         "address": "0xb584516c8d90f133A48af5cC445cc5d924cf9863",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
-        "tags": ["erc20", "noDeposit", "noWithdraw"],
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
         "extensions": {
             "rootAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
         }
