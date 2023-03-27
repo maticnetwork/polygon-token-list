@@ -208,5 +208,19 @@
         "extensions": {
             "rootAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x140dAa3085f156921D5B148aa108225Cc066457C"
+        }
     }
 ]
