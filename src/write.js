@@ -34,6 +34,14 @@ fs.writeFile("build/tokenlists/popularTokens.tokenlist.json", JSON.stringify(tok
     console.log("popularTokens.tokenlist.json successfully built")
 })
 
+//zkEVM Popular Tokenlist
+fs.writeFile("build/tokenlists/zkevmPopular.tokenlist.json", JSON.stringify(tokenlists.zkevmPopularTokenList, null, 2), (err) => {
+    if (err) {
+        throw err
+    }
+    console.log("zkevmPopular.tokenlist.json successfully built")
+})
+
 // Testnet Tokenlist
 fs.writeFile("build/tokenlists/testnet.tokenlist.json", JSON.stringify(tokenlists.testnetTokenList, null, 2), (err) => {
     if (err) {

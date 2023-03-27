@@ -14,6 +14,13 @@
         "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
     },
     {
+        "name": "ZKEVM Popular",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/zkevmPopular.tokenlist.json",
+        "summary": "A list of most used tokens on the polygon wallet zkevm chain",
+        "homepage": "polygon.technology",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg"
+    },
+    {
         "name": "Cross-Chain",
         "listURI": "api-polygon-tokens.polygon.technology/tokenlists/cross-chain.tokenlist.json",
         "summary": "A cross-chain tokens list for transfers and swaps",
