@@ -20464,5 +20464,23 @@
                 "website": "https://www.inverse.finance/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "WrappedPeercoin",
+        "symbol": "wPPC",
+        "decimals": 6,
+        "address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
+        "logoURI": "https://www.peercoin.net/img/logos/favicons/Icon/favicon256.png",
+        "tags": ["pos", "erc20", "noDeposit", "noWithdraw"],
+        "extensions": {
+            "rootAddress": "0x044d078F1c86508e13328842Cc75AC021B272958",
+            "project": {
+                "name": "WrappedPeercoin",
+                "summary": "Wrapped Peercoin is an ERC-20 tokenized version of the world's first proof-of-stake cryptocurrency: Peercoin.",
+                "contact": "https://discord.gg/XPxfwtG",
+                "website": "https://peercoin.net/"
+            }
+        }
     }
 ]
