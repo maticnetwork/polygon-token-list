@@ -20466,54 +20466,42 @@
         }
     },
     {
-        "chainId":137,
-        "name":"Karmaverse",
-        "symbol":"KNOT",
-        "decimals":18,
-        "address":"0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
-        "logoURI":"https://s2.coinmarketcap.com/static/img/coins/128x128/18749.png",
-        "tags":[
-            "pos",
-            "erc20",
-            "noDeposit",
-            "noWithdraw",
-            "swapable"
-        ],
-        "extensions":{
-            "rootAddress":"0x0000000000000000000000000000000000000000",
-            "project":{
-                "name":"Karmaverse",
-                "summary":"AAA GameFi metaverse, aims to organically combine the Play-for-Fun and Play-to-Earn elements inside its ecosystem to build a sustainable system",
-                "contact":"https://discord.gg/jPEcX77teA",
-                "website":"https://karmaverse.io/"
+        "chainId": 137,
+        "name": "Karmaverse",
+        "symbol": "KNOT",
+        "decimals": 18,
+        "address": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/18749.png",
+        "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000",
+            "project": {
+                "name": "Karmaverse",
+                "summary": "AAA GameFi metaverse, aims to organically combine the Play-for-Fun and Play-to-Earn elements inside its ecosystem to build a sustainable system",
+                "contact": "https://discord.gg/jPEcX77teA",
+                "website": "https://karmaverse.io/"
             }
         }
     },
     {
-        "chainId":137,
-        "name":"Karmaverse Zombie",
-        "symbol":"Serum",
-        "decimals":0,
-        "address":"0x623a1350f6B749575F92Ea54D0F745f9F07D3665",
-        "logoURI":"https://s2.coinmarketcap.com/static/img/coins/128x128/20692.png",
-        "tags":[
-            "pos",
-            "erc20",
-            "noDeposit",
-            "noWithdraw",
-            "swapable"
-        ],
-        "extensions":{
-            "rootAddress":"0x0000000000000000000000000000000000000000",
-            "project":{
-                "name":"Karmaverse Zombie",
-                "summary":"An exciting new Free-to-earn Zombie game is here! Assemble survivors, build a shelter, and forge a new future for humanity as you defeat the zombie menace!",
-                "contact":"https://discord.gg/jPEcX77teA",
-                "website":"https://karmaverse.io/karmaversezombie"
-             },
-         },
-     },
-     {
+        "chainId": 137,
+        "name": "Karmaverse Zombie",
+        "symbol": "Serum",
+        "decimals": 0,
+        "address": "0x623a1350f6B749575F92Ea54D0F745f9F07D3665",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/20692.png",
+        "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000",
+            "project": {
+                "name": "Karmaverse Zombie",
+                "summary": "An exciting new Free-to-earn Zombie game is here! Assemble survivors, build a shelter, and forge a new future for humanity as you defeat the zombie menace!",
+                "contact": "https://discord.gg/jPEcX77teA",
+                "website": "https://karmaverse.io/karmaversezombie"
+            }
+        }
+    },
+    {
         "chainId": 137,
         "name": "WrappedPeercoin",
         "symbol": "wPPC",
