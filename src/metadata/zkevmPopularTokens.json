@@ -1,0 +1,36 @@
+{
+    "name": "ZKEVM Popular",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "logoURI": "https://wiki.polygon.technology/img/zkevm-logo.png",
+    "keywords": ["polygon", "default", "tokens"],
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "swapable": {
+            "name": "Swapable",
+            "description": "Tokens are eligible for swaps"
+        },
+        "erc20": {
+            "name": "erc20",
+            "description": "Tokens are of ERC20 token type"
+        },
+        "metaTx": {
+            "name": "MetaTx",
+            "description": "Tokens are eligible for meta transactions"
+        },
+        "noDeposit": {
+            "name": "Deposit Disabled",
+            "description": "Tokens are not eligible for deposits"
+        },
+        "noWithdraw": {
+            "name": "Withdraw Disabled",
+            "description": "Tokens are not eligible for withdraws"
+        }
+    }
+}
