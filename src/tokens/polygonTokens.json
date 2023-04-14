@@ -20518,5 +20518,23 @@
                 "website": "https://peercoin.net/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Giveth Token",
+        "symbol": "GIV",
+        "decimals": 18,
+        "address": "0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA",
+        "logoURI": "https://github.com/Giveth/giveth-design-assets/blob/master/02-logos/GIV%20Token/GIVToken_256x256.png",
+        "tags": ["pos", "erc20","swapable"],
+        "extensions": {
+            "rootAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", 
+            "project": {
+                "name": "Giveth",
+                "summary": "Giveth is building a culture and economy that rewards and empowers those who give. Our goal is to use web3 to radically transform how public goods are funded by helping nonprofits evolve out of systems that depend on sacrifice into ones that create win-win situations for everyone involved. Beginning with a free and direct crypto donation platform on Ethereum, we onboard for-good projects and support them so that they can eventually blossom into DAOs with their own regenerative economies, with Giveth itself becoming an impact investment hub for public goods.",
+                "contact": "info@giveth.io",
+                "website": "https://giveth.io/"
+            }
+        }
     }
 ]
