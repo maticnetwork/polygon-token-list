@@ -20525,8 +20525,8 @@
         "symbol": "GIV",
         "decimals": 18,
         "address": "0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA",
-        "logoURI": "https://github.com/Giveth/giveth-design-assets/blob/master/02-logos/GIV%20Token/GIVToken_256x256.png",
-        "tags": ["pos", "erc20","swapable"],
+        "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_256x256.png",
+        "tags": ["fx", "erc20","swapable"],
         "extensions": {
             "rootAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", 
             "project": {
