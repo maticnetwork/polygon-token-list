@@ -20538,7 +20538,7 @@
             }
         }
     },
-            {
+    {
         "chainId": 137,
         "name": "Giveth Token",
         "symbol": "GIV",
@@ -20547,6 +20547,7 @@
         "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_256x256.png",
         "tags": ["fx", "erc20","swapable"],
         "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
             "rootAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", 
             "project": {
                 "name": "Giveth",
@@ -20555,6 +20556,23 @@
                 "website": "https://giveth.io/"
            }
        }
-   }
-
+   },
+   {
+        "name": "Polkamarkets",
+        "symbol": "POLK",
+        "decimals": 18,
+        "address": "0x996F19d4b1cE6D5AD72CEaaa53152CEB1B187fD0",
+        "logoURI": "https://raw.githubusercontent.com/Polkamarkets/polkamarkets-web/main/public/badge.svg",
+        "tags": ["fx", "erc20", "swapable"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+            "project": {
+                "name": "Polkamarkets",
+                "summary": "DeFi-Powered Prediction Market built for multi-chain information exchange and trading, where users take positions on outcomes of real world events.",
+                "contact": "https://discord.gg/polkamarkets",
+                "website": "https://www.polkamarkets.com/"
+            }
+        }
+    }
 ]
