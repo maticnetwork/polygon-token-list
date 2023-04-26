@@ -20544,7 +20544,7 @@
         "decimals": 18,
         "address": "0x996F19d4b1cE6D5AD72CEaaa53152CEB1B187fD0",
         "logoURI": "https://raw.githubusercontent.com/Polkamarkets/polkamarkets-web/main/public/badge.svg",
-        "tags": ["pos", "fx", "erc20", "swapable"],
+        "tags": ["fx", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
             "project": {
