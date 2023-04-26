@@ -20526,8 +20526,9 @@
         "decimals": 18,
         "address": "0x8e26032650a389BF9cf16C17C4cd605742f1ef8D",
         "logoURI": "https://s3.us-east-1.amazonaws.com/kapital.gg/assets/KAP_logo_large.png",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": ["fx", "erc20", "swapable"],
         "extensions": {
+            "rootTunnelAddress": "0x89748a6Aa14d7dC1D3a669b46891e1fD44Ff59f6",
             "rootAddress": "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569",
             "project": {
                 "name": "Kapital DAO",
