@@ -20546,6 +20546,7 @@
         "logoURI": "https://raw.githubusercontent.com/Polkamarkets/polkamarkets-web/main/public/badge.svg",
         "tags": ["fx", "erc20", "swapable"],
         "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
             "rootAddress": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
             "project": {
                 "name": "Polkamarkets",
