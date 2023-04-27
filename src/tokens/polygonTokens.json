@@ -20518,5 +20518,23 @@
                 "website": "https://peercoin.net/"
             }
         }
+    },
+     {
+        "chainId": 137,
+        "name": "CIPHER",
+        "symbol": "CPR",
+        "decimals": 2,
+        "address": "0xaa404804Ba583c025Fa64c9a276A6127CEB355c6",
+        "logoURI": "https://cipher.com.co/img/favicon.jpg",
+        "tags": ["pos", "erc20", "noDeposit", "noWithdraw"],
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000",
+            "project": {
+                "name": "Cipher",
+                "summary": "Cipher (CPR) is a utility token with the vision and the aim is to create transparency, accountability, and a safe business. All users/customers/investors/traders can participate in the project.",
+                "contact": "support@cipher.com.co",
+                "website": "https://cipher.com.co"
+            }
+        }
     }
 ]
