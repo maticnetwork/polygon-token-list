@@ -20519,7 +20519,7 @@
             }
         }
     },
-     {
+    {
         "chainId": 137,
         "name": "CIPHER",
         "symbol": "CPR",
@@ -20534,6 +20534,62 @@
                 "summary": "Cipher (CPR) is a utility token with the vision and the aim is to create transparency, accountability, and a safe business. All users/customers/investors/traders can participate in the project.",
                 "contact": "support@cipher.com.co",
                 "website": "https://cipher.com.co"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Kapital DAO Token",
+        "symbol": "KAP",
+        "decimals": 18,
+        "address": "0x8e26032650a389BF9cf16C17C4cd605742f1ef8D",
+        "logoURI": "https://s3.us-east-1.amazonaws.com/kapital.gg/assets/KAP_logo_large.png",
+        "tags": ["fx", "erc20", "swapable"],
+        "extensions": {
+            "rootTunnelAddress": "0x89748a6Aa14d7dC1D3a669b46891e1fD44Ff59f6",
+            "rootAddress": "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569",
+            "project": {
+                "name": "Kapital DAO",
+                "summary": "The Kapital DAO builds SaaS tools for scaling the web3 gaming open economy. Product verticals span digital asset management, web3 gaming distribution, community engagement and growth tooling, global esports participation, and advisory services.",
+                "contact": "info@kapital.gg",
+                "website": "https://www.kapital.gg/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Giveth Token",
+        "symbol": "GIV",
+        "decimals": 18,
+        "address": "0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA",
+        "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_256x256.png",
+        "tags": ["fx", "erc20","swapable"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", 
+            "project": {
+                "name": "Giveth",
+                "summary": "Giveth is building a culture and economy that rewards and empowers those who give. Our goal is to use web3 to radically transform how public goods are funded by helping nonprofits evolve out of systems that depend on sacrifice into ones that create win-win situations for everyone involved. Beginning with a free and direct crypto donation platform on Ethereum, we onboard for-good projects and support them so that they can eventually blossom into DAOs with their own regenerative economies, with Giveth itself becoming an impact investment hub for public goods.",
+                "contact": "info@giveth.io",
+                "website": "https://giveth.io/"
+           }
+       }
+   },
+   {
+        "name": "Polkamarkets",
+        "symbol": "POLK",
+        "decimals": 18,
+        "address": "0x996F19d4b1cE6D5AD72CEaaa53152CEB1B187fD0",
+        "logoURI": "https://raw.githubusercontent.com/Polkamarkets/polkamarkets-web/main/public/badge.svg",
+        "tags": ["fx", "erc20", "swapable"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+            "project": {
+                "name": "Polkamarkets",
+                "summary": "DeFi-Powered Prediction Market built for multi-chain information exchange and trading, where users take positions on outcomes of real world events.",
+                "contact": "https://discord.gg/polkamarkets",
+                "website": "https://www.polkamarkets.com/"
             }
         }
     }
