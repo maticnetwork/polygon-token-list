@@ -5058,9 +5058,15 @@
         "address": "0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
-            "rootAddress": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4"
+            "rootAddress": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+            "project": {
+                "name": "Popcorn",
+                "summary": "Optimize your yield while funding public goods",
+                "contact": "https://twitter.com/Popcorn_DAO",
+                "website": "https://pop.network/"
+            }
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pop.svg"
+        "logoURI": "https://app.pop.network/images/icons/POP.svg"
     },
     {
         "chainId": 137,
