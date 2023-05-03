@@ -5,7 +5,7 @@
     "main": "index.json",
     "scripts": {
         "test": "mocha 'tests/tokenAddition'",
-        "test-all": "mocha",
+        "test-all": "mocha 'tests'",
         "build": "rimraf build && mkdir -p build/tokenlists && node src/write.js",
         "lint": "eslint \"./src/*\"",
         "lint:fix": "eslint --fix \"./src/*\"",
@@ -29,7 +29,7 @@
         "ajv-formats": "^2.1.1",
         "chai": "^4.3.4",
         "eslint": "^8.39.0",
-        "mocha": "^9.1.3",
+        "mocha": "^10.2.0",
         "rimraf": "^3.0.2"
     }
 }
