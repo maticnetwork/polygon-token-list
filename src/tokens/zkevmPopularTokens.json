@@ -222,5 +222,33 @@
         "extensions": {
             "rootAddress": "0x140dAa3085f156921D5B148aa108225Cc066457C"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x1dc846D626E0DdDF983d7f269E7C8E7C3D4050dC"
+        }
     }
 ]
