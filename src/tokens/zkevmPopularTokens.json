@@ -197,6 +197,20 @@
     },
     {
         "chainId": 1101,
+        "name": "QuickSwap",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/quick.svg",
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368"
+        }
+    },
+    {
+        "chainId": 1101,
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
