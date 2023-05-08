@@ -362,5 +362,33 @@
         "extensions": {
             "rootAddress": "0xfF8f4fd427EDc035ea840Ff2A6b956AFA2eC0951"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "address": "0x95e4e1554a3F20932b559470eb57C56B7A26d10E",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/frax.svg",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "address": "0xFf8544feD5379D9ffa8D47a74cE6b91e632AC44D",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/frax.svg",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x5cf4E91ec97029de5791cd0FeC956290C200ed52"
+        }
     }
 ]
