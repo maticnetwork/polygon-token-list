@@ -228,7 +228,7 @@
         "name": "Frax Share",
         "symbol": "FXS",
         "decimals": 18,
-        "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
+        "address": "0x7940DEAe60FA6dBB56dE469dFCdDc84D2B6b17EA",
         "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
         "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
         "originTokenNetwork": 0,
