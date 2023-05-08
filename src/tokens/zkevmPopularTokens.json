@@ -337,8 +337,8 @@
     },
     {
         "chainId": 1101,
-        "name": "Frax Price Index",
-        "symbol": "FPI",
+        "name": "Frax Price Index Share",
+        "symbol": "FPIS",
         "decimals": 18,
         "address": "0x2b684D1BAb13A547CD196Ca6168d59509D9e9b37",
         "logoURI": "https://etherscan.io/token/images/fraxpriceshare_32.png",
@@ -351,8 +351,8 @@
     },
     {
         "chainId": 1101,
-        "name": "Frax Price Index",
-        "symbol": "FPI",
+        "name": "Frax Price Index Share",
+        "symbol": "FPIS",
         "decimals": 18,
         "address": "0xdE7df9036801676aF0cB73661d93a098c0085fba",
         "logoURI": "https://etherscan.io/token/images/fraxpriceshare_32.png",
