@@ -306,5 +306,33 @@
         "extensions": {
             "rootAddress": "0x03279b85f18Ea904d55628d9F45b8D7ea4201B18"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Price Index",
+        "symbol": "FPI",
+        "decimals": 18,
+        "address": "0xE765a819dbEfDEC134DB20F0b82a2F3F13a5cd4a",
+        "logoURI": "https://etherscan.io/token/images/fraxprice_32.png",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Price Index",
+        "symbol": "FPI",
+        "decimals": 18,
+        "address": "0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04",
+        "logoURI": "https://etherscan.io/token/images/fraxprice_32.png",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x2b684D1BAb13A547CD196Ca6168d59509D9e9b37"
+        }
     }
 ]
