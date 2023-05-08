@@ -229,7 +229,7 @@
         "symbol": "FXS",
         "decimals": 18,
         "address": "0x7940DEAe60FA6dBB56dE469dFCdDc84D2B6b17EA",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/fxs.svg",
         "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
         "originTokenNetwork": 0,
         "wrappedTokenNetwork": 1,
@@ -243,12 +243,40 @@
         "symbol": "FXS",
         "decimals": 18,
         "address": "0x6b856a14CeA1d7dCfaF80fA6936c0b75972cCacE",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/weth.svg",
+        "logoURI": "https://wallet-asset.matic.network/img/tokens/fxs.svg",
         "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
         "originTokenNetwork": 1,
         "wrappedTokenNetwork": 0,
         "extensions": {
             "rootAddress": "0x1dc846D626E0DdDF983d7f269E7C8E7C3D4050dC"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "address": "0x3e7BD82b7DBCe275fF86ff419d8BdF37b05e574B",
+        "logoURI": "https://etherscan.io/token/images/fraxethcanonical2_32.png",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5e8422345238f34275888049021821e8e08caa1f"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
+        "logoURI": "https://etherscan.io/token/images/fraxethcanonical2_32.png",
+        "tags": ["zkevm", "erc20", "noDeposit", "noWithdraw"],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0xD4bEE4BEc9306994AfEB6EC8d9484dcb5ad71bDD"
         }
     }
 ]
