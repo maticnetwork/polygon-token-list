@@ -20598,5 +20598,22 @@
                 "website": "https://www.polkamarkets.com/"
             }
         }
+    },
+    {
+        "name": "Rally",
+        "symbol": "RLY",
+        "decimals": 18,
+        "address": "0x76b8D57e5ac6afAc5D415a054453d1DD2c3C0094",
+        "logoURI": "https://assets.coingecko.com/coins/images/12843/large/image.png?1611212077",
+        "tags": ["erc20", "pos"],
+        "extensions": {
+            "rootAddress": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+            "project": {
+                "name": "Rally Network",
+                "summary": "The RLY token is an ERC-20 native token that powers the RLY Network.",
+                "contact": "https://discord.com/invite/PfuJr9T",
+                "website": "https://rly.network/"
+            }
+        }
     }
 ]
