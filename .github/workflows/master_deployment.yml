@@ -24,12 +24,3 @@ jobs:
 
             - name: Build tokenlists
               run: npm run build
-
-            - name: invalidate cloudfront distribution and wait for completion
-              uses: muratiger/invalidate-cloudfront-and-wait-for-completion-action@master
-              env:
-                  DISTRIBUTION_ID: ${{ secrets.MASTER_CLOUDFRONT_DISTRIBUTION_ID }}
-                  PATHS: "/*"
-                  AWS_REGION: "us-east-1"
-                  AWS_ACCESS_KEY_ID: ${{ secrets.MASTER_AWS_ACCESS_KEY_ID }}
-                  AWS_SECRET_ACCESS_KEY: ${{ secrets.MASTER_AWS_SECRET_ACCESS_KEY }}
