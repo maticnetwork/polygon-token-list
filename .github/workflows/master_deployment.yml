@@ -25,16 +25,6 @@ jobs:
             - name: Build tokenlists
               run: npm run build
 
-            - name: Uploading to s3 bucket
-              uses: jakejarvis/s3-sync-action@master
-              with:
-                  args: --acl public-read --follow-symlinks --delete --exclude '.git/*' --exclude '.github/*' --exclude '.gitignore'
-              env:
-                  AWS_S3_BUCKET: ${{ secrets.MASTER_AWS_S3_BUCKET }}
-                  AWS_ACCESS_KEY_ID: ${{ secrets.MASTER_AWS_ACCESS_KEY_ID }}
-                  AWS_SECRET_ACCESS_KEY: ${{ secrets.MASTER_AWS_SECRET_ACCESS_KEY }}
-                  SOURCE_DIR: "build"
-
             - name: invalidate cloudfront distribution and wait for completion
               uses: muratiger/invalidate-cloudfront-and-wait-for-completion-action@master
               env:
