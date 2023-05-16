@@ -20532,7 +20532,7 @@
         "decimals": 2,
         "address": "0xaa404804Ba583c025Fa64c9a276A6127CEB355c6",
         "logoURI": "https://cipher.com.co/img/favicon.jpg",
-        "tags": ["pos", "erc20", "noDeposit", "noWithdraw"],
+        "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
             "rootAddress": "0x0000000000000000000000000000000000000000",
             "project": {
