@@ -20598,5 +20598,23 @@
                 "website": "https://www.polkamarkets.com/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "TruStake MATIC Vault Shares",
+        "symbol": "TruMATIC",
+        "decimals": 18,
+        "address": "0xCa2443391DD5B73Dc0264af8FA71F312D9784C43",
+        "logoURI": "",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0x6ba703406Bc530d7E160f2B25a253e21D1de5ad9",
+            "project": {
+                "name": "TruStake",
+                "summary": "The TruStake MATIC vault allows users to stake their MATIC on the Ethereum network seamlessly.",
+                "contact": "help@trufin.io",
+                "website": "https://www.trufin.io"
+            }
+        }
     }
 ]
