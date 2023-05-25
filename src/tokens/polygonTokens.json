@@ -20598,5 +20598,41 @@
                 "website": "https://www.polkamarkets.com/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "asdCRV",
+        "symbol": "asdCRV",
+        "decimals": 18,
+        "address": "0x80D71c0F17b1b1f3EC5A2F1Fe251ec3FC837E369",
+        "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/assets/0x43E54C2E7b3e294De3A155785F52AB49d87B9922.png",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0x43E54C2E7b3e294De3A155785F52AB49d87B9922", 
+            "project": {
+                "name": "Concentrator",
+                "summary": "Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface",
+                "contact": "https://twitter.com/0xconcentrator",
+                "website": "https://concentrator.aladdin.club"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "aCRV",
+        "symbol": "aCRV",
+        "decimals": 18,
+        "address": "0x9409deF6E18F0E93a70D08CbCfBa3565e0fA17FE",
+        "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/assets/0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884.png",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0x2b95A1Dcc3D405535f9ed33c219ab38E8d7e0884", 
+            "project": {
+                "name": "Concentrator",
+                "summary": "Aladdin concentrator is a platform that boosts rewards for Curve & Convex stakers and liquidity providers alike, all in a simple and easy to use interface",
+                "contact": "https://twitter.com/0xconcentrator",
+                "website": "https://concentrator.aladdin.club"
+            }
+        }
     }
 ]
