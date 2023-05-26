@@ -20598,5 +20598,23 @@
                 "website": "https://www.polkamarkets.com/"
             }
         }
+    },
+    {
+        "name": "BreederDAO",
+        "symbol": "BREED",
+        "decimals": 18,
+        "address": "0x6949804b60dd9dcea43fd8d10ccdc640b55f9f7f",
+        "logoURI": "https://breederdao-images.s3.ap-southeast-1.amazonaws.com/breed-icon.png",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
+            "project": {
+                "name": "BreederDAO",
+                "summary": "BreederDAO is the powerhouse production factory of quality Metaverse assets. We focus on mass generation and customization of assets for both blockchain gaming and virtual worlds",
+                "contact": "https://discord.gg/breederdao",
+                "website": "https://www.breederdao.io/"
+            }
+        }
     }
 ]
