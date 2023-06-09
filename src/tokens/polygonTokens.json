@@ -20624,8 +20624,8 @@
         "symbol": "TruMATIC",
         "decimals": 18,
         "address": "0xCa2443391DD5B73Dc0264af8FA71F312D9784C43",
-        "logoURI": "",
-        "tags": ["pos", "erc20", "swapable"],
+        "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg",
+        "tags": ["fx", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0x6ba703406Bc530d7E160f2B25a253e21D1de5ad9",
             "project": {
