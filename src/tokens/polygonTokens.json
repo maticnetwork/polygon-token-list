@@ -20627,6 +20627,7 @@
         "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg",
         "tags": ["fx", "erc20", "swapable"],
         "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
             "rootAddress": "0x6ba703406Bc530d7E160f2B25a253e21D1de5ad9",
             "project": {
                 "name": "TruStake",
