@@ -20606,7 +20606,7 @@
         "decimals": 9,
         "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
         "logoURI": "https://assets.coingecko.com/coins/images/25271/small/logo.png?1651118069",
-        "tags": ["bridge", "noDeposit", "noWithdraw"],
+        "tags": ["erc20", "noDeposit", "noWithdraw"],
         "extensions": {
             "rootAddress": "0x0000000000000000000000000000000000000000",
             "project": {
