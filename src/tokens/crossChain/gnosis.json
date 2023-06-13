@@ -5,7 +5,7 @@
         "symbol": "WETH",
         "decimals": 18,
         "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["erc20"]
     },
     {
@@ -14,7 +14,7 @@
         "symbol": "USDC",
         "decimals": 6,
         "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "tags": ["erc20"]
     },
     {
@@ -23,7 +23,7 @@
         "symbol": "USDT",
         "decimals": 6,
         "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "tags": ["erc20"]
     },
     {
@@ -32,7 +32,7 @@
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000000000",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
         "tags": ["erc20"]
     }
 ]

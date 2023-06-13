@@ -5,7 +5,7 @@
         "symbol": "ETH",
         "decimals": 18,
         "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
@@ -23,7 +23,7 @@
         "symbol": "ETH",
         "decimals": 18,
         "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["plasma", "erc20", "noDeposit"],
         "extensions": {
             "rootAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
@@ -41,7 +41,7 @@
         "symbol": "MATIC",
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000001010",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "tags": ["plasma", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
@@ -59,7 +59,7 @@
         "symbol": "USDC",
         "decimals": 6,
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx", "stablecoin"],
         "extensions": {
             "rootAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -77,7 +77,7 @@
         "symbol": "USDT",
         "decimals": 6,
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "tags": ["pos", "stablecoin", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -95,7 +95,7 @@
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
         "tags": ["pos", "stablecoin", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -113,7 +113,7 @@
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
         "tags": ["plasma", "stablecoin", "erc20", "noDeposit"],
         "extensions": {
             "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -131,7 +131,7 @@
         "symbol": "AAVE",
         "decimals": 18,
         "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/aave.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aave.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
@@ -149,7 +149,7 @@
         "symbol": "LINK",
         "decimals": 18,
         "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/link.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/link.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -167,7 +167,7 @@
         "symbol": "WBTC",
         "decimals": 8,
         "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -185,7 +185,7 @@
         "symbol": "UNI",
         "decimals": 18,
         "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/uni.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/uni.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -203,7 +203,7 @@
         "symbol": "SUSHI",
         "decimals": 18,
         "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sushi.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sushi.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
@@ -221,7 +221,7 @@
         "symbol": "QUICK",
         "decimals": 18,
         "address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/quick.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
@@ -239,7 +239,7 @@
         "symbol": "QUICK",
         "decimals": 18,
         "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/quick.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
         "tags": ["pos", "erc20"],
         "extensions": {
             "rootAddress": "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368",
@@ -275,7 +275,7 @@
         "symbol": "TEL",
         "decimals": 2,
         "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tel.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tel.svg",
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "rootAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
@@ -293,7 +293,7 @@
         "symbol": "BAL",
         "decimals": 18,
         "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bal.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bal.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
@@ -347,7 +347,7 @@
         "symbol": "BUSD",
         "decimals": 18,
         "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/busd.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/busd.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
             "rootAddress": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
@@ -396,7 +396,7 @@
         "symbol": "ICE",
         "decimals": 18,
         "address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ice.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ice.svg",
         "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
             "rootAddress": "0x0000000000000000000000000000000000000000"
@@ -1151,7 +1151,7 @@
         "extensions": {
             "rootAddress": "0x1FbD3dF007eB8A7477A1Eab2c63483dCc24EfFD6"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sca.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sca.svg"
     },
     {
         "chainId": 137,
@@ -3635,7 +3635,7 @@
         "extensions": {
             "rootAddress": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mv.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mv.svg"
     },
     {
         "chainId": 137,
@@ -3664,7 +3664,7 @@
                 "website": "https://veritas.veritaseum.com/"
             }
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/veri.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/veri.svg"
     },
     {
         "chainId": 137,
@@ -4138,7 +4138,7 @@
         "extensions": {
             "rootAddress": "0x4f81c790581b240a5c948afd173620ecc8c71c8d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/xdg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xdg.svg"
     },
     {
         "chainId": 137,
@@ -4161,7 +4161,7 @@
         "extensions": {
             "rootAddress": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dg.svg"
     },
     {
         "chainId": 137,
@@ -6192,7 +6192,7 @@
         "extensions": {
             "rootAddress": "0xaf9db9e362e306688af48c4acb9618c06db38ac3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/acy.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/acy.svg"
     },
     {
         "chainId": 137,
@@ -8462,7 +8462,7 @@
         "extensions": {
             "rootAddress": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ooe.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ooe.svg"
     },
     {
         "chainId": 137,
@@ -8738,7 +8738,7 @@
         "extensions": {
             "rootAddress": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pay.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pay.svg"
     },
     {
         "chainId": 137,
@@ -8783,7 +8783,7 @@
         "extensions": {
             "rootAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/loom.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/loom.svg"
     },
     {
         "chainId": 137,
@@ -8806,7 +8806,7 @@
         "extensions": {
             "rootAddress": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/npxs.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/npxs.svg"
     },
     {
         "chainId": 137,
@@ -8950,7 +8950,7 @@
         "extensions": {
             "rootAddress": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/fun.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/fun.svg"
     },
     {
         "chainId": 137,
@@ -9486,7 +9486,7 @@
         "extensions": {
             "rootAddress": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mooned.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mooned.svg"
     },
     {
         "chainId": 137,
@@ -9802,7 +9802,7 @@
         "extensions": {
             "rootAddress": "0x5d30aD9C6374Bf925D0A75454fa327AACf778492"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/peri.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/peri.svg"
     },
     {
         "chainId": 137,
@@ -10448,7 +10448,7 @@
         "extensions": {
             "rootAddress": "0xb4d930279552397bba2ee473229f89ec245bc365"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/maha.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/maha.svg"
     },
     {
         "chainId": 137,
@@ -10900,7 +10900,7 @@
         "extensions": {
             "rootAddress": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ht.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ht.svg"
     },
     {
         "chainId": 137,
@@ -11022,7 +11022,7 @@
         "extensions": {
             "rootAddress": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/inst.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/inst.svg"
     },
     {
         "chainId": 137,
@@ -11265,7 +11265,7 @@
         "extensions": {
             "rootAddress": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/poly.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/poly.svg"
     },
     {
         "chainId": 137,
@@ -11299,7 +11299,7 @@
         "extensions": {
             "rootAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bnb.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnb.svg"
     },
     {
         "chainId": 137,
@@ -11831,7 +11831,7 @@
         "extensions": {
             "rootAddress": "0xf8939164a46fbe9fc923f837221eb541e3c7e7b0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/penky.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/penky.svg"
     },
     {
         "chainId": 137,
@@ -11843,7 +11843,7 @@
         "extensions": {
             "rootAddress": "0x02Eca910CB3A7D43eBC7e8028652ed5C6b70259B"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pteria.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pteria.svg"
     },
     {
         "chainId": 137,
@@ -12697,7 +12697,7 @@
         "extensions": {
             "rootAddress": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/iotx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/iotx.svg"
     },
     {
         "chainId": 137,
@@ -12720,7 +12720,7 @@
         "extensions": {
             "rootAddress": "0xAF691508BA57d416f895e32a1616dA1024e882D2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pnode.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pnode.svg"
     },
     {
         "chainId": 137,
@@ -12732,7 +12732,7 @@
         "extensions": {
             "rootAddress": "0xc5c43ad81e6c76eaa1f2dd92cb6a11ff6b6d09ea"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/shibco.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/shibco.svg"
     },
     {
         "chainId": 137,
@@ -12744,7 +12744,7 @@
         "extensions": {
             "rootAddress": "0x675bbc7514013e2073db7a919f6e4cbef576de37"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cls.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cls.svg"
     },
     {
         "chainId": 137,
@@ -12756,7 +12756,7 @@
         "extensions": {
             "rootAddress": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ibbtc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ibbtc.svg"
     },
     {
         "chainId": 137,
@@ -12768,7 +12768,7 @@
         "extensions": {
             "rootAddress": "0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/power.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/power.svg"
     },
     {
         "chainId": 137,
@@ -12780,7 +12780,7 @@
         "extensions": {
             "rootAddress": "0xe6f1966d04cfcb9cd1b1dc4e8256d8b501b11cba"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/safeearth.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/safeearth.svg"
     },
     {
         "chainId": 137,
@@ -12803,7 +12803,7 @@
         "extensions": {
             "rootAddress": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/don.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/don.svg"
     },
     {
         "chainId": 137,
@@ -12815,7 +12815,7 @@
         "extensions": {
             "rootAddress": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/buidl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/buidl.svg"
     },
     {
         "chainId": 137,
@@ -12827,7 +12827,7 @@
         "extensions": {
             "rootAddress": "0x59E9261255644c411AfDd00bD89162d09D862e38"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/etha.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/etha.svg"
     },
     {
         "chainId": 137,
@@ -12839,7 +12839,7 @@
         "extensions": {
             "rootAddress": "0xacfe45c352c902ae3a3f9b6bfe6ec994c5d791bf"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mbonk.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mbonk.svg"
     },
     {
         "chainId": 137,
@@ -12851,7 +12851,7 @@
         "extensions": {
             "rootAddress": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cgg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cgg.svg"
     },
     {
         "chainId": 137,
@@ -12874,7 +12874,7 @@
         "extensions": {
             "rootAddress": "0x607f4c5bb672230e8672085532f7e901544a7375"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rlc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rlc.svg"
     },
     {
         "chainId": 137,
@@ -12886,7 +12886,7 @@
         "extensions": {
             "rootAddress": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/woofy.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/woofy.svg"
     },
     {
         "chainId": 137,
@@ -12898,7 +12898,7 @@
         "extensions": {
             "rootAddress": "0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/stak.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/stak.svg"
     },
     {
         "chainId": 137,
@@ -12910,7 +12910,7 @@
         "extensions": {
             "rootAddress": "0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/stars.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/stars.svg"
     },
     {
         "chainId": 137,
@@ -12933,7 +12933,7 @@
         "extensions": {
             "rootAddress": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tcap.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tcap.svg"
     },
     {
         "chainId": 137,
@@ -12956,7 +12956,7 @@
         "extensions": {
             "rootAddress": "0x0563dce613d559a47877ffd1593549fb9d3510d6"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/superbid.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/superbid.svg"
     },
     {
         "chainId": 137,
@@ -12968,7 +12968,7 @@
         "extensions": {
             "rootAddress": "0x65be44c747988fbf606207698c944df4442efe19"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/fuck.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/fuck.svg"
     },
     {
         "chainId": 137,
@@ -12980,7 +12980,7 @@
         "extensions": {
             "rootAddress": "0xb89903dde3899f0280b99913168ee833a7896b93"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/aws.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aws.svg"
     },
     {
         "chainId": 137,
@@ -13091,7 +13091,7 @@
         "extensions": {
             "rootAddress": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/inv.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/inv.svg"
     },
     {
         "chainId": 137,
@@ -13103,7 +13103,7 @@
         "extensions": {
             "rootAddress": "0xedeec5691f23e4914cf0183a4196bbeb30d027a0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wsta.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wsta.svg"
     },
     {
         "chainId": 137,
@@ -13115,7 +13115,7 @@
         "extensions": {
             "rootAddress": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sanshu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sanshu.svg"
     },
     {
         "chainId": 137,
@@ -13127,7 +13127,7 @@
         "extensions": {
             "rootAddress": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/yfii.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/yfii.svg"
     },
     {
         "chainId": 137,
@@ -13139,7 +13139,7 @@
         "extensions": {
             "rootAddress": "0x1c48f86ae57291f7686349f12601910bd8d470bb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdk.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdk.svg"
     },
     {
         "chainId": 137,
@@ -13162,7 +13162,7 @@
         "extensions": {
             "rootAddress": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/gusd.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gusd.svg"
     },
     {
         "chainId": 137,
@@ -13174,7 +13174,7 @@
         "extensions": {
             "rootAddress": "0x0000000000085d4780B73119b644AE5ecd22b376"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tusd.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tusd.svg"
     },
     {
         "chainId": 137,
@@ -13186,7 +13186,7 @@
         "extensions": {
             "rootAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/zrx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/zrx.svg"
     },
     {
         "chainId": 137,
@@ -13198,7 +13198,7 @@
         "extensions": {
             "rootAddress": "0x14fD3063dfd3cE0A2C4C5eE43aB49988A989202C"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/three.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/three.svg"
     },
     {
         "chainId": 137,
@@ -13221,7 +13221,7 @@
         "extensions": {
             "rootAddress": "0x0b498ff89709d3838a063f1dfa463091f9801c2b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/btc2x-fli.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/btc2x-fli.svg"
     },
     {
         "chainId": 137,
@@ -13244,7 +13244,7 @@
         "extensions": {
             "rootAddress": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/vee.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/vee.svg"
     },
     {
         "chainId": 137,
@@ -13267,7 +13267,7 @@
         "extensions": {
             "rootAddress": "0x5a705745373a780814c379Ef17810630D529EFE0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/senpai.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/senpai.svg"
     },
     {
         "chainId": 137,
@@ -13279,7 +13279,7 @@
         "extensions": {
             "rootAddress": "0xc770eefad204b5180df6a14ee197d99d808ee52d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/fox.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/fox.svg"
     },
     {
         "chainId": 137,
@@ -13291,7 +13291,7 @@
         "extensions": {
             "rootAddress": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nex.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nex.svg"
     },
     {
         "chainId": 137,
@@ -13325,7 +13325,7 @@
         "extensions": {
             "rootAddress": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/leo.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/leo.svg"
     },
     {
         "chainId": 137,
@@ -13359,7 +13359,7 @@
         "extensions": {
             "rootAddress": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/gdao.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gdao.svg"
     },
     {
         "chainId": 137,
@@ -13382,7 +13382,7 @@
         "extensions": {
             "rootAddress": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ncr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ncr.svg"
     },
     {
         "chainId": 137,
@@ -13416,7 +13416,7 @@
         "extensions": {
             "rootAddress": "0x04b5e13000c6e9a3255dc057091f3e3eeee7b0f0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ifund.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ifund.svg"
     },
     {
         "chainId": 137,
@@ -13450,7 +13450,7 @@
         "extensions": {
             "rootAddress": "0x3d6f0dea3ac3c607b3998e6ce14b6350721752d9"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cards.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cards.svg"
     },
     {
         "chainId": 137,
@@ -13473,7 +13473,7 @@
         "extensions": {
             "rootAddress": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/idle.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/idle.svg"
     },
     {
         "chainId": 137,
@@ -13529,7 +13529,7 @@
         "extensions": {
             "rootAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ankr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ankr.svg"
     },
     {
         "chainId": 137,
@@ -13547,7 +13547,7 @@
                 "website": "https://get-protocol.io"
             }
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/get.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/get.svg"
     },
     {
         "chainId": 137,
@@ -13570,7 +13570,7 @@
         "extensions": {
             "rootAddress": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/layer.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/layer.svg"
     },
     {
         "chainId": 137,
@@ -13582,7 +13582,7 @@
         "extensions": {
             "rootAddress": "0x8c18d6a985ef69744b9d57248a45c0861874f244"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cti.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cti.svg"
     },
     {
         "chainId": 137,
@@ -13605,7 +13605,7 @@
         "extensions": {
             "rootAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/enj.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/enj.svg"
     },
     {
         "chainId": 137,
@@ -13628,7 +13628,7 @@
         "extensions": {
             "rootAddress": "0xeb58343b36c7528f23caae63a150240241310049"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nbu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nbu.svg"
     },
     {
         "chainId": 137,
@@ -13640,7 +13640,7 @@
         "extensions": {
             "rootAddress": "0x639ae8f3eed18690bf451229d14953a5a5627b72"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/gnbu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gnbu.svg"
     },
     {
         "chainId": 137,
@@ -13652,7 +13652,7 @@
         "extensions": {
             "rootAddress": "0x77fba179c79de5b7653f68b5039af940ada60ce0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/forth.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/forth.svg"
     },
     {
         "chainId": 137,
@@ -13664,7 +13664,7 @@
         "extensions": {
             "rootAddress": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/shib.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/shib.svg"
     },
     {
         "chainId": 137,
@@ -13687,7 +13687,7 @@
         "extensions": {
             "rootAddress": "0xb2279b6769cfba691416f00609b16244c0cf4b20"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/waif.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/waif.svg"
     },
     {
         "chainId": 137,
@@ -13699,7 +13699,7 @@
         "extensions": {
             "rootAddress": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/noia.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/noia.svg"
     },
     {
         "chainId": 137,
@@ -13711,7 +13711,7 @@
         "extensions": {
             "rootAddress": "0x9b6443b0fb9c241a7fdac375595cea13e6b7807a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rcc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rcc.svg"
     },
     {
         "chainId": 137,
@@ -13723,7 +13723,7 @@
         "extensions": {
             "rootAddress": "0x066798d9ef0833ccc719076Dab77199eCbd178b0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sake.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sake.svg"
     },
     {
         "chainId": 137,
@@ -13735,7 +13735,7 @@
         "extensions": {
             "rootAddress": "0x0d438f3b5175bebc262bf23753c1e53d03432bde"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wnxm.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wnxm.svg"
     },
     {
         "chainId": 137,
@@ -13747,7 +13747,7 @@
         "extensions": {
             "rootAddress": "0x595832f8fc6bf59c85c527fec3740a1b7a361269"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/powr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/powr.svg"
     },
     {
         "chainId": 137,
@@ -13770,7 +13770,7 @@
         "extensions": {
             "rootAddress": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nug.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nug.svg"
     },
     {
         "chainId": 137,
@@ -13793,7 +13793,7 @@
         "extensions": {
             "rootAddress": "0x3516415161C478DF10ADBb8bb884Cc83FbD5F11a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dex.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dex.svg"
     },
     {
         "chainId": 137,
@@ -13827,7 +13827,7 @@
         "extensions": {
             "rootAddress": "0x00AbA6fE5557De1a1d565658cBDdddf7C710a1eb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ez.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ez.svg"
     },
     {
         "chainId": 137,
@@ -13839,7 +13839,7 @@
         "extensions": {
             "rootAddress": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/akro.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/akro.svg"
     },
     {
         "chainId": 137,
@@ -13851,7 +13851,7 @@
         "extensions": {
             "rootAddress": "0x72e364f2abdc788b7e918bc238b21f109cd634d7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mvi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mvi.svg"
     },
     {
         "chainId": 137,
@@ -13874,7 +13874,7 @@
         "extensions": {
             "rootAddress": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lto.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lto.svg"
     },
     {
         "chainId": 137,
@@ -13897,7 +13897,7 @@
         "extensions": {
             "rootAddress": "0x58b6a8a3302369daec383334672404ee733ab239"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lpt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lpt.svg"
     },
     {
         "chainId": 137,
@@ -13909,7 +13909,7 @@
         "extensions": {
             "rootAddress": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ndx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ndx.svg"
     },
     {
         "chainId": 137,
@@ -13943,7 +13943,7 @@
         "extensions": {
             "rootAddress": "0xef6e45af9a422c5469928f927ca04ed332322e2e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/acbtc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/acbtc.svg"
     },
     {
         "chainId": 137,
@@ -13955,7 +13955,7 @@
         "extensions": {
             "rootAddress": "0x9a0aba393aac4dfbff4333b06c407458002c6183"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ac.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ac.svg"
     },
     {
         "chainId": 137,
@@ -14000,7 +14000,7 @@
         "extensions": {
             "rootAddress": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lrc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lrc.svg"
     },
     {
         "chainId": 137,
@@ -14012,7 +14012,7 @@
         "extensions": {
             "rootAddress": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/govi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/govi.svg"
     },
     {
         "chainId": 137,
@@ -14035,7 +14035,7 @@
         "extensions": {
             "rootAddress": "0x21cA39943E91d704678F5D00b6616650F066fD63"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mtsla.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mtsla.svg"
     },
     {
         "chainId": 137,
@@ -14047,7 +14047,7 @@
         "extensions": {
             "rootAddress": "0x679fa6dc913acab6def33ec469fc6e421bc794f5"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bribe.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bribe.svg"
     },
     {
         "chainId": 137,
@@ -14081,7 +14081,7 @@
         "extensions": {
             "rootAddress": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/swise.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/swise.svg"
     },
     {
         "chainId": 137,
@@ -14093,7 +14093,7 @@
         "extensions": {
             "rootAddress": "0xee4458e052b533b1aabd493b5f8c4d85d7b263dc"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pass.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pass.svg"
     },
     {
         "chainId": 137,
@@ -14105,7 +14105,7 @@
         "extensions": {
             "rootAddress": "0x6d0081857009cb79014df13e34fc49192f66aee1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/celo.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/celo.svg"
     },
     {
         "chainId": 137,
@@ -14128,7 +14128,7 @@
         "extensions": {
             "rootAddress": "0x7e6c38d007740931e4b419bf15a68c79a0fb0c66"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/udoki.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/udoki.svg"
     },
     {
         "chainId": 137,
@@ -14140,7 +14140,7 @@
         "extensions": {
             "rootAddress": "0x09617f6fd6cf8a71278ec86e23bbab29c04353a7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ult.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ult.svg"
     },
     {
         "chainId": 137,
@@ -14185,7 +14185,7 @@
         "extensions": {
             "rootAddress": "0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/byn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/byn.svg"
     },
     {
         "chainId": 137,
@@ -14197,7 +14197,7 @@
         "extensions": {
             "rootAddress": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lpool.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lpool.svg"
     },
     {
         "chainId": 137,
@@ -14231,7 +14231,7 @@
         "extensions": {
             "rootAddress": "0x0dfdd839cde95dabf56f0b5c5698e0159138930d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/myfi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/myfi.svg"
     },
     {
         "chainId": 137,
@@ -14243,7 +14243,7 @@
         "extensions": {
             "rootAddress": "0xf0c6521b1f8ad9c33a99aaf056f6c6247a3862ba"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/eld.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eld.svg"
     },
     {
         "chainId": 137,
@@ -14255,7 +14255,7 @@
         "extensions": {
             "rootAddress": "0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/zpr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/zpr.svg"
     },
     {
         "chainId": 137,
@@ -14267,7 +14267,7 @@
         "extensions": {
             "rootAddress": "0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nanj.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nanj.svg"
     },
     {
         "chainId": 137,
@@ -14290,7 +14290,7 @@
         "extensions": {
             "rootAddress": "0xee059f0ca1507e4e20c689b20cff71b5e924f7bd"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lsv.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lsv.svg"
     },
     {
         "chainId": 137,
@@ -14313,7 +14313,7 @@
         "extensions": {
             "rootAddress": "0x666d875c600aa06ac1cf15641361dec3b00432ef"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/btse.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/btse.svg"
     },
     {
         "chainId": 137,
@@ -14347,7 +14347,7 @@
         "extensions": {
             "rootAddress": "0x187eff9690e1f1a61d578c7c492296eaab82701a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/moar.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/moar.svg"
     },
     {
         "chainId": 137,
@@ -14359,7 +14359,7 @@
         "extensions": {
             "rootAddress": "0x3832d2f059e55934220881f831be501d180671a7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rendoge.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rendoge.svg"
     },
     {
         "chainId": 137,
@@ -14371,7 +14371,7 @@
         "extensions": {
             "rootAddress": "0x1287c0509df9a475Ef178471aB2132b9dfD312B3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ladz.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ladz.svg"
     },
     {
         "chainId": 137,
@@ -14383,7 +14383,7 @@
         "extensions": {
             "rootAddress": "0x20a68F9e34076b2dc15ce726d7eEbB83b694702d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/isla.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/isla.svg"
     },
     {
         "chainId": 137,
@@ -14450,7 +14450,7 @@
         "extensions": {
             "rootAddress": "0x3EdeE5F69e9A8F88da9063B1aa78311E38DBE96c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mlink.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mlink.svg"
     },
     {
         "chainId": 137,
@@ -14462,7 +14462,7 @@
         "extensions": {
             "rootAddress": "0x41e0c2A507415e25005b1713f5f68AD6648fCF43"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/muni.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/muni.svg"
     },
     {
         "chainId": 137,
@@ -14474,7 +14474,7 @@
         "extensions": {
             "rootAddress": "0x23B197dc671A55F256199cF7e8Bee77Ea2bDC16D"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/musdc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/musdc.svg"
     },
     {
         "chainId": 137,
@@ -14519,7 +14519,7 @@
         "extensions": {
             "rootAddress": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/gard.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gard.svg"
     },
     {
         "chainId": 137,
@@ -14531,7 +14531,7 @@
         "extensions": {
             "rootAddress": "0xAeaf14ce56b052DFC2A2Eb0654136EcF87821fbF"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bs1.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bs1.svg"
     },
     {
         "chainId": 137,
@@ -14543,7 +14543,7 @@
         "extensions": {
             "rootAddress": "0x147faF8De9d8D8DAAE129B187F0D02D819126750"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/geo.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/geo.svg"
     },
     {
         "chainId": 137,
@@ -14555,7 +14555,7 @@
         "extensions": {
             "rootAddress": "0xDd1Ad9A21Ce722C151A836373baBe42c868cE9a4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ubi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ubi.svg"
     },
     {
         "chainId": 137,
@@ -14611,7 +14611,7 @@
         "extensions": {
             "rootAddress": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ethix.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ethix.svg"
     },
     {
         "chainId": 137,
@@ -14623,7 +14623,7 @@
         "extensions": {
             "rootAddress": "0xA18A0bE599366C8e2fFfFD83A2418a3cCb825d7f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/song.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/song.svg"
     },
     {
         "chainId": 137,
@@ -14635,7 +14635,7 @@
         "extensions": {
             "rootAddress": "0xa8006c4ca56f24d6836727d106349320db7fef82"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/inxt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/inxt.svg"
     },
     {
         "chainId": 137,
@@ -14647,7 +14647,7 @@
         "extensions": {
             "rootAddress": "0xe796d6ca1ceb1b022ece5296226bf784110031cd"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bles.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bles.svg"
     },
     {
         "chainId": 137,
@@ -14670,7 +14670,7 @@
         "extensions": {
             "rootAddress": "0xae1eaae3f627aaca434127644371b67b18444051"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/yop.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/yop.svg"
     },
     {
         "chainId": 137,
@@ -14682,7 +14682,7 @@
         "extensions": {
             "rootAddress": "0x9469d013805bffb7d3debe5e7839237e535ec483"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ring.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ring.svg"
     },
     {
         "chainId": 137,
@@ -14705,7 +14705,7 @@
         "extensions": {
             "rootAddress": "0xb4efd85c19999d84251304bda99e90b92300bd93"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rpl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rpl.svg"
     },
     {
         "chainId": 137,
@@ -14751,7 +14751,7 @@
         "extensions": {
             "rootAddress": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lkr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lkr.svg"
     },
     {
         "chainId": 137,
@@ -14774,7 +14774,7 @@
         "extensions": {
             "rootAddress": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/onx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/onx.svg"
     },
     {
         "chainId": 137,
@@ -14808,7 +14808,7 @@
         "extensions": {
             "rootAddress": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dpr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dpr.svg"
     },
     {
         "chainId": 137,
@@ -14820,7 +14820,7 @@
         "extensions": {
             "rootAddress": "0x7f3edcdd180dbe4819bd98fee8929b5cedb3adeb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/xtk.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xtk.svg"
     },
     {
         "chainId": 137,
@@ -14832,7 +14832,7 @@
         "extensions": {
             "rootAddress": "0x99295f1141d58a99e939f7be6bbe734916a875b8"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lpl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lpl.svg"
     },
     {
         "chainId": 137,
@@ -14844,7 +14844,7 @@
         "extensions": {
             "rootAddress": "0xca1207647ff814039530d7d35df0e1dd2e91fa84"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dht.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dht.svg"
     },
     {
         "chainId": 137,
@@ -14856,7 +14856,7 @@
         "extensions": {
             "rootAddress": "0xe1b583dc66e0a24fd9af2dc665f6f5e48978e106"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mee.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mee.svg"
     },
     {
         "chainId": 137,
@@ -14912,7 +14912,7 @@
         "extensions": {
             "rootAddress": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sand.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sand.svg"
     },
     {
         "chainId": 137,
@@ -14924,7 +14924,7 @@
         "extensions": {
             "rootAddress": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/kton.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/kton.svg"
     },
     {
         "chainId": 137,
@@ -14936,7 +14936,7 @@
         "extensions": {
             "rootAddress": "0xee573a945b01b788b9287ce062a0cfc15be9fd86"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/xed.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xed.svg"
     },
     {
         "chainId": 137,
@@ -14948,7 +14948,7 @@
         "extensions": {
             "rootAddress": "0x04ab43d32d0172c76f5287b6619f0aa50af89303"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/unl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/unl.svg"
     },
     {
         "chainId": 137,
@@ -14993,7 +14993,7 @@
         "extensions": {
             "rootAddress": "0x29502fE4d233EF0b45C3647101Fa1252cE0634BD"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/froge.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/froge.svg"
     },
     {
         "chainId": 137,
@@ -15016,7 +15016,7 @@
         "extensions": {
             "rootAddress": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ktn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ktn.svg"
     },
     {
         "chainId": 137,
@@ -15039,7 +15039,7 @@
         "extensions": {
             "rootAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/gmee.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gmee.svg"
     },
     {
         "chainId": 137,
@@ -15051,7 +15051,7 @@
         "extensions": {
             "rootAddress": "0xc36824905dff2eaaee7ecc09fcc63abc0af5abc5"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bab.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bab.svg"
     },
     {
         "chainId": 137,
@@ -15074,7 +15074,7 @@
         "extensions": {
             "rootAddress": "0x106538cc16f938776c7c180186975bca23875287"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/basv2.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/basv2.svg"
     },
     {
         "chainId": 137,
@@ -15174,7 +15174,7 @@
         "extensions": {
             "rootAddress": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/woo.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/woo.svg"
     },
     {
         "chainId": 137,
@@ -15186,7 +15186,7 @@
         "extensions": {
             "rootAddress": "0x07C44B5Ac257C2255AA0933112c3b75A6BFf3Cb1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/oltc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/oltc.svg"
     },
     {
         "chainId": 137,
@@ -15209,7 +15209,7 @@
         "extensions": {
             "rootAddress": "0xa4bbe66f151b22b167127c770016b15ff97dd35c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/umbr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/umbr.svg"
     },
     {
         "chainId": 137,
@@ -15221,7 +15221,7 @@
         "extensions": {
             "rootAddress": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/zil.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/zil.svg"
     },
     {
         "chainId": 137,
@@ -15266,7 +15266,7 @@
         "extensions": {
             "rootAddress": "0xa1c7d450130bb77c6a23ddfaecbc4a060215384b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/xrge.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xrge.svg"
     },
     {
         "chainId": 137,
@@ -15278,7 +15278,7 @@
         "extensions": {
             "rootAddress": "0x626e8036deb333b408be468f951bdb42433cbf18"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/aioz.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aioz.svg"
     },
     {
         "chainId": 137,
@@ -15301,7 +15301,7 @@
         "extensions": {
             "rootAddress": "0x7bef710a5759d197ec0bf621c3df802c2d60d848"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/shopx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/shopx.svg"
     },
     {
         "chainId": 137,
@@ -15313,7 +15313,7 @@
         "extensions": {
             "rootAddress": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ersdl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ersdl.svg"
     },
     {
         "chainId": 137,
@@ -15325,7 +15325,7 @@
         "extensions": {
             "rootAddress": "0xd9ec3ff1f8be459bb9369b4e79e9ebcf7141c093"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/kai.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/kai.svg"
     },
     {
         "chainId": 137,
@@ -15337,7 +15337,7 @@
         "extensions": {
             "rootAddress": "0xb2dbf14d0b47ed3ba02bdb7c954e05a72deb7544"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mofi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mofi.svg"
     },
     {
         "chainId": 137,
@@ -15349,7 +15349,7 @@
         "extensions": {
             "rootAddress": "0xfc979087305a826c2b2a0056cfaba50aad3e6439"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dafi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dafi.svg"
     },
     {
         "chainId": 137,
@@ -15361,7 +15361,7 @@
         "extensions": {
             "rootAddress": "0x954b890704693af242613edef1b603825afcd708"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/card.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/card.svg"
     },
     {
         "chainId": 137,
@@ -15373,7 +15373,7 @@
         "extensions": {
             "rootAddress": "0x67b6d479c7bb412c54e03dca8e1bc6740ce6b99c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/kyl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/kyl.svg"
     },
     {
         "chainId": 137,
@@ -15418,7 +15418,7 @@
         "extensions": {
             "rootAddress": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/conv.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/conv.svg"
     },
     {
         "chainId": 137,
@@ -15441,7 +15441,7 @@
         "extensions": {
             "rootAddress": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sale.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sale.svg"
     },
     {
         "chainId": 137,
@@ -15464,7 +15464,7 @@
         "extensions": {
             "rootAddress": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bao.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bao.svg"
     },
     {
         "chainId": 137,
@@ -15476,7 +15476,7 @@
         "extensions": {
             "rootAddress": "0xa10740ff9ff6852eac84cdcff9184e1d6d27c057"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wg0.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wg0.svg"
     },
     {
         "chainId": 137,
@@ -15488,7 +15488,7 @@
         "extensions": {
             "rootAddress": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/epan.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/epan.svg"
     },
     {
         "chainId": 137,
@@ -15500,7 +15500,7 @@
         "extensions": {
             "rootAddress": "0x4a6ab9792e9f046c3ab22d8602450de5186be9a7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/polven.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/polven.svg"
     },
     {
         "chainId": 137,
@@ -15512,7 +15512,7 @@
         "extensions": {
             "rootAddress": "0xbae5f2d8a1299e5c4963eaff3312399253f27ccb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/soar.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/soar.svg"
     },
     {
         "chainId": 137,
@@ -15524,7 +15524,7 @@
         "extensions": {
             "rootAddress": "0x84810bcf08744d5862b8181f12d17bfd57d3b078"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sgt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sgt.svg"
     },
     {
         "chainId": 137,
@@ -15536,7 +15536,7 @@
         "extensions": {
             "rootAddress": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/glq.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/glq.svg"
     },
     {
         "chainId": 137,
@@ -15559,7 +15559,7 @@
         "extensions": {
             "rootAddress": "0xfe2e637202056d30016725477c5da089ab0a043a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/seth2.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/seth2.svg"
     },
     {
         "chainId": 137,
@@ -15582,7 +15582,7 @@
         "extensions": {
             "rootAddress": "0x94804dc4948184fFd7355f62Ccbb221c9765886F"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rage.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rage.svg"
     },
     {
         "chainId": 137,
@@ -15594,7 +15594,7 @@
         "extensions": {
             "rootAddress": "0x6fcb6408499a7c0f242e32d77eb51ffa1dd28a7e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/xhdx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xhdx.svg"
     },
     {
         "chainId": 137,
@@ -15606,7 +15606,7 @@
         "extensions": {
             "rootAddress": "0x84bb947fcedba6b9c7dcead42df07e113bb03007"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/str.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/str.svg"
     },
     {
         "chainId": 137,
@@ -15618,7 +15618,7 @@
         "extensions": {
             "rootAddress": "0x499a7e6ddaf01de4c309f22933a1c38cbb44a1d4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/santa.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/santa.svg"
     },
     {
         "chainId": 137,
@@ -15630,7 +15630,7 @@
         "extensions": {
             "rootAddress": "0xD8912C10681D8B21Fd3742244f44658dBA12264E"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/plu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/plu.svg"
     },
     {
         "chainId": 137,
@@ -15642,7 +15642,7 @@
         "extensions": {
             "rootAddress": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/armor.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/armor.svg"
     },
     {
         "chainId": 137,
@@ -15654,7 +15654,7 @@
         "extensions": {
             "rootAddress": "0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nftp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nftp.svg"
     },
     {
         "chainId": 137,
@@ -15677,7 +15677,7 @@
         "extensions": {
             "rootAddress": "0xf8C3527CC04340b208C854E985240c02F7B7793f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/front.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/front.svg"
     },
     {
         "chainId": 137,
@@ -15711,7 +15711,7 @@
         "extensions": {
             "rootAddress": "0x0E1fe60bc4aC0e3102343752ae7E49d01d444c0b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hxn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hxn.svg"
     },
     {
         "chainId": 137,
@@ -15734,7 +15734,7 @@
         "extensions": {
             "rootAddress": "0x3ec03cD2763A729339AFf9927BE679c76325D1bf"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/fgh.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/fgh.svg"
     },
     {
         "chainId": 137,
@@ -15757,7 +15757,7 @@
         "extensions": {
             "rootAddress": "0x037a54aab062628c9bbae1fdb1583c195585fe41"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lcx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lcx.svg"
     },
     {
         "chainId": 137,
@@ -15780,7 +15780,7 @@
         "extensions": {
             "rootAddress": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/exrd.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/exrd.svg"
     },
     {
         "chainId": 137,
@@ -15792,7 +15792,7 @@
         "extensions": {
             "rootAddress": "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wise.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wise.svg"
     },
     {
         "chainId": 137,
@@ -15804,7 +15804,7 @@
         "extensions": {
             "rootAddress": "0x038a68FF68c393373eC894015816e33Ad41BD564"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/glch.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/glch.svg"
     },
     {
         "chainId": 137,
@@ -15816,7 +15816,7 @@
         "extensions": {
             "rootAddress": "0x8888889213dd4da823ebdd1e235b09590633c150"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mbc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mbc.svg"
     },
     {
         "chainId": 137,
@@ -15828,7 +15828,7 @@
         "extensions": {
             "rootAddress": "0xCae72A7A0Fd9046cf6b165CA54c9e3a3872109E0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/$anrx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/$anrx.svg"
     },
     {
         "chainId": 137,
@@ -15851,7 +15851,7 @@
         "extensions": {
             "rootAddress": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/umx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/umx.svg"
     },
     {
         "chainId": 137,
@@ -15863,7 +15863,7 @@
         "extensions": {
             "rootAddress": "0xfe9a29ab92522d14fc65880d817214261d8479ae"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/snow.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/snow.svg"
     },
     {
         "chainId": 137,
@@ -15886,7 +15886,7 @@
         "extensions": {
             "rootAddress": "0x455f7ef6d8bcfc35f9337e85aee1b0600a59fabe"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/aloha.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aloha.svg"
     },
     {
         "chainId": 137,
@@ -15898,7 +15898,7 @@
         "extensions": {
             "rootAddress": "0x8b39b70e39aa811b69365398e0aace9bee238aeb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pkf.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pkf.svg"
     },
     {
         "chainId": 137,
@@ -15932,7 +15932,7 @@
         "extensions": {
             "rootAddress": "0x888888888889c00c67689029d7856aac1065ec11"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/opium.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/opium.svg"
     },
     {
         "chainId": 137,
@@ -15966,7 +15966,7 @@
         "extensions": {
             "rootAddress": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/kit.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/kit.svg"
     },
     {
         "chainId": 137,
@@ -15978,7 +15978,7 @@
         "extensions": {
             "rootAddress": "0xf938424f7210f31df2aee3011291b658f872e91e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/visr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/visr.svg"
     },
     {
         "chainId": 137,
@@ -15990,7 +15990,7 @@
         "extensions": {
             "rootAddress": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cell.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cell.svg"
     },
     {
         "chainId": 137,
@@ -16013,7 +16013,7 @@
         "extensions": {
             "rootAddress": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/alcx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/alcx.svg"
     },
     {
         "chainId": 137,
@@ -16025,7 +16025,7 @@
         "extensions": {
             "rootAddress": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/yf-dai.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/yf-dai.svg"
     },
     {
         "chainId": 137,
@@ -16037,7 +16037,7 @@
         "extensions": {
             "rootAddress": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cc10.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cc10.svg"
     },
     {
         "chainId": 137,
@@ -16049,7 +16049,7 @@
         "extensions": {
             "rootAddress": "0xc0A25a24CcE412E2Fb407c08E3785437FEE9Ad1d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/oft.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/oft.svg"
     },
     {
         "chainId": 137,
@@ -16061,7 +16061,7 @@
         "extensions": {
             "rootAddress": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ern.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ern.svg"
     },
     {
         "chainId": 137,
@@ -16073,7 +16073,7 @@
         "extensions": {
             "rootAddress": "0x408e41876cccdc0f92210600ef50372656052a38"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ren.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ren.svg"
     },
     {
         "chainId": 137,
@@ -16085,7 +16085,7 @@
         "extensions": {
             "rootAddress": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hot.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hot.svg"
     },
     {
         "chainId": 137,
@@ -16097,7 +16097,7 @@
         "extensions": {
             "rootAddress": "0x635d081fd8f6670135d8a3640e2cf78220787d56"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/add.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/add.svg"
     },
     {
         "chainId": 137,
@@ -16120,7 +16120,7 @@
         "extensions": {
             "rootAddress": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mtv.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mtv.svg"
     },
     {
         "chainId": 137,
@@ -16132,7 +16132,7 @@
         "extensions": {
             "rootAddress": "0xc237868a9c5729bdf3173dddacaa336a0a5bb6e0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wwgr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wwgr.svg"
     },
     {
         "chainId": 137,
@@ -16144,7 +16144,7 @@
         "extensions": {
             "rootAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/chz.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/chz.svg"
     },
     {
         "chainId": 137,
@@ -16167,7 +16167,7 @@
         "extensions": {
             "rootAddress": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mona.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mona.svg"
     },
     {
         "chainId": 137,
@@ -16179,7 +16179,7 @@
         "extensions": {
             "rootAddress": "0xac3211a5025414af2866ff09c23fc18bc97e79b1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dov.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dov.svg"
     },
     {
         "chainId": 137,
@@ -16202,7 +16202,7 @@
         "extensions": {
             "rootAddress": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hakka.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hakka.svg"
     },
     {
         "chainId": 137,
@@ -16214,7 +16214,7 @@
         "extensions": {
             "rootAddress": "0xdb25f211ab05b1c97d595516f45794528a807ad8"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/eurs.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eurs.svg"
     },
     {
         "chainId": 137,
@@ -16259,7 +16259,7 @@
         "extensions": {
             "rootAddress": "0xcf3c8be2e2c42331da80ef210e9b1b307c03d36a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bepro.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bepro.svg"
     },
     {
         "chainId": 137,
@@ -16271,7 +16271,7 @@
         "extensions": {
             "rootAddress": "0x12D102F06da35cC0111EB58017fd2Cd28537d0e1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/vox.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/vox.svg"
     },
     {
         "chainId": 137,
@@ -16283,7 +16283,7 @@
         "extensions": {
             "rootAddress": "0x6e9730ecffbed43fd876a264c982e254ef05a0de"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nord.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nord.svg"
     },
     {
         "chainId": 137,
@@ -16317,7 +16317,7 @@
         "extensions": {
             "rootAddress": "0xfad45e47083e4607302aa43c65fb3106f1cd7607"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hoge.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hoge.svg"
     },
     {
         "chainId": 137,
@@ -16329,7 +16329,7 @@
         "extensions": {
             "rootAddress": "0x126c121f99e1e211df2e5f8de2d96fa36647c855"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/degen.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/degen.svg"
     },
     {
         "chainId": 137,
@@ -16352,7 +16352,7 @@
         "extensions": {
             "rootAddress": "0x28b5e12cce51f15594b0b91d5b5adaa70f684a02"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/npx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/npx.svg"
     },
     {
         "chainId": 137,
@@ -16364,7 +16364,7 @@
         "extensions": {
             "rootAddress": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sdt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sdt.svg"
     },
     {
         "chainId": 137,
@@ -16387,7 +16387,7 @@
         "extensions": {
             "rootAddress": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/vidya.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/vidya.svg"
     },
     {
         "chainId": 137,
@@ -16421,7 +16421,7 @@
         "extensions": {
             "rootAddress": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/coin.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/coin.svg"
     },
     {
         "chainId": 137,
@@ -16433,7 +16433,7 @@
         "extensions": {
             "rootAddress": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pickle.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pickle.svg"
     },
     {
         "chainId": 137,
@@ -16445,7 +16445,7 @@
         "extensions": {
             "rootAddress": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rndr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rndr.svg"
     },
     {
         "chainId": 137,
@@ -16468,7 +16468,7 @@
         "extensions": {
             "rootAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/crv.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/crv.svg"
     },
     {
         "chainId": 137,
@@ -16480,7 +16480,7 @@
         "extensions": {
             "rootAddress": "0x77777feddddffc19ff86db637967013e6c6a116c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/torn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/torn.svg"
     },
     {
         "chainId": 137,
@@ -16514,7 +16514,7 @@
         "extensions": {
             "rootAddress": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/perp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/perp.svg"
     },
     {
         "chainId": 137,
@@ -16526,7 +16526,7 @@
         "extensions": {
             "rootAddress": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/maps.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/maps.svg"
     },
     {
         "chainId": 137,
@@ -16544,7 +16544,7 @@
                 "website": "https://www.mysterium.network/"
             }
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/myst.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/myst.svg"
     },
     {
         "chainId": 137,
@@ -16556,7 +16556,7 @@
         "extensions": {
             "rootAddress": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/fcl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/fcl.svg"
     },
     {
         "chainId": 137,
@@ -16579,7 +16579,7 @@
         "extensions": {
             "rootAddress": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/razor.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/razor.svg"
     },
     {
         "chainId": 137,
@@ -16613,7 +16613,7 @@
         "extensions": {
             "rootAddress": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hopr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hopr.svg"
     },
     {
         "chainId": 137,
@@ -16625,7 +16625,7 @@
         "extensions": {
             "rootAddress": "0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tap.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tap.svg"
     },
     {
         "chainId": 137,
@@ -16637,7 +16637,7 @@
         "extensions": {
             "rootAddress": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/inj.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/inj.svg"
     },
     {
         "chainId": 137,
@@ -16660,7 +16660,7 @@
         "extensions": {
             "rootAddress": "0x798d1be841a82a273720ce31c822c61a67a601c3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/digg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/digg.svg"
     },
     {
         "chainId": 137,
@@ -16683,7 +16683,7 @@
         "extensions": {
             "rootAddress": "0x3472A5A71965499acd81997a54BBA8D852C6E53d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/badger.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/badger.svg"
     },
     {
         "chainId": 137,
@@ -16695,7 +16695,7 @@
         "extensions": {
             "rootAddress": "0x3883f5e181fccaf8410fa61e12b59bad963fb645"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/theta.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/theta.svg"
     },
     {
         "chainId": 137,
@@ -16707,7 +16707,7 @@
         "extensions": {
             "rootAddress": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/txl.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/txl.svg"
     },
     {
         "chainId": 137,
@@ -16719,7 +16719,7 @@
         "extensions": {
             "rootAddress": "0xa1d6df714f91debf4e0802a542e13067f31b8262"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rfox.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rfox.svg"
     },
     {
         "chainId": 137,
@@ -16731,7 +16731,7 @@
         "extensions": {
             "rootAddress": "0x178c820f862b14f316509ec36b13123da19a6054"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ewtb.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ewtb.svg"
     },
     {
         "chainId": 137,
@@ -16743,7 +16743,7 @@
         "extensions": {
             "rootAddress": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dep.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dep.svg"
     },
     {
         "chainId": 137,
@@ -16777,7 +16777,7 @@
         "extensions": {
             "rootAddress": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pool.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pool.svg"
     },
     {
         "chainId": 137,
@@ -16789,7 +16789,7 @@
         "extensions": {
             "rootAddress": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/band.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/band.svg"
     },
     {
         "chainId": 137,
@@ -16801,7 +16801,7 @@
         "extensions": {
             "rootAddress": "0x4e15361fd6b4bb609fa63c81a2be19d873717870"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ftm.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ftm.svg"
     },
     {
         "chainId": 137,
@@ -16813,7 +16813,7 @@
         "extensions": {
             "rootAddress": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ogn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ogn.svg"
     },
     {
         "chainId": 137,
@@ -16836,7 +16836,7 @@
         "extensions": {
             "rootAddress": "0x167e2a574669b0eeb552aaf3da47c728cb348a41"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/300.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/300.svg"
     },
     {
         "chainId": 137,
@@ -16848,7 +16848,7 @@
         "extensions": {
             "rootAddress": "0x35872fea6a4843facbcdbce99e3b69596a3680b8"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/1337.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/1337.svg"
     },
     {
         "chainId": 137,
@@ -16860,7 +16860,7 @@
         "extensions": {
             "rootAddress": "0x9355372396e3f6daf13359b7b607a3374cc638e0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/whale.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/whale.svg"
     },
     {
         "chainId": 137,
@@ -16883,7 +16883,7 @@
         "extensions": {
             "rootAddress": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/trb.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/trb.svg"
     },
     {
         "chainId": 137,
@@ -16935,7 +16935,7 @@
         "extensions": {
             "rootAddress": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdn.svg"
     },
     {
         "chainId": 137,
@@ -16958,7 +16958,7 @@
         "extensions": {
             "rootAddress": "0x1F6DEADcb526c4710Cf941872b86dcdfBbBD9211"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rtk.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rtk.svg"
     },
     {
         "chainId": 137,
@@ -17003,7 +17003,7 @@
         "extensions": {
             "rootAddress": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/drc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/drc.svg"
     },
     {
         "chainId": 137,
@@ -17015,7 +17015,7 @@
         "extensions": {
             "rootAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/paxg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/paxg.svg"
     },
     {
         "chainId": 137,
@@ -17027,7 +17027,7 @@
         "extensions": {
             "rootAddress": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/gno.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gno.svg"
     },
     {
         "chainId": 137,
@@ -17039,7 +17039,7 @@
         "extensions": {
             "rootAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/snx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/snx.svg"
     },
     {
         "chainId": 137,
@@ -17062,7 +17062,7 @@
         "extensions": {
             "rootAddress": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dec.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dec.svg"
     },
     {
         "chainId": 137,
@@ -17107,7 +17107,7 @@
         "extensions": {
             "rootAddress": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pols.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pols.svg"
     },
     {
         "chainId": 137,
@@ -17119,7 +17119,7 @@
         "extensions": {
             "rootAddress": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dsla.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dsla.svg"
     },
     {
         "chainId": 137,
@@ -17131,7 +17131,7 @@
         "extensions": {
             "rootAddress": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bnt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnt.svg"
     },
     {
         "chainId": 137,
@@ -17154,7 +17154,7 @@
         "extensions": {
             "rootAddress": "0x539efe69bcdd21a83efd9122571a64cc25e0282b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/blue.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/blue.svg"
     },
     {
         "chainId": 137,
@@ -17177,7 +17177,7 @@
         "extensions": {
             "rootAddress": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mod.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mod.svg"
     },
     {
         "chainId": 137,
@@ -17189,7 +17189,7 @@
         "extensions": {
             "rootAddress": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/defi5.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/defi5.svg"
     },
     {
         "chainId": 137,
@@ -17201,7 +17201,7 @@
         "extensions": {
             "rootAddress": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rari.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rari.svg"
     },
     {
         "chainId": 137,
@@ -17213,7 +17213,7 @@
         "extensions": {
             "rootAddress": "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/room.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/room.svg"
     },
     {
         "chainId": 137,
@@ -17225,7 +17225,7 @@
         "extensions": {
             "rootAddress": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/audio.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/audio.svg"
     },
     {
         "chainId": 137,
@@ -17237,7 +17237,7 @@
         "extensions": {
             "rootAddress": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/super.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/super.svg"
     },
     {
         "chainId": 137,
@@ -17260,7 +17260,7 @@
         "extensions": {
             "rootAddress": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cfi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cfi.svg"
     },
     {
         "chainId": 137,
@@ -17272,7 +17272,7 @@
         "extensions": {
             "rootAddress": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tbtc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tbtc.svg"
     },
     {
         "chainId": 137,
@@ -17284,7 +17284,7 @@
         "extensions": {
             "rootAddress": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/keep.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/keep.svg"
     },
     {
         "chainId": 137,
@@ -17307,7 +17307,7 @@
         "extensions": {
             "rootAddress": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dam.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dam.svg"
     },
     {
         "chainId": 137,
@@ -17319,7 +17319,7 @@
         "extensions": {
             "rootAddress": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/zefu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/zefu.svg"
     },
     {
         "chainId": 137,
@@ -17331,7 +17331,7 @@
         "extensions": {
             "rootAddress": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rai.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rai.svg"
     },
     {
         "chainId": 137,
@@ -17343,7 +17343,7 @@
         "extensions": {
             "rootAddress": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/luna.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/luna.svg"
     },
     {
         "chainId": 137,
@@ -17366,7 +17366,7 @@
         "extensions": {
             "rootAddress": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/plot.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/plot.svg"
     },
     {
         "chainId": 137,
@@ -17378,7 +17378,7 @@
         "extensions": {
             "rootAddress": "0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rocks.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rocks.svg"
     },
     {
         "chainId": 137,
@@ -17390,7 +17390,7 @@
         "extensions": {
             "rootAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/grt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/grt.svg"
     },
     {
         "chainId": 137,
@@ -17402,7 +17402,7 @@
         "extensions": {
             "rootAddress": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/omg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/omg.svg"
     },
     {
         "chainId": 137,
@@ -17414,7 +17414,7 @@
         "extensions": {
             "rootAddress": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bmi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bmi.svg"
     },
     {
         "chainId": 137,
@@ -17426,7 +17426,7 @@
         "extensions": {
             "rootAddress": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/xor.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xor.svg"
     },
     {
         "chainId": 137,
@@ -17438,7 +17438,7 @@
         "extensions": {
             "rootAddress": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cor.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cor.svg"
     },
     {
         "chainId": 137,
@@ -17450,7 +17450,7 @@
         "extensions": {
             "rootAddress": "0x4ecebfe9b26cd2949202bc0c74e8b5748115fe20"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cum.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cum.svg"
     },
     {
         "chainId": 137,
@@ -17462,7 +17462,7 @@
         "extensions": {
             "rootAddress": "0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sxp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sxp.svg"
     },
     {
         "chainId": 137,
@@ -17485,7 +17485,7 @@
         "extensions": {
             "rootAddress": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ubt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ubt.svg"
     },
     {
         "chainId": 137,
@@ -17508,7 +17508,7 @@
         "extensions": {
             "rootAddress": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dpi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dpi.svg"
     },
     {
         "chainId": 137,
@@ -17520,7 +17520,7 @@
         "extensions": {
             "rootAddress": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ramp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ramp.svg"
     },
     {
         "chainId": 137,
@@ -17532,7 +17532,7 @@
         "extensions": {
             "rootAddress": "0xf680429328caaaCabee69b7A9FdB21a71419c063"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bfly.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bfly.svg"
     },
     {
         "chainId": 137,
@@ -17544,7 +17544,7 @@
         "extensions": {
             "rootAddress": "0xba9d4199fab4f26efe3551d490e3821486f135ba"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/chsb.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/chsb.svg"
     },
     {
         "chainId": 137,
@@ -17556,7 +17556,7 @@
         "extensions": {
             "rootAddress": "0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/trnd.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/trnd.svg"
     },
     {
         "chainId": 137,
@@ -17579,7 +17579,7 @@
         "extensions": {
             "rootAddress": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tvk.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tvk.svg"
     },
     {
         "chainId": 137,
@@ -17624,7 +17624,7 @@
         "extensions": {
             "rootAddress": "0x3d58f7b1b6f0262031c319265bd57e4752e3fa1e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ardu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ardu.svg"
     },
     {
         "chainId": 137,
@@ -17636,7 +17636,7 @@
         "extensions": {
             "rootAddress": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/uft.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/uft.svg"
     },
     {
         "chainId": 137,
@@ -17670,7 +17670,7 @@
         "extensions": {
             "rootAddress": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rbc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rbc.svg"
     },
     {
         "chainId": 137,
@@ -17682,7 +17682,7 @@
         "extensions": {
             "rootAddress": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/spi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/spi.svg"
     },
     {
         "chainId": 137,
@@ -17705,7 +17705,7 @@
         "extensions": {
             "rootAddress": "0xd22dcf31ca28cf4dce530a0f120e244f4b4539eb"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/omniunit.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/omniunit.svg"
     },
     {
         "chainId": 137,
@@ -17717,7 +17717,7 @@
         "extensions": {
             "rootAddress": "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/doki.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/doki.svg"
     },
     {
         "chainId": 137,
@@ -17729,7 +17729,7 @@
         "extensions": {
             "rootAddress": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/aga.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aga.svg"
     },
     {
         "chainId": 137,
@@ -17752,7 +17752,7 @@
         "extensions": {
             "rootAddress": "0xb6ff96b8a8d214544ca0dbc9b33f7ad6503efd32"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sync.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sync.svg"
     },
     {
         "chainId": 137,
@@ -17764,7 +17764,7 @@
         "extensions": {
             "rootAddress": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/nftx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/nftx.svg"
     },
     {
         "chainId": 137,
@@ -17776,7 +17776,7 @@
         "extensions": {
             "rootAddress": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/rfuel.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/rfuel.svg"
     },
     {
         "chainId": 137,
@@ -17788,7 +17788,7 @@
         "extensions": {
             "rootAddress": "0x4cf488387f035ff08c371515562cba712f9015d4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wpr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wpr.svg"
     },
     {
         "chainId": 137,
@@ -17800,7 +17800,7 @@
         "extensions": {
             "rootAddress": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ctsi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ctsi.svg"
     },
     {
         "chainId": 137,
@@ -17834,7 +17834,7 @@
         "extensions": {
             "rootAddress": "0x8a9c67fee641579deba04928c4bc45f66e26343a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/jrt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/jrt.svg"
     },
     {
         "chainId": 137,
@@ -17857,7 +17857,7 @@
         "extensions": {
             "rootAddress": "0x83f873388cd14b83a9f47fabde3c9850b5c74548"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/zut.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/zut.svg"
     },
     {
         "chainId": 137,
@@ -17869,7 +17869,7 @@
         "extensions": {
             "rootAddress": "0x4d2ee5dae46c86da2ff521f7657dad98834f97b8"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ppblz.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ppblz.svg"
     },
     {
         "chainId": 137,
@@ -17881,7 +17881,7 @@
         "extensions": {
             "rootAddress": "0xd2d6158683aee4cc838067727209a0aaf4359de3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bnty.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bnty.svg"
     },
     {
         "chainId": 137,
@@ -17893,7 +17893,7 @@
         "extensions": {
             "rootAddress": "0x9620366a3e732f484b2dc63103bb0eef0dde1f33"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bcm.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bcm.svg"
     },
     {
         "chainId": 137,
@@ -17905,7 +17905,7 @@
         "extensions": {
             "rootAddress": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/yeld.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/yeld.svg"
     },
     {
         "chainId": 137,
@@ -17917,7 +17917,7 @@
         "extensions": {
             "rootAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/fxs.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/fxs.svg"
     },
     {
         "chainId": 137,
@@ -17962,7 +17962,7 @@
         "extensions": {
             "rootAddress": "0x853d955acef822db058eb8505911ed77f175b99e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/frax.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/frax.svg"
     },
     {
         "chainId": 137,
@@ -17985,7 +17985,7 @@
         "extensions": {
             "rootAddress": "0x362bc847a3a9637d3af6624eec853618a43ed7d2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/prq.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/prq.svg"
     },
     {
         "chainId": 137,
@@ -17997,7 +17997,7 @@
         "extensions": {
             "rootAddress": "0xEBBdf302c940c6bfd49C6b165f457fdb324649bc"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hydro.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hydro.svg"
     },
     {
         "chainId": 137,
@@ -18020,7 +18020,7 @@
         "extensions": {
             "rootAddress": "0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/vifi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/vifi.svg"
     },
     {
         "chainId": 137,
@@ -18032,7 +18032,7 @@
         "extensions": {
             "rootAddress": "0xdacd69347de42babfaecd09dc88958378780fb62"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/atri.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/atri.svg"
     },
     {
         "chainId": 137,
@@ -18055,7 +18055,7 @@
         "extensions": {
             "rootAddress": "0xd82bb924a1707950903e2c0a619824024e254cd1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/daofi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/daofi.svg"
     },
     {
         "chainId": 137,
@@ -18067,7 +18067,7 @@
         "extensions": {
             "rootAddress": "0xdfe691f37b6264a90ff507eb359c45d55037951c"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/karma.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/karma.svg"
     },
     {
         "chainId": 137,
@@ -18079,7 +18079,7 @@
         "extensions": {
             "rootAddress": "0x66d28cb58487a7609877550e1a34691810a6b9fc"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/koin.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/koin.svg"
     },
     {
         "chainId": 137,
@@ -18091,7 +18091,7 @@
         "extensions": {
             "rootAddress": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dao.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dao.svg"
     },
     {
         "chainId": 137,
@@ -18114,7 +18114,7 @@
         "extensions": {
             "rootAddress": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/kp3r.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/kp3r.svg"
     },
     {
         "chainId": 137,
@@ -18148,7 +18148,7 @@
         "extensions": {
             "rootAddress": "0xd5525d397898e5502075ea5e830d8914f6f0affe"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/meme.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/meme.svg"
     },
     {
         "chainId": 137,
@@ -18160,7 +18160,7 @@
         "extensions": {
             "rootAddress": "0xc3589f56b6869824804a5ea29f2c9886af1b0fce"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hny.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hny.svg"
     },
     {
         "chainId": 137,
@@ -18194,7 +18194,7 @@
         "extensions": {
             "rootAddress": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mchc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mchc.svg"
     },
     {
         "chainId": 137,
@@ -18206,7 +18206,7 @@
         "extensions": {
             "rootAddress": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/jpyc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/jpyc.svg"
     },
     {
         "chainId": 137,
@@ -18235,7 +18235,7 @@
                 "website": "https://apy.vision"
             }
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/vision.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/vision.svg"
     },
     {
         "chainId": 137,
@@ -18247,7 +18247,7 @@
         "extensions": {
             "rootAddress": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mne.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mne.svg"
     },
     {
         "chainId": 137,
@@ -18259,7 +18259,7 @@
         "extensions": {
             "rootAddress": "0x6524b87960c2d573ae514fd4181777e7842435d4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bzn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bzn.svg"
     },
     {
         "chainId": 137,
@@ -18271,7 +18271,7 @@
         "extensions": {
             "rootAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/amp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/amp.svg"
     },
     {
         "chainId": 137,
@@ -18283,7 +18283,7 @@
         "extensions": {
             "rootAddress": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cel.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cel.svg"
     },
     {
         "chainId": 137,
@@ -18295,7 +18295,7 @@
         "extensions": {
             "rootAddress": "0x99fE3B1391503A1bC1788051347A1324bff41452"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/sx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/sx.svg"
     },
     {
         "chainId": 137,
@@ -18307,7 +18307,7 @@
         "extensions": {
             "rootAddress": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/route.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/route.svg"
     },
     {
         "chainId": 137,
@@ -18348,7 +18348,7 @@
         "extensions": {
             "rootAddress": "0x73ee6d7e6b203125add89320e9f343d65ec7c39a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/axi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/axi.svg"
     },
     {
         "chainId": 137,
@@ -18371,7 +18371,7 @@
         "extensions": {
             "rootAddress": "0x0fca8fdb0fb115a33baadec6e7a141ffc1bc7d5a"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dev.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dev.svg"
     },
     {
         "chainId": 137,
@@ -18416,7 +18416,7 @@
         "extensions": {
             "rootAddress": "0xffb3518f60A967839e5bA5B2908C5D6840632c0f"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/thera.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/thera.svg"
     },
     {
         "chainId": 137,
@@ -18494,7 +18494,7 @@
         "extensions": {
             "rootAddress": "0x2369686fc9fb6e1fdc46541891568c2f341906ef"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/drk.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/drk.svg"
     },
     {
         "chainId": 137,
@@ -18506,7 +18506,7 @@
         "extensions": {
             "rootAddress": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/niox.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/niox.svg"
     },
     {
         "chainId": 137,
@@ -18518,7 +18518,7 @@
         "extensions": {
             "rootAddress": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/hex.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/hex.svg"
     },
     {
         "chainId": 137,
@@ -18541,7 +18541,7 @@
         "extensions": {
             "rootAddress": "0x65e3c4a750a2e7cc7cce86d01587bbcbbe99042e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/opu.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/opu.svg"
     },
     {
         "chainId": 137,
@@ -18586,7 +18586,7 @@
         "extensions": {
             "rootAddress": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mcb.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mcb.svg"
     },
     {
         "chainId": 137,
@@ -18631,7 +18631,7 @@
         "extensions": {
             "rootAddress": "0x8ffe40a3d0f80c0ce6b203d5cdc1a6a86d9acaea"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/igg.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/igg.svg"
     },
     {
         "chainId": 137,
@@ -18643,7 +18643,7 @@
         "extensions": {
             "rootAddress": "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dark.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dark.svg"
     },
     {
         "chainId": 137,
@@ -18666,7 +18666,7 @@
         "extensions": {
             "rootAddress": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/spn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/spn.svg"
     },
     {
         "chainId": 137,
@@ -18684,7 +18684,7 @@
                 "website": "https://kiwi-token.com/"
             }
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/kiwi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/kiwi.svg"
     },
     {
         "chainId": 137,
@@ -18696,7 +18696,7 @@
         "extensions": {
             "rootAddress": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/0xbtc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/0xbtc.svg"
     },
     {
         "chainId": 137,
@@ -18708,7 +18708,7 @@
         "extensions": {
             "rootAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/mana.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/mana.svg"
     },
     {
         "chainId": 137,
@@ -18720,7 +18720,7 @@
         "extensions": {
             "rootAddress": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/yfi.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/yfi.svg"
     },
     {
         "chainId": 137,
@@ -18732,7 +18732,7 @@
         "extensions": {
             "rootAddress": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/lend.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/lend.svg"
     },
     {
         "chainId": 137,
@@ -18744,7 +18744,7 @@
         "extensions": {
             "rootAddress": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/comp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/comp.svg"
     },
     {
         "chainId": 137,
@@ -18778,7 +18778,7 @@
         "extensions": {
             "rootAddress": "0x80640db285Cc63496bdd8c1980A7f4526A4D477F"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/btzc.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/btzc.svg"
     },
     {
         "chainId": 137,
@@ -18911,7 +18911,7 @@
         "extensions": {
             "rootAddress": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/tidal.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/tidal.svg"
     },
     {
         "chainId": 137,
@@ -18978,7 +18978,7 @@
         "extensions": {
             "rootAddress": "0xc28e931814725bbeb9e670676fabbcb694fe7df2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/equad.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/equad.svg"
     },
     {
         "chainId": 137,
@@ -18990,7 +18990,7 @@
         "extensions": {
             "rootAddress": "0xea097a2b1db00627b2fa17460ad260c016016977"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ufr.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ufr.svg"
     },
     {
         "chainId": 137,
@@ -19002,7 +19002,7 @@
         "extensions": {
             "rootAddress": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pmon.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pmon.svg"
     },
     {
         "chainId": 137,
@@ -19014,7 +19014,7 @@
         "extensions": {
             "rootAddress": "0x25e1474170c4c0aa64fa98123bdc8db49d7802fa"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/bid.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/bid.svg"
     },
     {
         "chainId": 137,
@@ -19026,7 +19026,7 @@
         "extensions": {
             "rootAddress": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/unn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/unn.svg"
     },
     {
         "chainId": 137,
@@ -19038,7 +19038,7 @@
         "extensions": {
             "rootAddress": "0x27702a26126e0b3702af63ee09ac4d1a084ef628"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/aleph.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/aleph.svg"
     },
     {
         "chainId": 137,
@@ -19050,7 +19050,7 @@
         "extensions": {
             "rootAddress": "0xd56dac73a4d6766464b38ec6d91eb45ce7457c44"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/pan.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pan.svg"
     },
     {
         "chainId": 137,
@@ -19073,7 +19073,7 @@
         "extensions": {
             "rootAddress": "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/cvp.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/cvp.svg"
     },
     {
         "chainId": 137,
@@ -19917,7 +19917,7 @@
         "extensions": {
             "rootAddress": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dcn.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dcn.svg"
     },
     {
         "chainId": 137,
@@ -19962,7 +19962,7 @@
         "extensions": {
             "rootAddress": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ftt.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ftt.svg"
     },
     {
         "chainId": 137,
@@ -20150,7 +20150,7 @@
         "extensions": {
             "rootAddress": "0xff0a024b66739357c4ed231fb3dbc0c8c22749f5"
         },
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wrx.svg"
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wrx.svg"
     },
     {
         "chainId": 137,
@@ -20404,7 +20404,7 @@
         "symbol": "APE",
         "decimals": 18,
         "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/ape.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/ape.svg",
         "tags": ["pos", "erc20"],
         "extensions": {
             "rootAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
@@ -20569,19 +20569,19 @@
         "decimals": 18,
         "address": "0xc4df120d75604307dcB604fde2AD3b8a8B7c6FAA",
         "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_256x256.png",
-        "tags": ["fx", "erc20","swapable"],
+        "tags": ["fx", "erc20", "swapable"],
         "extensions": {
             "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
-            "rootAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", 
+            "rootAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
             "project": {
                 "name": "Giveth",
                 "summary": "Giveth is building a culture and economy that rewards and empowers those who give. Our goal is to use web3 to radically transform how public goods are funded by helping nonprofits evolve out of systems that depend on sacrifice into ones that create win-win situations for everyone involved. Beginning with a free and direct crypto donation platform on Ethereum, we onboard for-good projects and support them so that they can eventually blossom into DAOs with their own regenerative economies, with Giveth itself becoming an impact investment hub for public goods.",
                 "contact": "info@giveth.io",
                 "website": "https://giveth.io/"
-           }
-       }
-   },
-   {
+            }
+        }
+    },
+    {
         "name": "Polkamarkets",
         "symbol": "POLK",
         "decimals": 18,
@@ -20600,21 +20600,20 @@
         }
     },
     {
-        "chainId": 137, 
+        "chainId": 137,
         "name": "Taki",
         "symbol": "TAKI",
         "decimals": 9,
         "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
         "logoURI": "https://assets.coingecko.com/coins/images/25271/small/logo.png?1651118069",
-        "tags": ["bridge","noDeposit","noWithdraw"],
+        "tags": ["erc20", "noDeposit", "noWithdraw"],
         "extensions": {
-            "rootAddress":"0x0000000000000000000000000000000000000000",
+            "rootAddress": "0x0000000000000000000000000000000000000000",
             "project": {
                 "name": "Taki",
                 "summary": "Wormhole Taki from Solana - https://solscan.io/token/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
                 "contact": "support@taki.app",
                 "website": "https://taki.app/"
-
             }
         }
     },
