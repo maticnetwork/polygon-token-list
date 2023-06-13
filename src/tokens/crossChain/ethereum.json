@@ -5,7 +5,7 @@
         "symbol": "ETH",
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000000000",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["erc20"]
     },
     {
@@ -14,7 +14,7 @@
         "symbol": "USDC",
         "decimals": 6,
         "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
         "tags": ["erc20"]
     },
     {
@@ -23,7 +23,7 @@
         "symbol": "USDT",
         "decimals": 6,
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
         "tags": ["erc20"]
     },
     {
@@ -32,7 +32,7 @@
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
         "tags": ["erc20"]
     },
     {
@@ -41,7 +41,7 @@
         "symbol": "GRT",
         "decimals": 18,
         "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/grt.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/grt.svg",
         "tags": ["erc20"]
     },
     {
@@ -50,7 +50,7 @@
         "symbol": "WBTC",
         "decimals": 8,
         "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-        "logoURI": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
         "tags": ["erc20"]
     }
 ]
