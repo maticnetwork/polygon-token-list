@@ -5,7 +5,7 @@
         "minor": 0,
         "patch": 0
     },
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+    "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "keywords": ["polygon", "blacklist", "tokens"],
     "tags": {
         "erc20": {
