@@ -5,7 +5,7 @@
         "minor": 3,
         "patch": 0
     },
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+    "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "keywords": ["polygon", "default", "tokens"],
     "tags": {
         "stablecoin": {

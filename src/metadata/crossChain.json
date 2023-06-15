@@ -5,7 +5,7 @@
         "minor": 0,
         "patch": 1
     },
-    "logoURI": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+    "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "keywords": ["polygon", "crosschain", "swap", "tokens"],
     "tags": {
         "erc20": {
