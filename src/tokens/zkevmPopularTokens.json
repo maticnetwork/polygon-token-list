@@ -211,6 +211,48 @@
     },
     {
         "chainId": 1101,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+        "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Rocket Pool ETH",
+        "symbol": "rETH",
+        "decimals": 18,
+        "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
+        "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "swETH",
+        "symbol": "swETH",
+        "decimals": 18,
+        "address": "0xAe4ac1070ba338F1c948Ebdd635F640b4d560bB7",
+        "logoURI": "https://etherscan.io/token/images/swellnetwork_32.png",
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xf951E335afb289353dc249e82926178EaC7DEd78"
+        }
+    },
+    {
+        "chainId": 1101,
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
