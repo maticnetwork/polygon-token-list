@@ -3,7 +3,7 @@
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 1
+        "patch": 2
     },
     "logoURI": "https://wiki.polygon.technology/img/zkevm-logo.png",
     "keywords": ["polygon", "default", "tokens"],
