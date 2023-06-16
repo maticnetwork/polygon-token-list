@@ -20635,5 +20635,41 @@
                 "website": "https://www.trufin.io"
             }
         }
+    },
+    {
+    "chainId": 137,
+    "name": "Magic FOX",
+    "symbol": "FOX",
+    "decimals": 18,
+    "address": "0x84E0a246DD437d911989E89667816A9Ed97a1284",
+    "logoURI": "https://github.com/magicfoxfi/assets/blob/master/magicfox/fox-200x200.png",
+    "tags": ["erc20", "noDeposit", "noWithdraw", "swapable"],
+    "extensions": {
+      "rootAddress": "0x0000000000000000000000000000000000000000",
+      "project": {
+        "name": "MagicFox",
+        "summary": "MagicFox is Multichain Solidly ve(3,3) Swap & Yield Optimizer on BNB Chain, Arbitrum and Polygon built atop LayerZero.",
+        "contact": "info@magicfox.fi",
+        "website": "https://www.magicfox.fi/"
+      }
     }
+  },
+  {
+    "chainId": 137,
+    "name": "Magic SHROOM",
+    "symbol": "SHROOM",
+    "decimals": 18,
+    "address": "0x967F4B82D8B7eD38f655CCf084150180c8165AC5",
+    "logoURI": "https://github.com/magicfoxfi/assets/blob/master/magicfox/shtoom-200x200.png",
+    "tags": ["erc20", "noDeposit", "noWithdraw", "swapable"],
+    "extensions": {
+      "rootAddress": "0x0000000000000000000000000000000000000000",
+      "project": {
+        "name": "MagicFox",
+        "summary": "MagicFox is Multichain Solidly ve(3,3) Swap & Yield Optimizer on BNB Chain, Arbitrum and Polygon built atop LayerZero.",
+        "contact": "info@magicfox.fi",
+        "website": "https://www.magicfox.fi/"
+      }
+    }
+  }
 ]
