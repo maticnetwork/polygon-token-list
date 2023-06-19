@@ -20600,6 +20600,44 @@
         }
     },
     {
+        "chainId": 137, 
+        "name": "Taki",
+        "symbol": "TAKI",
+        "decimals": 9,
+        "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
+        "logoURI": "https://assets.coingecko.com/coins/images/25271/small/logo.png?1651118069",
+        "tags": ["bridge","noDeposit","noWithdraw"],
+        "extensions": {
+            "rootAddress":"0x0000000000000000000000000000000000000000",
+            "project": {
+                "name": "Taki",
+                "summary": "Wormhole Taki from Solana - https://solscan.io/token/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
+                "contact": "support@taki.app",
+                "website": "https://taki.app/"
+
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "TruStake MATIC Vault Shares",
+        "symbol": "TruMATIC",
+        "decimals": 18,
+        "address": "0xCa2443391DD5B73Dc0264af8FA71F312D9784C43",
+        "logoURI": "",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0x6ba703406Bc530d7E160f2B25a253e21D1de5ad9",
+            "project": {
+                "name": "TruStake",
+                "summary": "The TruStake MATIC vault allows users to stake their MATIC on the Ethereum network seamlessly.",
+                "contact": "help@trufin.io",
+                "website": "https://www.trufin.io"
+            }
+        }
+    },
+    {
+        "chainId": 137,
         "name": "BreederDAO",
         "symbol": "BREED",
         "decimals": 18,
@@ -20617,22 +20655,4 @@
             }
         }
     },
-    {
-        "chainId": 137, 
-        "name": "Taki",
-        "symbol": "TAKI",
-        "decimals": 9,
-        "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
-        "logoURI": "https://assets.coingecko.com/coins/images/25271/small/logo.png?1651118069",
-        "tags": ["bridge","noDeposit","noWithdraw"],
-        "extensions": {
-            "rootAddress":"0x0000000000000000000000000000000000000000",
-            "project": {
-                "name": "Taki",
-                "summary": "Wormhole Taki from Solana - https://solscan.io/token/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
-                "contact": "support@taki.app",
-                "website": "https://taki.app/"
-            }
-        }
-    }
 ]
