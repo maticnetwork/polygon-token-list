@@ -20622,12 +20622,12 @@
         "name": "TruStake MATIC Vault Shares",
         "symbol": "TruMATIC",
         "decimals": 18,
-        "address": "0xCa2443391DD5B73Dc0264af8FA71F312D9784C43",
+        "address": "0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3",
         "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg",
         "tags": ["fx", "erc20", "swapable"],
         "extensions": {
             "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
-            "rootAddress": "0x6ba703406Bc530d7E160f2B25a253e21D1de5ad9",
+            "rootAddress": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
             "project": {
                 "name": "TruStake",
                 "summary": "The TruStake MATIC vault allows users to stake their MATIC on the Ethereum network seamlessly.",
