@@ -14,6 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       AWS_REGION: eu-west-1
+      AWS_ACCOUNT_ID: 070528468658
       ECR_REPOSITORY: api-polygon-tokens-staging-ecr
       ECS_SERVICE: api-polygon-tokens-staging-ecs-service
       ECS_CLUSTER: frontend-staging-ecs-cluster
@@ -34,7 +35,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
           aws-region: ${{ env.AWS_REGION }}
-          role-to-assume: arn:aws:iam::${{ secrets.ACCOUNT_ID }}:role/api-polygon-tokens-staging-ecs-GithubActionsRole
+          role-to-assume: arn:aws:iam::${{ env.AWS_ACCOUNT_ID }}:role/api-polygon-tokens-staging-ecs-GithubActionsRole
           role-session-name: GithubActionsSession
 
       - name: Login to Amazon ECR
