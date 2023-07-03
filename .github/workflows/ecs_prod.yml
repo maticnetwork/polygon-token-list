@@ -1,24 +1,24 @@
-name: api-polygon-tokens-staging-ecs
+name: api-polygon-tokens-ecs
 on:
   push:
-    branches: ['staging']
+    branches: ['DEVOPS-1422-api-polygon-tokens']
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: api-polygon-tokens-staging-ecs
+    name: api-polygon-tokens-ecs
     permissions:
       id-token: write
       contents: write
-    environment: staging
+    environment: prod
     runs-on: ubuntu-latest
     env:
       AWS_REGION: eu-west-1
-      ECR_REPOSITORY: api-polygon-tokens-staging-ecr
-      ECS_SERVICE: api-polygon-tokens-staging-ecs-service
-      ECS_CLUSTER: frontend-staging-ecs-cluster
-      ECS_TASK_DEFINITION: staging-taskdef.json
-      CONTAINER_NAME: api-polygon-tokens-staging
+      ECR_REPOSITORY: api-polygon-tokens-ecr
+      ECS_SERVICE: api-polygon-tokens-ecs-service
+      ECS_CLUSTER: frontend-ecs-cluster
+      ECS_TASK_DEFINITION: prod-taskdef.json
+      CONTAINER_NAME: api-polygon-tokens
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
@@ -34,7 +34,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
           aws-region: ${{ env.AWS_REGION }}
-          role-to-assume: arn:aws:iam::070528468658:role/api-polygon-tokens-staging-GithubActionsRole
+          role-to-assume: arn:aws:iam::042947190491:role/api-polygon-tokens-GithubActionsRole
           role-session-name: GithubActionsSession
 
       - name: Login to Amazon ECR
@@ -72,4 +72,4 @@ jobs:
       #   with:
       #       cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
       #       cf_auth: ${{ secrets.CLOUDFLARE_API_KEY }}
-      #       hosts: api-polygon-tokens-staging.polygon.technology
+      #       hosts: api-polygon-tokens.polygon.technology
