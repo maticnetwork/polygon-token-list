@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    name: api-polygon-tokens-ecs
+    name: api-polygon-tokens-prod-ecs
     permissions:
       id-token: write
       contents: write
@@ -16,7 +16,7 @@ jobs:
       AWS_REGION: eu-west-1
       ECR_REPOSITORY: api-polygon-tokens-ecr
       ECS_SERVICE: api-polygon-tokens-ecs-service
-      ECS_CLUSTER: frontend-ecs-cluster
+      ECS_CLUSTER: frontend-prod-ecs-cluster
       ECS_TASK_DEFINITION: prod-taskdef.json
       CONTAINER_NAME: api-polygon-tokens
     steps:
