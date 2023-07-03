@@ -35,7 +35,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
           aws-region: ${{ env.AWS_REGION }}
-          role-to-assume: arn:aws:iam::${{ env.AWS_ACCOUNT_ID }}:role/api-polygon-tokens-staging-ecs-GithubActionsRole
+          role-to-assume: arn:aws:iam::${{ env.AWS_ACCOUNT_ID }}:role/api-polygon-tokens-staging-GithubActionsRole
           role-session-name: GithubActionsSession
 
       - name: Login to Amazon ECR
