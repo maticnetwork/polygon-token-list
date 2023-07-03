@@ -1,7 +1,7 @@
 name: api-polygon-tokens-staging-ecs
 on:
   push:
-    branches: ['staging']
+    branches: ['DEVOPS-1422-api-polygon-tokens-staging']
   workflow_dispatch:
 
 jobs:
