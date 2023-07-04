@@ -1,7 +1,7 @@
 name: api-polygon-tokens-ecs
 on:
   push:
-    branches: ['master']
+    branches: ['DEVOPS-1422-api-polygon-tokens-cors-fix']
   workflow_dispatch:
 
 jobs:
@@ -22,8 +22,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-        with:
-          ref: master
+        # with:
+        #   ref: master
 
       # Runs a set of commands using the runners shell
       - name: Install dependencies
