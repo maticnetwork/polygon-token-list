@@ -20548,17 +20548,17 @@
         "name": "Kapital DAO Token",
         "symbol": "KAP",
         "decimals": 18,
-        "address": "0x8e26032650a389BF9cf16C17C4cd605742f1ef8D",
+        "address": "0xc27158bB8E08899d38765752F91d7d778e16AB8e",
         "logoURI": "https://s3.us-east-1.amazonaws.com/kapital.gg/assets/KAP_logo_large.png",
         "tags": ["fx", "erc20", "swapable"],
         "extensions": {
-            "rootTunnelAddress": "0x89748a6Aa14d7dC1D3a669b46891e1fD44Ff59f6",
+            "rootTunnelAddress": "0x0cC2CaeD31490B546c741BD93dbba8Ab387f7F2c",
             "rootAddress": "0x9625cE7753ace1fa1865A47aAe2c5C2Ce4418569",
             "project": {
-                "name": "Kapital DAO",
-                "summary": "The Kapital DAO builds SaaS tools for scaling the web3 gaming open economy. Product verticals span digital asset management, web3 gaming distribution, community engagement and growth tooling, global esports participation, and advisory services.",
+                "name": "KAP Games",
+                "summary": "KAP Games is the premier web3 gaming publisher, distributor and studio, specializing in browser and mobile-native experiences.",
                 "contact": "info@kapital.gg",
-                "website": "https://www.kapital.gg/"
+                "website": "https://www.kap.gg/"
             }
         }
     },
