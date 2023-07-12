@@ -1,4 +1,4 @@
-# polygon-token-list
+# polygon-token-list 
 
 This repo contains the token lists to be used in Polygon products' interfaces.
 
