@@ -1,7 +1,7 @@
 name: api-polygon-tokens-ecs
 on:
   push:
-    branches: ['master']
+    branches: ['DEVOPS-1422-api-polygon-tokens-cors-fix']
   workflow_dispatch:
 
 jobs:
