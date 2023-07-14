@@ -579,7 +579,7 @@
     },
     {
         "chainId": 137,
-        "name": "Royale (PoS)",
+        "name": "Royale PoS",
         "symbol": "ROYA",
         "decimals": 18,
         "address": "0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561",
@@ -731,7 +731,7 @@
     },
     {
         "chainId": 137,
-        "name": "Polytrade (PoS)",
+        "name": "Polytrade PoS",
         "symbol": "TRADE",
         "decimals": 18,
         "address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
@@ -1606,7 +1606,7 @@
     },
     {
         "chainId": 137,
-        "name": "$ZKP Token",
+        "name": "ZKP Token",
         "symbol": "$ZKP",
         "decimals": 18,
         "address": "0x9a06db14d639796b25a6cec6a1bf614fd98815ec",
@@ -1846,7 +1846,7 @@
     },
     {
         "chainId": 137,
-        "name": "Doge Pixel (239, 375)",
+        "name": "Doge Pixel 239, 375",
         "symbol": "DOGPIX",
         "decimals": 18,
         "address": "0xff93b30c021beedab0f6e28a7a08bddd155b15a4",
@@ -3977,7 +3977,7 @@
     },
     {
         "chainId": 137,
-        "name": "Degen$ Farm Bags",
+        "name": "Degen Farm Bags",
         "symbol": "BAGZ",
         "decimals": 0,
         "address": "0x345DF42b1E4963d70909E09935b9a1f7ef832114",
@@ -4272,18 +4272,6 @@
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
             "originTokenAddress": "0xa5Bd86e212097F95415AfF92B7F0752BAe39F7e5",
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 137,
-        "name": "$",
-        "symbol": "$",
-        "decimals": 18,
-        "address": "0x5B3dcB07244dCCBd22A42080AE8b35E7a7593ED3",
-        "tags": ["pos", "erc20"],
-        "extensions": {
-            "originTokenAddress": "0xDd3892eacc10c3E6A56EB29Fa0cdC18C4E4bF9Ae",
             "originTokenNetwork": 0
         }
     },
@@ -5126,7 +5114,7 @@
     },
     {
         "chainId": 137,
-        "name": "WhaleStreet $hrimp Token",
+        "name": "WhaleStreet Shrimp Token",
         "symbol": "$HRIMP",
         "decimals": 18,
         "address": "0xb8218785cb4d14dBdD94Bf314F361542579b4815",
@@ -9207,7 +9195,7 @@
     },
     {
         "chainId": 137,
-        "name": "$Poolz Finance",
+        "name": "Poolz Finance",
         "symbol": "POOLZ",
         "decimals": 18,
         "address": "0xa052EFCDd44F02073B1FDC42bF06017A0234ae03",
@@ -13701,7 +13689,7 @@
     },
     {
         "chainId": 137,
-        "name": "ZARP (Rand Reserve)",
+        "name": "ZARP Rand Reserve",
         "symbol": "ZARP",
         "decimals": 2,
         "address": "0xA28F6797f9Be95a6AE2b59Bbe94498725dC091A9",
@@ -16333,8 +16321,9 @@
         "symbol": "GMEE",
         "decimals": 18,
         "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": ["pos", "erc20", "swapable", "customSig"],
         "extensions": {
+            "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5",
             "originTokenAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
             "originTokenNetwork": 0
         },
@@ -17237,7 +17226,7 @@
     },
     {
         "chainId": 137,
-        "name": "SifChain (erowan)",
+        "name": "SifChain erowan",
         "symbol": "EROWAN",
         "decimals": 18,
         "address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
@@ -20496,7 +20485,7 @@
     },
     {
         "chainId": 137,
-        "name": "Streamr (old)",
+        "name": "Streamr old",
         "symbol": "XDATA",
         "decimals": 18,
         "address": "0xd668c5e8a4a837ca95be5e3a8d5bd62f5985390d",
@@ -21544,7 +21533,7 @@
     },
     {
         "chainId": 137,
-        "name": "$Ankr ETH2 Reward Bearing Certificate",
+        "name": "Ankr ETH2 Reward Bearing Certificate",
         "symbol": "aETHc",
         "decimals": 18,
         "address": "0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018",
@@ -22349,6 +22338,7 @@
         }
     },
     {
+        "chainId": 137,
         "name": "Polkamarkets",
         "symbol": "POLK",
         "decimals": 18,
@@ -22436,7 +22426,7 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000000000",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x0000000000000000000000000000000000000000",
             "originTokenNetwork": 0,
@@ -22450,7 +22440,7 @@
         "decimals": 18,
         "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
             "originTokenNetwork": 0,
@@ -22464,7 +22454,7 @@
         "decimals": 6,
         "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
-        "tags": ["zkevm", "stablecoin", "erc20"],
+        "tags": ["lxly", "stablecoin", "erc20"],
         "extensions": {
             "originTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "originTokenNetwork": 0,
@@ -22478,7 +22468,7 @@
         "decimals": 6,
         "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdt.svg",
-        "tags": ["zkevm", "stablecoin", "erc20"],
+        "tags": ["lxly", "stablecoin", "erc20"],
         "extensions": {
             "originTokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
             "originTokenNetwork": 0,
@@ -22492,7 +22482,7 @@
         "decimals": 18,
         "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
-        "tags": ["zkevm", "stablecoin", "erc20"],
+        "tags": ["lxly", "stablecoin", "erc20"],
         "extensions": {
             "originTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
             "originTokenNetwork": 0,
@@ -22506,7 +22496,7 @@
         "decimals": 18,
         "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
         "logoURI": "https://assets.polygon.technology/tokenAssets/aave.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
             "originTokenNetwork": 0,
@@ -22520,7 +22510,7 @@
         "decimals": 18,
         "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
         "logoURI": "https://assets.polygon.technology/tokenAssets/link.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
             "originTokenNetwork": 0,
@@ -22534,7 +22524,7 @@
         "decimals": 8,
         "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
         "logoURI": "https://assets.polygon.technology/tokenAssets/wbtc.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
             "originTokenNetwork": 0,
@@ -22548,7 +22538,7 @@
         "decimals": 18,
         "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
         "logoURI": "https://assets.polygon.technology/tokenAssets/uni.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
             "originTokenNetwork": 0,
@@ -22562,7 +22552,7 @@
         "decimals": 18,
         "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
         "logoURI": "https://assets.polygon.technology/tokenAssets/bal.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
             "originTokenNetwork": 0,
@@ -22576,7 +22566,7 @@
         "decimals": 18,
         "address": "0x83b874c1e09d316059d929da402dcb1a98e92082",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18688.png",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599",
             "originTokenNetwork": 0,
@@ -22589,7 +22579,7 @@
         "symbol": "CRV",
         "decimals": 18,
         "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "logoURI": "https://assets.polygon.technology/tokenAssets/crv.svg",
         "extensions": {
             "originTokenAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
@@ -22603,7 +22593,7 @@
         "symbol": "LDO",
         "decimals": 18,
         "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png",
         "extensions": {
             "originTokenAddress": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
@@ -22618,7 +22608,7 @@
         "decimals": 18,
         "address": "0xf9ed88937b2d82707d0eabd8c3d9aa4870b714d3",
         "logoURI": "https://user-images.githubusercontent.com/19915413/198746681-bcfd16fd-72e5-41b3-bcb8-5494d77195e0.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
             "originTokenNetwork": 0,
@@ -22632,7 +22622,7 @@
         "decimals": 18,
         "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6",
         "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0xd2bA23dE8a19316A638dc1e7a9ADdA1d74233368",
             "originTokenNetwork": 0,
@@ -22646,7 +22636,7 @@
         "decimals": 18,
         "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
         "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
             "originTokenNetwork": 0,
@@ -22660,7 +22650,7 @@
         "decimals": 18,
         "address": "0xb23C20EFcE6e24Acca0Cef9B7B7aA196b84EC942",
         "logoURI": "https://etherscan.io/token/images/rocketpooleth_32.png",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0xae78736Cd615f374D3085123A210448E74Fc6393",
             "originTokenNetwork": 0,
@@ -22674,7 +22664,7 @@
         "decimals": 18,
         "address": "0xAe4ac1070ba338F1c948Ebdd635F640b4d560bB7",
         "logoURI": "https://etherscan.io/token/images/swellnetwork_32.png",
-        "tags": ["zkevm", "erc20"],
+        "tags": ["lxly", "erc20"],
         "extensions": {
             "originTokenAddress": "0xf951E335afb289353dc249e82926178EaC7DEd78",
             "originTokenNetwork": 0,

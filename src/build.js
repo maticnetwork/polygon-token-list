@@ -31,6 +31,10 @@ stagingTokenList.name = "Polygon Staging List";
 const stagingList = [polygonTokens[0], polygonTokens[1], polygonTokens[2]];
 
 // Remove the project information from lists
+allPolygonTokens.forEach((token) => {
+    delete token.extensions.project;
+});
+
 polygonTokens.forEach((token) => {
     delete token.extensions.project;
 });

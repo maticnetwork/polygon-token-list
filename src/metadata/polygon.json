@@ -17,7 +17,7 @@
             "description": "Tokens are eligible for swaps"
         },
         "erc20": {
-            "name": "erc20",
+            "name": "ERC20",
             "description": "Tokens are of ERC20 token type"
         },
         "pos": {
@@ -25,7 +25,7 @@
             "description": "PoS tokens"
         },
         "fx": {
-            "name": "fx",
+            "name": "Fx",
             "description": "fx tokens"
         },
         "plasma": {
@@ -33,15 +33,15 @@
             "description": "Plasma tokens"
         },
         "lxly": {
-            "name": "Lx-Ly",
-            "description": "Lx-Ly tokens"
+            "name": "LxLy",
+            "description": "LxLy tokens"
         },
         "metaTx": {
             "name": "MetaTx",
             "description": "Tokens are eligible for meta transactions"
         },
         "customSig": {
-            "name": "Custom Withdraw Event Signature",
+            "name": "Custom Withdraw Sig",
             "description": "The token has a custom withdraw event signature"
         },
         "noDeposit": {

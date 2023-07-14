@@ -15035,9 +15035,10 @@
         "symbol": "GMEE",
         "decimals": 18,
         "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": ["pos", "erc20", "swapable", "customWithdrawEventSig"],
         "extensions": {
-            "rootAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
+            "rootAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+            "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
         },
         "logoURI": "https://assets.polygon.technology/tokenAssets/gmee.svg"
     },
