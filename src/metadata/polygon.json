@@ -1,0 +1,56 @@
+{
+    "name": "Polygon Tokens",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
+    "keywords": ["polygon", "default", "tokens", "PoS", "zkEVM"],
+    "tags": {
+        "stablecoin": {
+            "name": "Stablecoin",
+            "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+        },
+        "swapable": {
+            "name": "Swapable",
+            "description": "Tokens are eligible for swaps"
+        },
+        "erc20": {
+            "name": "ERC20",
+            "description": "Tokens are of ERC20 token type"
+        },
+        "pos": {
+            "name": "PoS",
+            "description": "PoS tokens"
+        },
+        "fx": {
+            "name": "Fx",
+            "description": "fx tokens"
+        },
+        "plasma": {
+            "name": "Plasma",
+            "description": "Plasma tokens"
+        },
+        "lxly": {
+            "name": "LxLy",
+            "description": "LxLy tokens"
+        },
+        "metaTx": {
+            "name": "MetaTx",
+            "description": "Tokens are eligible for meta transactions"
+        },
+        "customSig": {
+            "name": "Custom Withdraw Sig",
+            "description": "The token has a custom withdraw event signature"
+        },
+        "noDeposit": {
+            "name": "Deposit Disabled",
+            "description": "Tokens are not eligible for deposits"
+        },
+        "noWithdraw": {
+            "name": "Withdraw Disabled",
+            "description": "Tokens are not eligible for withdraws"
+        }
+    }
+}
