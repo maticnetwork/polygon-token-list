@@ -6,7 +6,7 @@
         "patch": 0
     },
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-    "keywords": ["polygon", "default", "tokens", "PoS", "zkEVM"],
+    "keywords": ["polygon", "testnet", "tokens", "mumbai", "blueberry"],
     "tags": {
         "stablecoin": {
             "name": "Stablecoin",
