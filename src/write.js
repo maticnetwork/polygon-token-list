@@ -16,6 +16,18 @@ fs.writeFile(
     }
 );
 
+// Aggregated Testnet List
+fs.writeFile(
+    "build/tokenlists/polygonTestnet.tokenlist.json",
+    JSON.stringify(tokenlists.allPolygonTestnetTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("polygonTestnet.tokenlist.json successfully built");
+    }
+);
+
 // All Tokens Tokenlist
 fs.writeFile(
     "build/tokenlists/allTokens.tokenlist.json",
