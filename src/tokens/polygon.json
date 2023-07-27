@@ -421,8 +421,8 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/ice.svg",
         "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
-            "originTokenAddress": "0x0000000000000000000000000000000000000000",
-            "originTokenNetwork": 0
+            "originTokenAddress": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+            "originTokenNetwork": -1
         }
     },
     {
@@ -22189,14 +22189,14 @@
         "logoURI": "https://user-images.githubusercontent.com/123928327/215405960-492e53a4-6fc8-4545-95e7-528cfda4538a.png",
         "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
-            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
             "project": {
                 "name": "Voxies",
                 "summary": "Blockchain Video Game",
                 "contact": "https://discord.com/invite/eQzGhVJ8F9",
                 "website": "https://www.voxies.io/"
             },
-            "originTokenNetwork": 0
+            "originTokenNetwork": -1
         }
     },
     {
@@ -22229,14 +22229,14 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/18749.png",
         "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
-            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0xb763F1177E9B2Fb66FBe0d50372E3e2575c043e5",
             "project": {
                 "name": "Karmaverse",
                 "summary": "AAA GameFi metaverse, aims to organically combine the Play-for-Fun and Play-to-Earn elements inside its ecosystem to build a sustainable system",
                 "contact": "https://discord.gg/jPEcX77teA",
                 "website": "https://karmaverse.io/"
             },
-            "originTokenNetwork": 0
+            "originTokenNetwork": -1
         }
     },
     {
@@ -22248,14 +22248,14 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/20692.png",
         "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
-            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0x623a1350f6B749575F92Ea54D0F745f9F07D3665",
             "project": {
                 "name": "Karmaverse Zombie",
                 "summary": "An exciting new Free-to-earn Zombie game is here! Assemble survivors, build a shelter, and forge a new future for humanity as you defeat the zombie menace!",
                 "contact": "https://discord.gg/jPEcX77teA",
                 "website": "https://karmaverse.io/karmaversezombie"
             },
-            "originTokenNetwork": 0
+            "originTokenNetwork": -1
         }
     },
     {
@@ -22286,14 +22286,14 @@
         "logoURI": "https://cipher.com.co/img/favicon.jpg",
         "tags": ["pos", "erc20", "noDeposit", "noWithdraw"],
         "extensions": {
-            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0xaa404804Ba583c025Fa64c9a276A6127CEB355c6",
             "project": {
                 "name": "Cipher",
                 "summary": "Cipher (CPR) is a utility token with the vision and the aim is to create transparency, accountability, and a safe business. All users/customers/investors/traders can participate in the project.",
                 "contact": "support@cipher.com.co",
                 "website": "https://cipher.com.co"
             },
-            "originTokenNetwork": 0
+            "originTokenNetwork": -1
         }
     },
     {
@@ -22367,14 +22367,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/25271/small/logo.png?1651118069",
         "tags": ["erc20", "noDeposit", "noWithdraw"],
         "extensions": {
-            "originTokenAddress": "0x0000000000000000000000000000000000000000",
+            "originTokenAddress": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
             "project": {
                 "name": "Taki",
                 "summary": "Wormhole Taki from Solana - https://solscan.io/token/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
                 "contact": "support@taki.app",
                 "website": "https://taki.app/"
             },
-            "originTokenNetwork": 0
+            "originTokenNetwork": -1
         }
     },
     {
