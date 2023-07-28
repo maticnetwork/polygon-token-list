@@ -8,7 +8,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
-            "originNetwork": 0,
+            "originTokenNetwork": 0,
             "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
         }
     },
@@ -21,7 +21,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
         "tags": ["plasma", "erc20", "swapable"],
         "extensions": {
-            "originNetwork": 0,
+            "originTokenNetwork": 0,
             "originTokenAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
         }
     },
@@ -34,7 +34,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
-            "originNetwork": 0,
+            "originTokenNetwork": 0,
             "originTokenAddress": "0x655F2166b0709cd575202630952D71E2bB0d61Af"
         }
     },
@@ -47,7 +47,7 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
-            "originNetwork": 0,
+            "originTokenNetwork": 0,
             "originTokenAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
         }
     }
