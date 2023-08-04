@@ -16,6 +16,10 @@
             "name": "Swapable",
             "description": "Tokens are eligible for swaps"
         },
+        "native": {
+            "name": "Native",
+            "description": "Tokens are native tokens of the chain"
+        },
         "erc20": {
             "name": "ERC20",
             "description": "Tokens are of ERC20 token type"

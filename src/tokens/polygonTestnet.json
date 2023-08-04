@@ -19,7 +19,7 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000001010",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-        "tags": ["plasma", "erc20", "swapable"],
+        "tags": ["plasma", "native", "swapable"],
         "extensions": {
             "originTokenNetwork": 0,
             "originTokenAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
