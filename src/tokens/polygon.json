@@ -44,7 +44,7 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000001010",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-        "tags": ["plasma", "erc20", "swapable"],
+        "tags": ["plasma", "native", "swapable"],
         "extensions": {
             "originTokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
             "project": {
@@ -22426,7 +22426,7 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000000000",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["lxly", "erc20"],
+        "tags": ["lxly", "native"],
         "extensions": {
             "originTokenAddress": "0x0000000000000000000000000000000000000000",
             "originTokenNetwork": 0,
