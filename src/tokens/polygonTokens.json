@@ -20655,5 +20655,23 @@
                 "website": "https://www.breederdao.io/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Noggles",
+        "symbol": "NOGS",
+        "decimals": 18,
+        "address": "0x0f09E11501B01b3e9DC77d96db752d1A2AC84b20",
+        "logoURI": "https://noggles.com/logo.svg",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootAddress": "0x5Fa20D59d2A907E5FEd9Fb80B4A8D9F0d069a48D",
+            "project": {
+                "name": "Noggles",
+                "summary": "Noggles (NOGS) is a nounish coin created to push the boundaries of the ⌐◨-◨ meme.\nLaunched on July 4th 2023 and powered by Nouns Name Service (NNS) and by other contributors, Noggles is an experimental attempt to create a nounish economy around the proliferation of the iconic ⌐◨-◨.",
+                "contact": "hello@noggles.com",
+                "website": "https://noggles.com"
+            }
+        }
     }
 ]
