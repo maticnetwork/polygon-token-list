@@ -20673,5 +20673,23 @@
                 "website": "https://noggles.com"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "DigiToads",
+        "symbol": "TOADS",
+        "decimals": 18,
+        "address": "0x8f4497248691B10AadB743E48d75D80004b7ea04",
+        "logoURI": "https:// digitoads.world/images/logo-digitoads.png",
+        "tags": ["fx", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0x817497e83684e07f5963bdba33df8a9a81386b37",
+            "project": {
+                "name": "DigiToads",
+                "summary": "Gaming/ Reflection Project creating a new P2E gaming ecosystem! Bringing ‘Heroes of the Swamp’ to Matic",
+                "contact": "info@digitoads.world",
+                "website": "https://digitoads.world/"
+            }
+        }
     }
 ]
