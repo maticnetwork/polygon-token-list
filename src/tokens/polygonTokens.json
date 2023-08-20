@@ -20673,5 +20673,23 @@
                 "website": "https://noggles.com"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Backed IB01 $ Treasury Bond 0-1yr",
+        "symbol": "bIB01",
+        "decimals": 18,
+        "address": "0xca30c93b02514f86d5c86a6e375e3a330b435fb5",
+        "logoURI": "https://svgshare.com/i/wi7.svg",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0xca30c93b02514f86d5c86a6e375e3a330b435fb5",
+            "project": {
+                "name": "Backed Finance",
+                "summary": "Backed Finance, via its issuer, Backed Assets, is issuing tokens that track real-world assets, fully backed by the underlying assets. bIB01 is a tracker of IB01, an accumulating 0-1y T-Bills ETF, issued by iShares in Ireland.",
+                "contact": "contact@backed.fi",
+                "website": "https://backed.fi"
+            }
+        }
     }
 ]
