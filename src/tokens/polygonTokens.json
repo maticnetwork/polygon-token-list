@@ -20673,5 +20673,23 @@
                 "website": "https://noggles.com"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "3A Utility Token",
+        "symbol": "A3A",
+        "decimals": 18,
+        "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
+        "logoURI": "https://3adao.org/assets/logo/3alogo.png",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootAddress": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9", 
+            "project": {
+                "name": "3A DAO",
+                "summary": "Building the safest DeFi Lending Protocol with Enterprise-Grade Security",
+                "contact": "info@3adao.org",
+                "website": "https://3adao.org/"
+            }
+        }
     }
 ]
