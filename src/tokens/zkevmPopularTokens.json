@@ -451,7 +451,7 @@
         "chainId": 1101,
         "name": "Tether Gold",
         "symbol": "XAUt",
-        "decimals": 18,
+        "decimals": 6,
         "address": "0xa7bd526e698a7ee6261982607d7b64cc8e7be0ef",
         "logoURI": "https://assets.polygon.technology/tokenAssets/frax.svg",
         "tags": ["zkevm", "erc20"],
