@@ -20691,5 +20691,23 @@
                 "website": "https://3adao.org/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "NESS",
+        "symbol": "NESS",
+        "decimals": 18,
+        "address": "0x6eaEA1ED457E06F8CF6eE7Adf34e621844c3b0Fc",
+        "logoURI": "https://nesslab.io/assets/logo/nesslab-simbol.svg",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootAddress": "0x524f61def05e5fa39482628c803ba869899c07c6", 
+            "project": {
+                "name": "Ness LAB",
+                "summary": "A cryptocurrency designed to facilitate the development of new connections within the information economy.",
+                "contact": "admin@nesslab.io",
+                "website": "https://nesslab.io"
+            }
+        }
     }
 ]
