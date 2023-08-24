@@ -446,5 +446,19 @@
         "extensions": {
             "rootAddress": "0x5cf4E91ec97029de5791cd0FeC956290C200ed52"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tether Gold",
+        "symbol": "XAUt",
+        "decimals": 6,
+        "address": "0xa7bd526e698a7ee6261982607d7b64cc8e7be0ef",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/xaut.svg",
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x68749665FF8D2d112Fa859AA293F07A622782F38"
+        }
     }
 ]
