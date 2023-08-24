@@ -20546,11 +20546,11 @@
     },
     {
         "chainId": 137,
-        "name": "Kapital DAO Token",
+        "name": "KAP Games",
         "symbol": "KAP",
         "decimals": 18,
         "address": "0xc27158bB8E08899d38765752F91d7d778e16AB8e",
-        "logoURI": "https://s3.us-east-1.amazonaws.com/kapital.gg/assets/KAP_logo_large.png",
+        "logoURI": "https://assets.kapgames.xyz/kap-icon.svg",
         "tags": ["fx", "erc20", "swapable"],
         "extensions": {
             "rootTunnelAddress": "0x0cC2CaeD31490B546c741BD93dbba8Ab387f7F2c",
@@ -20558,7 +20558,7 @@
             "project": {
                 "name": "KAP Games",
                 "summary": "KAP Games is the premier web3 gaming publisher, distributor and studio, specializing in browser and mobile-native experiences.",
-                "contact": "info@kapital.gg",
+                "contact": "info@kap.gg",
                 "website": "https://www.kap.gg/"
             }
         }
@@ -20653,6 +20653,42 @@
                 "summary": "BreederDAO is the powerhouse production factory of quality Metaverse assets. We focus on mass generation and customization of assets for both blockchain gaming and virtual worlds",
                 "contact": "https://discord.gg/breederdao",
                 "website": "https://www.breederdao.io/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Noggles",
+        "symbol": "NOGS",
+        "decimals": 18,
+        "address": "0x0f09E11501B01b3e9DC77d96db752d1A2AC84b20",
+        "logoURI": "https://noggles.com/logo.svg",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootAddress": "0x5Fa20D59d2A907E5FEd9Fb80B4A8D9F0d069a48D",
+            "project": {
+                "name": "Noggles",
+                "summary": "Noggles (NOGS) is a nounish coin created to push the boundaries of the ⌐◨-◨ meme.\nLaunched on July 4th 2023 and powered by Nouns Name Service (NNS) and by other contributors, Noggles is an experimental attempt to create a nounish economy around the proliferation of the iconic ⌐◨-◨.",
+                "contact": "hello@noggles.com",
+                "website": "https://noggles.com"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "3A Utility Token",
+        "symbol": "A3A",
+        "decimals": 18,
+        "address": "0x58c7B2828e7F2B2CaA0cC7fEef242fA3196d03df",
+        "logoURI": "https://3adao.org/assets/logo/3alogo.png",
+        "tags": ["fx", "erc20"],
+        "extensions": {
+            "rootAddress": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9", 
+            "project": {
+                "name": "3A DAO",
+                "summary": "Building the safest DeFi Lending Protocol with Enterprise-Grade Security",
+                "contact": "info@3adao.org",
+                "website": "https://3adao.org/"
             }
         }
     }
