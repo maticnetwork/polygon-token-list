@@ -20698,7 +20698,7 @@
         "symbol": "BTRST",
         "decimals": 18,
         "address": "0x8C92DC2B9D6A8A567c7Bd80C5db7a1eDA4fA9A91",
-        "tags": ["pos", "erc20"],
+        "tags": ["pos", "erc20", "noDeposit", "noWithdraw"],
         "logoURI": "https://etherscan.io/token/images/usebraintrust_32.png",
         "extensions": {
             "rootAddress": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
