@@ -20691,5 +20691,23 @@
                 "website": "https://3adao.org/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "SAIL Token",
+        "symbol": "SAIL",
+        "decimals": 18,
+        "address": "0xD1a718F77ab5d22E3955050658D7F65Ae857a85e",
+        "logoURI": "token_icon_uri",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0xd8F1460044925d2D5c723C7054cd9247027415B7",
+            "project": {
+                "name": "AdmiralDAO",
+                "summary": "AdmiralDAO stewards a fleet of DeFi products, with Clipper as its flagship, tailored to the needs of specific traders and communities. Our collective purpose is to empower people to trade in free and fair markets.",
+                "contact": "contact@admiraldao.xyz",
+                "website": "https://www.admiraldao.xyz/"
+            }
+        }
     }
 ]
