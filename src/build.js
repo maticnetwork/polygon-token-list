@@ -5,6 +5,7 @@ const blacklistTokens = require("./tokens/blacklistTokens.json");
 const zkevmPopularTokens = require("./tokens/zkevmPopularTokens.json");
 const allPolygonTokens = require("./tokens/polygon.json");
 const allPolygonTestnetTokens = require("./tokens/polygonTestnet.json");
+const allPolygonPopularTokens = require("./tokens/polygonPopular.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
 const testnetTokenList = require("./metadata/testnetTokens.json");
@@ -12,6 +13,7 @@ const blacklistTokenList = require("./metadata/blacklistTokens.json");
 const zkevmPopularTokenList = require("./metadata/zkevmPopularTokens.json");
 const allPolygonTokenList = require("./metadata/polygon.json");
 const allPolygonTestnetTokenList = require("./metadata/polygonTestnet.json");
+const allPolygonPopularTokenList = require("./metadata/polygonPopular.json");
 
 // Cross-chain lists
 const ccTokenList = require("./metadata/crossChain.json");
@@ -37,6 +39,10 @@ allPolygonTokens.forEach((token) => {
     delete token.extensions.project;
 });
 
+allPolygonPopularTokens.forEach((token) => {
+    delete token.extensions.project;
+});
+
 polygonTokens.forEach((token) => {
     delete token.extensions.project;
 });
@@ -49,6 +55,10 @@ module.exports = function buildList() {
     const timestamp = new Date().toISOString();
 
     Object.assign(allPolygonTokenList, { timestamp, tokens: allPolygonTokens }); // Aggregated Polygon Tokens List
+    Object.assign(allPolygonPopularTokenList, {
+        timestamp,
+        tokens: allPolygonPopularTokens,
+    }); // Aggregated Polygon Popular Tokens List
     Object.assign(allPolygonTestnetTokenList, {
         timestamp,
         tokens: allPolygonTestnetTokens,
@@ -79,6 +89,7 @@ module.exports = function buildList() {
 
     return {
         allPolygonTokenList,
+        allPolygonPopularTokenList,
         allPolygonTestnetTokenList,
         polygonTokensTokenList,
         popularTokenList,
