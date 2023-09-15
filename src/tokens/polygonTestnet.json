@@ -108,5 +108,19 @@
         "extensions": {
             "rootAddress": "0x04943b482c9e787cc50a18431fe40f212dfe6261"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Damn Valuable Token",
+        "symbol": "DVT",
+        "decimals": 18,
+        "address": "0xce2694e100aa82a58852727c30a60eee30ea1581",
+        "tags": [
+            "POS",
+            "ERC20"
+        ],
+        "extensions": {
+            "rootAddress": "0x04943b482c9e787cc50a18431fe40f212dfe6261"
+        }
     }
 ]
