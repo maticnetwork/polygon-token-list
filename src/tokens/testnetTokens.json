@@ -77,5 +77,21 @@
             "rootAddress": "0x04943b482c9e787cc50a18431fe40f212dfe6261",
             "rootTunnelAddress": "0xce2694e800aa82a58852727c30a60ede30eb1590"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ETHER",
+        "symbol": "ETH",
+        "decimals": 18,
+        "address": "0x0000000000000000000000000000000000000000",
+        "tags": [
+            "zkevm",
+            "erc20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000"
+        }
     }
 ]
