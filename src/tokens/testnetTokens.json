@@ -93,5 +93,21 @@
         "extensions": {
             "rootAddress": "0x0000000000000000000000000000000000000000"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Aave",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "address": "0x390a1a406b9bccf9d065bd799fdfba7ce8d47ea2",
+        "tags": [
+            "zkevm",
+            "erc20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x8119c23ca2eb0bac50f7068822ed3c8ff70a74af"
+        }
     }
 ]
