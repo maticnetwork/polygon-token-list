@@ -109,5 +109,37 @@
         "extensions": {
             "rootAddress": "0x8119c23ca2eb0bac50f7068822ed3c8ff70a74af"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "ETHER",
+        "symbol": "ETH",
+        "decimals": 18,
+        "address": "0x0000000000000000000000000000000000000000",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Aave",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "address": "0x390a1a406b9bccf9d065bd799fdfba7ce8d47ea2",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x8119c23ca2eb0bac50f7068822ed3c8ff70a74af"
+        }
     }
 ]
