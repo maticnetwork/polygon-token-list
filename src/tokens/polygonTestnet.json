@@ -2460,5 +2460,2437 @@
         "extensions": {
             "rootAddress": "0x28e5f28fab2d7bc42409aa892dea92ef848b17c9"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "ETHER",
+        "symbol": "ETH",
+        "decimals": 18,
+        "address": "0x0000000000000000000000000000000000000000",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Staked MATIC",
+        "symbol": "stMATIC",
+        "decimals": 18,
+        "address": "0x83b874c1e09d316059d929da402dcb1a98e92082",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x514910771af9ca656af840dff83e8264ecf986ca"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Balancer",
+        "symbol": "BAL",
+        "decimals": 18,
+        "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xba100000625a3754423978a60c9317c58a424e3d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "decimals": 18,
+        "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "address": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "LUSD Stablecoin",
+        "symbol": "LUSD",
+        "decimals": 18,
+        "address": "0x01e9a866c361ead20ab4e838287dd464dc67a50e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Aave Token",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Lido DAO Token",
+        "symbol": "LDO",
+        "decimals": 18,
+        "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Liquid Staking Matic",
+        "symbol": "MaticX",
+        "decimals": 18,
+        "address": "0xf9ed88937b2d82707d0eabd8c3d9aa4870b714d3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Coinbase Wrapped Staked ETH",
+        "symbol": "cbETH",
+        "decimals": 18,
+        "address": "0x1ba37fa8cdb8ffd4f2e04a946d81289b74de786b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Aavegotchi GHST Token",
+        "symbol": "GHST",
+        "decimals": 18,
+        "address": "0x04474952fb4f60d43f75405411a596e32dfecd3d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Antfarm Token",
+        "symbol": "ATF",
+        "decimals": 18,
+        "address": "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x518b63da813d46556fea041a88b52e3caa8c16a8"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "BlazarBits",
+        "symbol": "BzB",
+        "decimals": 18,
+        "address": "0x0710d408f07af68b8a6ae2a48b8110475e7691b1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5cd763f24e849e334cc8ed78d0e09970988cf4ad"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "NIFTSY",
+        "symbol": "NIFTSY",
+        "decimals": 18,
+        "address": "0x996f6a7393c96fbc3cdcfa21a6a59812ed380366",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7728cd70b3dd86210e2bd321437f448231b81733"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Rocket Pool ETH",
+        "symbol": "rETH",
+        "decimals": 18,
+        "address": "0xb23c20efce6e24acca0cef9b7b7aa196b84ec942",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xae78736cd615f374d3085123a210448e74fc6393"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "QuickSwap",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "address": "0x95e4e1554a3f20932b559470eb57c56b7a26d10e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x853d955acef822db058eb8505911ed77f175b99e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "address": "0x3e7bd82b7dbce275ff86ff419d8bdf37b05e574b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5e8422345238f34275888049021821e8e08caa1f"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Staked Frax Ether",
+        "symbol": "sfrxETH",
+        "decimals": 18,
+        "address": "0x595157f1ba7fb5beccfd689659d3c343319f533e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xac3e018457b222d93114458476f3e3416abbe38f"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18,
+        "address": "0x7940deae60fa6dbb56de469dfcddc84d2b6b17ea",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Price Index",
+        "symbol": "FPI",
+        "decimals": 18,
+        "address": "0xe765a819dbefdec134db20f0b82a2f3f13a5cd4a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Price Index Share",
+        "symbol": "FPIS",
+        "decimals": 18,
+        "address": "0xd51abd987037d51830526684d0e77f0e0c2bfe68",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc2544a32872a91f4a553b404c6950e89de901fdb"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Rai.Finance",
+        "symbol": "SOFI",
+        "decimals": 18,
+        "address": "0x8caba8e4ed03c416f024376b095ce5be3560ab60",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb49fa25978abf9a248b8212ab4b87277682301c0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Polkamarkets",
+        "symbol": "POLK",
+        "decimals": 18,
+        "address": "0xc63a9e5def68d6f23303c7dd8a2a072ee9ddb7f2",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd478161c952357f05f0292b56012cd8457f1cfbf"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "NFTEarth",
+        "symbol": "NFTE",
+        "decimals": 18,
+        "address": "0x1402d5a4f67c22bff31883dd509ef59cbe930b88",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ShibOriginalVision",
+        "symbol": "SOV",
+        "decimals": 18,
+        "address": "0xf80c7a9e6d3b4714b6bf15de920ebb293f32b64a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2c5bc2ba3614fd27fcc7022ea71d9172e2632c16"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dubbz",
+        "symbol": "Dubbz",
+        "decimals": 18,
+        "address": "0x44a17967db94049b6b8e81d6efbadc3b653acfc1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x38029c62dfa30d9fd3cadf4c64e9b2ab21dbda17"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "3 Comma Club",
+        "symbol": "THREE",
+        "decimals": 18,
+        "address": "0x31fbf0ceff0c0270ab5f926291ed144f6803cf83",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x14fd3063dfd3ce0a2c4c5ee43ab49988a989202c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tellor Tributes",
+        "symbol": "TRB",
+        "decimals": 18,
+        "address": "0x03346b2f4bc23fd7f4935f74e70c7a7febc45313",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Meta Apes Peel",
+        "symbol": "PEEL",
+        "decimals": 18,
+        "address": "0x4c1b9a05675cdfd80027635d1925f65f1db12400",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x1ed81e03d7ddb67a21755d02ed2f24da71c27c55"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Mai Stablecoin",
+        "symbol": "MAI",
+        "decimals": 18,
+        "address": "0x27a4bf80c2d63e42437258533dac7eaff9881bdb",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8d6cebd76f18e1558d4db88138e2defb3909fad6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "UniBright",
+        "symbol": "UBT",
+        "decimals": 8,
+        "address": "0xbe3b2d67f0975b8f8d7c855b804e7ff06b868027",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Impermax",
+        "symbol": "IBEX",
+        "decimals": 18,
+        "address": "0x87c4373f4e23e290a95be538c595d3edebdfc500",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xf655c8567e0f213e6c634cd2a68d992152161dc6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Rocket Pool Protocol",
+        "symbol": "RPL",
+        "decimals": 18,
+        "address": "0x70d35152fbf63fb312709b11a9bac87519de0019",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "IDEAOLOGY",
+        "symbol": "IDEA",
+        "decimals": 18,
+        "address": "0xd62f15760eb6dfc5b4444f304a39172467f4deaf",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5d3a4f62124498092ce665f865e0b38ff6f5fbea"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "GenomesDAO",
+        "symbol": "GENE",
+        "decimals": 18,
+        "address": "0xbe982836dcad308a5221f4577411494a444d71e0",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x21413c119b0c11c5d96ae1bd328917bc5c8ed67e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Forta",
+        "symbol": "FORT",
+        "decimals": 18,
+        "address": "0x51ce7ba9ac1c93c0dc4f2a196fae23fdc8fb6e6b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DUST Token",
+        "symbol": "DUST",
+        "decimals": 18,
+        "address": "0x7852435c4a03edf548aa7c6bef09168d15376201",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "NFT Worlds",
+        "symbol": "WRLD",
+        "decimals": 18,
+        "address": "0x1ea0093e07d2fdcff794ce0a66eef1f8e8e800f2",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Pax Dollar",
+        "symbol": "USDP",
+        "decimals": 18,
+        "address": "0x9f171f7d8445a2ab62747c3f3115362a1d51fc50",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "OVR",
+        "symbol": "OVR",
+        "decimals": 18,
+        "address": "0xd2b36b566f260b9e290db91b002e2849f170457b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x21bfbda47a0b4b5b1248c767ee49f7caa9b23697"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "00 Token",
+        "symbol": "00",
+        "decimals": 18,
+        "address": "0x9da071043e8aab01f3775df49c2bdb05b91fc630",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x881ba05de1e78f549cc63a8f6cabb1d4ad32250d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "YfDAI.finance",
+        "symbol": "Yf-DAI",
+        "decimals": 18,
+        "address": "0x37b2953b59bbfd4551e2c7f6a706a7bbd5ee539f",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xf4cd3d3fda8d7fd6c5a500203e38640a70bf9577"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "GAME Credits",
+        "symbol": "GAME",
+        "decimals": 18,
+        "address": "0xa09dbdfd4aa1f8708860624adea75c78e0da0d53",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ClayStack Staked MATIC",
+        "symbol": "csMATIC",
+        "decimals": 18,
+        "address": "0xb1a3247e4ebbf4ad3d06d5514a12105295defeac",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Morpheus Infrastructure Token",
+        "symbol": "MITx",
+        "decimals": 18,
+        "address": "0x9b13c8be52e9118de029ae69ecc70b584ee13ae1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PolkastarterToken",
+        "symbol": "POLS",
+        "decimals": 18,
+        "address": "0x65550d644682cf52abcd4592b239874aabb310cb",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "GPT Protocol",
+        "symbol": "GPT",
+        "decimals": 18,
+        "address": "0xac0f1642fc300bfd34ba1a08b9261d61a92b5d83",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc3d2675ae844ab277536402c478031770071d9e4"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Nation3",
+        "symbol": "NATION",
+        "decimals": 18,
+        "address": "0x25bf2b5f51ce5ac99f63256c69d4def1ffd3be81",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x333a4823466879eef910a04d473505da62142069"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "SUI",
+        "symbol": "SUI",
+        "decimals": 18,
+        "address": "0x8aaa05fc94f745bf5e696df681b8bb5887b046d8",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x536875b893c5a39429e1737a472187c0e5b6c10c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Decentraland MANA",
+        "symbol": "MANA",
+        "decimals": 18,
+        "address": "0xa5d8eb3ee1c35288e9f4432faf343510035de47b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "VAIOT Token",
+        "symbol": "VAI",
+        "decimals": 18,
+        "address": "0x7e4eb2aac8180f9c197ca846e310651b465ea7cb",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "IDEX Token",
+        "symbol": "IDEX",
+        "decimals": 18,
+        "address": "0x067e7a7e58ac7ae23f588556811ab94a8067525b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "MicroPepe",
+        "symbol": "MPEPE",
+        "decimals": 18,
+        "address": "0x3f057b98172298777b950bb44dcbc196ad5d260e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x4216663ddc7bd10eaf44609df4dd0f91cd2be7f2"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "POOH",
+        "symbol": "POOH",
+        "decimals": 18,
+        "address": "0xfac23d29e965bee603c0cccb8f41d4e448242222",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Inverse ETH Volatility Index",
+        "symbol": "iETHV",
+        "decimals": 18,
+        "address": "0xcf2127666bbbbbf4c13d7436d39a8fa6ee11e89b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3a707d56d538e85b783e8ce12b346e7fb6511f90"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Auditchain",
+        "symbol": "AUDT",
+        "decimals": 18,
+        "address": "0x6339458fabd17bca204fba94fc69abbdbb481d26",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "address": "0xc291b0753da6fbf8d848374e1bb1588dcad3559a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DEcentralized CArbon tokens",
+        "symbol": "DECA",
+        "decimals": 18,
+        "address": "0x34f4e513517f7aea7d6ef797b30ed56af8000344",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3556a5005d5411603e0115efd9b875fdfb3ad7e9"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Offshift",
+        "symbol": "XFT",
+        "decimals": 18,
+        "address": "0xe7ac0dbfcb5a9f40d0fdc1375e14fa8aaf1dfc6b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x76bc677d444f1e9d57daf5187ee2b7dc852745ae"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "HEX",
+        "symbol": "HEX",
+        "decimals": 8,
+        "address": "0x11e316a100c626fbeab02e831dbb0121df15ad1a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PoolTogether",
+        "symbol": "POOL",
+        "decimals": 18,
+        "address": "0xdfa8df74fe15d76c20191f11e957db9338b34374",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Bankless Token",
+        "symbol": "BANK",
+        "decimals": 18,
+        "address": "0xe238de8f1c91a078566902c530ebd093a1e388f1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "WEN Token",
+        "symbol": "WEN",
+        "decimals": 18,
+        "address": "0xe0b16134e85bf4962b4a263ea67ac11a8dd79d36",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x830a8512db4f6fca51968593e2667156c2c483a8"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "SoonSwap",
+        "symbol": "SOON",
+        "decimals": 18,
+        "address": "0xaa62a80ed9e5d878da3a5b7a8dda1ca5fbe8c2bf",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x574d22e2555cac0ce71e44778f6de2e7487ae229"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Aura",
+        "symbol": "AURA",
+        "decimals": 18,
+        "address": "0xac7166815370659b6fef24bc9713cfbbd1846c23",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "TrustSwap Token from PulseChain",
+        "symbol": "SWAP",
+        "decimals": 18,
+        "address": "0xb683beaa9c99a211954ef61523a86a6fec218671",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x21918b15812e2b91dac3d9db590bae6957ede108"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "SAND",
+        "symbol": "SAND",
+        "decimals": 18,
+        "address": "0x2e28b04bed55f89d867c0966dcd5dd2c61236349",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Mechanium",
+        "symbol": "$MECHA",
+        "decimals": 18,
+        "address": "0x7dd38679fdc9bcfd7179c5b9150655912e3f7e4e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "No Step On Snek",
+        "symbol": "SNEK",
+        "decimals": 18,
+        "address": "0xda2a019116ffd512d7526b8a4f8c278a5a9876a2",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2e64e4bd5206a6c2564491e5c1f09d3735fbc996"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Honey Badger Coin",
+        "symbol": "HBCN",
+        "decimals": 18,
+        "address": "0xb533d7900c6b467e3d3cda680e4bb5606dc7b92b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc2e17a6da9594394723b5ca819775a75e41ca219"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "CERE Network",
+        "symbol": "CERE",
+        "decimals": 10,
+        "address": "0xc134cf65310b465f4893d308121d9adfa5fca5fd",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2da719db753dfa10a62e140f436e1d67f2ddb0d6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Kapital DAO Token",
+        "symbol": "KAP",
+        "decimals": 18,
+        "address": "0xf4b55f649cd6ff4adddff822c058a67427a2f95a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DefiPulse Index",
+        "symbol": "DPI",
+        "decimals": 18,
+        "address": "0xa5994fe902b9500706d3b40311c3b1bad6f4c68b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Alpha Fund",
+        "symbol": "AVA",
+        "decimals": 18,
+        "address": "0xaa93731eb387fdb8b92c7db521d210843ce08305",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa16001dd47f505b7b7c5639c710a52209e4e8904"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DIGITAL FITNESS",
+        "symbol": "DEFIT",
+        "decimals": 18,
+        "address": "0xe34958a84acd7c1a04dabcc4f529d1872119c421",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "QiDao",
+        "symbol": "QI",
+        "decimals": 18,
+        "address": "0xaa9e05fa2f81df7509c5c756696cc6be40de24f3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x559b7bfc48a5274754b08819f75c5f27af53d53b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "swETH",
+        "symbol": "swETH",
+        "decimals": 18,
+        "address": "0xae4ac1070ba338f1c948ebdd635f640b4d560bb7",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xf951e335afb289353dc249e82926178eac7ded78"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Ultimate Champions Token",
+        "symbol": "CHAMP",
+        "decimals": 18,
+        "address": "0xb0432c3d2fc5f2145a973e7238da39c3acdb8167",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x456125cd98107ae0480ba566f1b716d48ba31453"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Kokonut Swap Token",
+        "symbol": "KOKOS",
+        "decimals": 18,
+        "address": "0xf329bc8e21da7f278ce806e04c2266974edb1386",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x74554f3d65253ed1986328adc1dfdd330f288d6e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Streamr",
+        "symbol": "DATA",
+        "decimals": 18,
+        "address": "0x1874e25d63b8ddf046a508cb278b6dd83fc32d9a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8f693ca8d21b157107184d29d398a8d082b38b76"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Decentralized Insurance Protocol",
+        "symbol": "DIP",
+        "decimals": 18,
+        "address": "0xee2f24c6103663c0e289176aae748f969618d57b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Morpheus.Network",
+        "symbol": "MNW",
+        "decimals": 18,
+        "address": "0x624391b8ef67b55d3c41ee91976e11000ed408b8",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "THE TRUTH",
+        "symbol": "UFO",
+        "decimals": 18,
+        "address": "0xd80d233cc78113a4488945b5d6ae34830ef4b192",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "XUSD Prime Coin",
+        "symbol": "XUSDP",
+        "decimals": 18,
+        "address": "0x1841448ebe43da857679aaffe6b39bf39cae65eb",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa1f7c9c6d19e2d0bf20729cb0bf03338a90bed9b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DUST Protocol",
+        "symbol": "DUST",
+        "decimals": 9,
+        "address": "0x3219e38b0288fc6f639707bf6d25d84fd124fd96",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb5b1b659da79a2507c27aad509f15b4874edc0cc"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tidal Token",
+        "symbol": "TIDAL",
+        "decimals": 18,
+        "address": "0xc5b79d4d508bde91179f9eb617146aff561aee8f",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "XENON",
+        "symbol": "XNN",
+        "decimals": 18,
+        "address": "0xcf3b24bdc046ea2891df5f619b3b93e3d9abc2b9",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xab95e915c123fded5bdfb6325e35ef5515f1ea69"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dolz",
+        "symbol": "DOLZ",
+        "decimals": 18,
+        "address": "0xde0d2ad2641692a20406d7c033fadd557f774695",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe939f011a3d8fc0aa874c97e8156053a903d7176"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Telcoin",
+        "symbol": "TEL",
+        "decimals": 2,
+        "address": "0x42a4ab13b8c2cf350f35b0fb68484042480ed521",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Metaverse",
+        "symbol": "MV",
+        "decimals": 18,
+        "address": "0x0ceb3bcb4174d309274f6b493dc005e3491e25ff",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xae788f80f2756a86aa2f410c651f2af83639b95b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PathDao",
+        "symbol": "PATH",
+        "decimals": 18,
+        "address": "0xf52dc9e8c7eaedd5d04b7c68e2e7fdaee1c57262",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2a2550e0a75acec6d811ae3930732f7f3ad67588"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Savings Dai",
+        "symbol": "sDAI",
+        "decimals": 18,
+        "address": "0xd6b9a0b261dda05ba06dc51821c3ba12318d9ae1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x83f20f44975d03b1b09e64809b757c47f942beea"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "GAMEE",
+        "symbol": "GMEE",
+        "decimals": 18,
+        "address": "0x8207fb9ddfffaecb5168696e02d065982f89f9ea",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "FiNANCiE Token",
+        "symbol": "FNCT",
+        "decimals": 18,
+        "address": "0x35a367114e62845120171b5a3b28c524cc2b9b20",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8af78f0c818302164f73b2365fe152c2d1fe80e1"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "BMChain Token",
+        "symbol": "BMT",
+        "decimals": 18,
+        "address": "0x82603f301b182ed02524e7efb0796d2b61788151",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xf028adee51533b1b47beaa890feb54a457f51e89"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "AMIS",
+        "symbol": "AMIS",
+        "decimals": 9,
+        "address": "0x4b70c17abd3b9a29af3bf2443548bf89b35faba5",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x949bed886c739f1a3273629b3320db0c5024c719"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Sipher Token",
+        "symbol": "SIPHER",
+        "decimals": 18,
+        "address": "0xd3600053aa0055542cfcd78429469a48487e7e63",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Ankr Network",
+        "symbol": "ANKR",
+        "decimals": 18,
+        "address": "0xa9f2988d152f193b1b36bceddecc9c4f622e0904",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Kermitcoin",
+        "symbol": "KERM",
+        "decimals": 18,
+        "address": "0x7531b39d692f01add2a32638efbaebb89230842c",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3cb25e0f47fed9861c24127e0bf9d5b6b6d48fde"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Threshold Network Token",
+        "symbol": "T",
+        "decimals": 18,
+        "address": "0x4a1f5208821498642061cd35f18a48ee1ca7ecb7",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Terra Virtua Kolect",
+        "symbol": "TVK",
+        "decimals": 18,
+        "address": "0x1062e00e2496205f4cccc38dc5244a1f5760bfc7",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ZENF Token",
+        "symbol": "ZENF",
+        "decimals": 18,
+        "address": "0x8aaebb46e1742f4623e6e1621f909f01846ca5e2",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe9b7b5d5e8d2bcc78884f9f9099bfa42a9e5c1a5"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Arkham",
+        "symbol": "ARKM",
+        "decimals": 18,
+        "address": "0x77e68802a1aa389237c662d6300999c8fa4785a1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "HarryPotterObamaSonic10Inu",
+        "symbol": "BITCOIN",
+        "decimals": 8,
+        "address": "0xf1779b7ac59ae14edcab1b284823bc5d1c3f7dd3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Mikaboshi",
+        "symbol": "Mika",
+        "decimals": 18,
+        "address": "0xa83b83d641e563be3ae8ede78de15ae33b690570",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd44fc10f34b260d4ce7af7359012ea4ae1967ebf"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ICHI",
+        "symbol": "ICHI",
+        "decimals": 18,
+        "address": "0x36c1196623fe02ed04bcaa8b527c49f719420e0c",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ABCVoucher",
+        "symbol": "ABC",
+        "decimals": 8,
+        "address": "0xec55b2d39262e56e0bbe8a818c8140efe0b6509e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x360f177b6e26f0c3930497feb90a4584bad75c63"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Route",
+        "symbol": "ROUTE",
+        "decimals": 18,
+        "address": "0x6d9b74cdc3b873eb7aaa7dfe469c859bc7dee49a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Synth",
+        "symbol": "SYNTH",
+        "decimals": 18,
+        "address": "0x7c06280212f739af104d90d9952051fcde7f0806",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd41f3d112cb8695c7a8992e4055bd273f3ce8729"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "$ZKP Token",
+        "symbol": "$ZKP",
+        "decimals": 18,
+        "address": "0x2af0bca35e6aba3f9cc2a9d5bab68edc68833bf8",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x909e34d3f6124c324ac83dcca84b74398a6fa173"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PHILCOIN",
+        "symbol": "PHL",
+        "decimals": 18,
+        "address": "0xb0b3d8115a3b02756cb1a46a12d908aca5970b68",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa8032581ab1b36d5cbb36f02b234d279f7d04498"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Snooch Coin",
+        "symbol": "SNOOCH",
+        "decimals": 18,
+        "address": "0x4c3e8366b275ecf18c74519b465ad13da3b7c975",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0a128a6458299951bf90b57fca76ae1bd6807b4d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PYR Token",
+        "symbol": "PYR",
+        "decimals": 18,
+        "address": "0xc98d35ae65171aa38c0d6afd5416e4ba856afb86",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Museum of Crypto Art",
+        "symbol": "MOCA",
+        "decimals": 18,
+        "address": "0x617a74add9c79f624d50227676d86871a7148323",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x9ac07635ddbde5db18648c360defb00f5f22537e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "tPLATINUM",
+        "symbol": "TXPT",
+        "decimals": 18,
+        "address": "0x2e3e315c641f326589c08221996252c0f177d20b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x19b22dbadc298c359a1d1b59e35f352a2b40e33c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "IBIZA Token",
+        "symbol": "IBZ",
+        "decimals": 18,
+        "address": "0xfe40c22554a225836dd632fd44f6ce7356da3dc0",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5aa7c403c7de4b3bb0cc07079a03e389671a4771"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dogelon Index",
+        "symbol": "ELONINDEX",
+        "decimals": 18,
+        "address": "0x78b9cc51dec609d460cf8b9b6f43aaa95f77dfc4",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x1b17016a9012f35b79f0835f513ebe0a6a8623d0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "CHERRY_NATIVE_1",
+        "symbol": "CN1",
+        "decimals": 18,
+        "address": "0x47c75a082a748264deea783b587a9bcaa26b3d24",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x50c5c6a7e8ce96abbbc5835f4d377ffd1af613a6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xf4717d8b9b91a0944a2160f4645d63ebb4ec9577",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x2ef8437a92057579cea6871f786193e2fd1f3d28"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "SOPH AI Token",
+        "symbol": "SOPH",
+        "decimals": 18,
+        "address": "0xd0b67a20ca43e9c3b3b3d9ba4af0389f89b90ae4",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x73fbd93bfda83b111ddc092aa3a4ca77fd30d380"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Adventure Gold",
+        "symbol": "AGLD",
+        "decimals": 18,
+        "address": "0x0c920f3247f4bd54111696f5eb1a2e0d30bc5a63",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ETHx",
+        "symbol": "ETHx",
+        "decimals": 18,
+        "address": "0x7099b0b0fb08cbd284f2cf3745fa26a7bad70051",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "AKADAMA",
+        "symbol": "AKD",
+        "decimals": 18,
+        "address": "0x9ec972dd801305bebbf72dadb68a78ec72bd80b3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0xa3b42a54df6d28092c5d2717ace4f9e48a841885"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Cashaa",
+        "symbol": "CAS",
+        "decimals": 18,
+        "address": "0x800d02ae4012b695cc93485054de03996fa6c8e3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe8780b48bdb05f928697a5e8155f672ed91462f7"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Leet",
+        "symbol": "LEET",
+        "decimals": 18,
+        "address": "0xea0b7a3256829190ea5f587509dee953d213461c",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0xad45e6179e11487bf754cd5b3ce9b6b5d1a3280e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "VGAMES",
+        "symbol": "VGS",
+        "decimals": 18,
+        "address": "0x7f832648f8e9346e1c8f995953928a5c2f6868f6",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x4c9d5672ae33522240532206ab45508116daf263"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "LeafCoin",
+        "symbol": "LEAF",
+        "decimals": 18,
+        "address": "0xbd0acafc4d26dc3e95f4ca1bc1803f335225ad89",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x2c4ee689c6e04df2921c305094105f1703c76b5a"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "decimals": 18,
+        "address": "0x0d1e753a25ebda689453309112904807625befbe",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x068243bb717b83792ca1ff8010d4ad923fd38908"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Fasttoken",
+        "symbol": "FTN",
+        "decimals": 18,
+        "address": "0x623178052613734d9bde3ecc824bcb592a3b6fa8",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xaedf386b755465871ff874e3e37af5976e247064"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Kyber Network Crystal v2",
+        "symbol": "KNC",
+        "decimals": 18,
+        "address": "0x6a80a465409ce8d36c513129c0feea61bed579ba",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "ENJOY",
+        "symbol": "ENJY",
+        "decimals": 18,
+        "address": "0xbf5766e97639128506fd3e606bec8ec4dd4581ad",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x10c0f5d2969d0c0f3ad963ae29c8ae9070b43452"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DigiToads",
+        "symbol": "$TOADS",
+        "decimals": 18,
+        "address": "0xdacb17b772fc884cddc873b39da8f8accc18eff1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x817497e83684e07f5963bdba33df8a9a81386b37"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "CargoX Token",
+        "symbol": "CXO",
+        "decimals": 18,
+        "address": "0xc8198796310841c63f0ca45dd3d7510851b3e8bd",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb6ee9668771a79be7967ee29a63d4184f8097143"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "SONM",
+        "symbol": "SNM",
+        "decimals": 18,
+        "address": "0x27aede1377a01f327efab25a44d8fdb4757e8c08",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x46d0dac0926fa16707042cadc23f1eb4141fe86b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Nash Exchange Token",
+        "symbol": "NEX",
+        "decimals": 8,
+        "address": "0xa2e94108e830fa41b38340e2110fb66da931692d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe2dc070524a6e305ddb64d8513dc444b6a1ec845"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dimo",
+        "symbol": "DIMO",
+        "decimals": 18,
+        "address": "0x1ad44cb93abd244f0360872e954ba92cbaec33dc",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DeRace Token",
+        "symbol": "DERC",
+        "decimals": 18,
+        "address": "0xbbc2d2727c36ca02acbe3c4f90edb7a56c7b9971",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "StackOS",
+        "symbol": "STACK",
+        "decimals": 18,
+        "address": "0xd4f976cd78e51e434a05f87ac2ec251afae39b69",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tether Gold",
+        "symbol": "XAUt",
+        "decimals": 6,
+        "address": "0xa7bd526e698a7ee6261982607d7b64cc8e7be0ef",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "NicCageWaluigiElmo42069Inu",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "address": "0x0b6b7e86d0da7d8f55318e15e347ef06b3536cb5",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xfcaf0e4498e78d65526a507360f755178b804ba8"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Render Token",
+        "symbol": "RNDR",
+        "decimals": 18,
+        "address": "0x31faa1a7fc42510d846736e8fc2af9d76aab9bc6",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "MASQ",
+        "symbol": "MASQ",
+        "decimals": 18,
+        "address": "0xa3da72feb11ffdd98c5349ece2355b4f77cace99",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x06f3c323f0238c72bf35011071f2b5b7f43a054c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Actuate",
+        "symbol": "ACT",
+        "decimals": 18,
+        "address": "0xf385fc3d69621d2f2f209425774f6e5d1744b8f0",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xbafea86125fa71bc9962ca56fa86d7ffcd5cac24"
+        }
     }
 ]
