@@ -20691,5 +20691,23 @@
                 "website": "https://3adao.org/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Verse",
+        "symbol": "VERSE",
+        "decimals": 18,
+        "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
+        "logoURI": "https://verse.bitcoin.com/Verse.svg",
+        "tags": ["pos", "erc20", "fx"],
+        "extensions": {
+            "rootAddress": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
+            "project": {
+                "name": "Verse",
+                "summary": "VERSE is a native token for all Bitcoin.com products",
+                "contact": "vitalik@bitcoin.com",
+                "website": "https://verse.bitcoin.com/"
+            }
+        }
     }
 ]
