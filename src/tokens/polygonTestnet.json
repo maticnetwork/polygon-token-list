@@ -4892,5 +4892,181 @@
         "extensions": {
             "rootAddress": "0xbafea86125fa71bc9962ca56fa86d7ffcd5cac24"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test ERC20 Root Token",
+        "symbol": "TestERC20RootToken",
+        "decimals": 18,
+        "address": "0xd782cc11a778067dbaf5478df0d37ecf0420606d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe0e2a9253e1c45f70802aca014b9856edd917d1a"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Sample Test Token",
+        "symbol": "STT",
+        "decimals": 18,
+        "address": "0x42ff3dadadc8c55c83817fc995cd337cde97e4dc",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x83f7b76218a74da1b908c4826b080aac7a6c8469"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "ERC20 Test Token",
+        "symbol": "ETT",
+        "decimals": 18,
+        "address": "0xe5eb3ee6872b11bde5f40d5a3bff8e61db08dbe0",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb23e29aa99fb06f4a33f8447ccaf0844ab3d4f8a"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "test2",
+        "symbol": "TST2",
+        "decimals": 18,
+        "address": "0xefe4f0871abc7e20127901056660bb90105fa532",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x488739e4bd2851aac3da7f41cf5ac75f0dbe9e80"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Coin",
+        "symbol": "COIN",
+        "decimals": 18,
+        "address": "0x3a549a73f56fa1c8c3e6c9a89df14b50b139345b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7ead2785260c255b936a3cfaa68a6c8fabbcc20e"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "decimals": 18,
+        "address": "0x2b3c5df29f73dbf028ba82c33e0a5a6e5800f75e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x861d6252e360e3392cce80ec8b3818793f1e3e0b"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "address": "0x593ba1afcc1e167f3f71a620182c4b1f81670697",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x32f4cf3dff2a6d894ffc2cea3e978264ed40cc45"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0x709bb76dcca6e09ab4633c5ffc7ca4793958b4b0",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x27b4861cf36453b9478cd5416426ca6fbd06f67a"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Coin",
+        "symbol": "COIN",
+        "decimals": 18,
+        "address": "0x16ad3d69806177b919e7d797dd98f6534451b821",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa54bbedf350ed896496604dc25a815c29365fabf"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test Token",
+        "symbol": "TEST",
+        "decimals": 18,
+        "address": "0x61956a01f24f250ca718db0c46931a2fb027783e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x8a1cad3703e0beae0e0237369b4fcd04228d1682"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mchain Token",
+        "symbol": "MAR",
+        "decimals": 18,
+        "address": "0x6891af56d293983ed505344657d83ae1954a2e24",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x4343d80ef5808490a079aa0907ffdc9373c7a4dd"
+        }
     }
 ]
