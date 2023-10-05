@@ -1,7 +1,7 @@
 [
     {
         "chainId": 137,
-        "name": "Ether - PoS",
+        "name": "Ether",
         "symbol": "ETH",
         "decimals": 18,
         "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -77,7 +77,7 @@
     },
     {
         "chainId": 137,
-        "name": "Dai - PoS",
+        "name": "Dai",
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",

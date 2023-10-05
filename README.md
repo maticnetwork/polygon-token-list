@@ -1,4 +1,4 @@
-# polygon-token-list 
+# polygon-token-list
 
 This repo contains the token lists to be used in Polygon products' interfaces.
 
@@ -42,7 +42,9 @@ Apart from these 3 token list there is one blacklisted token list:
                 "summary": "Short_Project_Description",
                 "contact": "Project_Support",
                 "website": "Project_Website"
-            }
+            },
+            "rootChainBridgeAdapter": "", // Only required for tokens bridged using zkEVM messaging layer
+            "childChainBridgeAdapter": "" // Only required for tokens bridged using zkEVM messaging layer
         }
     }
     ```

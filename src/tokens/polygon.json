@@ -1,7 +1,7 @@
 [
     {
         "chainId": 137,
-        "name": "Ether - PoS",
+        "name": "Ether",
         "symbol": "ETH",
         "decimals": 18,
         "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
@@ -9,25 +9,6 @@
         "tags": ["pos", "erc20", "swapable", "metaTx"],
         "extensions": {
             "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "project": {
-                "name": "-",
-                "summary": "-",
-                "contact": "-",
-                "website": "https://weth.io/"
-            },
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 137,
-        "name": "Ether - Plasma",
-        "symbol": "ETH",
-        "decimals": 18,
-        "address": "0x8cc8538d60901d19692f5ba22684732bc28f54a3",
-        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["plasma", "erc20", "noDeposit"],
-        "extensions": {
-            "originTokenAddress": "0xa45b966996374e9e65ab991c6fe4bfce3a56dde8",
             "project": {
                 "name": "-",
                 "summary": "-",
@@ -96,31 +77,12 @@
     },
     {
         "chainId": 137,
-        "name": "Dai - PoS",
+        "name": "Dai",
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
         "tags": ["pos", "stablecoin", "erc20", "swapable", "metaTx"],
-        "extensions": {
-            "originTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
-            "project": {
-                "name": "-",
-                "summary": "-",
-                "contact": "-",
-                "website": "https://makerdao.com/"
-            },
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 137,
-        "name": "Dai - Plasma",
-        "symbol": "DAI",
-        "decimals": 18,
-        "address": "0x84000b263080bc37d1dd73a29d92794a6cf1564e",
-        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
-        "tags": ["plasma", "stablecoin", "erc20", "noDeposit"],
         "extensions": {
             "originTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
             "project": {
@@ -13234,18 +13196,6 @@
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
             "originTokenAddress": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
-            "originTokenNetwork": 0
-        }
-    },
-    {
-        "chainId": 137,
-        "name": "Plasma",
-        "symbol": "PPAY",
-        "decimals": 18,
-        "address": "0x08158A6b5d4018340387d1A302f882E98a8bC5b4",
-        "tags": ["pos", "erc20", "swapable"],
-        "extensions": {
-            "originTokenAddress": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
             "originTokenNetwork": 0
         }
     },
