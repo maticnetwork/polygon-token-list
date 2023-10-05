@@ -20625,7 +20625,7 @@
         "decimals": 18,
         "address": "0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3",
         "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg",
-        "tags": ["fx", "erc20", "swapable"],
+        "tags": ["fx", "erc20", "noDeposit", "noWithdraw", "swapable"],
         "extensions": {
             "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
             "rootAddress": "0xa43a7c62d56df036c187e1966c03e2799d8987ed",
@@ -20635,6 +20635,32 @@
                 "contact": "help@trufin.io",
                 "website": "https://www.trufin.io"
             }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "TruStake MATIC Vault Shares",
+        "symbol": "TruMATIC",
+        "decimals": 18,
+        "address": "0xfe4e02555ef9f74d19c7f536d229661eb3a727c2",
+        "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg",
+        "tags": ["fx", "erc20", "noDeposit", "noWithdraw"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0x0ee0f1e438e4f0d8e3aa8d1f35592aa5303863a4"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "TruStake MATIC Vault Shares",
+        "symbol": "TruMATIC",
+        "decimals": 18,
+        "address": "0xca2443391dd5b73dc0264af8fa71f312d9784c43",
+        "logoURI": "https://trufin-public-assets.s3.eu-west-2.amazonaws.com/Trufin-Logo-Symbol.svg",
+        "tags": ["fx", "erc20", "noDeposit", "noWithdraw"],
+        "extensions": {
+            "rootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
+            "rootAddress": "0x6ba703406bc530d7e160f2b25a253e21d1de5ad9"
         }
     },
     {
@@ -20683,7 +20709,7 @@
         "logoURI": "https://3adao.org/assets/logo/3alogo.png",
         "tags": ["fx", "erc20"],
         "extensions": {
-            "rootAddress": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9", 
+            "rootAddress": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
             "project": {
                 "name": "3A DAO",
                 "summary": "Building the safest DeFi Lending Protocol with Enterprise-Grade Security",
