@@ -5068,5 +5068,213 @@
         "extensions": {
             "rootAddress": "0x4343d80ef5808490a079aa0907ffdc9373c7a4dd"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Authencity.",
+        "symbol": "AUTH",
+        "decimals": 8,
+        "address": "0x019c9961aa2188f8f97164ba2598b1369cb21cbf",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0107c4aaa31940ef88760acb1f32424ca8d8bd80"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "MEME Inu.",
+        "symbol": "MEME",
+        "decimals": 18,
+        "address": "0xe42e187a2c229362dd083f5563e392e3b366ecc5",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x74b988156925937bd4e082f0ed7429da8eaea8db"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Flux USDC",
+        "symbol": "fUSDC",
+        "decimals": 8,
+        "address": "0x76c318b015dc6b33c0dc46e8432fce37b6095d34",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x465a5a630482f3abd6d3b84b39b29b07214d19e5"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Million",
+        "symbol": "MM",
+        "decimals": 18,
+        "address": "0x2df7a3c85a4cdacd5916e8ae509b278feb30dae3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Swarm Markets",
+        "symbol": "SMT",
+        "decimals": 18,
+        "address": "0x2abf77ca05cfae0015d4ec9690c346e6dcdfa151",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb17548c7b510427baac4e267bea62e800b247173"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Prime Token",
+        "symbol": "PRT",
+        "decimals": 18,
+        "address": "0xd1b51939feaecb99f08010635018b7dd5457e88e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xcf574b17bc361fbb59a0fa20e70f7cd7183d2f95"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "HuobiToken",
+        "symbol": "HT",
+        "decimals": 18,
+        "address": "0x75303d1e38e5da5892698d09a84e5bbdcb440683",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Solarx",
+        "symbol": "SOLX",
+        "decimals": 18,
+        "address": "0xc1d4d84ec9bf39658012301c5542c165d35a8c68",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xa56ba554a859a011f8b10c87319f7774f534f4e0"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Sarcophagus",
+        "symbol": "SARCO",
+        "decimals": 18,
+        "address": "0x4ddba49e900919623b3a5a74c756040ae49fc874",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7697b462a7c4ff5f8b55bdbc2f4076c2af9cf51a"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Ultra Token",
+        "symbol": "UOS",
+        "decimals": 4,
+        "address": "0x8bfb2223b87e03ad701ce5d00c2817637bde2845",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Sowaka",
+        "symbol": "SWK",
+        "decimals": 18,
+        "address": "0x02efad22941734bc4a8ccb0a4f3064bfee80cfa9",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xddfbe9173c90deb428fdd494cb16125653172919"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dola USD Stablecoin",
+        "symbol": "DOLA",
+        "decimals": 18,
+        "address": "0xee65bb53ee40f3de3286cbc0e74dc88385badad8",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x865377367054516e17014ccded1e7d814edc9ce4"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "decimals": 18,
+        "address": "0xcd0d6b0caeaeee395909fcdcb59a2ab825b941ea",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        }
     }
 ]
