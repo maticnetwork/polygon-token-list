@@ -20699,7 +20699,7 @@
         "decimals": 18,
         "address": "0xc708D6F2153933DAA50B2D0758955Be0A93A8FEc",
         "logoURI": "https://verse.bitcoin.com/Verse.svg",
-        "tags": ["pos", "erc20", "fx"],
+        "tags": ["erc20", "fx"],
         "extensions": {
             "rootAddress": "0x249cA82617eC3DfB2589c4c17ab7EC9765350a18",
             "project": {
