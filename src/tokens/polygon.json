@@ -77,7 +77,7 @@
     },
     {
         "chainId": 137,
-        "name": "Dai - PoS",
+        "name": "Dai",
         "symbol": "DAI",
         "decimals": 18,
         "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
