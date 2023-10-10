@@ -50,5 +50,63 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "address": "0x0000000000000000000000000000000000000000",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+        "tags": ["zkevm", "erc20"],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "originTokenAddress": "0x0000000000000000000000000000000000000000"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 18,
+        "address": "0xd0c02072A1132c8e6E63E57d11b97429E9628cbA",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+        "tags": ["zkevm", "erc20"],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "originTokenAddress": "0xd35CCeEAD182dcee0F148EbaC9447DA2c4D449c4"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 18,
+        "address": "0x7554dB7C0be89cFDAaa38dbb8C8cf5B78410e45b",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+        "tags": ["zkevm", "erc20"],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "originTokenAddress": "0x509Ee0d083DdF8AC028f2a56731412edD63223B9"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Sample USDC",
+        "symbol": "sUSDC",
+        "decimals": 18,
+        "address": "0x20e8337597474636F95B68594EcB8DADeC4d3604",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
+        "tags": ["zkevm", "erc20", "custom-zkevm-bridge"],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "originTokenAddress": "0xCDB5456dCDFE09e7CB78BE79C8e4bF3C7498e217",
+            "rootChainBridgeAdapter": "0x5eB6485573C2Ea289554A044e1D34b41958c0842",
+            "childChainBridgeAdapter": "0x6b0393fD45B1a95EfB1bcd93536DaB44417119C3"
+        }
     }
 ]
