@@ -100,7 +100,7 @@
         "decimals": 18,
         "address": "0x20e8337597474636F95B68594EcB8DADeC4d3604",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["zkevm", "erc20", "custom-zkevm-bridge"],
+        "tags": ["zkevm", "erc20", "customZkevmBridge"],
         "extensions": {
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
