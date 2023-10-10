@@ -55,6 +55,10 @@
         "noWithdraw": {
             "name": "Withdraw Disabled",
             "description": "Tokens are not eligible for withdraws"
+        },
+        "customZkevmBridge": {
+            "name": "Custom Zkevm Bridge",
+            "description": "Tokens that are bridged using zkEVM messaging layer"
         }
     }
 }
