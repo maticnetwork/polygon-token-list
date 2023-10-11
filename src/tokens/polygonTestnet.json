@@ -5276,5 +5276,85 @@
         "extensions": {
             "rootAddress": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "DokiDoki.Chainbinders",
+        "symbol": "BND",
+        "decimals": 18,
+        "address": "0x19d8666d9c2163d80e12bb4d98724181d0b4fdf3",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x84cd68c3e470ecee4b8b6212efcb8c6bcb38da1d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Mchain Token",
+        "symbol": "MAR",
+        "decimals": 18,
+        "address": "0x88940e23eaf2e7077d86a89fc0d3a69fcdf9d4c6",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x4343d80ef5808490a079aa0907ffdc9373c7a4dd"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "address": "0x97986a7526c6b7706c5e48bb8be3644ab9f4747c",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7c9f4c87d911613fe9ca58b579f737911aad2d43"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Vabble",
+        "symbol": "VAB",
+        "decimals": 18,
+        "address": "0x4380b45fb27be345a239c90085e5b7e401463d8a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe7ae6d0c56cacaf007b7e4d312f9af686a9e9a04"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wombat",
+        "symbol": "WOMBAT",
+        "decimals": 18,
+        "address": "0x9698f73945a465a8f0cf63f4084efdb7e25c9e3e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd"
+        }
     }
 ]
