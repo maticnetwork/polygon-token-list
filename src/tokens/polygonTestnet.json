@@ -105,8 +105,8 @@
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
             "originTokenAddress": "0xCDB5456dCDFE09e7CB78BE79C8e4bF3C7498e217",
-            "rootChainBridgeAdapter": "0x5eB6485573C2Ea289554A044e1D34b41958c0842",
-            "childChainBridgeAdapter": "0x6b0393fD45B1a95EfB1bcd93536DaB44417119C3"
+            "originChainBridgeAdapter": "0x5eB6485573C2Ea289554A044e1D34b41958c0842",
+            "wrapperChainBridgeAdapter": "0x6b0393fD45B1a95EfB1bcd93536DaB44417119C3"
         }
     },
     {
@@ -121,8 +121,8 @@
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
             "originTokenAddress": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
-            "rootChainBridgeAdapter": "0x2929b2635E51f2dA1373A76F166A237322694fA6",
-            "childChainBridgeAdapter": "0x755CB8A808c99706afAA34547204f17cD33C6316"
+            "originChainBridgeAdapter": "0x2929b2635E51f2dA1373A76F166A237322694fA6",
+            "wrapperChainBridgeAdapter": "0x755CB8A808c99706afAA34547204f17cD33C6316"
         }
     }
 ]
