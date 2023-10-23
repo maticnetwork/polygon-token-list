@@ -5356,5 +5356,181 @@
         "extensions": {
             "rootAddress": "0x0c9c7712c83b3c70e7c5e11100d33d9401bdf9dd"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0xed5d0c9240bf1faf12e8ad5e044ccf840dff1778",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x65a5ba240cbd7fd75700836b683ba95ebb2f32bd"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "address": "0x3348f3b2d0535d80ec856e5594520c0a4fe5e2b7",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xcb78e7ad1af40ed4cdf52d87ee15c365444843b9"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "EtherFi wrapped ETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "address": "0xaed970dc2e5d632b492c721fc490183794d4b235",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xac687b5ccd042e0d70405219112d95035938e3e8"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "BOM",
+        "symbol": "BOM",
+        "decimals": 18,
+        "address": "0x28687c2a4638149745a0999d523f813f63b4786f",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x745052b78cdbc3379bc5ae2d0ba6ca31e4cada82"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "USD Coin Zkevm",
+        "symbol": "USDCZkevm",
+        "decimals": 6,
+        "address": "0x1aae1d7fdb17d25804470149e5e165385007dc44",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x43ef8b47857e1dc609b952ad2d05da181e379027"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test VAB",
+        "symbol": "VAB",
+        "decimals": 18,
+        "address": "0x173a9a5e8ca80f07dc5ab17fd449c569d610f5ce",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x482a493ea47903a571b20e35b770affe06600a3d"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mock ERC20",
+        "symbol": "M20",
+        "decimals": 18,
+        "address": "0x380bd3af564dc3b8b9df44416bd3f7391fe1d22b",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x328507dc29c95c170b56a1b3a758eb7a9e73455c"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "address": "0xaa53e723c502638cf536db44383c476b74f52265",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x1ba87ce26972d438b22720417afa1968e00222b1"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Carbify",
+        "symbol": "CBY",
+        "decimals": 18,
+        "address": "0x5271ff628f7f08942feb91552f940014fd51c583",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xaf32e1287cc1d80635e6fd39e969e79f5d519e16"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Tester",
+        "symbol": "TSTT",
+        "decimals": 18,
+        "address": "0x30e7f6b894e73e30a9f11992870e90d6a2b156bd",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x3012bf14161809e68479e3161d28ecd1bf306688"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "ERC20 Test Token",
+        "symbol": "ETT",
+        "decimals": 18,
+        "address": "0x52a6d02c79f52a0084cdfef0cef75fa8441c0991",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb749f79465947a582e1ad2227df0626c3317ee33"
+        }
     }
 ]
