@@ -5532,5 +5532,101 @@
         "extensions": {
             "rootAddress": "0xb749f79465947a582e1ad2227df0626c3317ee33"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Polygon Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "address": "0x3f48a7e2b43c7284ccc93f9cad2797fcc42b6dfa",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x00000000f9fd50c832d79facfe6f4e8ce90a5efb"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DFX Token",
+        "symbol": "DFX",
+        "decimals": 18,
+        "address": "0xa85f43190f29e7d27a37c98cfd6d9bab7440075a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x888888435fde8e7d4c54cab67f206e4199454c60"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "decimals": 18,
+        "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x17557426e9fdcb365bc777c0e0f17a1c62fbb906"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "address": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x5cf4e91ec97029de5791cd0fec956290c200ed52"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x140daa3085f156921d5b148aa108225cc066457c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Skeb Coin",
+        "symbol": "SKEB",
+        "decimals": 18,
+        "address": "0xe0b244c908ca3d545b59b5f1de1e5f5a867d078e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810"
+        }
     }
 ]
