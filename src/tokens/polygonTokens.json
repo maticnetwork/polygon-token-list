@@ -10444,7 +10444,7 @@
         "symbol": "MAHA",
         "decimals": 18,
         "address": "0xeDd6cA8A4202d4a36611e2fff109648c4863ae19",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": ["pos", "erc20", "swapable", "noDeposit", "noWithdraw"],
         "extensions": {
             "rootAddress": "0xb4d930279552397bba2ee473229f89ec245bc365"
         },
