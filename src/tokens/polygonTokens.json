@@ -20735,5 +20735,23 @@
                 "website": "https://verse.bitcoin.com/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "SelfKey",
+        "symbol": "KEY",
+        "decimals": 18,
+        "address": "0x32dC2dD3C2bE453a369625e6Fe0E438aeD814919",
+        "logoURI": "https://selfkey.org/wp-content/uploads/2023/10/selfkey.svg",
+        "tags": ["erc20", "fx"],
+        "extensions": {
+            "rootAddress": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+            "project": {
+                "name": "SelfKey",
+                "summary": "SelfKey is a blockchain-based identity platform. The technology provides individuals, companies, exchanges, fintech startups, and banks - with a platform to manage identity data (oftentimes KYC)",
+                "contact": "contact@selfkey.org",
+                "website": "https://selfkey.org/"
+            }
+        }
     }
 ]
