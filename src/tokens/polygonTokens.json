@@ -20763,7 +20763,7 @@
         "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/5eacc48da808b5fc4e3b1257a73693a9ab1d2bfd/token_icons/flat_icon.svg",
         "tags": ["erc20", "fx"],
         "extensions": {
-            "rootAddress": "0x0F72964Fa4b766521d84107991E837c30D0EF2b1",
+            "rootAddress": "0x0f72964fa4b766521d84107991e837c30d0ef2b1",
             "project": {
                 "name": "Tetu bridge token",
                 "summary": "fxTETU is an immutable 1:1 convertable version of TETU token for bridge TETU to Ethereum.",
