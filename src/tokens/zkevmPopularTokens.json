@@ -460,5 +460,19 @@
         "extensions": {
             "rootAddress": "0x68749665FF8D2d112Fa859AA293F07A622782F38"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tetu token",
+        "symbol": "TETU",
+        "decimals": 18,
+        "address": "0x7C1B24c139a3EdA18Ab77C8Fa04A0F816C23e6D4",
+        "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/5eacc48da808b5fc4e3b1257a73693a9ab1d2bfd/token_icons/flat_icon.svg",
+        "tags": ["zkevm", "erc20"],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0F72964Fa4b766521d84107991E837c30D0EF2b1"
+        }
     }
 ]

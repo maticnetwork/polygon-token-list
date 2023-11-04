@@ -20753,5 +20753,23 @@
                 "website": "https://selfkey.org/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Tetu bridge token",
+        "symbol": "fxTETU",
+        "decimals": 18,
+        "address": "0xe74b3e6232e6b02ece8ede707a3a32ae3525b44f",
+        "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/5eacc48da808b5fc4e3b1257a73693a9ab1d2bfd/token_icons/flat_icon.svg",
+        "tags": ["erc20", "fx"],
+        "extensions": {
+            "rootAddress": "0x0F72964Fa4b766521d84107991E837c30D0EF2b1",
+            "project": {
+                "name": "Tetu bridge token",
+                "summary": "fxTETU is an immutable 1:1 convertable version of TETU token for bridge TETU to Ethereum.",
+                "contact": "admin@tetu.io",
+                "website": "https://tetu.io/"
+            }
+        }
     }
 ]
