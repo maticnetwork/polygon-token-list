@@ -20753,5 +20753,23 @@
                 "website": "https://selfkey.org/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Autonolas",
+        "symbol": "OLAS",
+        "decimals": 18,
+        "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
+        "logoURI": "https://drive.google.com/file/d/1iJ5deMGJaf9X4qtrE53f6CHF6r_lrfy2/view?usp=drive_link",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+            "project": {
+                "name": "Olas",
+                "summary": "Crypto's Ocean of Services: The unified network for off-chain services, e.g. automation, relayers and co-owned AI. Coordinated by OLAS, powered by autonomous agents.",
+                "contact": "info@valory.xyz",
+                "website": "https://olas.network"
+            }
+        }
     }
 ]
