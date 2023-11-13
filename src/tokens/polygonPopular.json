@@ -1383,6 +1383,22 @@
     },
     {
         "chainId": 1101,
+        "name": "Dai - Custom",
+        "symbol": "cDAI",
+        "decimals": 18,
+        "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
+        "tags": ["lxly", "stablecoin", "erc20", "customZkevmBridge"],
+        "extensions": {
+            "originTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+            "originChainBridgeAdapter": "0x4A27aC91c5cD3768F140ECabDe3FC2B2d92eDb98",
+            "wrapperChainBridgeAdapter": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1
+        }
+    },
+    {
+        "chainId": 1101,
         "name": "Aave",
         "symbol": "AAVE",
         "decimals": 18,
