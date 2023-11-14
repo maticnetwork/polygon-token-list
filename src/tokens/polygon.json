@@ -2894,7 +2894,7 @@
         "symbol": "WRLD",
         "decimals": 18,
         "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": ["pos", "erc20", "swapable", "noDeposit", "noWithdraw"],
         "extensions": {
             "originTokenAddress": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
             "originTokenNetwork": 0
