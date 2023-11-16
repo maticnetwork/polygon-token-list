@@ -1383,8 +1383,8 @@
     },
     {
         "chainId": 1101,
-        "name": "Dai - Custom",
-        "symbol": "cDAI",
+        "name": "Dai",
+        "symbol": "DAI",
         "decimals": 18,
         "address": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
