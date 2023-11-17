@@ -22413,6 +22413,22 @@
     },
     {
         "chainId": 1101,
+        "name": "USD Coin (legacy)",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
+        "tags": ["lxly", "stablecoin", "erc20", "customZkevmBridge"],
+        "extensions": {
+            "originTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "originChainBridgeAdapter": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
+            "wrapperChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1
+        }
+    },
+    {
+        "chainId": 1101,
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
@@ -22427,8 +22443,8 @@
     },
     {
         "chainId": 1101,
-        "name": "Dai",
-        "symbol": "DAI",
+        "name": "Dai (legacy)",
+        "symbol": "DAI.e",
         "decimals": 18,
         "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
