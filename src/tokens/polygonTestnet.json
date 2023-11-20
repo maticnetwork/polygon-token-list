@@ -5628,5 +5628,69 @@
         "extensions": {
             "rootAddress": "0x6d614686550b9e1c1df4b2cd8f91c9d4df66c810"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "address": "0xa375fefca27a639361139718145dffc29a44cb6d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 1,
+        "wrappedTokenNetwork": 0,
+        "extensions": {
+            "rootAddress": "0x0b31f6fe5ce040a44177557d0ce4a0dea2f44003"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "TSM",
+        "symbol": "TSM",
+        "decimals": 18,
+        "address": "0xfd84e394c053cce4dcdbd4d877a2ecd508b3d067",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x62e1b95e8a505545fe5717e2c82fcf8cdd821544"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "EURS",
+        "symbol": "EURS",
+        "decimals": 2,
+        "address": "0x552d3842fc7fa0536b5606c6a7536e77d33f1755",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xaa63e0c86b531e2edfe9f91f6436df20c301963d"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mock WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xae12c0ed2de2d63aaaf6372c4adf2ae17b546df7",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x203788323ab4b29220972972e7def2a037523a49"
+        }
     }
 ]
