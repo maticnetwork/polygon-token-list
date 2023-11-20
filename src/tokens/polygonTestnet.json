@@ -5692,5 +5692,277 @@
         "extensions": {
             "rootAddress": "0x203788323ab4b29220972972e7def2a037523a49"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "GGToken",
+        "symbol": "GGTK",
+        "decimals": 18,
+        "address": "0x3a3f1d9b88f9dc1a7fc319bb8174876949f2d65d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Follow",
+        "symbol": "FOLO",
+        "decimals": 18,
+        "address": "0x05942b05dc066b356869794f23d6fd01ea9ba64e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xb2a63a5dd36c91ec2da59b188ff047f66fac122a"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "StaFi",
+        "symbol": "FIS",
+        "decimals": 18,
+        "address": "0xfa7a483e43701e76fe96e6a24b402ee77d0bc9ff",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Rai Reflex Index",
+        "symbol": "RAI",
+        "decimals": 18,
+        "address": "0xdcb8125a0fa9ad694ced4ba482a9fbef14c6c26f",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Cryptomeda",
+        "symbol": "TECH",
+        "decimals": 18,
+        "address": "0xba00531a2ef6f0aa012eca4c86d2bf3a38781c3c",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6286a9e6f7e745a6d884561d88f94542d6715698"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "GreenMetaverseToken",
+        "symbol": "GMT",
+        "decimals": 8,
+        "address": "0x7c887bcfa3a7bce27ed7828fa411d846b42bf59a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xe3c408bd53c31c085a1746af401a4042954ff740"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "OBORTECH",
+        "symbol": "OBOT",
+        "decimals": 18,
+        "address": "0x343b9c203b9b34a2e1b0e6cb9de72a6851d2d03e",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xedadeb5faa413e6c8623461849dfd0b7c3790c32"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "POLKER",
+        "symbol": "PKR",
+        "decimals": 18,
+        "address": "0x1155dcb34674e7208a4010e5a9752c3d053093e1",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Tetu Token",
+        "symbol": "TETU",
+        "decimals": 18,
+        "address": "0x7c1b24c139a3eda18ab77c8fa04a0f816c23e6d4",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0f72964fa4b766521d84107991e837c30d0ef2b1"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Decentral Games Governance",
+        "symbol": "xDG",
+        "decimals": 18,
+        "address": "0x00a03c779ffa15a1f37cbfb2b6b608bced675e76",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x4f81c790581b240a5c948afd173620ecc8c71c8d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "PYR Token",
+        "symbol": "PYR",
+        "decimals": 18,
+        "address": "0xd8a9cea8cbbc454ab90d5f74785caf70c2ea7ba2",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Interest Compounding ETH Index",
+        "symbol": "icETH",
+        "decimals": 18,
+        "address": "0xd025d585ad37b8472bdcc6c7b7d06b16227f0402",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "EON",
+        "symbol": "EON",
+        "decimals": 18,
+        "address": "0x2ccf37a951c79d98afab6716e033e9bea776c458",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x0e74417b5a86bb99e6bd27cd4ef8772c8eea8310"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "DummyFxV4",
+        "symbol": "DFV4",
+        "decimals": 18,
+        "address": "0x6041a944881cb7b0e64ea5d6d357c606f80b7071",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x1c3965eab31f4b769dafc7f5b21a69612497b68d"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "CaicaCoin",
+        "symbol": "CICC",
+        "decimals": 8,
+        "address": "0x76d0220ba852692e1044fc2243380e430f38837a",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0x6aa9bcf20ae2fcb9a29d7d99c624d9db43d93969"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Graph Token",
+        "symbol": "GRT",
+        "decimals": 18,
+        "address": "0xbb7835cefec0706829842927a645e64cf0a51bdf",
+        "tags": [
+            "zkevm",
+            "ERC20"
+        ],
+        "originTokenNetwork": 0,
+        "wrappedTokenNetwork": 1,
+        "extensions": {
+            "rootAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+        }
     }
 ]
