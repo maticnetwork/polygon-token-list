@@ -20760,7 +20760,7 @@
         "symbol": "OLAS",
         "decimals": 18,
         "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
-        "logoURI": "https://drive.google.com/file/d/1iJ5deMGJaf9X4qtrE53f6CHF6r_lrfy2/view?usp=drive_link",
+        "logoURI": "https://olas.network/images/olas-token-logo.svg",
         "tags": ["pos", "erc20"],
         "extensions": {
             "rootAddress": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
