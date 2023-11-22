@@ -2730,7 +2730,7 @@
         "symbol": "WRLD",
         "decimals": 18,
         "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": ["pos", "erc20", "swapable", "noDeposit", "noWithdraw"],
         "extensions": {
             "rootAddress": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9"
         }
@@ -20751,6 +20751,24 @@
                 "summary": "SelfKey is a blockchain-based identity platform. The technology provides individuals, companies, exchanges, fintech startups, and banks - with a platform to manage identity data (oftentimes KYC)",
                 "contact": "contact@selfkey.org",
                 "website": "https://selfkey.org/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "RealityToken",
+        "symbol": "RLTM",
+        "decimals": 18,
+        "address": "0x1b396CF90504686b7edE2760eebb053d30d1f389",
+        "logoURI": "https://polygonscan.com/token/images/realitytoken_32.png",
+        "tags": ["erc20", "fx", "noWithdraw", "noDeposit"],
+        "extensions": {
+            "rootAddress": "0x1b396CF90504686b7edE2760eebb053d30d1f389",
+            "project": {
+                "name": "RealityToken",
+                "summary": "",
+                "contact": "",
+                "website": ""
             }
         }
     },
