@@ -22,5 +22,19 @@
             },
             "originTokenNetwork": 0
         }
-    }
+    },
+    {
+"chainId": 137,
+"name": "Shiva 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼",
+"symbol": "SHIVA",
+"decimals": 18,
+"address": "0x137e8f56bb8b4da5720e912db15d45b01ac3c3ad",
+"tags": [
+"POS",
+"ERC20"
+],
+"extensions": {
+"rootAddress": "0x002f46770160ffb092bc15699fb035526b0b65d7"
+}
+}
 ]
