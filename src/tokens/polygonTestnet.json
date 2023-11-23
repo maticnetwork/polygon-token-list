@@ -5964,5 +5964,56 @@
         "extensions": {
             "rootAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "LCX",
+        "symbol": "LCX",
+        "decimals": 18,
+        "address": "0x2fb5f5d4cd781127dfaeab3d5ee3a94b21c31874",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x2fb5f5d4cd781127dfaeab3d5ee3a94b21c31874"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Quant",
+        "symbol": "QNT",
+        "decimals": 18,
+        "address": "0x572a9cc2966ec50e968e9cb05d2aa157cf563135",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4a220e6096b25eadb88358cb44068a3248254675",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x572a9cc2966ec50e968e9cb05d2aa157cf563135"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped Ether from PulseChain",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xba433ea513fb090cd422433ed34423d45836be9d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb1a7f8b3ada1cbd7752c1306725b07d2f8b4e726",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xba433ea513fb090cd422433ed34423d45836be9d"
+        }
     }
 ]
