@@ -102978,5 +102978,95 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xba433ea513fb090cd422433ed34423d45836be9d"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Jake Newman Enterprises",
+        "symbol": "JNE",
+        "decimals": "18",
+        "address": "0xe3b9d283f3a4b9c561a3ace10727a4caa2659923",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x9657477ac915f56ca87c253db1320218ec2d5ddd"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Morpheus Infrastructure Node",
+        "symbol": "MIND",
+        "decimals": "18",
+        "address": "0x280053c54006a624c26989cb8354fa4cb86f14d1",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xc9eb61ffb66d5815d643bbb8195e17c49687ae1e"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": "18",
+        "address": "0xfff9094c0fe717a0584c38be78eb24c2137d5c15",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "KeyFi Token",
+        "symbol": "KEYFI",
+        "decimals": "18",
+        "address": "0x96fc3568d36b236121ef3dd3edeb31ca8d08bfb0",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "CLP Coin",
+        "symbol": "CLPC",
+        "decimals": "0",
+        "address": "0xeef8449fe50352654f2235f13a25a95d52179de6",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x07a24ca74a7592c16827d186b802e004cec33bb3"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "New Nft Opensea",
+        "symbol": "OPMNY",
+        "decimals": 0,
+        "address": "0xc0e304ea3b7cd9669ed6775e7b25fee856ec45f2",
+        "tags": [
+            "pos",
+            "erc721"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xc4ec427c7e4386da49b752784c0b487099207791"
+        }
     }
 ]
