@@ -1346,7 +1346,7 @@
         "decimals": 6,
         "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
-        "tags": ["lxly", "stablecoin", "erc20"],
+        "tags": ["lxly", "stablecoin", "erc20", "legacy"],
         "extensions": {
             "originTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
             "originTokenNetwork": 0,
@@ -1390,7 +1390,7 @@
         "decimals": 18,
         "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
-        "tags": ["lxly", "stablecoin", "erc20"],
+        "tags": ["lxly", "stablecoin", "erc20", "legacy"],
         "extensions": {
             "originTokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
             "originTokenNetwork": 0,
