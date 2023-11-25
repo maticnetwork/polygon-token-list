@@ -103068,5 +103068,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0xc4ec427c7e4386da49b752784c0b487099207791"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Nakamoto.Games",
+        "symbol": "NAKA",
+        "decimals": 18,
+        "address": "0x8d60b5f061ecfef275715f3dd7aa37dfbb9d8706",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x2e10348ee563dec5fe483de558d1946b7a3372c2",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x8d60b5f061ecfef275715f3dd7aa37dfbb9d8706"
+        }
     }
 ]
