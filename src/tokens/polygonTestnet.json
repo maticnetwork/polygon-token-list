@@ -113718,5 +113718,21 @@
             "originTokenAddress": "0xec785cbbdd45a6d76e15cb260fc6b4a0b47ccee0",
             "rootTunnelAddress": "0xf9bc4a80464e48369303196645e876c8c7d972de"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": "18",
+        "address": "0x8a7fe4784e331d46af94a791295c4ef96b99ace5",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x1a93dd2ff0308f0ae65a94adc191e8a43d2e978c",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
     }
 ]
