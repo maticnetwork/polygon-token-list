@@ -113702,5 +113702,21 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x1a93dd2ff0308f0ae65a94adc191e8a43d2e978c"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "CODER",
+        "symbol": "CDR",
+        "decimals": 0,
+        "address": "0xe3230b9e9d179065773bb5ae7bcb680fcd8ef6ce",
+        "tags": [
+            "fx",
+            "erc721"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xec785cbbdd45a6d76e15cb260fc6b4a0b47ccee0",
+            "rootTunnelAddress": "0xf9bc4a80464e48369303196645e876c8c7d972de"
+        }
     }
 ]
