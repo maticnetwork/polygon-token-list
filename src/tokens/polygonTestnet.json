@@ -113750,5 +113750,22 @@
             "originTokenAddress": "0xf6d530ebc85a36562a5c846baec8a26e63b9c1e0",
             "rootTunnelAddress": "0xf9bc4a80464e48369303196645e876c8c7d972de"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "address": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4701aa9471d7bfac765d87dcb1ea6bb23ad32733",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881"
+        }
     }
 ]
