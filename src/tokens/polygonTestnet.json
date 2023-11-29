@@ -53572,5 +53572,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x0bb4a5e24045b7744e771c4fb5bc97f8a8073d63"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Cult Token",
+        "symbol": "CULT",
+        "decimals": 18,
+        "address": "0x1e875bdf298e9f2f40d2652b5f0eb9b14fc3d0b5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4a5bf02e715f01dd8563522c92c6e18a14a9ab1a",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1e875bdf298e9f2f40d2652b5f0eb9b14fc3d0b5"
+        }
     }
 ]
