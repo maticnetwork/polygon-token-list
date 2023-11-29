@@ -54915,5 +54915,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x24b049ac3ff75047a250f4c8a29ecde81c900782"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Antfarm Token",
+        "symbol": "ATF",
+        "decimals": 18,
+        "address": "0xdcf3638ceaf94f09126f41f4422baac06cec93c0",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe90fffe6f44eeb2909c3880f4e25a9ad1142f191",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xdcf3638ceaf94f09126f41f4422baac06cec93c0"
+        }
     }
 ]
