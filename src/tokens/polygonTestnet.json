@@ -54898,5 +54898,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x7e4896c36dbc0057a31d0753af73b6566e3af482"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Passion Token",
+        "symbol": "PAS",
+        "decimals": 18,
+        "address": "0x24b049ac3ff75047a250f4c8a29ecde81c900782",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa3255d516ac6c96cabfcef8aa6ea1806bcd47ad3",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x24b049ac3ff75047a250f4c8a29ecde81c900782"
+        }
     }
 ]
