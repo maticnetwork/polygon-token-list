@@ -53946,5 +53946,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x31c81323cfad103e83d9b754dba8d9697c1f0431"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ZKERC-20",
+        "symbol": "SCH",
+        "decimals": 18,
+        "address": "0xec3236a6fdbc94b9d110c566575b6208eec0d906",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xec3236a6fdbc94b9d110c566575b6208eec0d906",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xb2c4814d4b48b39165776931bca5c95faa0d6b28"
+        }
     }
 ]
