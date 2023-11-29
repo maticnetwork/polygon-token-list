@@ -54167,5 +54167,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xae41a80276dbdd066a9cac3476a1720d25ac5670"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "zkERC20",
+        "symbol": "ZK20",
+        "decimals": 18,
+        "address": "0xd6b0173cbad38170d70211ba57021605716984c8",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd6b0173cbad38170d70211ba57021605716984c8",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x12a0b0262c952a85fe21b62b3d7147a82ea1434b"
+        }
     }
 ]
