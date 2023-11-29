@@ -54847,5 +54847,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x4f12c7a20e367cd9177b0f5073f6d4c393de0b95"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "PAZA",
+        "symbol": "PAZA",
+        "decimals": 18,
+        "address": "0xe968d2d9fe757b46e73ec48e9b2aec93f58a7cd4",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3f47c6670574bc3c7b83b468d0d60d6e1a692a1b",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xe968d2d9fe757b46e73ec48e9b2aec93f58a7cd4"
+        }
     }
 ]
