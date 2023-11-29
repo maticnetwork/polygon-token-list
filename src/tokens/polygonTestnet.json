@@ -54558,5 +54558,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x1e3de569867fe4c3b16accdda313c97b88236e35"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "DAI Prime Token",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0x4bc7e46151e42527b1936e1418f14756efbbf5d0",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x973c24a217f6b790cf10402c423ddece1fe2787d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4bc7e46151e42527b1936e1418f14756efbbf5d0"
+        }
     }
 ]
