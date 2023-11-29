@@ -67566,5 +67566,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x140daa3085f156921d5b148aa108225cc066457c"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "address": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x5cf4e91ec97029de5791cd0fec956290c200ed52"
+        }
     }
 ]
