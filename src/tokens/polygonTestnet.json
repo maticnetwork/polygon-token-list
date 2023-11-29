@@ -53232,5 +53232,209 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x9cf388f0b453c2e44ccf4d41796979e34da9e083"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "TEST2 Token",
+        "symbol": "TST2",
+        "decimals": 18,
+        "address": "0xcf79987c5c8338a9a333005964e99c38bc1cfd0c",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x299ff32aa80a7033a2da3348ec2860f8a7ddfaf2",
+            "rootTunnelAddress": "0xcf79987c5c8338a9a333005964e99c38bc1cfd0c"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "TEST3 Token",
+        "symbol": "TST3",
+        "decimals": 18,
+        "address": "0x98b2181d99abbe514ddf01fbaa18173223fb52bd",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x7a2b4791a4a8ea1247e229ed6173ad5206ec0bc3",
+            "rootTunnelAddress": "0xb9f07233ca9aa1c0c09b610df197b10a7160fad2"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "test token for bridge",
+        "symbol": "V2",
+        "decimals": 18,
+        "address": "0xe5d8e3e2fcc39bb1896caa600c756962dbe7dff8",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xa2a71f29581b27f355db8e2cdedb84350ff30318"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "TEST3 Token",
+        "symbol": "TST3",
+        "decimals": 18,
+        "address": "0xed894c9a40e6bb0ec65d5f522c4aafaff8d21cbd",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x7a2b4791a4a8ea1247e229ed6173ad5206ec0bc3",
+            "rootTunnelAddress": "0x1d285b04ef99287a611c16a02de71663584b6add"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "TEST3 Token",
+        "symbol": "TST3",
+        "decimals": 18,
+        "address": "0xb80ba154f23547705ebbe117e562566ad3ad8532",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x7a2b4791a4a8ea1247e229ed6173ad5206ec0bc3",
+            "rootTunnelAddress": "0xcfba0947f086ef2fea3184808e149f54605c0e77"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": 18,
+        "address": "0x52c39fe906bb71bfcc142f0484a64e473602e29b",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x1a93dd2ff0308f0ae65a94adc191e8a43d2e978c"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "CODER",
+        "symbol": "CDR",
+        "decimals": 0,
+        "address": "0x9d9dbee6872b7cf844c692c66116eda4a67eef75",
+        "tags": [
+            "fx",
+            "erc721"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xf6d530ebc85a36562a5c846baec8a26e63b9c1e0",
+            "rootTunnelAddress": "0xf9bc4a80464e48369303196645e876c8c7d972de"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "TEST3 Token",
+        "symbol": "TST3",
+        "decimals": 18,
+        "address": "0xd86fd4b5efbf09753420150ef1c280560fad95b5",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x7a2b4791a4a8ea1247e229ed6173ad5206ec0bc3",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "GPCToken",
+        "symbol": "GPC",
+        "decimals": 18,
+        "address": "0xdf52a132fd6be4c64f27ea98fdbab8315c27904e",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x3564bb894e66d6c0ba885d80200bb45391c58a4a"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Axie",
+        "symbol": "AXS",
+        "decimals": 2,
+        "address": "0x17a3fc255584856c5645afe90de301b68b5897b0",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x97f9fdf7647d362a7e00a6b322eec3a4af93fcb7"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "CODER",
+        "symbol": "CDR",
+        "decimals": 0,
+        "address": "0xe3230b9e9d179065773bb5ae7bcb680fcd8ef6ce",
+        "tags": [
+            "fx",
+            "erc721"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xec785cbbdd45a6d76e15cb260fc6b4a0b47ccee0",
+            "rootTunnelAddress": "0xf9bc4a80464e48369303196645e876c8c7d972de"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": 18,
+        "address": "0x8a7fe4784e331d46af94a791295c4ef96b99ace5",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x1a93dd2ff0308f0ae65a94adc191e8a43d2e978c",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "GPCToken",
+        "symbol": "GPC",
+        "decimals": 18,
+        "address": "0xb94010a10226a495a12490efa05f0e81bcde8366",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x3564bb894e66d6c0ba885d80200bb45391c58a4a",
+            "rootTunnelAddress": "0x44658458d5c75c5296dca17a6fa5fc01fb56f484"
+        }
     }
 ]
