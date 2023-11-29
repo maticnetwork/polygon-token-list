@@ -55595,5 +55595,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xecfbd0ee0b6c0cb1bd3c3e23fd06ad9de166f2f8"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "GORILLA",
+        "symbol": "GRILA",
+        "decimals": 18,
+        "address": "0x28e460be0acf58ce2ef71b2e26925f91966f5337",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x7ff30d5119619ee1584203ea4f831869be456698",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x28e460be0acf58ce2ef71b2e26925f91966f5337"
+        }
     }
 ]
