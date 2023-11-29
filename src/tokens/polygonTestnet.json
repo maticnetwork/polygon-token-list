@@ -54405,5 +54405,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x12bfe2ae40d033bc97f3dd77b90c19264c3465dd"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "address": "0x1de2c11826c4d0bf6cad1e90ef7daec2ac7a0a5f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3a034fe373b6304f98b7a24a3f21c958946d4075",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1de2c11826c4d0bf6cad1e90ef7daec2ac7a0a5f"
+        }
     }
 ]
