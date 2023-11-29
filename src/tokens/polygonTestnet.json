@@ -54881,5 +54881,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x7457d9df637512eeefbebabe3f1f6602605fb5b7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Sample Token",
+        "symbol": "ST",
+        "decimals": 18,
+        "address": "0x7e4896c36dbc0057a31d0753af73b6566e3af482",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x12b43709196abc8eea8483425e9e5a6f119502a6",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x7e4896c36dbc0057a31d0753af73b6566e3af482"
+        }
     }
 ]
