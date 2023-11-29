@@ -55408,5 +55408,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x25caa7536fe17ae7271fd3a612ccfe9642f89cf3"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Covey",
+        "symbol": "CVY",
+        "decimals": 18,
+        "address": "0xca8228ee870367e7618c981f1dc3110a690723e5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x28e5f28fab2d7bc42409aa892dea92ef848b17c9",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xca8228ee870367e7618c981f1dc3110a690723e5"
+        }
     }
 ]
