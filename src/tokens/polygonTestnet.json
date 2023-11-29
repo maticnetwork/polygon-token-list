@@ -53776,5 +53776,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x2bba6eaf2cb54c74de149df7848c919869f7dd3b"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mango",
+        "symbol": "MANGO",
+        "decimals": 18,
+        "address": "0x1c1f6b8d0e4d83347fca9ff16738df482500eea5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1c1f6b8d0e4d83347fca9ff16738df482500eea5",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xb0be45852d93a2710d71c79bc6ee06fb1b5369a7"
+        }
     }
 ]
