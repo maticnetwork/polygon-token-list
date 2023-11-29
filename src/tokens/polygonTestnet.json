@@ -53453,5 +53453,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x52e5ceb757f86df563a67aa9f70e69d267e3c56d"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0x0cda85ade5c84c386b69b562d1722642748dd194",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd7e55eb808693d5ff81a3391c59886c7e0449f35",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0cda85ade5c84c386b69b562d1722642748dd194"
+        }
     }
 ]
