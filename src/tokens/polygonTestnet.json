@@ -55068,5 +55068,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x16ab72ad6682e44c1a4134bb360abb3f357dc748"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "address": "0x5c43009988666482cf975623571180e963ca43be",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x8153a21dfeb1f67024aa6c6e611432900ff3dcb9",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x5c43009988666482cf975623571180e963ca43be"
+        }
     }
 ]
