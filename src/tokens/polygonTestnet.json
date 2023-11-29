@@ -54660,5 +54660,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x9811382dd3ec7a8bbf49b414c041c73dce1b71c0"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "AAAAA",
+        "symbol": "A5",
+        "decimals": 18,
+        "address": "0x2b3ed85b9489627db01ff08e131dd1b4604e8110",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd9ed70b30fe75978093c0cd7da422fb24bc27b60",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x2b3ed85b9489627db01ff08e131dd1b4604e8110"
+        }
     }
 ]
