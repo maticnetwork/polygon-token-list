@@ -55544,5 +55544,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6891af56d293983ed505344657d83ae1954a2e24"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Coin",
+        "symbol": "COIN",
+        "decimals": 18,
+        "address": "0x16ad3d69806177b919e7d797dd98f6534451b821",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa54bbedf350ed896496604dc25a815c29365fabf",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x16ad3d69806177b919e7d797dd98f6534451b821"
+        }
     }
 ]
