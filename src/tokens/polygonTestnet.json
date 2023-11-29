@@ -55340,5 +55340,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x0be1685fd1451e4a64d5f08ccf112888bc635ff8"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "faucet dao token",
+        "symbol": "FDT",
+        "decimals": 6,
+        "address": "0x009eabf6ee334cf22e943a2776669a6c3b356da2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa9a4f7f968a7cbd2d602487f42d2514713ff7556",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x009eabf6ee334cf22e943a2776669a6c3b356da2"
+        }
     }
 ]
