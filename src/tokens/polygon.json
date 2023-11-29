@@ -67515,5 +67515,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xad45e6179e11487bf754cd5b3ce9b6b5d1a3280e"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "decimals": 18,
+        "address": "0x0d1e753a25ebda689453309112904807625befbe",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x0d1e753a25ebda689453309112904807625befbe",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x068243bb717b83792ca1ff8010d4ad923fd38908"
+        }
     }
 ]
