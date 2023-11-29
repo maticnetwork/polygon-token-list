@@ -54371,5 +54371,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xe3cbcfed03bb5663f19163cff9aec377a4064d8f"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Zeta",
+        "symbol": "ZETA",
+        "decimals": 18,
+        "address": "0x13096927d13e96efff302d554912dc23a9682f6e",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xcc7bb2d219a0fc08033e130629c2b854b7ba9195",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x13096927d13e96efff302d554912dc23a9682f6e"
+        }
     }
 ]
