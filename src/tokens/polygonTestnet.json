@@ -6,7 +6,11 @@
         "decimals": 18,
         "address": "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": [
+            "pos",
+            "erc20",
+            "swapable"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -19,7 +23,11 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000001010",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-        "tags": ["plasma", "native", "swapable"],
+        "tags": [
+            "plasma",
+            "native",
+            "swapable"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "originTokenAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
@@ -32,7 +40,11 @@
         "decimals": 18,
         "address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": [
+            "pos",
+            "erc20",
+            "swapable"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "originTokenAddress": "0x655F2166b0709cd575202630952D71E2bB0d61Af"
@@ -45,7 +57,11 @@
         "decimals": 18,
         "address": "0xa0d9f8282cd48d22fd875e43be32793124f8ed47",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["pos", "erc20", "swapable"],
+        "tags": [
+            "pos",
+            "erc20",
+            "swapable"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "originTokenAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502"
@@ -58,7 +74,10 @@
         "decimals": 18,
         "address": "0x0000000000000000000000000000000000000000",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["lxly", "erc20"],
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
@@ -72,7 +91,10 @@
         "decimals": 18,
         "address": "0xd0c02072A1132c8e6E63E57d11b97429E9628cbA",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["lxly", "erc20"],
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
@@ -86,7 +108,10 @@
         "decimals": 18,
         "address": "0x7554dB7C0be89cFDAaa38dbb8C8cf5B78410e45b",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["lxly", "erc20"],
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
@@ -100,7 +125,11 @@
         "decimals": 18,
         "address": "0x20e8337597474636F95B68594EcB8DADeC4d3604",
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg",
-        "tags": ["lxly", "erc20", "customZkevmBridge"],
+        "tags": [
+            "lxly",
+            "erc20",
+            "customZkevmBridge"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
@@ -116,13 +145,51 @@
         "decimals": 18,
         "address": "0x755CB8A808c99706afAA34547204f17cD33C6316",
         "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg",
-        "tags": ["lxly", "erc20", "customZkevmBridge"],
+        "tags": [
+            "lxly",
+            "erc20",
+            "customZkevmBridge"
+        ],
         "extensions": {
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
             "originTokenAddress": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
             "originChainBridgeAdapter": "0x2929b2635E51f2dA1373A76F166A237322694fA6",
             "wrapperChainBridgeAdapter": "0x755CB8A808c99706afAA34547204f17cD33C6316"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "address": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4701aa9471d7bfac765d87dcb1ea6bb23ad32733",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Clober DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0x592fd6f9c35229cc0c4c64e61f8f2d6517f6cc65",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x592fd6f9c35229cc0c4c64e61f8f2d6517f6cc65",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x9cf388f0b453c2e44ccf4d41796979e34da9e083"
         }
     }
 ]
