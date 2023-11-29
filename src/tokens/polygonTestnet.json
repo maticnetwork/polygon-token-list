@@ -54014,5 +54014,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x185fc47a1ddd0e76d8aa6cdb9bc52311cf392059"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0x118aded2c0ad0f6ec817253d9d4e85e313673ac6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x118aded2c0ad0f6ec817253d9d4e85e313673ac6",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x1a38adbb3981b0f373f233e8eaff410470b2bc07"
+        }
     }
 ]
