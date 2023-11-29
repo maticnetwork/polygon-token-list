@@ -54677,5 +54677,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x2b3ed85b9489627db01ff08e131dd1b4604e8110"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "My Token",
+        "symbol": "MYT",
+        "decimals": 18,
+        "address": "0xbe9a8e678b33d9e09d2d3d84a4bd17e68d13560c",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x113d7546f66555c8124a71a2886ac855272e4ab1",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xbe9a8e678b33d9e09d2d3d84a4bd17e68d13560c"
+        }
     }
 ]
