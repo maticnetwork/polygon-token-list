@@ -54745,5 +54745,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x3af2a6d749019e5c60a8a7f4a3dbd710e59a97ee"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Nibbles",
+        "symbol": "NIBBLES",
+        "decimals": 18,
+        "address": "0xf64a2743cfbe9a14e0ef248ce8ba68d0a6d2a5bb",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc1da1b898c0247356e14ef327e9fc6c86a816697",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf64a2743cfbe9a14e0ef248ce8ba68d0a6d2a5bb"
+        }
     }
 ]
