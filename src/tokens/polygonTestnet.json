@@ -55374,5 +55374,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x74d16cb16a80135014e07817f1792d179f42f4b1"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "DSC",
+        "symbol": "DSC",
+        "decimals": 18,
+        "address": "0x65f2ebd97d8a13b5bd942988ccec9157e2e5ece0",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb4b78d8e2e7d19857648417fa440fec39035252e",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x65f2ebd97d8a13b5bd942988ccec9157e2e5ece0"
+        }
     }
 ]
