@@ -55833,5 +55833,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xae12c0ed2de2d63aaaf6372c4adf2ae17b546df7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ERC20-Testv4",
+        "symbol": "ERC20-Testv4",
+        "decimals": 18,
+        "address": "0x5f2213ebf0c215a4af2ebc918346a1c3fdbaadc7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x5f2213ebf0c215a4af2ebc918346a1c3fdbaadc7"
+        }
     }
 ]
