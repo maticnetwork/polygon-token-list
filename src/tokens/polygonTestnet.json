@@ -53504,5 +53504,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x5ef54eef098e43b09d1058244d2156d17dfec811"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "bb-native",
+        "symbol": "bbntv",
+        "decimals": 18,
+        "address": "0xd1f91a9be1cc816e317fe8c69f32589182b85c09",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd1f91a9be1cc816e317fe8c69f32589182b85c09",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x005521ff94afdc281fffba1acf479a43258780e5"
+        }
     }
 ]
