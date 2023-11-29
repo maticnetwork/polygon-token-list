@@ -53487,5 +53487,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x378588d64a464d61c646e5e86f4da5277e65802c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "zkEVM Test Token",
+        "symbol": "ZKTST",
+        "decimals": 18,
+        "address": "0xd23d6ec4bf2ea11a6d5a6efb25ad1aaa6765fe66",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd23d6ec4bf2ea11a6d5a6efb25ad1aaa6765fe66",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x5ef54eef098e43b09d1058244d2156d17dfec811"
+        }
     }
 ]
