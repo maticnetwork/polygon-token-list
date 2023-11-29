@@ -55306,5 +55306,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x7a0e4075413007c5065b1988727ef690f561ee9a"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Rarible",
+        "symbol": "RARI",
+        "decimals": 18,
+        "address": "0x2f3cc2c2f9312b55363463d990f038dc5d88dae6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xbe6dea792e5d557d71a4cdef7d22d6dcca133891",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x2f3cc2c2f9312b55363463d990f038dc5d88dae6"
+        }
     }
 ]
