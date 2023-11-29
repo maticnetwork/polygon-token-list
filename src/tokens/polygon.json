@@ -67413,5 +67413,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xac046f5180003e2052085fd7f9edd53fc53bb9da"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Sabai Ecoverse Token",
+        "symbol": "SABAI",
+        "decimals": 18,
+        "address": "0xf0679e7f5a7d2c80980e47cc289180154d8d2e28",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb5d730d442e1d5b119fb4e5c843c48a64202ef92",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf0679e7f5a7d2c80980e47cc289180154d8d2e28"
+        }
     }
 ]
