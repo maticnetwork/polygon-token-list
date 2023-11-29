@@ -67396,5 +67396,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x5abe6552f0df9485609cb148edc80e90e4229f78"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "HoloToken",
+        "symbol": "HOT",
+        "decimals": 18,
+        "address": "0xac046f5180003e2052085fd7f9edd53fc53bb9da",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xac046f5180003e2052085fd7f9edd53fc53bb9da"
+        }
     }
 ]
