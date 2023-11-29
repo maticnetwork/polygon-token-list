@@ -53997,5 +53997,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x33bfedd361db5fec6969bf52c0e0daf4701a7381"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "TestSafeToken",
+        "symbol": "TST",
+        "decimals": 18,
+        "address": "0x40d3c77739e6aef79f60265b5cc25ee2d591a2fb",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x40d3c77739e6aef79f60265b5cc25ee2d591a2fb",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x185fc47a1ddd0e76d8aa6cdb9bc52311cf392059"
+        }
     }
 ]
