@@ -55459,5 +55459,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x42ff3dadadc8c55c83817fc995cd337cde97e4dc"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ERC20 Test Token",
+        "symbol": "ETT",
+        "decimals": 18,
+        "address": "0xe5eb3ee6872b11bde5f40d5a3bff8e61db08dbe0",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb23e29aa99fb06f4a33f8447ccaf0844ab3d4f8a",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xe5eb3ee6872b11bde5f40d5a3bff8e61db08dbe0"
+        }
     }
 ]
