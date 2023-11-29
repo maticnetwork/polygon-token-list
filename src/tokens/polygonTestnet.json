@@ -54337,5 +54337,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x7fe3efc83ff5a1cc43d4f1301ec402e348ee16c1"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Raddish Token",
+        "symbol": "RAD",
+        "decimals": 18,
+        "address": "0x4ab3c0d45c58d6af802193b2c26171158e65631d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd43f051afdc29d981905e03e0c48eaf1dc49252d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4ab3c0d45c58d6af802193b2c26171158e65631d"
+        }
     }
 ]
