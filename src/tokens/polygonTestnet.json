@@ -54643,5 +54643,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xe4fb49a84cebada18dcedd9f52f179d23f1b8387"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Coq Chain Token",
+        "symbol": "COQ",
+        "decimals": 18,
+        "address": "0x9811382dd3ec7a8bbf49b414c041c73dce1b71c0",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb156c5aa93b682e6e5bf294ee32160d277b95161",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x9811382dd3ec7a8bbf49b414c041c73dce1b71c0"
+        }
     }
 ]
