@@ -54728,5 +54728,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x73b4328c281e24d68ebfcc5cb3aacb1882d5cec4"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "address": "0x3af2a6d749019e5c60a8a7f4a3dbd710e59a97ee",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x655f2166b0709cd575202630952d71e2bb0d61af",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x3af2a6d749019e5c60a8a7f4a3dbd710e59a97ee"
+        }
     }
 ]
