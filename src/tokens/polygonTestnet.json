@@ -53929,5 +53929,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc36f09da74e16091b59fc477ef516d5dd7c3e158"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "TESTZKP",
+        "symbol": "TZKP",
+        "decimals": 18,
+        "address": "0xb3783d941d9b291e2ac3e5f0707dbf6b163ab9df",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb3783d941d9b291e2ac3e5f0707dbf6b163ab9df",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x31c81323cfad103e83d9b754dba8d9697c1f0431"
+        }
     }
 ]
