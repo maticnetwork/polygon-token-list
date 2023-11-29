@@ -55578,5 +55578,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x3a549a73f56fa1c8c3e6c9a89df14b50b139345b"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Wrapped Mountain Protocol USD",
+        "symbol": "wUSDM",
+        "decimals": 18,
+        "address": "0xecfbd0ee0b6c0cb1bd3c3e23fd06ad9de166f2f8",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xbb075c5620979e614ad546b0e77c1b2fedcaa820",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xecfbd0ee0b6c0cb1bd3c3e23fd06ad9de166f2f8"
+        }
     }
 ]
