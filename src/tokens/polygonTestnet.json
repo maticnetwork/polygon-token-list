@@ -54490,5 +54490,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc7781829c15e069ef1301c67f90556bbd26300d5"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Goerli DVF USDT",
+        "symbol": "dvf-USDT",
+        "decimals": 6,
+        "address": "0x5dead6dfbd8ff5ad320c36deb78f03a2aed19f2f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd997a86346e76518e6922556f34d766130c0bbfd",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x5dead6dfbd8ff5ad320c36deb78f03a2aed19f2f"
+        }
     }
 ]
