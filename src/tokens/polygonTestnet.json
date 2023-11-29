@@ -53521,5 +53521,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x005521ff94afdc281fffba1acf479a43258780e5"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "BLUEBERRYNATIVE",
+        "symbol": "BLBRN",
+        "decimals": 18,
+        "address": "0x533dc89624dcc012c7323b41f286bd2df478800b",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x533dc89624dcc012c7323b41f286bd2df478800b",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xf63914c5a62cd3fe59680b89e72aba6a9e808567"
+        }
     }
 ]
