@@ -53895,5 +53895,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6e472bb4163becd791ce010dab4d8907036e5436"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "blueberry1",
+        "symbol": "bb1",
+        "decimals": 18,
+        "address": "0x33474ab2406221d064f4cc3e2d6a29a3cfaf814b",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x424f99e16ec815a679e7c97ec2053d1882035058",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x33474ab2406221d064f4cc3e2d6a29a3cfaf814b"
+        }
     }
 ]
