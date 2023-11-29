@@ -54694,5 +54694,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xbe9a8e678b33d9e09d2d3d84a4bd17e68d13560c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Liquid staked Ether 2.0",
+        "symbol": "stETH",
+        "decimals": 18,
+        "address": "0x31fc98be21eaf164b652ccb26cb2ec1d48471ec5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1643e812ae58766192cf7d2cf9567df2c37e9b7f",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x31fc98be21eaf164b652ccb26cb2ec1d48471ec5"
+        }
     }
 ]
