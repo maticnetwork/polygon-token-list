@@ -54286,5 +54286,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x745052b78cdbc3379bc5ae2d0ba6ca31e4cada82"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "USD Coin Zkevm",
+        "symbol": "USDCZkevm",
+        "decimals": 6,
+        "address": "0x1aae1d7fdb17d25804470149e5e165385007dc44",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1aae1d7fdb17d25804470149e5e165385007dc44",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x43ef8b47857e1dc609b952ad2d05da181e379027"
+        }
     }
 ]
