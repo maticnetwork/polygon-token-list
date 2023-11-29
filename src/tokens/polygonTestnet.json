@@ -55323,5 +55323,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x2f3cc2c2f9312b55363463d990f038dc5d88dae6"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Hammer Turtoise",
+        "symbol": "HT",
+        "decimals": 18,
+        "address": "0x0be1685fd1451e4a64d5f08ccf112888bc635ff8",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xababf60b28e378808f92381903d69620a634eac3",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0be1685fd1451e4a64d5f08ccf112888bc635ff8"
+        }
     }
 ]
