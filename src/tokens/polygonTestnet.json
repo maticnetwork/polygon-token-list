@@ -54541,5 +54541,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x5f788843e085d2344102380f52250d7d297d58ae"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "USDC Prime Token",
+        "symbol": "USDC",
+        "decimals": 18,
+        "address": "0x1e3de569867fe4c3b16accdda313c97b88236e35",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa39dec7b44997a4f11fb9f1640fdc601a8a93822",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1e3de569867fe4c3b16accdda313c97b88236e35"
+        }
     }
 ]
