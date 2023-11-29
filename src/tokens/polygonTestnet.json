@@ -53606,5 +53606,39 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xd0096f69ea810b42d3f0371e06c5d83a19f7a6a7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Frax",
+        "symbol": "FRAX",
+        "decimals": 18,
+        "address": "0xf3e13e0535f6212fe321149a7451a01f972248c2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xf3e13e0535f6212fe321149a7451a01f972248c2",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x04890ab352aa278c5edcd0f5bbe1983cccd39b6c"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Maker",
+        "symbol": "MKR",
+        "decimals": 18,
+        "address": "0x4c0926f331b6386db02dc1c03dbbbcab0fbbcd3d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4c0926f331b6386db02dc1c03dbbbcab0fbbcd3d",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xf607c0a5dce4e7892107e735f3ac74206355b27f"
+        }
     }
 ]
