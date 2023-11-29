@@ -53742,5 +53742,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x57899e116ed33af4ab2d336a54f87b5aeb8af9d0"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "kritly",
+        "symbol": "kry",
+        "decimals": 18,
+        "address": "0xd783d4197cc5556f6db006db31d9c08c3b9737f6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd783d4197cc5556f6db006db31d9c08c3b9737f6",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x9270ca9eff9842f9f300412fd9597f9df58990d3"
+        }
     }
 ]
