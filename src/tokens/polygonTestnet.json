@@ -53386,5 +53386,39 @@
             "originTokenAddress": "0x1a93dd2ff0308f0ae65a94adc191e8a43d2e978c",
             "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "address": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4701aa9471d7bfac765d87dcb1ea6bb23ad32733",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Clober DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0x592fd6f9c35229cc0c4c64e61f8f2d6517f6cc65",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x592fd6f9c35229cc0c4c64e61f8f2d6517f6cc65",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x9cf388f0b453c2e44ccf4d41796979e34da9e083"
+        }
     }
 ]
