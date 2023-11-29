@@ -55442,5 +55442,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xd782cc11a778067dbaf5478df0d37ecf0420606d"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Sample Test Token",
+        "symbol": "STT",
+        "decimals": 18,
+        "address": "0x42ff3dadadc8c55c83817fc995cd337cde97e4dc",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x83f7b76218a74da1b908c4826b080aac7a6c8469",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x42ff3dadadc8c55c83817fc995cd337cde97e4dc"
+        }
     }
 ]
