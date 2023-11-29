@@ -54031,5 +54031,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x1a38adbb3981b0f373f233e8eaff410470b2bc07"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ETH Hop Token",
+        "symbol": "hETH",
+        "decimals": 18,
+        "address": "0x7a765834fb23c3f533ed3874e3275ca14f73c4cc",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x7a765834fb23c3f533ed3874e3275ca14f73c4cc",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x31ccf2f979cf1e8ce5214c52939e3aa859462ec9"
+        }
     }
 ]
