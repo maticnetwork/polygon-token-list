@@ -54082,5 +54082,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x3503ee3d0ca16f48d91be510f19c4cc7b7af1f6c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "USD Coin (goerli)",
+        "symbol": "USDC",
+        "decimals": 6,
+        "address": "0x8ba0a934ef4c24e475c78072cca3ed306c1abadd",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd35cceead182dcee0f148ebac9447da2c4d449c4",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x8ba0a934ef4c24e475c78072cca3ed306c1abadd"
+        }
     }
 ]
