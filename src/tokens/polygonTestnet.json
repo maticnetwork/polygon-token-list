@@ -54626,5 +54626,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb6f27eb299ee6ba2ecb169b0409450de62290213"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Boson Token",
+        "symbol": "BOSON",
+        "decimals": 18,
+        "address": "0xe4fb49a84cebada18dcedd9f52f179d23f1b8387",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe3c811abbd19fbb9fe324eb0f30f32d1f6d20c95",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xe4fb49a84cebada18dcedd9f52f179d23f1b8387"
+        }
     }
 ]
