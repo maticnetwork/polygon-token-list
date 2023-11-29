@@ -53878,5 +53878,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xce8ee07ef5e9c22b5d2f802a56d4dc73424d4372"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test ZK USDT",
+        "symbol": "ZUSD",
+        "decimals": 18,
+        "address": "0x6e472bb4163becd791ce010dab4d8907036e5436",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x99cfee89b2d8f1fb71ea13bb68021b8ff0b3ee06",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x6e472bb4163becd791ce010dab4d8907036e5436"
+        }
     }
 ]
