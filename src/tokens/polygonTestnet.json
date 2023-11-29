@@ -55238,5 +55238,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x09958b6a643105db6de7f5987d482b71c8e28f4b"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "address": "0xeb86d8bf822e93363b137a99e6a378d2a4ee0f8c",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xfad6367e97217cc51b4cd838cc086831f81d38c2",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xeb86d8bf822e93363b137a99e6a378d2a4ee0f8c"
+        }
     }
 ]
