@@ -53555,5 +53555,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x3ce1bab7b7bae26775f81ee3576a99f0ead5b33c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Georli TestNet Bit Token",
+        "symbol": "BIT",
+        "decimals": 18,
+        "address": "0x0bb4a5e24045b7744e771c4fb5bc97f8a8073d63",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x5a94dc6cc85fda49d8e9a8b85dde8629025c42be",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0bb4a5e24045b7744e771c4fb5bc97f8a8073d63"
+        }
     }
 ]
