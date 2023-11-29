@@ -55034,5 +55034,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x7bb2ed6757e891caa1ba30a063cc6194f38a2144"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "TOKEN",
+        "symbol": "TOKEN",
+        "decimals": 18,
+        "address": "0x5263b14732b47fcc83c85acf644212674770b009",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x8fba9aa455aea405bfea0e3e5ad2b768a09c42a5",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x5263b14732b47fcc83c85acf644212674770b009"
+        }
     }
 ]
