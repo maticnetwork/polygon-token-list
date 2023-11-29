@@ -54762,5 +54762,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf64a2743cfbe9a14e0ef248ce8ba68d0a6d2a5bb"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "wBTC",
+        "symbol": "wBTC",
+        "decimals": 8,
+        "address": "0xf63ce24aea592e3e1e744025832b325ea0cf1068",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xca063a2ab07491ee991dcecb456d1265f842b568",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf63ce24aea592e3e1e744025832b325ea0cf1068"
+        }
     }
 ]
