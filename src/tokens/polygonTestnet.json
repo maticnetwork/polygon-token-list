@@ -55748,5 +55748,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x5271ff628f7f08942feb91552f940014fd51c583"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Tester",
+        "symbol": "TSTT",
+        "decimals": 18,
+        "address": "0x30e7f6b894e73e30a9f11992870e90d6a2b156bd",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3012bf14161809e68479e3161d28ecd1bf306688",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x30e7f6b894e73e30a9f11992870e90d6a2b156bd"
+        }
     }
 ]
