@@ -54507,5 +54507,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x5dead6dfbd8ff5ad320c36deb78f03a2aed19f2f"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Polkamarkets",
+        "symbol": "POLK",
+        "decimals": 18,
+        "address": "0xff5935b8d22c28b8be953d0bcf0fc9e1c19a1855",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd9983addca0e51400c50cba7658847ac3a42f026",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xff5935b8d22c28b8be953d0bcf0fc9e1c19a1855"
+        }
     }
 ]
