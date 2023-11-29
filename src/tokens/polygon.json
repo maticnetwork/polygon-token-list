@@ -67447,5 +67447,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc63dbc77cf8d23f919f9f5b08a7e4cc8f4b7289a"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "MAGA",
+        "symbol": "TRUMP",
+        "decimals": 9,
+        "address": "0x88152f9b973b86c0e31d16f7c4d2896572712131",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x576e2bed8f7b46d34016198911cdf9886f78bea7",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x88152f9b973b86c0e31d16f7c4d2896572712131"
+        }
     }
 ]
