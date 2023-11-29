@@ -55170,5 +55170,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xdc90522d12df2f8c1f257a14bf4bf2dd22946520"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "address": "0xb9a82f764e567063d36aacf0a243cc6b6499b2a4",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc04b0d3107736c32e19f1c62b2af67be61d63a05",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb9a82f764e567063d36aacf0a243cc6b6499b2a4"
+        }
     }
 ]
