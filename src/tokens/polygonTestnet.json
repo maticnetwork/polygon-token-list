@@ -53420,5 +53420,21 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x9cf388f0b453c2e44ccf4d41796979e34da9e083"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "GPCToken",
+        "symbol": "GPC",
+        "decimals": "18",
+        "address": "0xb94010a10226a495a12490efa05f0e81bcde8366",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x3564bb894e66d6c0ba885d80200bb45391c58a4a",
+            "rootTunnelAddress": "0x44658458d5c75c5296dca17a6fa5fc01fb56f484"
+        }
     }
 ]
