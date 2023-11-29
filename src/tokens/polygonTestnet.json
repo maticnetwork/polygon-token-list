@@ -55017,5 +55017,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xa618e79844a3b607d70ef302eb0ce7988182d61f"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "SafuToken",
+        "symbol": "SAFU",
+        "decimals": 18,
+        "address": "0x7bb2ed6757e891caa1ba30a063cc6194f38a2144",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x19581bc8a5481e243866e63e371e327609069679",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x7bb2ed6757e891caa1ba30a063cc6194f38a2144"
+        }
     }
 ]
