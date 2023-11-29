@@ -53470,5 +53470,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x0cda85ade5c84c386b69b562d1722642748dd194"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "address": "0x378588d64a464d61c646e5e86f4da5277e65802c",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x378588d64a464d61c646e5e86f4da5277e65802c"
+        }
     }
 ]
