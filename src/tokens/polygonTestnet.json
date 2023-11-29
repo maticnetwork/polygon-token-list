@@ -53844,5 +53844,39 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x70638551b34dc7fecb37360ed0b7e9b992e4ebdd"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ZKEVM Token",
+        "symbol": "ZK",
+        "decimals": 18,
+        "address": "0x2e733c7db3d574fb1ae530be8895efbe7832a858",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc779cad166eae5d2ad06995f048bead6219e4daf",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x2e733c7db3d574fb1ae530be8895efbe7832a858"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "ZKMATO",
+        "symbol": "ZKM",
+        "decimals": 18,
+        "address": "0xcbd4a798d725906fbe42aff9566c29f42f152549",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xcbd4a798d725906fbe42aff9566c29f42f152549",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xce8ee07ef5e9c22b5d2f802a56d4dc73424d4372"
+        }
     }
 ]
