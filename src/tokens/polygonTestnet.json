@@ -54269,5 +54269,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x4e5fffe853d4aa26cec787e709f4a67c509417d6"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "BOM",
+        "symbol": "BOM",
+        "decimals": 18,
+        "address": "0x28687c2a4638149745a0999d523f813f63b4786f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x28687c2a4638149745a0999d523f813f63b4786f",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x745052b78cdbc3379bc5ae2d0ba6ca31e4cada82"
+        }
     }
 ]
