@@ -53793,5 +53793,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xb0be45852d93a2710d71c79bc6ee06fb1b5369a7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "TEST",
+        "symbol": "TEST",
+        "decimals": 18,
+        "address": "0x5081c033a3001bb830e73a143484de8c394343a2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x5081c033a3001bb830e73a143484de8c394343a2",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x667cd7347db4d6960113ae94a6768c577fee4b75"
+        }
     }
 ]
