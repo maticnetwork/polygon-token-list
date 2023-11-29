@@ -54779,5 +54779,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf63ce24aea592e3e1e744025832b325ea0cf1068"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "HarmoniousZKore",
+        "symbol": "HZK",
+        "decimals": 18,
+        "address": "0xaad70d5d669dcf331bc4052b0f38af655a4d086a",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3b40b09362ff04d366779254369f0b575831167f",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xaad70d5d669dcf331bc4052b0f38af655a4d086a"
+        }
     }
 ]
