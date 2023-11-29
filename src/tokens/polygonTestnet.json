@@ -55425,5 +55425,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xca8228ee870367e7618c981f1dc3110a690723e5"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test ERC20 Root Token",
+        "symbol": "TestERC20RootToken",
+        "decimals": 18,
+        "address": "0xd782cc11a778067dbaf5478df0d37ecf0420606d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe0e2a9253e1c45f70802aca014b9856edd917d1a",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xd782cc11a778067dbaf5478df0d37ecf0420606d"
+        }
     }
 ]
