@@ -54252,5 +54252,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xbe8d7c0195881eb83b8bb23bac0c1f23e3b51426"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "DIVA USD",
+        "symbol": "dUSD",
+        "decimals": 18,
+        "address": "0x4e5fffe853d4aa26cec787e709f4a67c509417d6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xfa158c9b780a4213f3201ae74cca013712c8538d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4e5fffe853d4aa26cec787e709f4a67c509417d6"
+        }
     }
 ]
