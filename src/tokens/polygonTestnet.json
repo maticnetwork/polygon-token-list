@@ -55697,5 +55697,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x173a9a5e8ca80f07dc5ab17fd449c569d610f5ce"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mock ERC20",
+        "symbol": "M20",
+        "decimals": 18,
+        "address": "0x380bd3af564dc3b8b9df44416bd3f7391fe1d22b",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x328507dc29c95c170b56a1b3a758eb7a9e73455c",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x380bd3af564dc3b8b9df44416bd3f7391fe1d22b"
+        }
     }
 ]
