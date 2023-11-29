@@ -53657,5 +53657,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x8119c23ca2eb0bac50f7068822ed3c8ff70a74af"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "bb2",
+        "symbol": "bb2",
+        "decimals": 18,
+        "address": "0x3a366e8d499c7a482a1836bb34c25c5ce0eeadec",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3a366e8d499c7a482a1836bb34c25c5ce0eeadec",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xa9a999dd874328eed1d3b3736925c8a192ac3681"
+        }
     }
 ]
