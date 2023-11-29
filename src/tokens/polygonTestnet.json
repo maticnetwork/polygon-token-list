@@ -55816,5 +55816,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x552d3842fc7fa0536b5606c6a7536e77d33f1755"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mock WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0xae12c0ed2de2d63aaaf6372c4adf2ae17b546df7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x203788323ab4b29220972972e7def2a037523a49",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xae12c0ed2de2d63aaaf6372c4adf2ae17b546df7"
+        }
     }
 ]
