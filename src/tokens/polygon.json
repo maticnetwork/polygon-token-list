@@ -67430,5 +67430,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf0679e7f5a7d2c80980e47cc289180154d8d2e28"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Ankr Staked ETH",
+        "symbol": "ankrETH",
+        "decimals": 18,
+        "address": "0xc63dbc77cf8d23f919f9f5b08a7e4cc8f4b7289a",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc63dbc77cf8d23f919f9f5b08a7e4cc8f4b7289a"
+        }
     }
 ]
