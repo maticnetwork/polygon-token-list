@@ -53674,5 +53674,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xa9a999dd874328eed1d3b3736925c8a192ac3681"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test USDC",
+        "symbol": "TUSD",
+        "decimals": 6,
+        "address": "0x721af93f58c16e5f4c9925584efd83deb0b26ebd",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x6b48d3467de7d45de55a3703d12a1005440edc7b",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x721af93f58c16e5f4c9925584efd83deb0b26ebd"
+        }
     }
 ]
