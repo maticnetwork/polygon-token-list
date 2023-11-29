@@ -54473,5 +54473,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xba4f086a9b3e1ed12c334d70f9fbded23b154397"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "GOERLI_TEST_1",
+        "symbol": "GT1",
+        "decimals": 18,
+        "address": "0xc7781829c15e069ef1301c67f90556bbd26300d5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x35ce6565a191c14a3e50ce7cacef8305b0db8bb4",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc7781829c15e069ef1301c67f90556bbd26300d5"
+        }
     }
 ]
