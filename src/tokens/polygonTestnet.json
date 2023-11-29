@@ -55187,5 +55187,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb9a82f764e567063d36aacf0a243cc6b6499b2a4"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Rocket Pool ETH",
+        "symbol": "rETH",
+        "decimals": 18,
+        "address": "0x4a69786b0f2cecae5ba1f2369638c8fd491508c6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x178e141a0e3b34152f73ff610437a7bf9b83267a",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4a69786b0f2cecae5ba1f2369638c8fd491508c6"
+        }
     }
 ]
