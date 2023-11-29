@@ -55204,5 +55204,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x4a69786b0f2cecae5ba1f2369638c8fd491508c6"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "0x",
+        "symbol": "ZRX",
+        "decimals": 18,
+        "address": "0x512932b8f0e365d5bce8c84676c2d1efd1033fcb",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe4e81fa6b16327d4b78cfeb83aade04ba7075165",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x512932b8f0e365d5bce8c84676c2d1efd1033fcb"
+        }
     }
 ]
