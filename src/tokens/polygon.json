@@ -67498,5 +67498,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xa3b42a54df6d28092c5d2717ace4f9e48a841885"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Leet",
+        "symbol": "LEET",
+        "decimals": 18,
+        "address": "0xea0b7a3256829190ea5f587509dee953d213461c",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xea0b7a3256829190ea5f587509dee953d213461c",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xad45e6179e11487bf754cd5b3ce9b6b5d1a3280e"
+        }
     }
 ]
