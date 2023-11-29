@@ -55884,5 +55884,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x9fffab2838ad0ec0f5d1c38240e39e4355b284fb"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Gold",
+        "symbol": "GLD",
+        "decimals": 18,
+        "address": "0xde66a7c4132d7da5aa738d82aabe24fdd061e913",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc44fee6dcc6ed28a103ef96ad248ab4163d1ec62",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xde66a7c4132d7da5aa738d82aabe24fdd061e913"
+        }
     }
 ]
