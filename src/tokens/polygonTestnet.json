@@ -54830,5 +54830,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xaaa532338e786c2b2cffde13e09dfe9b75cbf50d"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "UPSToken",
+        "symbol": "UPST",
+        "decimals": 18,
+        "address": "0x4f12c7a20e367cd9177b0f5073f6d4c393de0b95",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1d2f6a09ed26712b080247355af0fa53d0b0ca4b",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4f12c7a20e367cd9177b0f5073f6d4c393de0b95"
+        }
     }
 ]
