@@ -55221,5 +55221,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x512932b8f0e365d5bce8c84676c2d1efd1033fcb"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Token para bridge 1",
+        "symbol": "TPB1",
+        "decimals": 18,
+        "address": "0x09958b6a643105db6de7f5987d482b71c8e28f4b",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc023748fe4a9e750e94345e403aeb9e9736f77a8",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x09958b6a643105db6de7f5987d482b71c8e28f4b"
+        }
     }
 ]
