@@ -54303,5 +54303,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x43ef8b47857e1dc609b952ad2d05da181e379027"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "address": "0xa375fefca27a639361139718145dffc29a44cb6d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa375fefca27a639361139718145dffc29a44cb6d",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x0b31f6fe5ce040a44177557d0ce4a0dea2f44003"
+        }
     }
 ]
