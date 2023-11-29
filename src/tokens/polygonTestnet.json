@@ -53810,5 +53810,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x667cd7347db4d6960113ae94a6768c577fee4b75"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Squatch Token",
+        "symbol": "SQUATCH",
+        "decimals": 18,
+        "address": "0x662f8b76f6f40bd9227461e7461c05c669ed080b",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x662f8b76f6f40bd9227461e7461c05c669ed080b",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xae6fe4e195149a34bc8be71c195597b9f9612224"
+        }
     }
 ]
