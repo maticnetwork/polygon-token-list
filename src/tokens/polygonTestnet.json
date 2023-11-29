@@ -54949,5 +54949,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6f0b0a608564644893708374796e3bdfef1ff1bd"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Decentralized Insurance Protocol - DUMMY",
+        "symbol": "DIP",
+        "decimals": 18,
+        "address": "0x0a7f13343a7cf15e5b22001dde5770d96fac5915",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x47678b3ac8336dc3fe390d81ef80593d0c6b28b9",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0a7f13343a7cf15e5b22001dde5770d96fac5915"
+        }
     }
 ]
