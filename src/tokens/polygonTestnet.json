@@ -53827,5 +53827,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xae6fe4e195149a34bc8be71c195597b9f9612224"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ZKPEPE",
+        "symbol": "PEPOZ",
+        "decimals": 18,
+        "address": "0x071ed8c329613527c4a07479406bd010980db2f1",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x071ed8c329613527c4a07479406bd010980db2f1",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x70638551b34dc7fecb37360ed0b7e9b992e4ebdd"
+        }
     }
 ]
