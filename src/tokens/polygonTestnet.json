@@ -54099,5 +54099,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x8ba0a934ef4c24e475c78072cca3ed306c1abadd"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "ChainLink Token (goerli)",
+        "symbol": "LINK",
+        "decimals": 18,
+        "address": "0x7a7e2bc9e7b41a2c931b2e4af74f929ae40fbcaa",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x63bfb2118771bd0da7a6936667a7bb705a06c1ba",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x7a7e2bc9e7b41a2c931b2e4af74f929ae40fbcaa"
+        }
     }
 ]
