@@ -55680,5 +55680,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xaed970dc2e5d632b492c721fc490183794d4b235"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test VAB",
+        "symbol": "VAB",
+        "decimals": 18,
+        "address": "0x173a9a5e8ca80f07dc5ab17fd449c569d610f5ce",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x173a9a5e8ca80f07dc5ab17fd449c569d610f5ce"
+        }
     }
 ]
