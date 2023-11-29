@@ -54983,5 +54983,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x50a5f7aec067dc09b8f6bd2d266f0e8ea934f465"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Kapital DAO Token",
+        "symbol": "KAP",
+        "decimals": 18,
+        "address": "0x806e5e808d41eb8ae9b414c7da582343ebc61963",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xadbf0143b6e24ff41a49961f915fec79cfb16436",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x806e5e808d41eb8ae9b414c7da582343ebc61963"
+        }
     }
 ]
