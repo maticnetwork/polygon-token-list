@@ -55629,5 +55629,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb1d5f1811ff1ecdb3bc24da53e983f6af7505f29"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "address": "0xed5d0c9240bf1faf12e8ad5e044ccf840dff1778",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x65a5ba240cbd7fd75700836b683ba95ebb2f32bd",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xed5d0c9240bf1faf12e8ad5e044ccf840dff1778"
+        }
     }
 ]
