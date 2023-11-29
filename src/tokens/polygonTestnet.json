@@ -53691,5 +53691,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x721af93f58c16e5f4c9925584efd83deb0b26ebd"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "address": "0x1b16a2b68ef59f51998e989addc7a8cf5557fa32",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1b16a2b68ef59f51998e989addc7a8cf5557fa32",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xbce6b459496bee6c0f4173e3c1a5ef8139c058c1"
+        }
     }
 ]
