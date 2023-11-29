@@ -67379,5 +67379,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x50c5c6a7e8ce96abbbc5835f4d377ffd1af613a6"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Yield Guild Games Token",
+        "symbol": "YGG",
+        "decimals": 18,
+        "address": "0x5abe6552f0df9485609cb148edc80e90e4229f78",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x5abe6552f0df9485609cb148edc80e90e4229f78"
+        }
     }
 ]
