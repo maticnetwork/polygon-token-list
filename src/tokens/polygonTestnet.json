@@ -55000,5 +55000,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x806e5e808d41eb8ae9b414c7da582343ebc61963"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mass Vehicle Ledger Token",
+        "symbol": "MVL",
+        "decimals": 18,
+        "address": "0xa618e79844a3b607d70ef302eb0ce7988182d61f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1edfcce833bac99c278e2886210dbd9213bd139a",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xa618e79844a3b607d70ef302eb0ce7988182d61f"
+        }
     }
 ]
