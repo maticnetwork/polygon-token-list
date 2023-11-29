@@ -22413,7 +22413,7 @@
     },
     {
         "chainId": 1101,
-        "name": "USD Coin (legacy)",
+        "name": "USD Coin",
         "symbol": "USDC.e",
         "decimals": 6,
         "address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
