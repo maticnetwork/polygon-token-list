@@ -54575,5 +54575,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x4bc7e46151e42527b1936e1418f14756efbbf5d0"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "BTC Prime Token",
+        "symbol": "BTC",
+        "decimals": 18,
+        "address": "0xbfecaf9503cbecd76c92da61468ff11b8227e1e7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x00e07c5bb8f974293202c48f1c2efdc785857e97",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xbfecaf9503cbecd76c92da61468ff11b8227e1e7"
+        }
     }
 ]
