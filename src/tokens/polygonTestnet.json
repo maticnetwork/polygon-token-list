@@ -55663,5 +55663,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x3348f3b2d0535d80ec856e5594520c0a4fe5e2b7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "EtherFi wrapped ETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "address": "0xaed970dc2e5d632b492c721fc490183794d4b235",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xac687b5ccd042e0d70405219112d95035938e3e8",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xaed970dc2e5d632b492c721fc490183794d4b235"
+        }
     }
 ]
