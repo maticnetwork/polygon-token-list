@@ -67532,5 +67532,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x068243bb717b83792ca1ff8010d4ad923fd38908"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "agEUR",
+        "symbol": "agEUR",
+        "decimals": 18,
+        "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa61beb4a3d02decb01039e378237032b351125b4",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x17557426e9fdcb365bc777c0e0f17a1c62fbb906"
+        }
     }
 ]
