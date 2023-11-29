@@ -53759,5 +53759,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x9270ca9eff9842f9f300412fd9597f9df58990d3"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Lido Staked Ether",
+        "symbol": "stETH",
+        "decimals": 18,
+        "address": "0xe21f7261e3cd4bc3a1e92d7ea46fd971cb938673",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe21f7261e3cd4bc3a1e92d7ea46fd971cb938673",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x2bba6eaf2cb54c74de149df7848c919869f7dd3b"
+        }
     }
 ]
