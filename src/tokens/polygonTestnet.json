@@ -55612,5 +55612,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x28e460be0acf58ce2ef71b2e26925f91966f5337"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "CBY",
+        "symbol": "CBY",
+        "decimals": 18,
+        "address": "0xb1d5f1811ff1ecdb3bc24da53e983f6af7505f29",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xdec2564fd23823b2fd93550ef18afd18972717af",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb1d5f1811ff1ecdb3bc24da53e983f6af7505f29"
+        }
     }
 ]
