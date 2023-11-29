@@ -55527,5 +55527,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x61956a01f24f250ca718db0c46931a2fb027783e"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Mchain Token",
+        "symbol": "MAR",
+        "decimals": 18,
+        "address": "0x6891af56d293983ed505344657d83ae1954a2e24",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4343d80ef5808490a079aa0907ffdc9373c7a4dd",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x6891af56d293983ed505344657d83ae1954a2e24"
+        }
     }
 ]
