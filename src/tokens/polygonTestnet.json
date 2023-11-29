@@ -55391,5 +55391,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x65f2ebd97d8a13b5bd942988ccec9157e2e5ece0"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "address": "0x25caa7536fe17ae7271fd3a612ccfe9642f89cf3",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xccb14936c2e000ed8393a571d15a2672537838ad",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x25caa7536fe17ae7271fd3a612ccfe9642f89cf3"
+        }
     }
 ]
