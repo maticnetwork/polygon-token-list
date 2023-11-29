@@ -55799,5 +55799,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xfd84e394c053cce4dcdbd4d877a2ecd508b3d067"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "EURS",
+        "symbol": "EURS",
+        "decimals": 2,
+        "address": "0x552d3842fc7fa0536b5606c6a7536e77d33f1755",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xaa63e0c86b531e2edfe9f91f6436df20c301963d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x552d3842fc7fa0536b5606c6a7536e77d33f1755"
+        }
     }
 ]
