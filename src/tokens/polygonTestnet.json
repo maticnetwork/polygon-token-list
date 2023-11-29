@@ -54524,5 +54524,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xff5935b8d22c28b8be953d0bcf0fc9e1c19a1855"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "MyToken",
+        "symbol": "MT",
+        "decimals": 18,
+        "address": "0x5f788843e085d2344102380f52250d7d297d58ae",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x3aeea7d033b6b5d41c7fe6beb8d521ab292e4a76",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x5f788843e085d2344102380f52250d7d297d58ae"
+        }
     }
 ]
