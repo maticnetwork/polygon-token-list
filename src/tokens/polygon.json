@@ -67481,5 +67481,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x2ef8437a92057579cea6871f786193e2fd1f3d28"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "AKADAMA",
+        "symbol": "AKD",
+        "decimals": 18,
+        "address": "0x9ec972dd801305bebbf72dadb68a78ec72bd80b3",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x9ec972dd801305bebbf72dadb68a78ec72bd80b3",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xa3b42a54df6d28092c5d2717ace4f9e48a841885"
+        }
     }
 ]
