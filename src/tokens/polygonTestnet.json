@@ -54813,5 +54813,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xcf815318b98b71f83d5f284da457a8489355544d"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Illuvium",
+        "symbol": "ILV",
+        "decimals": 18,
+        "address": "0xaaa532338e786c2b2cffde13e09dfe9b75cbf50d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xf444a3355e4624f7b2c532557420e9c01ced499f",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xaaa532338e786c2b2cffde13e09dfe9b75cbf50d"
+        }
     }
 ]
