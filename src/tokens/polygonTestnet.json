@@ -55782,5 +55782,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x52a6d02c79f52a0084cdfef0cef75fa8441c0991"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "TSM",
+        "symbol": "TSM",
+        "decimals": 18,
+        "address": "0xfd84e394c053cce4dcdbd4d877a2ecd508b3d067",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x62e1b95e8a505545fe5717e2c82fcf8cdd821544",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xfd84e394c053cce4dcdbd4d877a2ecd508b3d067"
+        }
     }
 ]
