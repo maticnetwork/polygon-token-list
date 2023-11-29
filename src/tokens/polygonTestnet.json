@@ -55136,5 +55136,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x2c57b6694ad6f2e2c881e5d4f8bd2894114f734d"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "PepeBoats",
+        "symbol": "PEPEBOATS",
+        "decimals": 18,
+        "address": "0xe94ca8e77d3541c4b5b0d7172d878e63f1b0f55f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4c9f4fa9c9f1bfdbc501a479380addaac72033c3",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xe94ca8e77d3541c4b5b0d7172d878e63f1b0f55f"
+        }
     }
 ]
