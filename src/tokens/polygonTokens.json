@@ -20771,5 +20771,14 @@
                 "website": ""
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "PowerMaxCoin",
+        "symbol": "PMX",
+        "decimals": 18,
+        "address": "0x92ff3278dd506622da85a6dca6e6505ee428ccbc",
+        "logoURI": "https://raw.githubusercontent.com/pmx369/assets/main/logo.png",
+        "tags": ["erc20", "fx"]
     }
 ]
