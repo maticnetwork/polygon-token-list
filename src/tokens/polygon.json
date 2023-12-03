@@ -63750,5 +63750,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Agoras Token",
+        "symbol": "AGRS",
+        "decimals": 8,
+        "address": "0x1a9c89175559a7a1ba9bb97a49ae225af0ffd2f2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1a9c89175559a7a1ba9bb97a49ae225af0ffd2f2"
+        }
     }
 ]
