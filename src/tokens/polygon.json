@@ -63733,5 +63733,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x0f8c058e7cef182782950a6c70a6073aa9e1d9d6"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped eETH",
+        "symbol": "weETH",
+        "decimals": 18,
+        "address": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6"
+        }
     }
 ]
