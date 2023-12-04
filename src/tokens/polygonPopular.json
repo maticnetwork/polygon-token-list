@@ -1594,5 +1594,66 @@
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Revv",
+        "symbol": "REVV",
+        "decimals": 18,
+        "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
+        "logoURI": "https://etherscan.io/token/images/revv_32.png",
+        "tags": ["pos", "erc20", "customSig", "swapable"],
+        "extensions": {
+            "originTokenAddress": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+            "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "REVV Motorsport Shard",
+        "symbol": "SHRD",
+        "decimals": 18,
+        "address": "0xc99fd38d967944d7c3578afc4451920404c238d1",
+        "tags": ["pos", "erc20", "customSig"],
+        "extensions": {
+            "originTokenAddress": "0x6d4a51c0ddfe6baeb7e233d6df5ae38a81f55c4b",
+            "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5",
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Tower Token",
+        "symbol": "TOWER",
+        "decimals": 18,
+        "address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+        "logoURI": "https://crazydefenseheroes.com/static/media/logo-tower.2bca4bdd.svg",
+        "tags": ["pos", "erc20", "customSig", "swapable"],
+        "extensions": {
+            "originTokenAddress": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+            "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5",
+            "project": {
+                "name": "Tower Token",
+                "summary": "The TOWER Token is a utility token for the TOWER Platform that comprises the token, the Free-to-Play games in the Crazy Kings franchise and the blockchain game.",
+                "contact": "towertoken@crazydefenseheroes.com",
+                "website": "https://crazydefenseheroes.com/"
+            },
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "GAMEE",
+        "symbol": "GMEE",
+        "decimals": 18,
+        "address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+        "tags": ["pos", "erc20", "swapable", "customSig"],
+        "extensions": {
+            "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5",
+            "originTokenAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+            "originTokenNetwork": 0
+        },
+        "logoURI": "https://assets.polygon.technology/tokenAssets/gmee.svg"
     }
 ]
