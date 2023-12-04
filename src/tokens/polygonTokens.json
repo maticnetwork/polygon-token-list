@@ -20774,12 +20774,30 @@
     },
     {
         "chainId": 137,
+        "name": "Autonolas",
+        "symbol": "OLAS",
+        "decimals": 18,
+        "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
+        "logoURI": "https://olas.network/images/olas-token-logo.svg",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+            "project": {
+                "name": "Olas",
+                "summary": "Crypto's Ocean of Services: The unified network for off-chain services, e.g. automation, relayers and co-owned AI. Coordinated by OLAS, powered by autonomous agents.",
+                "contact": "info@valory.xyz",
+                "website": "https://olas.network"
+            }
+        }
+    },
+    {
+        "chainId": 137,
         "name": "KeyFi",
         "symbol": "KEYFI",
         "decimals": 18,
         "address": "0x96fC3568D36b236121Ef3dd3EDEb31CA8d08bfb0",
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052/logo.png",
-        "tags": ["erc20", "fx"],
+        "logoURI": "https://keyfi.com/Blue-only-logo.svg",
+        "tags": ["pos", "erc20"],
         "extensions": {
             "rootAddress": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052",
             "project": {
@@ -20789,5 +20807,5 @@
                 "website": "https://keyfi.com/"
             }
         }
-    }
+    },
 ]
