@@ -63767,5 +63767,20 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x1a9c89175559a7a1ba9bb97a49ae225af0ffd2f2"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Blockchains",
+        "symbol": "CHAIN",
+        "decimals": "18",
+        "address": "0x70a13201df2364b634cb5aac8d735db3a654b30c",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x89c53b02558e4d1c24b9bf3bed1279871187ef0b"
+        }
     }
 ]
