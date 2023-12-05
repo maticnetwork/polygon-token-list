@@ -6,6 +6,7 @@ const zkevmPopularTokens = require("./tokens/zkevmPopularTokens.json");
 const allPolygonTokens = require("./tokens/polygon.json");
 const allPolygonTestnetTokens = require("./tokens/polygonTestnet.json");
 const allPolygonPopularTokens = require("./tokens/polygonPopular.json");
+const allPolygonTestnetPopularTokens = require("./tokens/polygonTestnetPopular.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
 const testnetTokenList = require("./metadata/testnetTokens.json");
@@ -14,6 +15,7 @@ const zkevmPopularTokenList = require("./metadata/zkevmPopularTokens.json");
 const allPolygonTokenList = require("./metadata/polygon.json");
 const allPolygonTestnetTokenList = require("./metadata/polygonTestnet.json");
 const allPolygonPopularTokenList = require("./metadata/polygonPopular.json");
+const allPolygonTestnetPopularTokenList = require("./metadata/polygonTestnetPopular.json");
 
 // Cross-chain lists
 const ccTokenList = require("./metadata/crossChain.json");
@@ -63,6 +65,10 @@ module.exports = function buildList() {
         timestamp,
         tokens: allPolygonTestnetTokens,
     }); // Aggregated Polygon Testnet Tokens List
+    Object.assign(allPolygonTestnetPopularTokenList, {
+        timestamp,
+        tokens: allPolygonTestnetPopularTokens,
+    }); // Aggregated Polygon Testnet Popular Tokens List
     Object.assign(polygonTokensTokenList, { timestamp, tokens: polygonTokens }); // PolygonTokens tokenlist
     Object.assign(popularTokenList, { timestamp, tokens: popularTokens }); // popular tokenlist
     Object.assign(zkevmPopularTokenList, {
@@ -91,6 +97,7 @@ module.exports = function buildList() {
         allPolygonTokenList,
         allPolygonPopularTokenList,
         allPolygonTestnetTokenList,
+        allPolygonTestnetPopularTokenList,
         polygonTokensTokenList,
         popularTokenList,
         zkevmPopularTokenList,
