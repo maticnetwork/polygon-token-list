@@ -63782,5 +63782,35 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x89c53b02558e4d1c24b9bf3bed1279871187ef0b"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Frog Coin",
+        "symbol": "FRG",
+        "decimals": "18",
+        "address": "0xe1ce3ba18de6561d1c3881b3a0c3813c39f23610",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x726516b20c4692a6bea3900971a37e0ccf7a6bff"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Insula",
+        "symbol": "ISLA",
+        "decimals": "18",
+        "address": "0x61816618a7ee9c1f64795974767d3cb9ad437f41",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947"
+        }
     }
 ]
