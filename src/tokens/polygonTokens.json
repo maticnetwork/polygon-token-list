@@ -20789,5 +20789,23 @@
                 "website": "https://olas.network"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "KeyFi",
+        "symbol": "KEYFI",
+        "decimals": 18,
+        "address": "0x96fC3568D36b236121Ef3dd3EDEb31CA8d08bfb0",
+        "logoURI": "https://keyfi.com/Blue-only-logo.svg",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052",
+            "project": {
+                "name": "KeyFi",
+                "summary": "KeyFi is an app-based platform for managing decentralized finance (DeFi).",
+                "contact": "vincent@keyfi.com",
+                "website": "https://keyfi.com/"
+            }
+        }
     }
 ]
