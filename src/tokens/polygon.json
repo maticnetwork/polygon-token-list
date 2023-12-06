@@ -63812,5 +63812,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "TRADEX",
+        "symbol": "TRAEX",
+        "decimals": 18,
+        "address": "0x0ebd629e1b900d2a71ea5933785e9efba41e4fa7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xcc91bae963d45ef73021e8a557ad7c191a9b1880",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0ebd629e1b900d2a71ea5933785e9efba41e4fa7"
+        }
     }
 ]
