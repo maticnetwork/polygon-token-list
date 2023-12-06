@@ -36430,5 +36430,20 @@
             "originTokenAddress": "0x0239523c6ed5614fbd16020423097d6073a06c85",
             "rootTunnelAddress": "0xd5620304e571e886a28d7717a171b698dee526d6"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "SubQueryToken",
+        "symbol": "SQT",
+        "decimals": "18",
+        "address": "0xb7f2f528236db18cb003d68b0b94915509e9c6ee",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x1ece1fafcd6d7783a00bedda4d744b0a666146cd"
+        }
     }
 ]
