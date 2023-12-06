@@ -36398,5 +36398,21 @@
             "originTokenAddress": "0x1d4a5c45d716044fbbecfa5d2184028971a67abe",
             "rootTunnelAddress": "0xd5620304e571e886a28d7717a171b698dee526d6"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "SubQueryToken",
+        "symbol": "SQT",
+        "decimals": "18",
+        "address": "0x237f1754ef00d526fd3833e9840f35d0c294254e",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xf5f0bf55218b07b9031590fe1bc1e40811e23e78",
+            "rootTunnelAddress": "0x3658ccfde5e9629b0805eb06aacfc42416850961"
+        }
     }
 ]
