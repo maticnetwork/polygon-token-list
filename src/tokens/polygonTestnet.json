@@ -36462,5 +36462,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xa35c58514d994dfafb85d53803b2785c1a397c90"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "address": "0xd3bcdb3b1c223de7cebc442dbc39d3aa9f22ae3a",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x6b20e61f5e2c6c1f75400e0eba417c1f7569b3fe",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xd3bcdb3b1c223de7cebc442dbc39d3aa9f22ae3a"
+        }
     }
 ]
