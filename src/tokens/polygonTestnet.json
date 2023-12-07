@@ -36479,5 +36479,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xd3bcdb3b1c223de7cebc442dbc39d3aa9f22ae3a"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Gold Karma",
+        "symbol": "GLDKRM",
+        "decimals": 18,
+        "address": "0xc3d0686eff428b2e4f853d85214eb65b17bcdc78",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x0ae3774f8115e601ee598e7eeace2a036edc10e6",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc3d0686eff428b2e4f853d85214eb65b17bcdc78"
+        }
     }
 ]
