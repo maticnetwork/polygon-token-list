@@ -39,8 +39,8 @@
     },
     {
         "chainId": 137,
-        "name": "USD Coin",
-        "symbol": "USDC",
+        "name": "Bridged USD Coin",
+        "symbol": "USDC.e",
         "decimals": 6,
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg",
@@ -1341,7 +1341,7 @@
     },
     {
         "chainId": 1101,
-        "name": "USD Coin",
+        "name": "Legacy Bridged USD Coin",
         "symbol": "USDC",
         "decimals": 6,
         "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
@@ -1385,7 +1385,7 @@
     },
     {
         "chainId": 1101,
-        "name": "Dai (legacy)",
+        "name": "Legacy Bridged DAI",
         "symbol": "DAI.e",
         "decimals": 18,
         "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
