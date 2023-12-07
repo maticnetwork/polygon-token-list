@@ -63829,5 +63829,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x0ebd629e1b900d2a71ea5933785e9efba41e4fa7"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "VANRY",
+        "symbol": "VANRY",
+        "decimals": 18,
+        "address": "0x03668c32744c35b6981345e68ed5d4873cf1d3ae",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x03668c32744c35b6981345e68ed5d4873cf1d3ae"
+        }
     }
 ]
