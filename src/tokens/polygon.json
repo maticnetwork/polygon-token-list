@@ -63846,5 +63846,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x03668c32744c35b6981345e68ed5d4873cf1d3ae"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "TrustSwap Token",
+        "symbol": "SWAP",
+        "decimals": 18,
+        "address": "0x0d094ab5d3cd9eefa3cc929a8eadfa8d881fb84e",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x0d094ab5d3cd9eefa3cc929a8eadfa8d881fb84e"
+        }
     }
 ]
