@@ -36496,5 +36496,21 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc3d0686eff428b2e4f853d85214eb65b17bcdc78"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "DOSE",
+        "symbol": "DOSE",
+        "decimals": "18",
+        "address": "0x95026af792ee89dc75b1e986ec2044bcf9a40ffc",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x23be1b1802335fd8b0acf537b8d315d34c090943",
+            "rootTunnelAddress": "0x01fbd236d1b1620185c28cb86986fb62af0dc2fb"
+        }
     }
 ]
