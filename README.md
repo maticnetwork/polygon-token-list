@@ -6,9 +6,9 @@ This repo contains lists of tokens mapped to the Polygon chains that may be used
 
 The JSON schema for the tokens includes: chainId, name, address, decimals, symbol, logoURI (optional), tags (optional), and custom extensions metadata.
 
-1. [Mapped Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygon.tokenlist.json) Contains tokens that are mapped to Polygon PoS. Anyone can propose updates to this list.
+1. [Mapped Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygon.tokenlist.json) Contains tokens that are mapped to Polygon PoS and Polygon zkEVM. Anyone can propose updates to this list.
 
-2. [Popular Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonPopular.tokenlist.json) Contains the top 100 most used tokens on the Polygon networks.
+2. [Popular Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonPopular.tokenlist.json) Contains the top 100 most used tokens on the Polygon chains.
 
 3. [Testnet Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonTestnet.tokenlist.json) contains the tokens mapped on the Mumbai chain.
 
