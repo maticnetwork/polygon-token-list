@@ -63863,5 +63863,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x0d094ab5d3cd9eefa3cc929a8eadfa8d881fb84e"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "MATADOR",
+        "symbol": "MAT",
+        "decimals": 18,
+        "address": "0xc87c8a36e3620e0af62edaf1e5cd0a20f47d76ef",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x12bf1cf70a644926f1209a8867f876acf6cae3ee",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc87c8a36e3620e0af62edaf1e5cd0a20f47d76ef"
+        }
     }
 ]
