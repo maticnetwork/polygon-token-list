@@ -63880,5 +63880,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc87c8a36e3620e0af62edaf1e5cd0a20f47d76ef"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Spring Token",
+        "symbol": "SPRING",
+        "decimals": 18,
+        "address": "0x6df23b576bc552ff0a02c44946c9b95161e0e25d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xf04af3f4e4929f7cd25a751e6149a3318373d4fe",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x6df23b576bc552ff0a02c44946c9b95161e0e25d"
+        }
     }
 ]
