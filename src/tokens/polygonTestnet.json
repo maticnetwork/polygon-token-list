@@ -36512,5 +36512,22 @@
             "originTokenAddress": "0x23be1b1802335fd8b0acf537b8d315d34c090943",
             "rootTunnelAddress": "0x01fbd236d1b1620185c28cb86986fb62af0dc2fb"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "WhiteSwap",
+        "symbol": "WSD_GOV",
+        "decimals": 18,
+        "address": "0x1eb60fa01a77bbdd8cd779d25aaeca2a999bb3fa",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1eb60fa01a77bbdd8cd779d25aaeca2a999bb3fa",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x24fbee9e1307479c793aa2adb91c7fc330511cf7"
+        }
     }
 ]
