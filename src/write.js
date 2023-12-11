@@ -40,6 +40,18 @@ fs.writeFile(
     }
 );
 
+// Aggregated Testnet Popular List
+fs.writeFile(
+    "build/tokenlists/polygonTestnetPopular.tokenlist.json",
+    JSON.stringify(tokenlists.allPolygonTestnetPopularTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("polygonTestnetPopular.tokenlist.json successfully built");
+    }
+);
+
 // All Tokens Tokenlist
 fs.writeFile(
     "build/tokenlists/allTokens.tokenlist.json",

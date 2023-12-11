@@ -1,12 +1,12 @@
 {
-    "name": "Mapped Testnet",
+    "name": "Testnet Popular",
     "version": {
         "major": 1,
         "minor": 0,
         "patch": 0
     },
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-    "keywords": ["polygon", "testnet", "tokens", "mumbai", "blueberry"],
+    "keywords": ["polygon", "default", "tokens", "PoS", "zkEVM"],
     "tags": {
         "stablecoin": {
             "name": "Stablecoin",
@@ -59,6 +59,10 @@
         "customZkevmBridge": {
             "name": "Custom Zkevm Bridge",
             "description": "Tokens that are bridged using zkEVM messaging layer"
+        },
+        "legacy": {
+            "name": "Legacy Token",
+            "description": "Tokens that are legacy"
         }
     }
 }
