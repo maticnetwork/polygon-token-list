@@ -63914,5 +63914,65 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc5afc756054723d65d8362447fd6df1c08c2cd17"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Frankencoin",
+        "symbol": "ZCHF",
+        "decimals": "18",
+        "address": "0x02567e4b14b25549331fcee2b56c647a8bab16fd",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xb58e61c3098d85632df34eecfb899a1ed80921cb"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Qrolli",
+        "symbol": "QR",
+        "decimals": "9",
+        "address": "0x35128c6d835a00f2fdee970119bce22597eba999",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xccdb064a41afcd432bcea6f6d0d1e7c371d0b002"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Web3",
+        "symbol": "WEB3",
+        "decimals": "18",
+        "address": "0xc4ea087fc2cb3a1d9ff86c676f03abe4f3ee906f",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x8f0d5660929ca6ac394c5c41f59497629b1dbc23"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "ProperT",
+        "symbol": "PROPT",
+        "decimals": "18",
+        "address": "0x909ead1ce86d30056d654cbfb955440456def01a",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xd58b9ae085f725ba97b8c30c0d0aec0eca47146b"
+        }
     }
 ]
