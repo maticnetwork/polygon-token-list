@@ -63897,5 +63897,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6df23b576bc552ff0a02c44946c9b95161e0e25d"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Cobak Token",
+        "symbol": "CBK",
+        "decimals": 18,
+        "address": "0xc5afc756054723d65d8362447fd6df1c08c2cd17",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd85a6ae55a7f33b0ee113c234d2ee308edeaf7fd",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc5afc756054723d65d8362447fd6df1c08c2cd17"
+        }
     }
 ]
