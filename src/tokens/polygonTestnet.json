@@ -36529,5 +36529,20 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x24fbee9e1307479c793aa2adb91c7fc330511cf7"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "TestTokenOptimism",
+        "symbol": "MTK",
+        "decimals": "18",
+        "address": "0x0ce80cffaa9f727ac3c3fa3f0ddca0bc6b4d75da",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xbab899dbe6cdc2aeeb88486082e1646c8410a95c"
+        }
     }
 ]
