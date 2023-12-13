@@ -20807,5 +20807,23 @@
                 "website": "https://keyfi.com/"
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "PEE DIDDY",
+        "symbol": "PEE",
+        "decimals": 18,
+        "address": "0xe3EEbd2cF01AC56ec0629849E73aFa0216784E7b",
+        "logoURI": "https://imgbox.com/wYl4QzCk",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000",
+            "project": {
+                "name": "PEE",
+                "summary": "A coin about your bad boy diddy. Uncover what diddy's been hiding in his ass and closet all these years.",
+                "contact": "Peediddy.x@ud.me",
+                "website": "https://www.PEEDIDDY.X/"
+            }
+        }
     }
 ]
