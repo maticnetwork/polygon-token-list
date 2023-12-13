@@ -63974,5 +63974,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0xd58b9ae085f725ba97b8c30c0d0aec0eca47146b"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "BetSwirl v2",
+        "symbol": "BETS",
+        "decimals": 18,
+        "address": "0xb020b584628cc5a1b4312a688edf5fc2aafc5cd6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb020b584628cc5a1b4312a688edf5fc2aafc5cd6"
+        }
     }
 ]
