@@ -1,22 +1,18 @@
-# polygon-token-list
+# Tokenlists
 
-This repo contains the token lists to be used in Polygon products' interfaces.
+This repo contains lists of tokens mapped to the Polygon chains that may be used in certain interfaces.
 
 ## Different Token Lists in JSON
 
 The JSON schema for the tokens includes: chainId, name, address, decimals, symbol, logoURI (optional), tags (optional), and custom extensions metadata.
 
-There are two token lists that we are maintaining currently on mainet and another one on testnet:
+1. [Mapped Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygon.tokenlist.json) Contains tokens that are mapped to Polygon PoS and Polygon zkEVM. Anyone can propose updates to this list.
 
-1. [Polygon Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygon.tokenlist.json) contains all the valid tokens that are mapped on the Polygon PoS chain. The community can raise token addition and updation issues to help us keep the token list up-to-date.
-
-2. [Popular Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonPopular.tokenlist.json) is a subset of the allTokens list. It contains the mostly used tokens on Polygon products.
+2. [Popular Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonPopular.tokenlist.json) Contains the top 100 most used tokens on the Polygon chains.
 
 3. [Testnet Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonTestnet.tokenlist.json) contains the tokens mapped on the Mumbai chain.
 
-Apart from these 3 token list there is one blacklisted token list:
-
-1. [Blacklist Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/blacklist.tokenlist.json) contains all the blacklisted tokens which should be filtered out from the UI.
+4. [Blacklist Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/blacklist.tokenlist.json) Contains tokens that have been flagged for issues.
 
 ## Adding or Updating a token
 

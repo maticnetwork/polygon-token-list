@@ -1,5 +1,5 @@
 {
-    "name": "Polygon popular",
+    "name": "Popular Tokens",
     "version": {
         "major": 1,
         "minor": 0,
@@ -59,6 +59,10 @@
         "customZkevmBridge": {
             "name": "Custom Zkevm Bridge",
             "description": "Tokens that are bridged using zkEVM messaging layer"
+        },
+        "legacy": {
+            "name": "Legacy Token",
+            "description": "Tokens that are legacy"
         }
     }
 }
