@@ -63991,5 +63991,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb020b584628cc5a1b4312a688edf5fc2aafc5cd6"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "MOONEY",
+        "symbol": "MOONEY",
+        "decimals": 18,
+        "address": "0x1538fd507a3c498216181af67ac9cbf8f463628a",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x20d4db1946859e2adb0e5acc2eac58047ad41395",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1538fd507a3c498216181af67ac9cbf8f463628a"
+        }
     }
 ]
