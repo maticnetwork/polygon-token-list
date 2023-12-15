@@ -20790,5 +20790,59 @@
                 "website": ""
             }
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Autonolas",
+        "symbol": "OLAS",
+        "decimals": 18,
+        "address": "0xFEF5d947472e72Efbb2E388c730B7428406F2F95",
+        "logoURI": "https://olas.network/images/olas-token-logo.svg",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+            "project": {
+                "name": "Olas",
+                "summary": "Crypto's Ocean of Services: The unified network for off-chain services, e.g. automation, relayers and co-owned AI. Coordinated by OLAS, powered by autonomous agents.",
+                "contact": "info@valory.xyz",
+                "website": "https://olas.network"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "KeyFi",
+        "symbol": "KEYFI",
+        "decimals": 18,
+        "address": "0x96fC3568D36b236121Ef3dd3EDEb31CA8d08bfb0",
+        "logoURI": "https://keyfi.com/Blue-only-logo.svg",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0xb8647e90c0645152fccf4d9abb6b59eb4aa99052",
+            "project": {
+                "name": "KeyFi",
+                "summary": "KeyFi is an app-based platform for managing decentralized finance (DeFi).",
+                "contact": "vincent@keyfi.com",
+                "website": "https://keyfi.com/"
+            }
+        }
+    },
+    {
+      "chainId": 137,
+      "name": "Tetu bridge token",
+      "symbol": "fxTETU",
+      "decimals": 18,
+      "address": "0xe74b3e6232e6b02ece8ede707a3a32ae3525b44f",
+      "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/5eacc48da808b5fc4e3b1257a73693a9ab1d2bfd/token_icons/flat_icon.svg",
+      "tags": ["erc20", "fx"],
+      "extensions": {
+        "rootAddress": "0x0f72964fa4b766521d84107991e837c30d0ef2b1",
+        "project": {
+          "name": "Tetu bridge token",
+          "summary": "fxTETU is an immutable 1:1 convertable version of TETU token for bridge TETU to Ethereum.",
+          "contact": "admin@tetu.io",
+          "website": "https://tetu.io/"
+        }
+      }
     }
 ]
