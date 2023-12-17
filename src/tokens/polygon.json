@@ -64008,5 +64008,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x1538fd507a3c498216181af67ac9cbf8f463628a"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "PAR Stablecoin",
+        "symbol": "PAR",
+        "decimals": 18,
+        "address": "0x2b77f533c4999d6622d18a7d0f3a59252224e5f7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x2b77f533c4999d6622d18a7d0f3a59252224e5f7"
+        }
     }
 ]
