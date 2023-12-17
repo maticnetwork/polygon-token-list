@@ -64025,5 +64025,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x2b77f533c4999d6622d18a7d0f3a59252224e5f7"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "ZEN Exchange Token",
+        "symbol": "ZCX",
+        "decimals": 18,
+        "address": "0x206ba9bfa58b397225c7909a51b7509909569c2e",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x206ba9bfa58b397225c7909a51b7509909569c2e"
+        }
     }
 ]
