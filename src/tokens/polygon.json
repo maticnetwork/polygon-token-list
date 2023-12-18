@@ -64042,5 +64042,20 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x206ba9bfa58b397225c7909a51b7509909569c2e"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Salad",
+        "symbol": "SALD",
+        "decimals": "18",
+        "address": "0x6a34a7284b13ba70a6135be9738da35c5ef22f78",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x5582a479f0c403e207d2578963ccef5d03ba636f"
+        }
     }
 ]
