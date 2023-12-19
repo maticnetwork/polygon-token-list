@@ -64139,5 +64139,22 @@
             "originTokenAddress": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
             "rootTunnelAddress": "0x7bce6d4a2c540f722b40496e8638d97057405ca2"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Dyson Sphere",
+        "symbol": "DYSN",
+        "decimals": 18,
+        "address": "0x9cbd81b43ba263ca894178366cfb89a246d1159c",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x9cbd81b43ba263ca894178366cfb89a246d1159c",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0x00caafc7d2c82c4a05504e116327bd398e19985c"
+        }
     }
 ]
