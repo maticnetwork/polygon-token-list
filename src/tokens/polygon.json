@@ -64090,5 +64090,22 @@
             "originTokenAddress": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
             "rootTunnelAddress": "0x2551eb0808b7b62c9f3e04af834070b9a9803805"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Neighbourhoods Token",
+        "symbol": "NHT",
+        "decimals": 18,
+        "address": "0x3895fcbaaf3c584304c8578285d128360d1d42b2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x84342e932797fc62814189f01f0fb05f52519708",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x3895fcbaaf3c584304c8578285d128360d1d42b2"
+        }
     }
 ]
