@@ -64123,5 +64123,21 @@
             "originTokenAddress": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
             "rootTunnelAddress": "0xb3aa793f496c0d94010874a33705bb798af70965"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "WhiteSwap",
+        "symbol": "WSD",
+        "decimals": "18",
+        "address": "0xd7656a2e7ad3f3ddeb1857133ea12a5ae22a3a82",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
+            "rootTunnelAddress": "0x7bce6d4a2c540f722b40496e8638d97057405ca2"
+        }
     }
 ]
