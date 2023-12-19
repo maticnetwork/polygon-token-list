@@ -64156,5 +64156,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0x00caafc7d2c82c4a05504e116327bd398e19985c"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "KuCoin Token",
+        "symbol": "KCS",
+        "decimals": 6,
+        "address": "0xad209c28352d3b7e3190170f2658f9afaaeb482d",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xad209c28352d3b7e3190170f2658f9afaaeb482d"
+        }
     }
 ]
