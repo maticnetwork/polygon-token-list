@@ -64173,5 +64173,35 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xad209c28352d3b7e3190170f2658f9afaaeb482d"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Bag",
+        "symbol": "BAG",
+        "decimals": "18",
+        "address": "0x36b5cbe0ca55127d156c9f364c9b0d0a523dde9a",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x735e4886dbaffd3bdbef2d00f70268de5556f6b1"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "TRADE MASTER",
+        "symbol": "TRDM",
+        "decimals": "18",
+        "address": "0x13f76eab3ec634c5479cbb0fb705e867b3e469de",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xc8dfb57d83bf561457b1a3f6ce22956bb554bcab"
+        }
     }
 ]
