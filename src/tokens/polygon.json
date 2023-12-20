@@ -64203,5 +64203,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0xc8dfb57d83bf561457b1a3f6ce22956bb554bcab"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "KNN Token",
+        "symbol": "KNN",
+        "decimals": 18,
+        "address": "0xed6ec63472dd116f73e95cc66b778b77ecb31dbd",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x19b67be378a5a66c641d15aeb46f2e94974a8a61",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xed6ec63472dd116f73e95cc66b778b77ecb31dbd"
+        }
     }
 ]
