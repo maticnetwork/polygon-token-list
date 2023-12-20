@@ -36559,5 +36559,20 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0xafd07fab547632d574b38a72edae93fa23d1e7d7"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "THXC V1",
+        "symbol": "THXCV1",
+        "decimals": "18",
+        "address": "0x4a6ab2b5a7c5bb07a1b10b26e9f4a53d25e5e350",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x6970852942517f40aa98867de9b3d61d830efe1c"
+        }
     }
 ]
