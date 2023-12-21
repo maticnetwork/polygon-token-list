@@ -36574,5 +36574,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x6970852942517f40aa98867de9b3d61d830efe1c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Thunder Token",
+        "symbol": "TDO",
+        "decimals": 18,
+        "address": "0x80e040bd08aa16f1f241e1d54ca7b4dcc0af5766",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x624f1586ca6be7e025df3fb9775a4c8d8a611df9",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x80e040bd08aa16f1f241e1d54ca7b4dcc0af5766"
+        }
     }
 ]
