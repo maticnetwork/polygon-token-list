@@ -36606,5 +36606,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x1e6eb7c98efe8c3e33a0030c7b93bb2ad37ecb24"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Test Aladdin2",
+        "symbol": "TestAladdin2",
+        "decimals": 18,
+        "address": "0xc1160a0da186ac17f599e400a96256a65237d8f5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc21535c6882e419d76ee6cbefb61f217119e5f08",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc1160a0da186ac17f599e400a96256a65237d8f5"
+        }
     }
 ]
