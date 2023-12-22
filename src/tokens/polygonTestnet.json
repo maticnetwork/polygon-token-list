@@ -36591,5 +36591,20 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x80e040bd08aa16f1f241e1d54ca7b4dcc0af5766"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Astro Cafe",
+        "symbol": "ASTRO",
+        "decimals": "18",
+        "address": "0xa342a3d88727d41bee5c8fb1dad4af106ff9601d",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x1e6eb7c98efe8c3e33a0030c7b93bb2ad37ecb24"
+        }
     }
 ]
