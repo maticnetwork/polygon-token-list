@@ -36623,5 +36623,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc1160a0da186ac17f599e400a96256a65237d8f5"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Axie",
+        "symbol": "AXS",
+        "decimals": 2,
+        "address": "0xf02cfbb27121fa432365858e0c9ef00a14bab6c7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x97f9fdf7647d362a7e00a6b322eec3a4af93fcb7",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf02cfbb27121fa432365858e0c9ef00a14bab6c7"
+        }
     }
 ]
