@@ -64237,5 +64237,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x149d202f71f722a8f00d9aecab34323caad6cff7"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Hakka Finance",
+        "symbol": "HAKKA",
+        "decimals": 18,
+        "address": "0x167c9cc93e236ae69360b118c16fa36ce238139a",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x167c9cc93e236ae69360b118c16fa36ce238139a"
+        }
     }
 ]
