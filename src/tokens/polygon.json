@@ -64220,5 +64220,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xed6ec63472dd116f73e95cc66b778b77ecb31dbd"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Verse",
+        "symbol": "VERSE",
+        "decimals": 18,
+        "address": "0x149d202f71f722a8f00d9aecab34323caad6cff7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x249ca82617ec3dfb2589c4c17ab7ec9765350a18",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x149d202f71f722a8f00d9aecab34323caad6cff7"
+        }
     }
 ]
