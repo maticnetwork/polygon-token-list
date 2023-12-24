@@ -64271,5 +64271,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x4621bda4f29fd643220461cb4b7e99d249b9131f"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Virtuswap Token",
+        "symbol": "VRSW",
+        "decimals": 18,
+        "address": "0xfc7b172e5d0aabcca283dfab4cc09c4a69bd06c1",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x99a01a4d6a4d621094983050d9a2f10b2912e53d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xfc7b172e5d0aabcca283dfab4cc09c4a69bd06c1"
+        }
     }
 ]
