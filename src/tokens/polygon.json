@@ -64254,5 +64254,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x167c9cc93e236ae69360b118c16fa36ce238139a"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "NETVRK",
+        "symbol": "NTVRK",
+        "decimals": 18,
+        "address": "0x4621bda4f29fd643220461cb4b7e99d249b9131f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xfc0d6cf33e38bce7ca7d89c0e292274031b7157a",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4621bda4f29fd643220461cb4b7e99d249b9131f"
+        }
     }
 ]
