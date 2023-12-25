@@ -64288,5 +64288,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xfc7b172e5d0aabcca283dfab4cc09c4a69bd06c1"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Gelato Network Token",
+        "symbol": "GEL",
+        "decimals": 18,
+        "address": "0x90174a65a0f952a08e9de616c9f3627ca92275be",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x90174a65a0f952a08e9de616c9f3627ca92275be"
+        }
     }
 ]
