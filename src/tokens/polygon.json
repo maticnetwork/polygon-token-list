@@ -64305,5 +64305,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x90174a65a0f952a08e9de616c9f3627ca92275be"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "SelfKey",
+        "symbol": "KEY",
+        "decimals": 18,
+        "address": "0xac02812aad000e44047493705266dae21ed9e272",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xac02812aad000e44047493705266dae21ed9e272"
+        }
     }
 ]
