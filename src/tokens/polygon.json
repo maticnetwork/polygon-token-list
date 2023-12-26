@@ -64322,5 +64322,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xac02812aad000e44047493705266dae21ed9e272"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "GET",
+        "symbol": "GET",
+        "decimals": 18,
+        "address": "0x1cc9d1812903a17e43cfced261cf5bf089fe669b",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1cc9d1812903a17e43cfced261cf5bf089fe669b"
+        }
     }
 ]
