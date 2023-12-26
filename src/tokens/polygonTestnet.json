@@ -36640,5 +36640,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf02cfbb27121fa432365858e0c9ef00a14bab6c7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "rihno",
+        "symbol": "Rihno",
+        "decimals": 18,
+        "address": "0x39d856956ee8153546341b99e00b711c9678fb0a",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xb7347c4c56c80ffec382733687cc246260428a4d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x39d856956ee8153546341b99e00b711c9678fb0a"
+        }
     }
 ]
