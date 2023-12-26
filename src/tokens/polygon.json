@@ -64356,5 +64356,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x1eb829bec99700147a1eca172648e65033e54a51"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "IQ Protocol Token",
+        "symbol": "IQT",
+        "decimals": 18,
+        "address": "0xf2a6cf689527c48f5e94c8490fb64b8e29027ffa",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x6dda263994aab33f5ed612294e26f2a13df0da05",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf2a6cf689527c48f5e94c8490fb64b8e29027ffa"
+        }
     }
 ]
