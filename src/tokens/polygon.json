@@ -64373,5 +64373,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf2a6cf689527c48f5e94c8490fb64b8e29027ffa"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "POPKON",
+        "symbol": "POPK",
+        "decimals": 18,
+        "address": "0xb14eb8fef1b315e8895be27d0ac926812bb43ff5",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xac12e8f6b0c17d7b736a800920b336d764b59973",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb14eb8fef1b315e8895be27d0ac926812bb43ff5"
+        }
     }
 ]
