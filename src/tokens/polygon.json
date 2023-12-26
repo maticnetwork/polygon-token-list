@@ -64339,5 +64339,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x1cc9d1812903a17e43cfced261cf5bf089fe669b"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "PotCoin.com POT",
+        "symbol": "POT",
+        "decimals": 18,
+        "address": "0x1eb829bec99700147a1eca172648e65033e54a51",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x390603f023a33c76e3a4bf7b6cc9fba5e87dd05d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x1eb829bec99700147a1eca172648e65033e54a51"
+        }
     }
 ]
