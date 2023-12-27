@@ -36672,5 +36672,20 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x46853169cf8988bf685d200cc6d0807bad729d76"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": "6",
+        "address": "0xd6987e674d86e219625fdf0b39532483e51fe1e9",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xa3fe5bca86ca3c85affd40007d2db8416f8daf4c"
+        }
     }
 ]
