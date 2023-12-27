@@ -64407,5 +64407,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x8550cfdbb0eee2a1eab9264164da57f26ecee6d7"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "MUBI",
+        "symbol": "MUBI",
+        "decimals": 18,
+        "address": "0x6d959a699f1a0cc6ac8c8a6df33e92d14071fc83",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x6d959a699f1a0cc6ac8c8a6df33e92d14071fc83"
+        }
     }
 ]
