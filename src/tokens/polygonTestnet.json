@@ -36657,5 +36657,20 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x39d856956ee8153546341b99e00b711c9678fb0a"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "bitsCrunch Tokens",
+        "symbol": "BCUT",
+        "decimals": "18",
+        "address": "0xac05696a96fbf947200876abb8e71b9e18ef3d6a",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x46853169cf8988bf685d200cc6d0807bad729d76"
+        }
     }
 ]
