@@ -64390,5 +64390,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb14eb8fef1b315e8895be27d0ac926812bb43ff5"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "DEGEN",
+        "symbol": "DGEN",
+        "decimals": 18,
+        "address": "0x8550cfdbb0eee2a1eab9264164da57f26ecee6d7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x45f93404ae1e4f0411a7f42bc6a5dc395792738d",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x8550cfdbb0eee2a1eab9264164da57f26ecee6d7"
+        }
     }
 ]
