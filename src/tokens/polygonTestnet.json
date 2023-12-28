@@ -36704,5 +36704,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x35ecce04e1a47f8ae5fd15b036af8e1f1fef9e53"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Maverick",
+        "symbol": "MAV",
+        "decimals": 18,
+        "address": "0xba005ebda02b5b6754a85079acd69e2e25d338db",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x8da04634564355b56dd8fa8a03b27f34d4cf8ebd",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xba005ebda02b5b6754a85079acd69e2e25d338db"
+        }
     }
 ]
