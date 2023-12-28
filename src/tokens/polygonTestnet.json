@@ -36687,5 +36687,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0xa3fe5bca86ca3c85affd40007d2db8416f8daf4c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "LIFE Test Token",
+        "symbol": "LLUX",
+        "decimals": 8,
+        "address": "0x35ecce04e1a47f8ae5fd15b036af8e1f1fef9e53",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa557ca7b5e62922b92a1dc037c233a240ba8a2f7",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x35ecce04e1a47f8ae5fd15b036af8e1f1fef9e53"
+        }
     }
 ]
