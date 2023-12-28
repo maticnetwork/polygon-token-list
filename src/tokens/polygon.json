@@ -64441,5 +64441,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x4dd0985ab290c50a5e865758b3b3d1e414a71864"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "RealityMetaverse",
+        "symbol": "RMV",
+        "decimals": 18,
+        "address": "0xd50ad76a3a8edb7de35a1f12e201c304429975b1",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x423352f2c6e0e72422b69af03aba259310146d90",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xd50ad76a3a8edb7de35a1f12e201c304429975b1"
+        }
     }
 ]
