@@ -20825,5 +20825,23 @@
           "website": "https://tetu.io/"
         }
       }
-    }
+    },
+    {
+        "chainId": 137,
+        "name": "Salad Token",
+        "symbol": "SALD",
+        "decimals": 18,
+        "address": "0x6A34A7284B13bA70A6135bE9738Da35C5eF22f78",
+        "logoURI": "https://drive.google.com/file/d/1d6pBRFjXO6FTD7nifknR_4ieSp4ciR93/view?usp=sharing",
+        "tags": ["erc20", "pos"],
+        "extensions": {
+          "rootAddress": "0x5582a479f0c403E207D2578963CceF5D03BA636f",
+          "project": {
+            "name": "Salad Ventures",
+            "summary": "Salad Ventures, headquartered in Singapore, is a X-2-Earn ecosystem project that uses innovative growth strategies and blockchain technology to help Web 3 projects scale. By incentivising activity on our platforms and partnering with other projects, we provide equal earning opportunities for our community members and promote growth for our ecosystem partners.",
+            "contact": "fs@salad.ventures",
+            "website": "https://salad.ventures"
+          }
+        }
+      }
 ]
