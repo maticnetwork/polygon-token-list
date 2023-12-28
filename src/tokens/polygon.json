@@ -64424,5 +64424,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6d959a699f1a0cc6ac8c8a6df33e92d14071fc83"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Human Token",
+        "symbol": "HMT",
+        "decimals": 18,
+        "address": "0x4dd0985ab290c50a5e865758b3b3d1e414a71864",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xd1ba9bac957322d6e8c07a160a3a8da11a0d2867",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x4dd0985ab290c50a5e865758b3b3d1e414a71864"
+        }
     }
 ]
