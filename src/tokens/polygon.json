@@ -64475,5 +64475,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x72729b70c77c4629ded7559e2336eb05b7376cb9"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Astrafer",
+        "symbol": "ASTRAFER",
+        "decimals": 18,
+        "address": "0x91eba9dd8dfde0e2681d48122d6c7a122d0eeb0e",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x97bbbc5d96875fb78d2f14b7ff8d7a3a74106f17",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x91eba9dd8dfde0e2681d48122d6c7a122d0eeb0e"
+        }
     }
 ]
