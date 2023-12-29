@@ -36818,5 +36818,21 @@
             "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
             "rootTunnelAddress": "0x1c94369452d855b20c1966293dca9c7dca648965"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Test VAB",
+        "symbol": "VAB",
+        "decimals": "18",
+        "address": "0xbd0a3e694e20d7b31f63b44a1e6870f189c1c860",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
+            "rootTunnelAddress": "0x31732f65355713a0c43611e23751e3be86da2b66"
+        }
     }
 ]
