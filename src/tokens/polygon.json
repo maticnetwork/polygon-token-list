@@ -64458,5 +64458,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xd50ad76a3a8edb7de35a1f12e201c304429975b1"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "AXION",
+        "symbol": "AXN",
+        "decimals": 18,
+        "address": "0x72729b70c77c4629ded7559e2336eb05b7376cb9",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xda4c5aea122260e70616e979592735f12fe20499",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x72729b70c77c4629ded7559e2336eb05b7376cb9"
+        }
     }
 ]
