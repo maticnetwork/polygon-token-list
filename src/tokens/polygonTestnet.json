@@ -36754,5 +36754,21 @@
             "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
             "rootTunnelAddress": "0xed4ce32327201a08b6f421fd029664103a8c5a67"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "TestUSDT",
+        "symbol": "TUSDT",
+        "decimals": "6",
+        "address": "0xe99aa1ac92cef25051d1238705057c94fffe2bf7",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x0239523c6ed5614fbd16020423097d6073a06c85",
+            "rootTunnelAddress": "0xed4ce32327201a08b6f421fd029664103a8c5a67"
+        }
     }
 ]
