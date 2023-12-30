@@ -64492,5 +64492,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x91eba9dd8dfde0e2681d48122d6c7a122d0eeb0e"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "decimals": 18,
+        "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xd4bee4bec9306994afeb6ec8d9484dcb5ad71bdd"
+        }
     }
 ]
