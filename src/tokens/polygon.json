@@ -64509,5 +64509,22 @@
             "wrappedTokenNetwork": 0,
             "wrappedTokenAddress": "0xd4bee4bec9306994afeb6ec8d9484dcb5ad71bdd"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Numeraire",
+        "symbol": "NMR",
+        "decimals": 18,
+        "address": "0x2ac0c37ce7307dfc96e9901e88509d7fe6542aa2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x2ac0c37ce7307dfc96e9901e88509d7fe6542aa2"
+        }
     }
 ]
