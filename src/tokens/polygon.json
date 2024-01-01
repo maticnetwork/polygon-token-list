@@ -64526,5 +64526,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x2ac0c37ce7307dfc96e9901e88509d7fe6542aa2"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "BANX",
+        "symbol": "BANX",
+        "decimals": 18,
+        "address": "0xbd783651b7ddd1b2eb66b6b9b05b39a5e28966ad",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x0e2e120f5e18f2d0a1afd0fab02b09aa37a17f7e",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xbd783651b7ddd1b2eb66b6b9b05b39a5e28966ad"
+        }
     }
 ]
