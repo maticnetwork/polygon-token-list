@@ -64543,5 +64543,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xbd783651b7ddd1b2eb66b6b9b05b39a5e28966ad"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Quickswap",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "address": "0xf44919cfad626313ccc6d034caaaa8d61c5dbab6",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf44919cfad626313ccc6d034caaaa8d61c5dbab6"
+        }
     }
 ]
