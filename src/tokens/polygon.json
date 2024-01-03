@@ -64577,5 +64577,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6e867277ad6720749b717b674646d787ff49445f"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Deri",
+        "symbol": "DERI",
+        "decimals": 18,
+        "address": "0x360ce6eecdf98e3851531051907e6a809bf6e236",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x360ce6eecdf98e3851531051907e6a809bf6e236"
+        }
     }
 ]
