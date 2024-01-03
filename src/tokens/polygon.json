@@ -64594,5 +64594,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x360ce6eecdf98e3851531051907e6a809bf6e236"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Melon Token",
+        "symbol": "MLN",
+        "decimals": 18,
+        "address": "0xc63cd13f61a3b0c7527b60654a860f39c24cad33",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xc63cd13f61a3b0c7527b60654a860f39c24cad33"
+        }
     }
 ]
