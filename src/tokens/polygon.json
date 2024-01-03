@@ -64560,5 +64560,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf44919cfad626313ccc6d034caaaa8d61c5dbab6"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "CLP Coin",
+        "symbol": "CLPC",
+        "decimals": 0,
+        "address": "0x6e867277ad6720749b717b674646d787ff49445f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x07a24ca74a7592c16827d186b802e004cec33bb3",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x6e867277ad6720749b717b674646d787ff49445f"
+        }
     }
 ]
