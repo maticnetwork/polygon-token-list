@@ -36961,5 +36961,20 @@
             "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
             "rootTunnelAddress": "0x076a45b7a5e885880da25fe0426fb9fe851bad54"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": "18",
+        "address": "0xf9a4bbaa7fa1dd2352f1a47d6d3fcff259a6d05f",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x4942bbaf745f235e525baff49d31450810eded5b"
+        }
     }
 ]
