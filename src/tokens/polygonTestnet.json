@@ -36898,5 +36898,20 @@
             "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
             "rootTunnelAddress": "0xff408f17800d0cad044cd9f9af330c549113c161"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Liquid staked Ether 2.0",
+        "symbol": "stETH",
+        "decimals": "18",
+        "address": "0x66dc07faaa7e866a13151b29fe619da04af59492",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x2dd6530f136d2b56330792d46af959d9ea62e276"
+        }
     }
 ]
