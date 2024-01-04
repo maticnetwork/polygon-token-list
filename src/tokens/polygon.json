@@ -64611,5 +64611,20 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xc63cd13f61a3b0c7527b60654a860f39c24cad33"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "WEBILITY",
+        "symbol": "WEBI",
+        "decimals": "18",
+        "address": "0x2aa69c03d7843ecfed0a13e66d79f6f97ca8d9f8",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x37e43b704181c7324333991bcb42cd3f29a540e8"
+        }
     }
 ]
