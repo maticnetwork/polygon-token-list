@@ -1555,12 +1555,12 @@
     },
     {
         "chainId": 1101,
-        "name": "Wrapped liquid staked Ether 2.0",
-        "symbol": "wstETH",
+        "name": "Legacy Bridged wstETH",
+        "symbol": "wstETH.e",
         "decimals": 18,
         "address": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
         "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
-        "tags": ["lxly", "erc20"],
+        "tags": ["lxly", "erc20", "legacy"],
         "extensions": {
             "originTokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
             "originTokenNetwork": 0,
@@ -1669,6 +1669,22 @@
             "originTokenNetwork": 0,
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6"
+        }
+    },
+    {
+        "chainId": 1101,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "symbol": "wstETH",
+        "decimals": 18,
+        "address": "0xbf6De60Ccd9D22a5820A658fbE9fc87975EA204f",
+        "logoURI": "https://etherscan.io/token/images/wsteth3_32.png",
+        "tags": ["lxly", "erc20", "customZkevmBridge"],
+        "extensions": {
+            "originTokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "originChainBridgeAdapter": "0xf0CDE1E7F0FAD79771cd526b1Eb0A12F69582C01",
+            "wrapperChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1
         }
     }
 ]
