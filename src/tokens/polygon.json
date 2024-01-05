@@ -64626,5 +64626,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x37e43b704181c7324333991bcb42cd3f29a540e8"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "Conceal - Wrapped CCX ",
+        "symbol": "wCCX",
+        "decimals": 6,
+        "address": "0xb6b28f731b09a6160d187840292c7ffabae07e9c",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x21686f8ce003a95c99acd297e302faacf742f7d4",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb6b28f731b09a6160d187840292c7ffabae07e9c"
+        }
     }
 ]
