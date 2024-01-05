@@ -36992,5 +36992,22 @@
             "originTokenAddress": "0x482a493ea47903a571b20e35b770affe06600a3d",
             "rootTunnelAddress": "0x65eea0c50890cb1f52ca62afcf4f1fb8b8725bf0"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "CLETH",
+        "symbol": "CLETH",
+        "decimals": 18,
+        "address": "0xf1dc4a071d4b481a1b48a1d362dc17d082f11fe7",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xf0d494a191638d34e5b91bf92bcd9d6f3395df42",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf1dc4a071d4b481a1b48a1d362dc17d082f11fe7"
+        }
     }
 ]
