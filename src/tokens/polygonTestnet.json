@@ -37009,5 +37009,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf1dc4a071d4b481a1b48a1d362dc17d082f11fe7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "test zkevm",
+        "symbol": "zkevm",
+        "decimals": 18,
+        "address": "0x414e0f51a9224b494e28b63a8f936c128f82e1d8",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x814bff79699f7f8eb3a4a0c69b6bb9ff868d35b3",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x414e0f51a9224b494e28b63a8f936c128f82e1d8"
+        }
     }
 ]
