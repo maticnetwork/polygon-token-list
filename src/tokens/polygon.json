@@ -64643,5 +64643,21 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb6b28f731b09a6160d187840292c7ffabae07e9c"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Vabble",
+        "symbol": "VAB",
+        "decimals": "18",
+        "address": "0xea73dcf6f49f8d6ad5a129aaede776d78d418cfd",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xe7ae6d0c56cacaf007b7e4d312f9af686a9e9a04",
+            "rootTunnelAddress": "0x659c7f7f6568ddb3dee782bb8ec2123bc89d8433"
+        }
     }
 ]
