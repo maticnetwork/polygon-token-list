@@ -64659,5 +64659,35 @@
             "originTokenAddress": "0xe7ae6d0c56cacaf007b7e4d312f9af686a9e9a04",
             "rootTunnelAddress": "0x659c7f7f6568ddb3dee782bb8ec2123bc89d8433"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "VERITY",
+        "symbol": "VRTY",
+        "decimals": "12",
+        "address": "0xf359269c628024ed8e745dd8c7bcec3cb92ee628",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x87e960f996e789ca2c8415fc449e4720adbe0497"
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "bitsCrunch Token",
+        "symbol": "BCUT",
+        "decimals": "18",
+        "address": "0x3fb83a9a2c4408909c058b0bfe5b4823f54fafe2",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406"
+        }
     }
 ]
