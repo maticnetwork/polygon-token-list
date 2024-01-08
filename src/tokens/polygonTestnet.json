@@ -37026,5 +37026,20 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x414e0f51a9224b494e28b63a8f936c128f82e1d8"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": "18",
+        "address": "0x77b04b868fec653b3d4423ed0b5e459b1f948ad6",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x2fdcf442a8dfa056a200e38054ade878edb6f1e5"
+        }
     }
 ]
