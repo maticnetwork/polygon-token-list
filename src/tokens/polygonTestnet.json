@@ -37056,5 +37056,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x739b8d7167c46817b10fe38e17e915c8bbe11e3d"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "Amxx Test Token",
+        "symbol": "Amxx",
+        "decimals": 18,
+        "address": "0xb5e0c78ed5ea03f68196fe1837cd5d30572bec5f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xedeb7ca9421de0ea879f1482843a280324f31d1e",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb5e0c78ed5ea03f68196fe1837cd5d30572bec5f"
+        }
     }
 ]
