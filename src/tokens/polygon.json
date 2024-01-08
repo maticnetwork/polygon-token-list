@@ -64689,5 +64689,22 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "DecentraWeb",
+        "symbol": "DWEB",
+        "decimals": 18,
+        "address": "0x6396fd2e207db0fa459f979b4b6fce5a7b966714",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xe7f58a92476056627f9fdb92286778abd83b285f",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x6396fd2e207db0fa459f979b4b6fce5a7b966714"
+        }
     }
 ]
