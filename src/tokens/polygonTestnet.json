@@ -37073,5 +37073,21 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb5e0c78ed5ea03f68196fe1837cd5d30572bec5f"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Amxx Test Token",
+        "symbol": "Amxx",
+        "decimals": "18",
+        "address": "0x1f321e5803c0301e1709fff739f6b603fbb872f1",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xedeb7ca9421de0ea879f1482843a280324f31d1e",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
     }
 ]
