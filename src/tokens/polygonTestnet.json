@@ -37041,5 +37041,20 @@
             "originTokenNetwork": 0,
             "originTokenAddress": "0x2fdcf442a8dfa056a200e38054ade878edb6f1e5"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "BeemerToken",
+        "symbol": "BMW",
+        "decimals": "18",
+        "address": "0x4b4f37916e58da1ff17449e9ae20fda881f31f3a",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x739b8d7167c46817b10fe38e17e915c8bbe11e3d"
+        }
     }
 ]
