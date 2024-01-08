@@ -64643,5 +64643,117 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xb6b28f731b09a6160d187840292c7ffabae07e9c"
         }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Web3",
+        "symbol": "WEB3",
+        "decimals": 18,
+        "address": "0xc4ea087fc2cb3a1d9ff86c676f03abe4f3ee906f",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/WEB3-v2.png",
+        "tags": [
+            "erc20",
+            "swapable",
+            "pos"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x8F0d5660929cA6ac394c5c41f59497629b1dbc23",
+            "project": {
+                "name": "Arch",
+                "summary": "The Arch Ethereum Web3 Token is comprised of governance tokens from the major decentralized protocols. Its objective is to track the returns of the Ethereum Web3 Index (a broad market index, considered a gauge for the overall web3 ecosystem). This well-diversified asset provides market-weighted exposure to a wide selection of sectors, and its constituents represent roughly 70% of the market capitalization in the Ethereum Web3 Index.",
+                "contact": "hello@archfinance.io",
+                "website": "https://www.arch.finance/"
+            },
+            "originTokenNetwork": 0
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Blockchains",
+        "symbol": "CHAIN",
+        "decimals": 18,
+        "address": "0x70A13201Df2364B634cb5Aac8d735Db3A654b30c",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/CHAINS-v2.png",
+        "tags": [
+            "erc20",
+            "swapable",
+            "pos"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x89c53B02558E4D1c24b9Bf3beD1279871187EF0B",
+            "project": {
+                "name": "Arch",
+                "summary": "Arch Blockchains Token is comprised of native tokens (cryptocurrencies) from blockchains and smart contract platforms, including scalability (layer-2) solutions.This well-diversified asset provides square-root market capitalization weighted exposure, thus reducing the dominance of well-stablished tokens like Bitcoin or Ethereum in its allocation.",
+                "contact": "hello@archfinance.io",
+                "website": "https://www.arch.finance/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Aggressive Portfolio",
+        "symbol": "AAGG",
+        "decimals": 18,
+        "address": "0xAfb6E8331355faE99C8E8953bB4c6Dc5d11E9F3c",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/AAGG.png",
+        "tags": [
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
+        ],
+        "extensions": {
+            "originTokenNetwork": -1,
+            "project": {
+                "name": "Arch",
+                "summary": "Arch Aggressive Portfolio is designed for long-term investors that prioritize potentially higher returns over risk or volatility. The portfolio focus is on maximizing returns through higher exposure on growth-oriented assets in Web3 space.",
+                "contact": "hello@archfinance.io",
+                "website": "https://www.arch.finance/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Moderate Portfolio",
+        "symbol": "AMOD",
+        "decimals": 18,
+        "address": "0xa5a979Aa7F55798e99f91Abe815c114A09164beb",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/AMOD.png",
+        "tags": [
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
+        ],
+        "extensions": {
+            "originTokenNetwork": -1,
+            "project": {
+                "name": "Arch",
+                "summary": "Arch Moderate Portfolio is designed to provide investors with moderate exposure to the Crypto and Web3 space, seeking  for higher returns through a greater allocation to growth-oriented assets in Web3. The moderate portfolio may be a good fit for investors who are willing to participate in the innovative crypto and Web3 worlds, diversifying allocations through several potentially innovative protocols.",
+                "contact": "hello@archfinance.io",
+                "website": "https://www.arch.finance/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "Arch Balanced Portfolio",
+        "symbol": "ABAL",
+        "decimals": 18,
+        "address": "0xF401E2c1ce8F252947b60BFB92578f84217A1545",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/ABAL.png",
+        "tags": [
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
+        ],
+        "extensions": {
+            "originTokenNetwork": -1,
+            "project": {
+                "name": "Arch",
+                "summary": "Arch Balanced Portfolio is designed to provide investors with balanced exposure to USD yield-generating strategies and the Cryptocurrency and Web3 space. The balance portfolio may be a good fit for investors who are willing to participate in the innovative crypto and Web3 worlds, while concentrating its positions on the largest and more established projects.",
+                "contact": "hello@archfinance.io",
+                "website": "https://www.arch.finance/"
+            }
+        }
     }
 ]
