@@ -64706,5 +64706,22 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0x6396fd2e207db0fa459f979b4b6fce5a7b966714"
         }
+    },
+    {
+        "chainId": 1101,
+        "name": "DYAD Stable",
+        "symbol": "DYAD",
+        "decimals": 18,
+        "address": "0xf12561a7755ebee692cccec941636f14ca66fca2",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x305b58c5f6b5b6606fb13edd11fbdd5e532d5a26",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xf12561a7755ebee692cccec941636f14ca66fca2"
+        }
     }
 ]
