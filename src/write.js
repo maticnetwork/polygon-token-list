@@ -4,6 +4,30 @@ const listRegistry = require("./listRegistry.json");
 
 const tokenlists = buildList();
 
+// v2 Popular List
+fs.writeFile(
+    "build/tokenlists/popular.tokenlist.json",
+    JSON.stringify(tokenlists.v2PopularTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("popular.tokenlist.json successfully built");
+    }
+);
+
+// v2 Mapped List
+fs.writeFile(
+    "build/tokenlists/mapped.tokenlist.json",
+    JSON.stringify(tokenlists.v2MappedTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("mapped.tokenlist.json successfully built");
+    }
+);
+
 // Aggregated List
 fs.writeFile(
     "build/tokenlists/polygon.tokenlist.json",
