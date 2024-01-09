@@ -37009,5 +37009,117 @@
             "wrappedTokenNetwork": 1,
             "wrappedTokenAddress": "0xf1dc4a071d4b481a1b48a1d362dc17d082f11fe7"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "test zkevm",
+        "symbol": "zkevm",
+        "decimals": 18,
+        "address": "0x414e0f51a9224b494e28b63a8f936c128f82e1d8",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0x814bff79699f7f8eb3a4a0c69b6bb9ff868d35b3",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0x414e0f51a9224b494e28b63a8f936c128f82e1d8"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": "18",
+        "address": "0x77b04b868fec653b3d4423ed0b5e459b1f948ad6",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x2fdcf442a8dfa056a200e38054ade878edb6f1e5"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "BeemerToken",
+        "symbol": "BMW",
+        "decimals": "18",
+        "address": "0x4b4f37916e58da1ff17449e9ae20fda881f31f3a",
+        "tags": [
+            "pos",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x739b8d7167c46817b10fe38e17e915c8bbe11e3d"
+        }
+    },
+    {
+        "chainId": 1442,
+        "name": "Amxx Test Token",
+        "symbol": "Amxx",
+        "decimals": 18,
+        "address": "0xb5e0c78ed5ea03f68196fe1837cd5d30572bec5f",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xedeb7ca9421de0ea879f1482843a280324f31d1e",
+            "originTokenNetwork": 0,
+            "wrappedTokenNetwork": 1,
+            "wrappedTokenAddress": "0xb5e0c78ed5ea03f68196fe1837cd5d30572bec5f"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Amxx Test Token",
+        "symbol": "Amxx",
+        "decimals": "18",
+        "address": "0x1f321e5803c0301e1709fff739f6b603fbb872f1",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xedeb7ca9421de0ea879f1482843a280324f31d1e",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": "18",
+        "address": "0x2fce3f8e24e4d232609ad45ea085bb423030d6b4",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0x89f7a4ada3b44fa9aefa9f15a4d20db0eee6d88e",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
+    },
+    {
+        "chainId": 80001,
+        "name": "Test ERC20 Token",
+        "symbol": "TT",
+        "decimals": "18",
+        "address": "0xea1027844a36afac2371527bafb6164cd49c8e53",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xcadf565de4a4e1e0cd5ba6088c1da74a332520d4",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
     }
 ]
