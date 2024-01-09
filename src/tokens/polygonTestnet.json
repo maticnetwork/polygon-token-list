@@ -37105,5 +37105,21 @@
             "originTokenAddress": "0x89f7a4ada3b44fa9aefa9f15a4d20db0eee6d88e",
             "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
         }
+    },
+    {
+        "chainId": 80001,
+        "name": "Test ERC20 Token",
+        "symbol": "TT",
+        "decimals": "18",
+        "address": "0xea1027844a36afac2371527bafb6164cd49c8e53",
+        "tags": [
+            "fx",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenNetwork": 0,
+            "originTokenAddress": "0xcadf565de4a4e1e0cd5ba6088c1da74a332520d4",
+            "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
+        }
     }
 ]
