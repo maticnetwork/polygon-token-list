@@ -146,18 +146,6 @@ fs.writeFile(
     }
 );
 
-// Cross-Chain Tokenlist
-fs.writeFile(
-    "build/tokenlists/cross-chain.tokenlist.json",
-    JSON.stringify(tokenlists.ccTokenList, null, 2),
-    (err) => {
-        if (err) {
-            throw err;
-        }
-        console.log("cross-chain.tokenlist.json successfully built");
-    }
-);
-
 // Staging Tokenlist
 fs.writeFile(
     "build/tokenlists/staging.tokenlist.json",
