@@ -7,6 +7,8 @@ const allPolygonTokens = require("./tokens/polygon.json");
 const allPolygonTestnetTokens = require("./tokens/polygonTestnet.json");
 const allPolygonPopularTokens = require("./tokens/polygonPopular.json");
 const allPolygonTestnetPopularTokens = require("./tokens/polygonTestnetPopular.json");
+const v2PopularTokens = require("./tokens/defaultTokens.json");
+const v2MappedTokens = require("./tokens/mappedTokens.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
 const testnetTokenList = require("./metadata/testnetTokens.json");
@@ -16,20 +18,8 @@ const allPolygonTokenList = require("./metadata/polygon.json");
 const allPolygonTestnetTokenList = require("./metadata/polygonTestnet.json");
 const allPolygonPopularTokenList = require("./metadata/polygonPopular.json");
 const allPolygonTestnetPopularTokenList = require("./metadata/polygonTestnetPopular.json");
-
-// Cross-chain lists
-const ccTokenList = require("./metadata/crossChain.json");
-const ccArbitrumTokens = require("./tokens/crossChain/arbitrum.json");
-const ccAvalancheTokens = require("./tokens/crossChain/avalanche.json");
-const ccBscTokens = require("./tokens/crossChain/bsc.json");
-const ccEthereumTokens = require("./tokens/crossChain/ethereum.json");
-const ccFantomTokens = require("./tokens/crossChain/fantom.json");
-const ccFuseTokens = require("./tokens/crossChain/fuse.json");
-const ccGnosisTokens = require("./tokens/crossChain/gnosis.json");
-const ccMoonbeamTokens = require("./tokens/crossChain/moonbeam.json");
-const ccMoonriverTokens = require("./tokens/crossChain/moonriver.json");
-const ccOptimismTokens = require("./tokens/crossChain/optimism.json");
-const ccPolygonTokens = require("./tokens/crossChain/polygonPoS.json");
+const v2PopularTokenList = require("./metadata/defaultTokens.json");
+const v2MappedTokenList = require("./metadata/mappedTokens.json");
 
 // Staging list
 const stagingTokenList = JSON.parse(JSON.stringify(polygonTokensTokenList));
@@ -56,6 +46,15 @@ popularTokens.forEach((token) => {
 module.exports = function buildList() {
     const timestamp = new Date().toISOString();
 
+    Object.assign(v2PopularTokenList, {
+        timestamp,
+        tokens: v2PopularTokens,
+    }); // v2 Default List
+    Object.assign(v2MappedTokenList, {
+        timestamp,
+        tokens: v2MappedTokens,
+    }); //v2 Mapped List
+
     Object.assign(allPolygonTokenList, { timestamp, tokens: allPolygonTokens }); // Aggregated Polygon Tokens List
     Object.assign(allPolygonPopularTokenList, {
         timestamp,
@@ -77,20 +76,6 @@ module.exports = function buildList() {
     }); // zkevm popular tokenlist
     Object.assign(testnetTokenList, { timestamp, tokens: testnetTokens }); // Testnet tokenlist
     Object.assign(blacklistTokenList, { timestamp, tokens: blacklistTokens }); // blacklist tokenlist
-    Object.assign(ccTokenList, {
-        timestamp,
-        tokens: ccArbitrumTokens
-            .concat(ccAvalancheTokens)
-            .concat(ccBscTokens)
-            .concat(ccEthereumTokens)
-            .concat(ccFantomTokens)
-            .concat(ccFuseTokens)
-            .concat(ccGnosisTokens)
-            .concat(ccMoonbeamTokens)
-            .concat(ccMoonriverTokens)
-            .concat(ccOptimismTokens)
-            .concat(ccPolygonTokens),
-    }); // Crosschain tokenlist
     Object.assign(stagingTokenList, { timestamp, tokens: stagingList }); // Staging Tokenlist
 
     return {
@@ -103,7 +88,8 @@ module.exports = function buildList() {
         zkevmPopularTokenList,
         testnetTokenList,
         blacklistTokenList,
-        ccTokenList,
         stagingTokenList,
+        v2PopularTokenList,
+        v2MappedTokenList,
     };
 };
