@@ -24,7 +24,7 @@
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "stablecoin", "erc20", "customZkevmBridge"],
+                "tags": ["zkevmMessageBridge", "stablecoin", "erc20"],
                 "originChainBridgeAdapter": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
                 "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189"
             }
@@ -38,13 +38,13 @@
         "decimals": 18,
         "originTokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
         "originNetworkId": 0,
-        "tags": ["native"],
+        "tags": ["nativeToken"],
         "wrappedTokens": [
             {
                 "chainId": 137,
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
                 "wrappedNetworkId": -1,
-                "tags": ["plasma", "native", "swapable"]
+                "tags": ["plasma", "erc20", "swapable"]
             },
             {
                 "chainId": 1101,
@@ -86,13 +86,13 @@
         "decimals": 18,
         "originTokenAddress": "0x0000000000000000000000000000000000000000",
         "originNetworkId": 0,
-        "tags": ["native"],
+        "tags": ["nativeToken"],
         "wrappedTokens": [
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "native"]
+                "tags": ["lxly", "nativeToken"]
             },
             {
                 "chainId": 137,
@@ -134,7 +134,7 @@
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "stablecoin", "erc20", "customZkevmBridge"],
+                "tags": ["zkevmMessageBridge", "stablecoin", "erc20"],
                 "originChainBridgeAdapter": "0x4A27aC91c5cD3768F140ECabDe3FC2B2d92eDb98",
                 "wrappedChainBridgeAdapter": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5"
             }
