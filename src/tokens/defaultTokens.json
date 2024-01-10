@@ -1981,5 +1981,23 @@
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/ankr.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "DYAD Stable",
+        "symbol": "DYAD",
+        "decimals": 18,
+        "originTokenAddress": "0x305b58c5f6b5b6606fb13edd11fbdd5e532d5a26",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf12561a7755ebee692cccec941636f14ca66fca2",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg"
     }
 ]
