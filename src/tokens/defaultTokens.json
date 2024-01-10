@@ -81,30 +81,6 @@
     },
     {
         "chainId": 1,
-        "name": "Ether",
-        "symbol": "ETH",
-        "decimals": 18,
-        "originTokenAddress": "0x0000000000000000000000000000000000000000",
-        "originNetworkId": 0,
-        "tags": ["nativeToken"],
-        "wrappedTokens": [
-            {
-                "chainId": 1101,
-                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "wrappedNetworkId": 1,
-                "tags": ["lxly", "nativeToken"]
-            },
-            {
-                "chainId": 137,
-                "wrappedTokenAddress": "0xbcc7f67d1696fda9c66e9b2538d0b770090c3c10",
-                "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
-            }
-        ],
-        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
-    },
-    {
-        "chainId": 1,
         "name": "Dai",
         "symbol": "DAI",
         "decimals": 18,
@@ -365,13 +341,19 @@
         "decimals": 18,
         "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "originNetworkId": 0,
-        "tags": ["erc20"],
+        "tags": ["native"],
         "wrappedTokens": [
             {
                 "chainId": 137,
                 "wrappedTokenAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "native"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
