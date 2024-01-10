@@ -64717,6 +64717,7 @@
             "lxly",
             "erc20"
         ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dyad.svg",
         "extensions": {
             "originTokenAddress": "0x305b58c5f6b5b6606fb13edd11fbdd5e532d5a26",
             "originTokenNetwork": 0,
