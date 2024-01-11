@@ -341,7 +341,7 @@
         "decimals": 18,
         "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "originNetworkId": 0,
-        "tags": ["native"],
+        "tags": ["nativeToken"],
         "wrappedTokens": [
             {
                 "chainId": 137,
@@ -353,7 +353,7 @@
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "native"]
+                "tags": ["lxly", "nativeToken"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
