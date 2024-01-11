@@ -20844,5 +20844,23 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+        "chainId": 137,
+        "name": "Verified USD",
+        "symbol": "USDV",
+        "decimals": 6,
+        "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+        "logoURI": "https://usdv.money/static/features/media-kit/TokenIcon_Black.svg",
+        "tags": ["pos", "stablecoin", "erc20", "swapable", "metaTx"],
+        "extensions": {
+            "rootAddress": "0x0E573Ce2736Dd9637A0b21058352e1667925C7a8",
+            "project": {
+                "name": "Verified USD",
+                "summary": "USDV is a RWA-backed omnichain stablecoin.",
+                "contact": "support@usdv.money",
+                "website": "https://usdv.money/"
+            }
+        }
     }
 ]
