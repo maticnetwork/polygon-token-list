@@ -37137,5 +37137,22 @@
             "originTokenAddress": "0x32d94921f4e6d8a15f70668cf5ee2141cf6834bd",
             "rootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c"
         }
+    },
+    {
+        "chainId": 1442,
+        "name": "xAIcity",
+        "symbol": "EVM",
+        "decimals": 18,
+        "address": "0xc7d1ad75603793c11c2795f3ed91738d3e655f40",
+        "tags": [
+            "lxly",
+            "erc20"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc7d1ad75603793c11c2795f3ed91738d3e655f40",
+            "originTokenNetwork": 1,
+            "wrappedTokenNetwork": 0,
+            "wrappedTokenAddress": "0xc27adeb4894099c936d373571571d8c20011a3e1"
+        }
     }
 ]
