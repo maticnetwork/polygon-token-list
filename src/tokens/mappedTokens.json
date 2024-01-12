@@ -416,6 +416,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf44919cfad626313ccc6d034caaaa8d61c5dbab6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/quick.svg"
@@ -469,6 +478,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x04474952fb4f60d43f75405411a596e32dfecd3d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -698,6 +716,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa09dbdfd4aa1f8708860624adea75c78e0da0d53",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -1388,6 +1415,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa3da72feb11ffdd98c5349ece2355b4f77cace99",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -6107,6 +6143,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3895fcbaaf3c584304c8578285d128360d1d42b2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -6215,6 +6260,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2abf77ca05cfae0015d4ec9690c346e6dcdfa151",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -6369,6 +6423,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xbe982836dcad308a5221f4577411494a444d71e0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -6545,6 +6608,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0ceb3bcb4174d309274f6b493dc005e3491e25ff",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -6835,6 +6907,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x6396fd2e207db0fa459f979b4b6fce5a7b966714",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -7053,6 +7134,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x6339458fabd17bca204fba94fc69abbdbb481d26",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -10371,6 +10461,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x996f6a7393c96fbc3cdcfa21a6a59812ed380366",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -12263,6 +12362,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe34958a84acd7c1a04dabcc4f529d1872119c421",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -14296,6 +14404,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd62f15760eb6dfc5b4444f304a39172467f4deaf",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -14316,6 +14433,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xba00531a2ef6f0aa012eca4c86d2bf3a38781c3c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -16603,6 +16729,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9b13c8be52e9118de029ae69ecc70b584ee13ae1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -18067,6 +18202,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xcf2127666bbbbbf4c13d7436d39a8fa6ee11e89b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -20431,6 +20575,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x360ce6eecdf98e3851531051907e6a809bf6e236",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -25640,6 +25793,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x31fbf0ceff0c0270ab5f926291ed144f6803cf83",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/three.svg"
@@ -29028,6 +29190,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2e28b04bed55f89d867c0966dcd5dd2c61236349",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -32944,6 +33115,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x03346b2f4bc23fd7f4935f74e70c7a7febc45313",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/trb.svg"
@@ -33369,6 +33549,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x65550d644682cf52abcd4592b239874aabb310cb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -33802,6 +33991,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xdcb8125a0fa9ad694ced4ba482a9fbef14c6c26f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -35709,6 +35907,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5b9b11138db917f52eed90e4ca4f1ccee55f2705",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/sx.svg"
@@ -36511,6 +36718,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa5d8eb3ee1c35288e9f4432faf343510035de47b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -39600,6 +39816,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb1a3247e4ebbf4ad3d06d5514a12105295defeac",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/ClayStack/media-kit/14dd5b413d744230b299d2008e98c63ef112bbb6/token-images/csMATIC.svg"
@@ -39817,6 +40042,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc5afc756054723d65d8362447fd6df1c08c2cd17",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://storage.cobak.co/logo/cbk_symbol.svg"
@@ -39913,6 +40147,15 @@
                 ],
                 "fxRootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
                 "fxChildTunnelAddress": "0xd531Cf2142D9b9Dc8b077dF3c4E93B46E7Cf879a"
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xee65bb53ee40f3de3286cbc0e74dc88385badad8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/InverseFinance/Media/6003bbc0b066bb86c342cc011f498c15ee32425a/images/DOLA_Logo.svg"
@@ -40047,6 +40290,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf4b55f649cd6ff4adddff822c058a67427a2f95a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://s3.us-east-1.amazonaws.com/kapital.gg/assets/KAP_logo_large.png"
@@ -40097,6 +40349,15 @@
                 ],
                 "fxRootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
                 "fxChildTunnelAddress": "0xd531Cf2142D9b9Dc8b077dF3c4E93B46E7Cf879a"
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc63a9e5def68d6f23303c7dd8a2a072ee9ddb7f2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/Polkamarkets/polkamarkets-web/main/public/badge.svg"
@@ -53919,6 +54180,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xac02812aad000e44047493705266dae21ed9e272",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -53983,6 +54253,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x88940e23eaf2e7077d86a89fc0d3a69fcdf9d4c6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -54170,6 +54449,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x149d202f71f722a8f00d9aecab34323caad6cff7",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -54346,6 +54634,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xdacb17b772fc884cddc873b39da8f8accc18eff1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -54366,6 +54663,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7c1b24c139a3eda18ab77c8fa04a0f816c23e6d4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -54432,6 +54738,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0b6b7e86d0da7d8f55318e15e347ef06b3536cb5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -54720,6 +55035,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf0679e7f5a7d2c80980e47cc289180154d8d2e28",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -54786,6 +55110,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x76d0220ba852692e1044fc2243380e430f38837a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -54806,6 +55139,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7531b39d692f01add2a32638efbaebb89230842c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -55022,6 +55364,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4a1f5208821498642061cd35f18a48ee1ca7ecb7",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -55305,6 +55656,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xaa62a80ed9e5d878da3a5b7a8dda1ca5fbe8c2bf",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -55371,6 +55731,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb533d7900c6b467e3d3cda680e4bb5606dc7b92b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -55413,6 +55782,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xed6ec63472dd116f73e95cc66b778b77ecb31dbd",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -55679,6 +56057,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xfc7b172e5d0aabcca283dfab4cc09c4a69bd06c1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -55811,6 +56198,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe0b16134e85bf4962b4a263ea67ac11a8dd79d36",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -55855,6 +56251,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9da071043e8aab01f3775df49c2bdb05b91fc630",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -55875,6 +56280,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xac0f1642fc300bfd34ba1a08b9261d61a92b5d83",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -55985,6 +56399,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc291b0753da6fbf8d848374e1bb1588dcad3559a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -56337,6 +56760,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x1402d5a4f67c22bff31883dd509ef59cbe930b88",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -57083,6 +57515,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe0b244c908ca3d545b59b5f1de1e5f5a867d078e",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -57191,6 +57632,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x1ba37fa8cdb8ffd4f2e04a946d81289b74de786b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -57323,6 +57773,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x70d35152fbf63fb312709b11a9bac87519de0019",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -57675,6 +58134,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x6041a944881cb7b0e64ea5d6d357c606f80b7071",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -58324,6 +58792,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -58366,6 +58843,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4380b45fb27be345a239c90085e5b7e401463d8a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
