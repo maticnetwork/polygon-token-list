@@ -1,0 +1,328 @@
+[
+    {
+        "chainId": 5,
+        "name": "Ether - PoS",
+        "symbol": "ETH",
+        "decimals": 18,
+        "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "originNetworkId": 0,
+        "tags": ["nativeToken"],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa6fa4fb5f76172d178d61b04b0ecd319c5d1c0aa",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            },
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "nativeToken"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Matic",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "originTokenAddress": "0x499d11e0b6eac7c0593d8fb292dcbbf815fb29ae",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
+                "wrappedNetworkId": -1,
+                "tags": ["plasma", "nativeToken"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "originTokenAddress": "0x655f2166b0709cd575202630952d71e2bb0d61af",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xfe4f5145f6e09952a5ba9e956ed0c25e3fa4c7f1",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xfe4f5145f6e09952a5ba9e956ed0c25e3fa4c7f1",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Test Token",
+        "symbol": "TST",
+        "decimals": 18,
+        "originTokenAddress": "0x3f152b63ec5ca5831061b2dccfb29a874c317502",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa0d9f8282cd48d22fd875e43be32793124f8ed47",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 18,
+        "originTokenAddress": "0xd35cceead182dcee0f148ebac9447da2c4d449c4",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xd0c02072a1132c8e6e63e57d11b97429e9628cba",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 18,
+        "originTokenAddress": "0x509ee0d083ddf8ac028f2a56731412edd63223b9",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x7554db7c0be89cfdaaa38dbb8c8cf5b78410e45b",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Sample USDC",
+        "symbol": "sUSDC",
+        "decimals": 18,
+        "originTokenAddress": "0xcdb5456dcdfe09e7cb78be79c8e4bf3c7498e217",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x20e8337597474636f95b68594ecb8dadec4d3604",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20", "customZkevmBridge"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "originTokenAddress": "0x11fe4b6ae13d2a6055c8d9cf65c55bac32b5d844",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x755cb8a808c99706afaa34547204f17cd33c6316",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20", "customZkevmBridge"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/dai.svg"
+    },
+    {
+        "chainId": 5,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "originTokenAddress": "0x4701aa9471d7bfac765d87dcb1ea6bb23ad32733",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x244f21e2cdb60e9b6c9aebb96ffe04489831f881",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1442,
+        "name": "Clober DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "originTokenAddress": "0x592fd6f9c35229cc0c4c64e61f8f2d6517f6cc65",
+        "originNetworkId": 1,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 5,
+                "wrappedTokenAddress": "0x592fd6f9c35229cc0c4c64e61f8f2d6517f6cc65",
+                "wrappedNetworkId": 0,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1442,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xb008b98c2a3eb376c9b0dcf4e626ffd7de1c5d67",
+        "originNetworkId": 1,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 5,
+                "wrappedTokenAddress": "0xb008b98c2a3eb376c9b0dcf4e626ffd7de1c5d67",
+                "wrappedNetworkId": 0,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "originTokenAddress": "0xd7e55eb808693d5ff81a3391c59886c7e0449f35",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x0cda85ade5c84c386b69b562d1722642748dd194",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "originTokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x378588d64a464d61c646e5e86f4da5277e65802c",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1442,
+        "name": "zkEVM Test Token",
+        "symbol": "ZKTST",
+        "decimals": 18,
+        "originTokenAddress": "0xd23d6ec4bf2ea11a6d5a6efb25ad1aaa6765fe66",
+        "originNetworkId": 1,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 5,
+                "wrappedTokenAddress": "0xd23d6ec4bf2ea11a6d5a6efb25ad1aaa6765fe66",
+                "wrappedNetworkId": 0,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1442,
+        "name": "bb-native",
+        "symbol": "bbntv",
+        "decimals": 18,
+        "originTokenAddress": "0xd1f91a9be1cc816e317fe8c69f32589182b85c09",
+        "originNetworkId": 1,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 5,
+                "wrappedTokenAddress": "0xd1f91a9be1cc816e317fe8c69f32589182b85c09",
+                "wrappedNetworkId": 0,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 1442,
+        "name": "BLUEBERRYNATIVE",
+        "symbol": "BLBRN",
+        "decimals": 18,
+        "originTokenAddress": "0x533dc89624dcc012c7323b41f286bd2df478800b",
+        "originNetworkId": 1,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 5,
+                "wrappedTokenAddress": "0x533dc89624dcc012c7323b41f286bd2df478800b",
+                "wrappedNetworkId": 0,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x3ce1bab7b7bae26775f81ee3576a99f0ead5b33c",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Georli TestNet Bit Token",
+        "symbol": "BIT",
+        "decimals": 18,
+        "originTokenAddress": "0x5a94dc6cc85fda49d8e9a8b85dde8629025c42be",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x0bb4a5e24045b7744e771c4fb5bc97f8a8073d63",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "erc20"]
+            }
+        ]
+    }
+]

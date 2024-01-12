@@ -28,6 +28,30 @@ fs.writeFile(
     }
 );
 
+// v2 Popular Testnet List
+fs.writeFile(
+    "build/tokenlists/popularTestnet.tokenlist.json",
+    JSON.stringify(tokenlists.v2PopularTestnetTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("popularTestnet.tokenlist.json successfully built");
+    }
+);
+
+// v2 Mapped Testnet List
+fs.writeFile(
+    "build/tokenlists/mappedTestnet.tokenlist.json",
+    JSON.stringify(tokenlists.v2MappedTestnetTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("mappedTestnet.tokenlist.json successfully built");
+    }
+);
+
 // Aggregated List
 fs.writeFile(
     "build/tokenlists/polygon.tokenlist.json",

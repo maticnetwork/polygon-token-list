@@ -9,6 +9,8 @@ const allPolygonPopularTokens = require("./tokens/polygonPopular.json");
 const allPolygonTestnetPopularTokens = require("./tokens/polygonTestnetPopular.json");
 const v2PopularTokens = require("./tokens/defaultTokens.json");
 const v2MappedTokens = require("./tokens/mappedTokens.json");
+const v2PopularTokensTestnet = require("./tokens/defaultTokensTestnet.json");
+const v2MappedTokensTestnet = require("./tokens/mappedTokensTestnet.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
 const testnetTokenList = require("./metadata/testnetTokens.json");
@@ -20,6 +22,8 @@ const allPolygonPopularTokenList = require("./metadata/polygonPopular.json");
 const allPolygonTestnetPopularTokenList = require("./metadata/polygonTestnetPopular.json");
 const v2PopularTokenList = require("./metadata/defaultTokens.json");
 const v2MappedTokenList = require("./metadata/mappedTokens.json");
+const v2PopularTestnetTokenList = require("./metadata/defaultTokensTestnet.json");
+const v2MappedTestnetTokenList = require("./metadata/mappedTokensTestnet.json");
 
 // Staging list
 const stagingTokenList = JSON.parse(JSON.stringify(polygonTokensTokenList));
@@ -54,6 +58,14 @@ module.exports = function buildList() {
         timestamp,
         tokens: v2MappedTokens,
     }); //v2 Mapped List
+    Object.assign(v2PopularTestnetTokenList, {
+        timestamp,
+        tokens: v2PopularTokensTestnet,
+    }); // v2 Default Testnet List
+    Object.assign(v2MappedTestnetTokenList, {
+        timestamp,
+        tokens: v2MappedTokensTestnet,
+    }); //v2 Mapped Testnet List
 
     Object.assign(allPolygonTokenList, { timestamp, tokens: allPolygonTokens }); // Aggregated Polygon Tokens List
     Object.assign(allPolygonPopularTokenList, {
@@ -91,5 +103,7 @@ module.exports = function buildList() {
         stagingTokenList,
         v2PopularTokenList,
         v2MappedTokenList,
+        v2PopularTestnetTokenList,
+        v2MappedTestnetTokenList,
     };
 };
