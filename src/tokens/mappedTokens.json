@@ -58856,5 +58856,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "GRND",
+        "symbol": "$GRND",
+        "decimals": 18,
+        "originTokenAddress": "0x9816082d089fad585b0735dcaf15147bbb9a4c4d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc732b71ad37d0613ab2f174a8fd9b101a12ee715",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
