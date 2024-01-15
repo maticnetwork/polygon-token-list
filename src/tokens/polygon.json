@@ -64650,7 +64650,7 @@
         "symbol": "WEB3",
         "decimals": 18,
         "address": "0xc4ea087fc2cb3a1d9ff86c676f03abe4f3ee906f",
-        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/WEB3-v2.png",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/WEB3-v2.svg",
         "tags": [
             "erc20",
             "swapable",
@@ -64673,7 +64673,7 @@
         "symbol": "CHAIN",
         "decimals": 18,
         "address": "0x70A13201Df2364B634cb5Aac8d735Db3A654b30c",
-        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/CHAINS-v2.png",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/CHAINS-v2.svg",
         "tags": [
             "erc20",
             "swapable",
@@ -64696,7 +64696,7 @@
         "symbol": "AAGG",
         "decimals": 18,
         "address": "0xAfb6E8331355faE99C8E8953bB4c6Dc5d11E9F3c",
-        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/AAGG.png",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/AAGG.svg",
         "tags": [
             "erc20",
             "noDeposit",
@@ -64718,7 +64718,7 @@
         "symbol": "AMOD",
         "decimals": 18,
         "address": "0xa5a979Aa7F55798e99f91Abe815c114A09164beb",
-        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/AMOD.png",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/AMOD.svg",
         "tags": [
             "erc20",
             "noDeposit",
@@ -64740,7 +64740,7 @@
         "symbol": "ABAL",
         "decimals": 18,
         "address": "0xF401E2c1ce8F252947b60BFB92578f84217A1545",
-        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/ABAL.png",
+        "logoURI": "https://arch-finance-basket-logos.s3.amazonaws.com/ABAL.svg",
         "tags": [
             "erc20",
             "noDeposit",
