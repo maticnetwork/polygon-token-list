@@ -50532,5 +50532,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Kabuni Coin",
+        "symbol": "KBC",
+        "decimals": 18,
+        "originTokenAddress": "0x2da3920da64f89ff1e26978caa7858724ffad2e8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x4c3108a1c6969c94a3714e5ec1b94da5849f7fa9",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
