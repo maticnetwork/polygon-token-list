@@ -50486,6 +50486,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xeeb7ffdda3949caf849c914b8f4fd6665e9e036e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ]
             }
         ]
     },
