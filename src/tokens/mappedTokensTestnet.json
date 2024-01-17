@@ -50510,5 +50510,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "JannaviToken",
+        "symbol": "JN",
+        "decimals": "18",
+        "originTokenAddress": "0x4557865d28230b3714cf713cc0b160ed8690cb64",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x105807a29b17a0a2f016558dc1eaa8c8ada23cb2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
