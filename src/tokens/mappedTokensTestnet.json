@@ -50488,5 +50488,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "D-Drops",
+        "symbol": "DOP",
+        "decimals": "18",
+        "originTokenAddress": "0xc9e3caae0b527d75a51c78cdaf90d10bb4554edd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xbcc4a4dc490500161a4d91bc1cce5929224ec385",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
