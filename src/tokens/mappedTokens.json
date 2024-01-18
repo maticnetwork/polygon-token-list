@@ -58909,5 +58909,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Amulet",
+        "symbol": "AMU",
+        "decimals": 9,
+        "originTokenAddress": "0x174c47d6a4e548ed2b7d369dc0ffb2e60a6ac0f8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd507361174a0fde521bf8c097ef19dd31ffca710",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
