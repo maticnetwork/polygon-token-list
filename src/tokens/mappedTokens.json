@@ -58931,5 +58931,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "rsETH",
+        "symbol": "rsETH",
+        "decimals": 18,
+        "originTokenAddress": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8c7d118b5c47a5bcbd47cc51789558b98dad17c5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
