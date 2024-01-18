@@ -1095,6 +1095,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7a61d9e1d0da07747a81c599f48777c5a500f657",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png"
