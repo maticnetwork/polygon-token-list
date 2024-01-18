@@ -58953,5 +58953,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "LIFE Luxury Token",
+        "symbol": "LLUX",
+        "decimals": 8,
+        "originTokenAddress": "0x42225054181654b85bb5f8aeb755441a94c54475",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3a0508c50b27a5d8653c88afd9a7cad55ff49bb4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
