@@ -50563,5 +50563,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "LeisureMeta",
+        "symbol": "LM",
+        "decimals": 18,
+        "originTokenAddress": "0x8b829481e793d45fbbd6150c2f75e895bcd78903",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xd924601284f26f3faa9ac938bfcad32ca43a1607",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
