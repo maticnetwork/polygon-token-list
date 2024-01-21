@@ -50609,5 +50609,27 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "9Decimal",
+        "symbol": "YTHO",
+        "decimals": 9,
+        "originTokenAddress": "0x1a290254e76f06d1cd5c69754ba8dea0bee1a410",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x8458fa51416e21fc0634ea87f200a41aa4875e32",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
