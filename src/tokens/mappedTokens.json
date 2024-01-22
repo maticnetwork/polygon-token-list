@@ -59000,6 +59000,59 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf58f897cb54019720a94e7bd7f71bd7b9337b48f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Kabuni Coin",
+        "symbol": "KBC",
+        "decimals": "18",
+        "originTokenAddress": "0xa88920b4a35f7d0e81bc586ce1875036fced9154",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x750e844f04694f2b1187d5d276a4f5a864178131",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RoyaltyCOIN",
+        "symbol": "RYLT",
+        "decimals": "18",
+        "originTokenAddress": "0xd30a2e9347ad48ea208ee563a9cdfd80e962a727",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xe0c0fa754541bef50eebaaf718f7c336dd439af6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     }
