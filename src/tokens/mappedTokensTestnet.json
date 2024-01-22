@@ -50631,5 +50631,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Test ERC20 Token",
+        "symbol": "TT",
+        "decimals": "18",
+        "originTokenAddress": "0xc93027fe90605a686d450dc7fb342cd9d0bde773",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xf2dddb572b93ceec940abc44b313ddce0352cfc6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
