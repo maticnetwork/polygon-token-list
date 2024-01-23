@@ -42469,7 +42469,9 @@
         "address": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7",
         "tags": [
             "pos",
-            "erc20"
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
         ],
         "extensions": {
             "originTokenNetwork": 0,
@@ -62348,7 +62350,9 @@
         "address": "0x8207fb9ddfffaecb5168696e02d065982f89f9ea",
         "tags": [
             "lxly",
-            "erc20"
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
         ],
         "extensions": {
             "originTokenAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
