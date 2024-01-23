@@ -1095,6 +1095,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7a61d9e1d0da07747a81c599f48777c5a500f657",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10465.png"
@@ -29447,8 +29456,10 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
-                ]
+                    "erc20",
+                    "customWithdrawEventSig"
+                ],
+                "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             },
             {
                 "chainId": 1101,
@@ -34553,6 +34564,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2450e3153137c14ce4c113d63c427070e85bedec",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -38649,6 +38669,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5a40d9f2dbc3c613bc449556c241ffbf2e9aba6f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -52050,6 +52079,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xff3d640eaaeb93af912fe11c65c5d113b09457ed",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -58852,6 +58890,178 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GRND",
+        "symbol": "$GRND",
+        "decimals": 18,
+        "originTokenAddress": "0x9816082d089fad585b0735dcaf15147bbb9a4c4d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc732b71ad37d0613ab2f174a8fd9b101a12ee715",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc41cfdc0a3199ee6b22bd3c2e6624ac10695e510",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "JannaviToken",
+        "symbol": "JN",
+        "decimals": "18",
+        "originTokenAddress": "0xd5acd9226fcaa71b0e94eac53ba29fb831389e92",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x9a40d326e1947d55efd2669073fac1516f7993cd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Amulet",
+        "symbol": "AMU",
+        "decimals": 9,
+        "originTokenAddress": "0x174c47d6a4e548ed2b7d369dc0ffb2e60a6ac0f8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd507361174a0fde521bf8c097ef19dd31ffca710",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "rsETH",
+        "symbol": "rsETH",
+        "decimals": 18,
+        "originTokenAddress": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8c7d118b5c47a5bcbd47cc51789558b98dad17c5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LIFE Luxury Token",
+        "symbol": "LLUX",
+        "decimals": 8,
+        "originTokenAddress": "0x42225054181654b85bb5f8aeb755441a94c54475",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3a0508c50b27a5d8653c88afd9a7cad55ff49bb4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf58f897cb54019720a94e7bd7f71bd7b9337b48f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Kabuni Coin",
+        "symbol": "KBC",
+        "decimals": "18",
+        "originTokenAddress": "0xa88920b4a35f7d0e81bc586ce1875036fced9154",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x750e844f04694f2b1187d5d276a4f5a864178131",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RoyaltyCOIN",
+        "symbol": "RYLT",
+        "decimals": "18",
+        "originTokenAddress": "0xd30a2e9347ad48ea208ee563a9cdfd80e962a727",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xe0c0fa754541bef50eebaaf718f7c336dd439af6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
                     "erc20"
                 ]
             }
