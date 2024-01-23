@@ -50653,5 +50653,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Big Time Staging",
+        "symbol": "$BIGTIMESTG",
+        "decimals": "18",
+        "originTokenAddress": "0xfca7eb2dd29bd1054111bee1f3f302ca4c1a50af",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xe61521397020241a604e9955edd99a57464daac2",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]

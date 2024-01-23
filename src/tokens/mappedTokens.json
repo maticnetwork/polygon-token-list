@@ -29447,7 +29447,8 @@
         "originTokenAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20",
+            "noDeposit"
         ],
         "wrappedTokens": [
             {
@@ -29457,7 +29458,8 @@
                 "tags": [
                     "pos",
                     "erc20",
-                    "customWithdrawEventSig"
+                    "customWithdrawEventSig",
+                    "noDeposit"
                 ],
                 "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             },
@@ -29467,7 +29469,8 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             }
         ],
@@ -59059,6 +59062,28 @@
             {
                 "chainId": 137,
                 "wrappedTokenAddress": "0xe0c0fa754541bef50eebaaf718f7c336dd439af6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Big Time",
+        "symbol": "BIGTIME",
+        "decimals": "18",
+        "originTokenAddress": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x63400d9586873eb03c84f76755d26ef2a9a2abef",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
