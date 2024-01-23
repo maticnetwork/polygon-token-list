@@ -29447,7 +29447,8 @@
         "originTokenAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20",
+            "noDeposit"
         ],
         "wrappedTokens": [
             {
