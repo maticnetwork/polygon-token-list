@@ -59091,5 +59091,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Carbify",
+        "symbol": "CBY",
+        "decimals": 18,
+        "originTokenAddress": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xebafdaee9b00be1f98a3d6c6b36dc062581abe0e",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
