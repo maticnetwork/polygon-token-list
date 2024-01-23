@@ -29447,7 +29447,8 @@
         "originTokenAddress": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20",
+            "noDeposit"
         ],
         "wrappedTokens": [
             {
@@ -29457,7 +29458,8 @@
                 "tags": [
                     "pos",
                     "erc20",
-                    "customWithdrawEventSig"
+                    "customWithdrawEventSig",
+                    "noDeposit"
                 ],
                 "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             },
@@ -29467,7 +29469,8 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             }
         ],
