@@ -29457,7 +29457,8 @@
                 "tags": [
                     "pos",
                     "erc20",
-                    "customWithdrawEventSig"
+                    "customWithdrawEventSig",
+                    "noDeposit"
                 ],
                 "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             },
@@ -29467,7 +29468,8 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             }
         ],
