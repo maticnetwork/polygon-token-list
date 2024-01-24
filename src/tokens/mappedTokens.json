@@ -59113,5 +59113,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "BlueSkyWhale Token",
+        "symbol": "BSW",
+        "decimals": 18,
+        "originTokenAddress": "0x5ab02e0bd1d7fa8798a04c1bae575813543ee12a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9329000f1f3d76c7e50aa07f83f09bf96c6ac21d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
