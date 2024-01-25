@@ -1,6 +1,6 @@
 {
     "name": "Popular Tokens",
-    "version": 2,
+    "version": 3,
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "description": "Contains the top 100 most used tokens on the Polygon chains",
     "tags": {
@@ -33,13 +33,13 @@
             "name": "erc20",
             "description": "Token of ERC20 token type"
         },
-        "nativeToken": {
-            "name": "nativeToken",
-            "description": "Native token of the chain"
-        },
         "governanceToken": {
             "name": "governanceToken",
             "description": "Governance token of the chain"
+        },
+        "nativeToken": {
+            "name": "nativeToken",
+            "description": "Native token of the chain"
         },
         "customWithdrawEventSig": {
             "name": "customWithdrawEventSig",
