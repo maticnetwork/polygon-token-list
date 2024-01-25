@@ -11,6 +11,7 @@ const v2PopularTokens = require("./tokens/defaultTokens.json");
 const v2MappedTokens = require("./tokens/mappedTokens.json");
 const v2PopularTokensTestnet = require("./tokens/defaultTokensTestnet.json");
 const v2MappedTokensTestnet = require("./tokens/mappedTokensTestnet.json");
+const v2PopularTokensStaging = require("./tokens/defaultTokensStaging.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
 const testnetTokenList = require("./metadata/testnetTokens.json");
@@ -24,11 +25,7 @@ const v2PopularTokenList = require("./metadata/defaultTokens.json");
 const v2MappedTokenList = require("./metadata/mappedTokens.json");
 const v2PopularTestnetTokenList = require("./metadata/defaultTokensTestnet.json");
 const v2MappedTestnetTokenList = require("./metadata/mappedTokensTestnet.json");
-
-// Staging list
-const stagingTokenList = JSON.parse(JSON.stringify(polygonTokensTokenList));
-stagingTokenList.name = "Polygon Staging List";
-const stagingList = [polygonTokens[0], polygonTokens[1], polygonTokens[2]];
+const v2PopularTokenListStaging = require("./metadata/defaultTokensStaging.json");
 
 // Remove the project information from lists
 allPolygonTokens.forEach((token) => {
@@ -88,7 +85,10 @@ module.exports = function buildList() {
     }); // zkevm popular tokenlist
     Object.assign(testnetTokenList, { timestamp, tokens: testnetTokens }); // Testnet tokenlist
     Object.assign(blacklistTokenList, { timestamp, tokens: blacklistTokens }); // blacklist tokenlist
-    Object.assign(stagingTokenList, { timestamp, tokens: stagingList }); // Staging Tokenlist
+    Object.assign(v2PopularTokenListStaging, {
+        timestamp,
+        tokens: v2PopularTokensStaging,
+    }); // Staging Tokenlist
 
     return {
         allPolygonTokenList,
@@ -100,7 +100,7 @@ module.exports = function buildList() {
         zkevmPopularTokenList,
         testnetTokenList,
         blacklistTokenList,
-        stagingTokenList,
+        v2PopularTokenListStaging,
         v2PopularTokenList,
         v2MappedTokenList,
         v2PopularTestnetTokenList,

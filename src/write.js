@@ -173,7 +173,7 @@ fs.writeFile(
 // Staging Tokenlist
 fs.writeFile(
     "build/tokenlists/staging.tokenlist.json",
-    JSON.stringify(tokenlists.stagingTokenList, null, 2),
+    JSON.stringify(tokenlists.v2PopularTokenListStaging, null, 2),
     (err) => {
         if (err) {
             throw err;
