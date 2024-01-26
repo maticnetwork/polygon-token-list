@@ -50675,5 +50675,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Humty_Dumty",
+        "symbol": "HD",
+        "decimals": 18,
+        "originTokenAddress": "0x6be493bc6c452ce062f8d227c10d95bd6ffd7458",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xae8a6228828c8a928df242e99549fff5d8ab717b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
