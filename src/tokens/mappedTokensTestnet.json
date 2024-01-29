@@ -50697,5 +50697,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "MyToken",
+        "symbol": "MTK",
+        "decimals": 9,
+        "originTokenAddress": "0x19ec81a11fe9c200135291f465533de03fc516c7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x9698dc738497ce1e8939c3ea9bbe4a111662d860",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
