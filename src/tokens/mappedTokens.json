@@ -59162,5 +59162,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Greelance",
+        "symbol": "GRL",
+        "decimals": 9,
+        "originTokenAddress": "0xa067237f8016d5e3770cf08b20e343ab9ee813d5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe12fe027e865a66dcea52af6416ec4ad63f40ed0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
