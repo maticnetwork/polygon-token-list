@@ -50719,5 +50719,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "The Panda Coin",
+        "symbol": "PANDA",
+        "decimals": 18,
+        "originTokenAddress": "0xf291d26e840b5d102caa6f9df2154a176738114a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x32c34a2c0d7a1d30c873f3cc1ded629091636809",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
