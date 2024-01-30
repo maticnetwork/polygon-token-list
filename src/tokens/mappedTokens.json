@@ -59184,5 +59184,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Curve.Fi USD Stablecoin",
+        "symbol": "crvUSD",
+        "decimals": "18",
+        "originTokenAddress": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
