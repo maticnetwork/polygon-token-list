@@ -823,12 +823,19 @@
         "tags": ["erc20"],
         "wrappedTokens": [
             {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            },
+            {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x04474952fb4f60d43f75405411a596e32dfecd3d",
                 "wrappedNetworkId": 1,
                 "tags": ["lxly", "erc20"]
             }
-        ]
+        ],
+        "logoURI": "https://polygonscan.com/token/images/aavegotchighst_32.png"
     },
     {
         "chainId": 1,
@@ -887,12 +894,19 @@
         "tags": ["erc20"],
         "wrappedTokens": [
             {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xee9a352f6aac4af1a5b9f467f6a93e0ffbe9dd35",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"]
+            },
+            {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0xa3da72feb11ffdd98c5349ece2355b4f77cace99",
                 "wrappedNetworkId": 1,
                 "tags": ["lxly", "erc20"]
             }
-        ]
+        ],
+        "logoURI": "https://github.com/MASQ-Project/MASQ-contract/raw/master/MASQ%20Logo%20Blue%20Solo%20Transparent.png"
     },
     {
         "chainId": 1,
