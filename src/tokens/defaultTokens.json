@@ -199,9 +199,11 @@
             },
             {
                 "chainId": 1101,
-                "wrappedTokenAddress": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
+                "wrappedTokenAddress": "0xbf6de60ccd9d22a5820a658fbe9fc87975ea204f",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "erc20"]
+                "tags": ["zkevmMessageBridge", "erc20"],
+                "originChainBridgeAdapter": "0xf0CDE1E7F0FAD79771cd526b1Eb0A12F69582C01",
+                "wrappedChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B"
             }
         ]
     },
