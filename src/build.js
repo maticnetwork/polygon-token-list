@@ -12,6 +12,7 @@ const v2MappedTokens = require("./tokens/mappedTokens.json");
 const v2PopularTokensTestnet = require("./tokens/defaultTokensTestnet.json");
 const v2MappedTokensTestnet = require("./tokens/mappedTokensTestnet.json");
 const v2PopularTokensStaging = require("./tokens/defaultTokensStaging.json");
+const v2MappedTokensTestnetNew = require("./tokens/mappedTokensTestnetNew.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
 const testnetTokenList = require("./metadata/testnetTokens.json");
@@ -26,6 +27,7 @@ const v2MappedTokenList = require("./metadata/mappedTokens.json");
 const v2PopularTestnetTokenList = require("./metadata/defaultTokensTestnet.json");
 const v2MappedTestnetTokenList = require("./metadata/mappedTokensTestnet.json");
 const v2PopularTokenListStaging = require("./metadata/defaultTokensStaging.json");
+const v2MappedTestnetNewTokenList = require("./metadata/mappedTokensTestnetNew.json");
 
 // Remove the project information from lists
 allPolygonTokens.forEach((token) => {
@@ -63,6 +65,10 @@ module.exports = function buildList() {
         timestamp,
         tokens: v2MappedTokensTestnet,
     }); //v2 Mapped Testnet List
+    Object.assign(v2MappedTestnetNewTokenList, {
+        timestamp,
+        tokens: v2MappedTokensTestnetNew,
+    }); //v2 Mapped Testnet New List
 
     Object.assign(allPolygonTokenList, { timestamp, tokens: allPolygonTokens }); // Aggregated Polygon Tokens List
     Object.assign(allPolygonPopularTokenList, {
@@ -105,5 +111,6 @@ module.exports = function buildList() {
         v2MappedTokenList,
         v2PopularTestnetTokenList,
         v2MappedTestnetTokenList,
+        v2MappedTestnetNewTokenList,
     };
 };

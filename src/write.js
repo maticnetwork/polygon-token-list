@@ -52,6 +52,18 @@ fs.writeFile(
     }
 );
 
+// v2 Mapped Testnet New List
+fs.writeFile(
+    "build/tokenlists/mappedTestnetNew.tokenlist.json",
+    JSON.stringify(tokenlists.v2MappedTestnetNewTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("mappedTestnetNew.tokenlist.json successfully built");
+    }
+);
+
 // Aggregated List
 fs.writeFile(
     "build/tokenlists/polygon.tokenlist.json",
