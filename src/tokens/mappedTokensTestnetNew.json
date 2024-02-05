@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "chainId": 2442,
+        "name": "I am mine",
+        "symbol": "MINE",
+        "decimals": 18,
+        "originTokenAddress": "0xc949f6e273de0fc7e057c39ad3c83859732627c3",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0xadaaa72158ee2b174b9b7b1a06fb0d655d582a64",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    }
+]
