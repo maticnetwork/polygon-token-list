@@ -50741,5 +50741,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": "18",
+        "originTokenAddress": "0xb480378044d92c96d16589eb95986df6a97f2cfb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xf3202e7270a10e599394d8a7da2f4fbd475e96ba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
