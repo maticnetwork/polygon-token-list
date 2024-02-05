@@ -50794,5 +50794,29 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "FxERC20",
+        "symbol": "FE1",
+        "decimals": "18",
+        "originTokenAddress": "0x3fdce5105d3f4aac240d060915227c7cd83517c5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xc0c7095cfe1825211c6e153e2390c14aed67b835",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x60e371b23e4dd30b831f1b718dac7d2d2a0ecb53",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
