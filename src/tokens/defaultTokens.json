@@ -204,8 +204,15 @@
                 "tags": ["zkevmMessageBridge", "erc20"],
                 "originChainBridgeAdapter": "0xf0CDE1E7F0FAD79771cd526b1Eb0A12F69582C01",
                 "wrappedChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B"
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+                "tags": ["lxly", "erc20", "legacy", "noDeposit"],
+                "wrappedNetworkId": 1
             }
-        ]
+        ],
+        "logoURI": "https://etherscan.io/token/images/wsteth3_32.png"
     },
     {
         "chainId": 1,

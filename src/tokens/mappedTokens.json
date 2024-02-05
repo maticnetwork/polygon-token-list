@@ -40545,6 +40545,12 @@
                 "wrappedChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B"
             },
             {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+                "tags": ["lxly", "erc20", "legacy", "noDeposit"],
+                "wrappedNetworkId": 1
+            },
+            {
                 "chainId": 137,
                 "wrappedTokenAddress": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
                 "wrappedNetworkId": -1,
