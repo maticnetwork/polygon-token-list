@@ -50770,6 +50770,17 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xd7f3b2a4caa993d603d5c28b833cd23f80b50fe0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
             }
         ]
     },
