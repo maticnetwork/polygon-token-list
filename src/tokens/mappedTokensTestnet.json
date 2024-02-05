@@ -27,6 +27,15 @@
                     "lxly",
                     "nativeToken"
                 ]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
