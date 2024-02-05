@@ -105,12 +105,6 @@
                 "tags": ["pos", "erc20"]
             },
             {
-                "chainId": 137,
-                "wrappedTokenAddress": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-                "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"]
-            },
-            {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
                 "wrappedNetworkId": 1,
