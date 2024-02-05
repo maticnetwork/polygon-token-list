@@ -50763,5 +50763,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Dummy Mintable ERC20",
+        "symbol": "DERC20",
+        "decimals": "18",
+        "originTokenAddress": "0xf35e40ba249a1cbf5dc3e0ab3084a0df836c0d18",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x0507b845ff73c463f3c73450787daef46f3548db",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
