@@ -40552,6 +40552,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://etherscan.io/token/images/wsteth3_32.png"
