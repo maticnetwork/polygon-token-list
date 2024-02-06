@@ -40547,7 +40547,12 @@
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-                "tags": ["lxly", "erc20", "legacy", "noDeposit"],
+                "tags": [
+                    "lxly",
+                    "erc20",
+                    "legacy",
+                    "noDeposit"
+                ],
                 "wrappedNetworkId": 1
             },
             {
@@ -59237,6 +59242,28 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Carnomaly",
+        "symbol": "CARR",
+        "decimals": 18,
+        "originTokenAddress": "0x884ddbb5dc6c2cef77d3e74c6ccca315797d655b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4cf3ef618c064c57c4a1bb582866ec009961ee82",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
