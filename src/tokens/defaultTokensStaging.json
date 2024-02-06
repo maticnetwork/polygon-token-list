@@ -12,7 +12,9 @@
                 "chainId": 137,
                 "wrappedTokenAddress": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "legacy"]
+                "tags": ["pos", "erc20", "legacy"],
+                "name": "Legacy Bridge USD Coin",
+                "symbol": "USDC.e"
             },
             {
                 "chainId": 137,
@@ -22,13 +24,17 @@
                 "originChainBridgeAdapter": "0xbd3fa81b58ba92a82136038b25adec7066af3155",
                 "wrappedChainBridgeAdapter": "0x9daf8c91aefae50b9c0e69629d3f6ca40ca3b3fe",
                 "originChainClaimAdapter": "0x0a992d191deec32afe36203ad87d7d289a738f81",
-                "wrappedChainClaimAdapter": "0xf3be9355363857f3e001be68856a2f96b4c39ba9"
+                "wrappedChainClaimAdapter": "0xf3be9355363857f3e001be68856a2f96b4c39ba9",
+                "name": "Native USDC",
+                "symbol": "USDC"
             },
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "erc20", "legacy"]
+                "tags": ["lxly", "erc20", "legacy"],
+                "name": "Legacy Bridge USD Coin",
+                "symbol": "USDC"
             },
             {
                 "chainId": 1101,
@@ -36,7 +42,9 @@
                 "wrappedNetworkId": 1,
                 "tags": ["zkevmMessageBridge", "erc20"],
                 "originChainBridgeAdapter": "0x70E70e58ed7B1Cec0D8ef7464072ED8A52d755eB",
-                "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189"
+                "wrappedChainBridgeAdapter": "0xBDa0B27f93B2FD3f076725b89cf02e48609bC189",
+                "name": "USD Coin",
+                "symbol": "USDC.e"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/usdc.svg"
