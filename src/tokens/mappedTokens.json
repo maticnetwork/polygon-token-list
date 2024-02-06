@@ -35774,6 +35774,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa230d5ef2e26382d6263ac7e4ac15d6149bb8bcb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/mchc.svg"
