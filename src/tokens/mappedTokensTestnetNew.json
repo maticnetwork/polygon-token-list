@@ -20,5 +20,128 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xb480378044d92c96d16589eb95986df6a97f2cfb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xf3202e7270a10e599394d8a7da2f4fbd475e96ba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xd7f3b2a4caa993d603d5c28b833cd23f80b50fe0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Dummy Mintable ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xf35e40ba249a1cbf5dc3e0ab3084a0df836c0d18",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x0507b845ff73c463f3c73450787daef46f3548db",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "FxERC20",
+        "symbol": "FE1",
+        "decimals": 18,
+        "originTokenAddress": "0x3fdce5105d3f4aac240d060915227c7cd83517c5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xc0c7095cfe1825211c6e153e2390c14aed67b835",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x60e371b23e4dd30b831f1b718dac7d2d2a0ecb53",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x959949ca0522c617edcc67de2dbb56b7450a7633",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0xae25bd50d3aa98c36756b1547888bf486b7c22f0",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x483208cd22807565c2e250ca9042de57b3fd19f1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
