@@ -59317,5 +59317,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Trump Victory Token",
+        "symbol": "TPVT",
+        "decimals": 18,
+        "originTokenAddress": "0x96124631959cd78f2f9149fe24bbf43c2b012fcb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5a5c7db6026acbfd64b48a6a1a5b145261c544cb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
