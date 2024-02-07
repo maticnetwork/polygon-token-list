@@ -1,18 +1,26 @@
 [
     {
-        "chainId": 2442,
-        "name": "I am mine",
-        "symbol": "MINE",
+        "chainId": 11155111,
+        "name": "Ether",
+        "symbol": "ETH",
         "decimals": 18,
-        "originTokenAddress": "0xc949f6e273de0fc7e057c39ad3c83859732627c3",
-        "originNetworkId": 1,
-        "tags": ["erc20"],
+        "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "originNetworkId": 0,
+        "tags": ["governanceToken"],
         "wrappedTokens": [
             {
-                "chainId": 11155111,
-                "wrappedTokenAddress": "0xadaaa72158ee2b174b9b7b1a06fb0d655d582a64",
-                "wrappedNetworkId": 0,
-                "tags": ["lxly", "erc20"]
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
+                "wrappedNetworkId": -1,
+                "tags": ["pos", "erc20"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 1,
+                "tags": ["lxly", "governanceToken"]
             }
         ]
     },
@@ -55,31 +63,6 @@
                 "wrappedTokenAddress": "0x0507b845ff73c463f3c73450787daef46f3548db",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
-            }
-        ]
-    },
-    {
-        "chainId": 11155111,
-        "name": "Ether",
-        "symbol": "ETH",
-        "decimals": 18,
-        "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "originNetworkId": 0,
-        "tags": ["governanceToken"],
-        "wrappedTokens": [
-            {
-                "chainId": 80002,
-                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
-                "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20"],
-                "name": "Wrapped Ether",
-                "symbol": "WETH"
-            },
-            {
-                "chainId": 2442,
-                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "wrappedNetworkId": 1,
-                "tags": ["lxly", "governanceToken"]
             }
         ]
     }
