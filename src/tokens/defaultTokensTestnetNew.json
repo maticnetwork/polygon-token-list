@@ -33,7 +33,7 @@
         ]
     },
     {
-        "chainId": 5,
+        "chainId": 11155111,
         "name": "Matic",
         "symbol": "MATIC",
         "decimals": 18,
@@ -44,7 +44,7 @@
         ],
         "wrappedTokens": [
             {
-                "chainId": 80001,
+                "chainId": 80002,
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
                 "wrappedNetworkId": -1,
                 "tags": [
