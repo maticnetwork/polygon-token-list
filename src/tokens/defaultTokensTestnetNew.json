@@ -77,7 +77,7 @@
             },
             {
                 "chainId": 2442,
-                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
                 "wrappedNetworkId": 1,
                 "tags": ["lxly", "governanceToken"]
             }
