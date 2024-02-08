@@ -87,8 +87,8 @@
     },
     {
         "chainId": 11155111,
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
+        "name": "Ether",
+        "symbol": "ETH",
         "decimals": 18,
         "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "originNetworkId": 0,
@@ -102,6 +102,17 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -150,28 +161,6 @@
                 ],
                 "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
                 "fxChildTunnelAddress": ""
-            }
-        ]
-    },
-    {
-        "chainId": 11155111,
-        "name": "ETHER",
-        "symbol": "ETH",
-        "decimals": 18,
-        "originTokenAddress": "0x0000000000000000000000000000000000000000",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "chainId": 2442,
-                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
-                "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
             }
         ]
     }
