@@ -83,6 +83,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x39ce0f048dac7f2f48637fdc69474c7e0c5a9f2c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -103,6 +112,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x478855a2592625F3D73327B4a123238e5e1E7f5E",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
