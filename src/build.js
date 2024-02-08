@@ -27,7 +27,7 @@ const v2PopularTokenList = require("./metadata/defaultTokens.json");
 const v2MappedTokenList = require("./metadata/mappedTokens.json");
 const v2PopularTestnetTokenList = require("./metadata/defaultTokensTestnet.json");
 const v2MappedTestnetTokenList = require("./metadata/mappedTokensTestnet.json");
-const v2PopularTestnetTokenListNew = require("./metadata/mappedTokensTestnetNew.json");
+const v2PopularTestnetTokenListNew = require("./metadata/defaultTokensTestnetNew.json");
 const v2PopularTokenListStaging = require("./metadata/defaultTokensStaging.json");
 const v2MappedTestnetNewTokenList = require("./metadata/mappedTokensTestnetNew.json");
 
