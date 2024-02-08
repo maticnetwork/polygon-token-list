@@ -50873,5 +50873,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Arcana",
+        "symbol": "XAR",
+        "decimals": 6,
+        "originTokenAddress": "0xaa7d74677919f42fe3388dd2d0965032258422fd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x2e5714010cbd2f97a19fc5fc9350a0e7e58d4050",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
