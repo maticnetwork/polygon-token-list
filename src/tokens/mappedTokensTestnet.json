@@ -50851,5 +50851,27 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0xa0a151825524dbdc1b4cfa1ddeffa935521b9bda",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x3f07d24a2458a80c2be97752ba476c27f264ebb6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
