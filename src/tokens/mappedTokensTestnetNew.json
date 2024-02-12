@@ -163,5 +163,27 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "TestTokenA",
+        "symbol": "TTKNA",
+        "decimals": 18,
+        "originTokenAddress": "0x29f7ddbd80f009b19abd28eba1580433a2a892bf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xe0463221493a853847192b1592483c6a66b0d4b1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
