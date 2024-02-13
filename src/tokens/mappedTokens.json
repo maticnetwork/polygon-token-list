@@ -59377,5 +59377,49 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Meteora",
+        "symbol": "MRA",
+        "decimals": "18",
+        "originTokenAddress": "0xc0add6fc2942d86b132f52a0a909ad6b34baaf42",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x390bf80cb7cb2b25b028661b67021ef9f3b873d9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "D-Drops",
+        "symbol": "DOP",
+        "decimals": "18",
+        "originTokenAddress": "0x2a7cad775fd9c5c43f996a948660ffc21b4e628c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf24a9cd051dd11e815cbf699edd704541a08b996",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
