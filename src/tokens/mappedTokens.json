@@ -59421,5 +59421,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Blood Crystal",
+        "symbol": "BC",
+        "decimals": "18",
+        "originTokenAddress": "0x4b6d036d0bc62a633acca6d10956e9dbbb16748f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xfe049f59963545bf5469f968e04c9646d6e2c2c5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
