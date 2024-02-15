@@ -59470,5 +59470,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "FOOM",
+        "symbol": "FOOM",
+        "decimals": 18,
+        "originTokenAddress": "0xd0d56273290d339aaf1417d9bfa1bb8cfe8a0933",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x121f24eb74d871e46e2494f054b2822905c5d78d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
