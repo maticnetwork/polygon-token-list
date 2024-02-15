@@ -4355,6 +4355,17 @@
                 ],
                 "fxRootTunnelAddress": "0xf6d11b8f8e4073b28069968bba32ff0a2fc0bae1",
                 "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa728ae3acb364e41a9300299abeb1c471f5a2143",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x0a2b67b3e687f2e43231798aad89bbaffdac5285",
+                "fxChildTunnelAddress": ""
             }
         ]
     },
