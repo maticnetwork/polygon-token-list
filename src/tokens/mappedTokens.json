@@ -59490,6 +59490,37 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2e250061938231e8d85c9d2d3313dee6674f6609",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SubQueryToken",
+        "symbol": "SQT",
+        "decimals": "18",
+        "originTokenAddress": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc52f0f8361835b53a18408bb44d7f4136f0ef69d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     }
