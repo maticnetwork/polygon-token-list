@@ -207,5 +207,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 2442,
+        "name": "PayToken",
+        "symbol": "PTK",
+        "decimals": 18,
+        "originTokenAddress": "0xc3e9a9ef91982aaff10274be170b28d6a1d952d3",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0x4973a09fea4bef8f089ab849d520af8c99813d72",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
