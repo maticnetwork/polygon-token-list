@@ -229,5 +229,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0x1c7d4b196cb0c7b01d743fbc6116a902379c7238",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x150ae9614a43361775d9d3a006f75ccc558b598f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
