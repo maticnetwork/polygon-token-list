@@ -50994,5 +50994,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "SOUNDLINX",
+        "symbol": "SDLX",
+        "decimals": 18,
+        "originTokenAddress": "0xdbf5855430cd388ea340ec8d00e3042cb2eb08f0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xb5b2dcae0889f8db640b06ab86d5f5c1f76ba10c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
