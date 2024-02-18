@@ -251,5 +251,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0x183c1c4bffbdc620b1d76bc087db678c2d3a1744",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x0abca815904bd28d4943b13a51dab40d24b9d8ae",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
