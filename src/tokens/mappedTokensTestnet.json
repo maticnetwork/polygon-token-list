@@ -51016,5 +51016,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "SGT",
+        "symbol": "SGT",
+        "decimals": "8",
+        "originTokenAddress": "0x9a7e3afd669d270d729b14f7e546f81ac3f2a782",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x5b99a443fb1f40fb0b5152236e5dfb455fa8beb1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
