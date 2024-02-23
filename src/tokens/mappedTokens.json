@@ -59545,5 +59545,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "SpongeBob",
+        "symbol": "SPONGE",
+        "decimals": 18,
+        "originTokenAddress": "0x25722cd432d02895d9be45f5deb60fc479c8781e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd84518aa3db62f26653ec681ab2c1ed158b26ed8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
