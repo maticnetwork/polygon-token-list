@@ -405,5 +405,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Bikera",
+        "symbol": "MERA",
+        "decimals": 18,
+        "originTokenAddress": "0x971b494c1aaf0853f2916a8508a228f2478c2cec",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x9c78bb41121726ec62d657dfb9124051e9c6ca66",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
