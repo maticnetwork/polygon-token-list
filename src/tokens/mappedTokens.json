@@ -59594,5 +59594,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Tamadoge",
+        "symbol": "TAMA",
+        "decimals": 18,
+        "originTokenAddress": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xcd6473e10efba3fb4bd8ef0f2405ae64f6b849b4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
