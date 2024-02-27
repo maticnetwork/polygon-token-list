@@ -59634,5 +59634,49 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "SGT",
+        "symbol": "SGT",
+        "decimals": "8",
+        "originTokenAddress": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x1ef5bb23e0b91c2e8480a4a2b71feb4607cb32f1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ZYM",
+        "symbol": "ZYM",
+        "decimals": "18",
+        "originTokenAddress": "0xfc4d2c10beb523106f8d5cddf4d84b9bd858fe61",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xfd4dc5e8e622ad572eabdd1574d29ee010f8e07d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
