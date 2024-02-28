@@ -493,5 +493,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "bridgesToken",
+        "symbol": "BST",
+        "decimals": "18",
+        "originTokenAddress": "0x59f8bcde6283d74ea3500de41c3ba602bd00cafd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x3c74f7d7377479e30af6f5fdc20b65f6cba2e66f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
