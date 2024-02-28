@@ -471,5 +471,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Nova DAO",
+        "symbol": "NOVA",
+        "decimals": "18",
+        "originTokenAddress": "0x829914b3174618f0e255b13f945083a93cbede46",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x73da332cd70be35af91eb5a8bcca94fac0f68dfb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
