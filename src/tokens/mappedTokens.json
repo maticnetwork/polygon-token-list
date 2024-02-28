@@ -36947,6 +36947,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4958914adfbff9a28f687927c77c0b3474d69546",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/comp.svg"
@@ -59693,6 +59702,28 @@
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DAppNode DAO Token",
+        "symbol": "NODE",
+        "decimals": 18,
+        "originTokenAddress": "0xda007777d86ac6d989cc9f79a73261b3fc5e0da0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x978c3174145f5edfd71652f5e67e31d09c7851ee",
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
