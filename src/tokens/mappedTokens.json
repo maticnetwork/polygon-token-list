@@ -59731,5 +59731,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Sity Token",
+        "symbol": "SITY",
+        "decimals": 18,
+        "originTokenAddress": "0xc8762fea29fd80e7262313374e62359c17e14eca",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xccd5cd27a9b4b36b66e42c7d938775cc320c7e4b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
