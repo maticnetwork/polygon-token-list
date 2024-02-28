@@ -59678,5 +59678,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Smart Layer Network Token",
+        "symbol": "SLN",
+        "decimals": 18,
+        "originTokenAddress": "0xdb82c0d91e057e05600c8f8dc836beb41da6df14",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
