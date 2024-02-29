@@ -537,5 +537,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 2442,
+        "name": "hajmola",
+        "symbol": "HJ",
+        "decimals": 18,
+        "originTokenAddress": "0xba73866cb1d2407bb6c62cb612e3b4ddf035ae05",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0x926b8d456b0b840a9eda949ad5df5e039a596c0c",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
