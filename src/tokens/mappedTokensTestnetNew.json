@@ -559,5 +559,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "EURC",
+        "symbol": "EURC",
+        "decimals": 6,
+        "originTokenAddress": "0x08210f9170f89ab7658f0b5e3ff39b0e03c594d4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x4738bd8d019c4baf0ad6fe51b1b9e8a4512d64fa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
