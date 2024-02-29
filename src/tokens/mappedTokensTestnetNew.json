@@ -515,5 +515,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 2442,
+        "name": "Cardona Points",
+        "symbol": "CRDNA",
+        "decimals": 18,
+        "originTokenAddress": "0x94ab230b92a3f2899e81d46d4e874c6f006c88aa",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0xa1748f5e8939776a9cf74fb8e78b22e00210d31b",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
