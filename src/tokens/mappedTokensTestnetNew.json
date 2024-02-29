@@ -1,0 +1,519 @@
+[
+    {
+        "chainId": 2442,
+        "name": "I am mine",
+        "symbol": "MINE",
+        "decimals": 18,
+        "originTokenAddress": "0xc949f6e273de0fc7e057c39ad3c83859732627c3",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0xadaaa72158ee2b174b9b7b1a06fb0d655d582a64",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xb480378044d92c96d16589eb95986df6a97f2cfb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xf3202e7270a10e599394d8a7da2f4fbd475e96ba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xd7f3b2a4caa993d603d5c28b833cd23f80b50fe0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x39ce0f048dac7f2f48637fdc69474c7e0c5a9f2c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Dummy Mintable ERC20",
+        "symbol": "DERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xf35e40ba249a1cbf5dc3e0ab3084a0df836c0d18",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x0507b845ff73c463f3c73450787daef46f3548db",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18,
+        "originTokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "FxERC20",
+        "symbol": "FE1",
+        "decimals": 18,
+        "originTokenAddress": "0x3fdce5105d3f4aac240d060915227c7cd83517c5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xc0c7095cfe1825211c6e153e2390c14aed67b835",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x60e371b23e4dd30b831f1b718dac7d2d2a0ecb53",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x959949ca0522c617edcc67de2dbb56b7450a7633",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0xae25bd50d3aa98c36756b1547888bf486b7c22f0",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x483208cd22807565c2e250ca9042de57b3fd19f1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "TestTokenA",
+        "symbol": "TTKNA",
+        "decimals": 18,
+        "originTokenAddress": "0x29f7ddbd80f009b19abd28eba1580433a2a892bf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xe0463221493a853847192b1592483c6a66b0d4b1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "LeisureMeta",
+        "symbol": "LM",
+        "decimals": 18,
+        "originTokenAddress": "0x0e9da50f6a320b4db12b2299f62ac00bad0e7a36",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xd6cfaf5404dbdfb37e4bad67f72a3ece502b191b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 2442,
+        "name": "PayToken",
+        "symbol": "PTK",
+        "decimals": 18,
+        "originTokenAddress": "0xc3e9a9ef91982aaff10274be170b28d6a1d952d3",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0x4973a09fea4bef8f089ab849d520af8c99813d72",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0x1c7d4b196cb0c7b01d743fbc6116a902379c7238",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x150ae9614a43361775d9d3a006f75ccc558b598f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0x183c1c4bffbdc620b1d76bc087db678c2d3a1744",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x0abca815904bd28d4943b13a51dab40d24b9d8ae",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0x43ccd359f25d09568e7ec8de5d4ef9c9eaf4c90e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x2a515e02f73f21f676c3b5070d332e12af7ecd9e",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0x843304ccd2e514972da46ee4de4a502c2d55f2fd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x89eba76768c025e8cb191838cdbef2b7b0fa795d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0xbc95d5586470863558ed85fffee3a2587195b344",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x9c9375f93f87c6392f22a27df2cb350112a7eb14",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0x51af7a419c8e78b4cafd993f0dfc3c06e66e0ef7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x39bafa7e0b79e1366704a2784db3428c8bd5db66",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped EtherFi Ether",
+        "symbol": "weETH",
+        "decimals": 18,
+        "originTokenAddress": "0xfd69725abae0c5c55db60d9c5a010a54a96ce40c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x2b25d468462a08f91d2199b813a9a6c139ca757a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 2442,
+        "name": "PayToken",
+        "symbol": "PTK",
+        "decimals": 18,
+        "originTokenAddress": "0x6780f3acb82b5fd847a4d420cfac7d901ee84076",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0x83147790e2b569604dc9adf136f9b177ce32eb1d",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Bikera",
+        "symbol": "MERA",
+        "decimals": 18,
+        "originTokenAddress": "0x971b494c1aaf0853f2916a8508a228f2478c2cec",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x9c78bb41121726ec62d657dfb9124051e9c6ca66",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 2442,
+        "name": "NEEV NETWORK TESTNET",
+        "symbol": "tNEEV",
+        "decimals": 18,
+        "originTokenAddress": "0x9a23b162ebe81cdf7095724af601b102469ac07d",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0x84d9ec2fe586d650375cc37bb180750c49d4d17a",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "NEEV NETWORK TESTNET",
+        "symbol": "tNEEV",
+        "decimals": 18,
+        "originTokenAddress": "0x733e7312d8157f890b7e07feee704e00df16108c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xa8e525500a0e0194a87c6cf5903b3551b1fe3918",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Nova DAO",
+        "symbol": "NOVA",
+        "decimals": "18",
+        "originTokenAddress": "0x829914b3174618f0e255b13f945083a93cbede46",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x73da332cd70be35af91eb5a8bcca94fac0f68dfb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "bridgesToken",
+        "symbol": "BST",
+        "decimals": "18",
+        "originTokenAddress": "0x59f8bcde6283d74ea3500de41c3ba602bd00cafd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x3c74f7d7377479e30af6f5fdc20b65f6cba2e66f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    }
+]
