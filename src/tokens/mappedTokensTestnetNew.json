@@ -491,6 +491,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x4fe2de66f1a8bc6d843416e84aad4c3ed8b6c115",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
