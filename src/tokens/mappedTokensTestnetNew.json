@@ -603,5 +603,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "NEEV NETWORK TESTNET",
+        "symbol": "tNEEV",
+        "decimals": 18,
+        "originTokenAddress": "0xa60de63187520f283a61e1925ff778bdbffdbfb4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xd8539fbded34df27949d6a13c36c4d2a04cd4ad7",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
