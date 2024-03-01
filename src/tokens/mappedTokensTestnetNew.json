@@ -581,5 +581,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "decimals": 18,
+        "originTokenAddress": "0x779877a7b0d9e8603169ddbd7836e478b4624789",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x066f1d09e781c82dbb4e976fc4b47ed3813d31e6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
