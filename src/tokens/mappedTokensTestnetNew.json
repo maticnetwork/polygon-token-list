@@ -634,5 +634,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0xaa8e23fb1079ea71e0a56f48a2aa51851d8433d0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xb02af5db30228b30552a9c59d764524ac9d24522",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
