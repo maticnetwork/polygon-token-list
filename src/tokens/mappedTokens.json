@@ -59762,5 +59762,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "ROND Coin",
+        "symbol": "ROND",
+        "decimals": 18,
+        "originTokenAddress": "0x82197d7446a435105d6f3a430d72a6713960e34d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xfc3bd1e188b73e3346798357f5b15f2d43ebd8e5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
