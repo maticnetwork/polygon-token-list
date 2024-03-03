@@ -51038,5 +51038,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "UNI",
+        "symbol": "UNI",
+        "decimals": 18,
+        "originTokenAddress": "0x603e5ef348ae022031ee83610ff0dcaaa62c3fcd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x47aabf2da728c60bc83f6d3edeaf0055b03105af",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
