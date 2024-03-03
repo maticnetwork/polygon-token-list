@@ -51060,5 +51060,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "originTokenAddress": "0xd7c13106e69f7b4b271b603747e8095dfe9e30d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xf90cabc33f7a246f12aad9974b9b196cede08bd0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
