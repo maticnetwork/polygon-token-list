@@ -51082,5 +51082,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "MKR",
+        "symbol": "MKR",
+        "decimals": 18,
+        "originTokenAddress": "0x90be02599452fbc1a3d47e9eb62895330cfa05ed",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x0bdee59bb12e9fec27832529f0eae6e121f879dc",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
