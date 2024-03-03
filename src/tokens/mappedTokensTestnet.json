@@ -51126,5 +51126,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "SUSD",
+        "symbol": "SUSD",
+        "decimals": 18,
+        "originTokenAddress": "0x4e62eb262948671590b8d967bde048557bdd03ed",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x1e83182c2d599ccbabc00889b6657f330a68b19c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
