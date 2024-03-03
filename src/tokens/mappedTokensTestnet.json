@@ -51104,5 +51104,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "originTokenAddress": "0x091a129a559ee372eb35d339f0da2b7bbab495a3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xb39c0dfc9c6407920d4e6363735420f74b2ddc8c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
