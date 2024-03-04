@@ -51148,5 +51148,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "ZRX",
+        "symbol": "ZRX",
+        "decimals": 18,
+        "originTokenAddress": "0xacfd03ddf9c68015e1943fb02b60c5df56c4cb9e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x7def99b741c96738628196358a6944815e2d01bd",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
