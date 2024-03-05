@@ -51240,5 +51240,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Compound 0x 📈",
+        "symbol": "cZRX",
+        "decimals": 8,
+        "originTokenAddress": "0xa253295ec2157b8b69c44b2cb35360016daa25b1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x53d35566f82b930cc1d3d23e23e33ebcec2911f9",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
