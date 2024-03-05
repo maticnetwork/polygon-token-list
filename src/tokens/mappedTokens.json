@@ -53994,6 +53994,17 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf3443e91b2ea741a49bb7d060037f11786407f4e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x5e1dec6c0dd751d477e9f424deae3e429f0716b1",
+                "fxChildTunnelAddress": ""
             }
         ]
     },
