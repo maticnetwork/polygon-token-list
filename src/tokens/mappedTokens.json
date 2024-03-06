@@ -53286,6 +53286,15 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xe3c8f0d7f978aadf1929cbbfb116419175844f04",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -59752,6 +59761,15 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x1fe78e67ad10ba3a9583e672cac0480737d1b9f7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
                     "erc20"
                 ]
             }
