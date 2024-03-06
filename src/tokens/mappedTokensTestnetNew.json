@@ -656,5 +656,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "TestWsd",
+        "symbol": "TWSD",
+        "decimals": 18,
+        "originTokenAddress": "0xe3a931ba163d3a1b4d0d7332a8cf78c3750d5d69",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x5c6dcb180ce79dc2e09ff6973115d34cdb177f94",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
