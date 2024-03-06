@@ -51262,5 +51262,29 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "TEST",
+        "symbol": "TST",
+        "decimals": "18",
+        "originTokenAddress": "0x0abc24f6e288ad9666c8e4adc7c27989e2c9bf83",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x8df7f5ce9482a2d7ee916b2b42bf49191fdea2d7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
