@@ -59924,5 +59924,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "JEFF",
+        "symbol": "JEFF",
+        "decimals": 18,
+        "originTokenAddress": "0xf831938caf837cd505de196bbb408d81a06376ab",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x25aff8f3bd68cb293a0ebd268f2243a32e476325",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
