@@ -54041,6 +54041,15 @@
                 ],
                 "fxRootTunnelAddress": "0x5e1dec6c0dd751d477e9f424deae3e429f0716b1",
                 "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8521b7676cbf03e0a9853ef1dd12ac1e3030ddfa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
