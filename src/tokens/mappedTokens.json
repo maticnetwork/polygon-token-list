@@ -59840,5 +59840,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Independence Token",
+        "symbol": "RFKJ",
+        "decimals": 18,
+        "originTokenAddress": "0xf64265e65c4529879a7abf467e00d39e39c0b0da",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x343c7e16f2cc19303a764f145515b590eff3397c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
