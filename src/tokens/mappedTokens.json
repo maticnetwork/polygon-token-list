@@ -59893,5 +59893,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "DMCCOIN",
+        "symbol": "DMCC",
+        "decimals": 18,
+        "originTokenAddress": "0x148255a3b10666d9788ec48bc61ea3e48974bf2c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xfc85432e10d6752af03949cf1c2934ed071a02d0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
