@@ -59871,5 +59871,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Rock token",
+        "symbol": "ROCK",
+        "decimals": 18,
+        "originTokenAddress": "0x14349aa52324d02748728cff25774e8db00e330b",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0xb327418f59a237e8fa5fb14267e94d343e8b05dc",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
