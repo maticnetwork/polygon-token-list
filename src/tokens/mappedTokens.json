@@ -59946,5 +59946,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Open Ecosystem Token",
+        "symbol": "OPN",
+        "decimals": "18",
+        "originTokenAddress": "0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x7844f79fc841e4f92d974c417031c76f8578c2d5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
