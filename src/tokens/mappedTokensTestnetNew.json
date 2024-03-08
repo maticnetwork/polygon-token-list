@@ -775,5 +775,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Mitosis Wrapped EtherFi Ether",
+        "symbol": "miweETH",
+        "decimals": 18,
+        "originTokenAddress": "0xb31c077c99e0d61305fcd873a39f974d13bc773c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x3af5d4d51fe72b816aaf140c4262230ed8a0574b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
