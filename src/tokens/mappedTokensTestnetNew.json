@@ -722,5 +722,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Supernova Y",
+        "symbol": "SY",
+        "decimals": "18",
+        "originTokenAddress": "0x1c2246378e97fbe76c9ddf84eac34722691c9111",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x3674ffe94d5a306dda2cdcdc0d735561e4e79bc8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
