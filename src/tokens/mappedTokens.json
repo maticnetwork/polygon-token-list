@@ -59968,5 +59968,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Smell Token",
+        "symbol": "SML",
+        "decimals": 8,
+        "originTokenAddress": "0xa9cc3aa847dfe26d9f4ae1b8aeb50368a840a663",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0ffbf0d8371a7a5fc4e230cdbe2e97924c600d18",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
