@@ -797,5 +797,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "EtherFi Ether",
+        "symbol": "eETH",
+        "decimals": 18,
+        "originTokenAddress": "0x0305ea0a4b43a12e3d130448e9b4711932231e83",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x53d94166b82167e1b1850095105f1f1324542596",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
