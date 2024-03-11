@@ -49192,7 +49192,7 @@
         "chainId": 1,
         "name": "Balance token",
         "symbol": "BAL",
-        "decimals": "0",
+        "decimals": 0,
         "originTokenAddress": "0xe7049114562c759d5e9d1d25783773ccd61c0a65",
         "originNetworkId": 0,
         "tags": [
@@ -51894,27 +51894,19 @@
         "decimals": 18,
         "originTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
+        "tags": ["erc20", "noDeposit"],
         "wrappedTokens": [
             {
                 "chainId": 137,
                 "wrappedTokenAddress": "0xae740d42e4ff0c5086b2b5b5d149eb2f9e1a754f",
                 "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
+                "tags": ["pos", "erc20", "noDeposit"]
             },
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
                 "wrappedNetworkId": 1,
-                "tags": [
-                    "lxly",
-                    "erc20"
-                ]
+                "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
             }
         ]
     },
@@ -53716,7 +53708,7 @@
         "chainId": 1,
         "name": "Arch Blockchains",
         "symbol": "CHAIN",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x89c53b02558e4d1c24b9bf3bed1279871187ef0b",
         "originNetworkId": 0,
         "tags": [
@@ -53738,7 +53730,7 @@
         "chainId": 1,
         "name": "Frog Coin",
         "symbol": "FRG",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x726516b20c4692a6bea3900971a37e0ccf7a6bff",
         "originNetworkId": 0,
         "tags": [
@@ -53760,7 +53752,7 @@
         "chainId": 1,
         "name": "Insula",
         "symbol": "ISLA",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
         "originNetworkId": 0,
         "tags": [
@@ -53848,7 +53840,7 @@
         "chainId": 1,
         "name": "Frankencoin",
         "symbol": "ZCHF",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
         "originNetworkId": 0,
         "tags": [
@@ -53870,7 +53862,7 @@
         "chainId": 1,
         "name": "Qrolli",
         "symbol": "QR",
-        "decimals": "9",
+        "decimals": 9,
         "originTokenAddress": "0xccdb064a41afcd432bcea6f6d0d1e7c371d0b002",
         "originNetworkId": 0,
         "tags": [
@@ -53892,7 +53884,7 @@
         "chainId": 1,
         "name": "Arch Web3",
         "symbol": "WEB3",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x8f0d5660929ca6ac394c5c41f59497629b1dbc23",
         "originNetworkId": 0,
         "tags": [
@@ -53914,7 +53906,7 @@
         "chainId": 1,
         "name": "ProperT",
         "symbol": "PROPT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xd58b9ae085f725ba97b8c30c0d0aec0eca47146b",
         "originNetworkId": 0,
         "tags": [
@@ -53958,7 +53950,7 @@
         "chainId": 1,
         "name": "Salad",
         "symbol": "SALD",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x5582a479f0c403e207d2578963ccef5d03ba636f",
         "originNetworkId": 0,
         "tags": [
@@ -54002,7 +53994,7 @@
         "chainId": 1,
         "name": "WhiteSwap",
         "symbol": "WSD",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
         "originNetworkId": 0,
         "tags": [
@@ -54110,7 +54102,7 @@
         "chainId": 1,
         "name": "Bag",
         "symbol": "BAG",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x735e4886dbaffd3bdbef2d00f70268de5556f6b1",
         "originNetworkId": 0,
         "tags": [
@@ -54132,7 +54124,7 @@
         "chainId": 1,
         "name": "TRADE MASTER",
         "symbol": "TRDM",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xc8dfb57d83bf561457b1a3f6ce22956bb554bcab",
         "originNetworkId": 0,
         "tags": [
@@ -54308,7 +54300,7 @@
         "chainId": 1,
         "name": "WEBILITY",
         "symbol": "WEBI",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x37e43b704181c7324333991bcb42cd3f29a540e8",
         "originNetworkId": 0,
         "tags": [
@@ -54330,7 +54322,7 @@
         "chainId": 1,
         "name": "VERITY",
         "symbol": "VRTY",
-        "decimals": "12",
+        "decimals": 12,
         "originTokenAddress": "0x87e960f996e789ca2c8415fc449e4720adbe0497",
         "originNetworkId": 0,
         "tags": [
@@ -54352,7 +54344,7 @@
         "chainId": 1,
         "name": "bitsCrunch Token",
         "symbol": "BCUT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406",
         "originNetworkId": 0,
         "tags": [
@@ -59220,7 +59212,7 @@
         "chainId": 1,
         "name": "JannaviToken",
         "symbol": "JN",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xd5acd9226fcaa71b0e94eac53ba29fb831389e92",
         "originNetworkId": 0,
         "tags": [
@@ -59317,7 +59309,7 @@
         "chainId": 1,
         "name": "Kabuni Coin",
         "symbol": "KBC",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xa88920b4a35f7d0e81bc586ce1875036fced9154",
         "originNetworkId": 0,
         "tags": [
@@ -59339,7 +59331,7 @@
         "chainId": 1,
         "name": "RoyaltyCOIN",
         "symbol": "RYLT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xd30a2e9347ad48ea208ee563a9cdfd80e962a727",
         "originNetworkId": 0,
         "tags": [
@@ -59361,7 +59353,7 @@
         "chainId": 1,
         "name": "Big Time",
         "symbol": "BIGTIME",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
         "originNetworkId": 0,
         "tags": [
@@ -59449,7 +59441,7 @@
         "chainId": 1,
         "name": "Curve.Fi USD Stablecoin",
         "symbol": "crvUSD",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
         "originNetworkId": 0,
         "tags": [
@@ -59502,7 +59494,7 @@
         "chainId": 1,
         "name": "Bag",
         "symbol": "BAG",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x808688c820ab080a6ff1019f03e5ec227d9b522b",
         "originNetworkId": 0,
         "tags": [
@@ -59546,7 +59538,7 @@
         "chainId": 1,
         "name": "Meteora",
         "symbol": "MRA",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xc0add6fc2942d86b132f52a0a909ad6b34baaf42",
         "originNetworkId": 0,
         "tags": [
@@ -59568,7 +59560,7 @@
         "chainId": 1,
         "name": "D-Drops",
         "symbol": "DOP",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x2a7cad775fd9c5c43f996a948660ffc21b4e628c",
         "originNetworkId": 0,
         "tags": [
@@ -59590,7 +59582,7 @@
         "chainId": 1,
         "name": "Blood Crystal",
         "symbol": "BC",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x4b6d036d0bc62a633acca6d10956e9dbbb16748f",
         "originNetworkId": 0,
         "tags": [
@@ -59643,7 +59635,7 @@
         "chainId": 1,
         "name": "SubQueryToken",
         "symbol": "SQT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
         "originNetworkId": 0,
         "tags": [
@@ -59665,7 +59657,7 @@
         "chainId": 1,
         "name": "Arcana Network",
         "symbol": "XAR",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x5027fc44a7ba114b8f494b1e4970900c6652fedf",
         "originNetworkId": 0,
         "tags": [
@@ -59731,7 +59723,7 @@
         "chainId": 1,
         "name": "SGT",
         "symbol": "SGT",
-        "decimals": "8",
+        "decimals": 8,
         "originTokenAddress": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
         "originNetworkId": 0,
         "tags": [
@@ -59753,7 +59745,7 @@
         "chainId": 1,
         "name": "ZYM",
         "symbol": "ZYM",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xfc4d2c10beb523106f8d5cddf4d84b9bd858fe61",
         "originNetworkId": 0,
         "tags": [
@@ -59960,7 +59952,7 @@
         "chainId": 1,
         "name": "Open Ecosystem Token",
         "symbol": "OPN",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509",
         "originNetworkId": 0,
         "tags": [
