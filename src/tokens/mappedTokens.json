@@ -51894,19 +51894,31 @@
         "decimals": 18,
         "originTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "originNetworkId": 0,
-        "tags": ["erc20", "noDeposit"],
+        "tags": [
+            "erc20",
+            "noDeposit"
+        ],
         "wrappedTokens": [
             {
                 "chainId": 137,
                 "wrappedTokenAddress": "0xae740d42e4ff0c5086b2b5b5d149eb2f9e1a754f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit"]
+                "tags": [
+                    "pos",
+                    "erc20",
+                    "noDeposit"
+                ]
             },
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0xb584516c8d90f133a48af5cc445cc5d924cf9863",
                 "wrappedNetworkId": 1,
-                "tags": ["lxly", "erc20", "noDeposit", "noWithdraw"]
+                "tags": [
+                    "lxly",
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
+                ]
             }
         ]
     },
@@ -59923,6 +59935,15 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x0f388bce483f0f28811093d4d4e6f81547426f2f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -59987,6 +60008,94 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OMTest Token",
+        "symbol": "OMTTZ",
+        "decimals": 18,
+        "originTokenAddress": "0xdb8f07b4992f2ae797226238d549946da901c0f2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x79deed8f13f9c033ea78959b392b10a96715c2d8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Ethereum Message Search",
+        "symbol": "EMS",
+        "decimals": 18,
+        "originTokenAddress": "0xa3e97b72ce6d439a2a257534bade7c2e3cb63491",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x860475f4ca1afe93dcf5551f1af4e04fed58cfaa",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LeisureMeta",
+        "symbol": "LM",
+        "decimals": 18,
+        "originTokenAddress": "0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xb2d3edf61b27ab28288d8c760fa686be084ff526",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SINERGIA",
+        "symbol": "SNG",
+        "decimals": 8,
+        "originTokenAddress": "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf4d984e112835f73f1d4655d1d97ab75993b3c55",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
                     "erc20"
                 ]
             }
