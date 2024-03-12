@@ -918,5 +918,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "ZYM",
+        "symbol": "ZYM",
+        "decimals": 18,
+        "originTokenAddress": "0x63fa0723a30405f10b0aa8c21442d3c3a71595dd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x4b3580d78f0fe4444fa1748aad88ef1a2190b8a8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
