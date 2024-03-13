@@ -51382,5 +51382,29 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "Root ERC20 Token",
+        "symbol": "rootERC20Token",
+        "decimals": 18,
+        "originTokenAddress": "0x77953efdacfcfa8cc154cff01db57f8a50e5e96e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xe6a432576d8a208f42d49f4c12fc833427892d3f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
