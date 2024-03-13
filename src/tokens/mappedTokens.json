@@ -60100,5 +60100,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Grandma",
+        "symbol": "GRNDMA",
+        "decimals": 8,
+        "originTokenAddress": "0xbf94e3bdac6ddc980d5d7a1fbc2d14a05ea29e9f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa99a4d7df1a3f013fbafc059aa2b5a039a349c46",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
