@@ -51286,5 +51286,29 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 5,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": 0,
+        "originTokenAddress": "0xf93041f3816a60098a056501fcef5fcd286e18fc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa625ae661cefc64b636cb93111e7b4bcc1b47bb9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x3658ccfde5e9629b0805eb06aacfc42416850961",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
