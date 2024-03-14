@@ -940,5 +940,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Stos",
+        "symbol": "STOS",
+        "decimals": 18,
+        "originTokenAddress": "0xb0dbef1d2610c145ee87d26811c207ed5f8a26cf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x40b66a618ab3530a2f3beb8dda64eeddbb882072",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
