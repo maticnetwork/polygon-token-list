@@ -60122,5 +60122,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Telcoin",
+        "symbol": "TEL",
+        "decimals": 2,
+        "originTokenAddress": "0x85e076361cc813a908ff672f9bad1541474402b2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2ebb326144c3f3f644149a2d519d8e3c7dd02d41",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
