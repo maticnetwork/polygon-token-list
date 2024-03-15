@@ -60188,5 +60188,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Shih Tzu",
+        "symbol": "SHIH",
+        "decimals": 18,
+        "originTokenAddress": "0x841fb148863454a3b3570f515414759be9091465",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4f39fcaa65a186133e14f736383a8d0a921a8814",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
