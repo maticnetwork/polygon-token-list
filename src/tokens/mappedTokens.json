@@ -60144,5 +60144,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Aether Games",
+        "symbol": "AEG",
+        "decimals": 6,
+        "originTokenAddress": "0x80ca3d361affeb2bd088d8710fd3a620751778d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd862f7a1ea9ad8b8818171cf617ff42afe69bedc",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
