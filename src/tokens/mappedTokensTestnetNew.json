@@ -1006,5 +1006,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "DEAR Coin",
+        "symbol": "DEAR",
+        "decimals": 18,
+        "originTokenAddress": "0xcc93398ae07301af1262fcb83087532b3690e94d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xe42ac9e7d01c5078ef694d9c75f841aecd8aae1a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
