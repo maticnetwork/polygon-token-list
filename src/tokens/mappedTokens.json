@@ -60254,5 +60254,115 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "KOSHER CERTIFIED | VERIFIED | VERITY",
+        "symbol": "KOSHER",
+        "decimals": 18,
+        "originTokenAddress": "0x64ad128b1cef10dbb279a7ac7190ddab043a16e7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2e47767fb240467fe5841fec00562773afcdf2ff",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Open Meta City",
+        "symbol": "OMZ",
+        "decimals": 18,
+        "originTokenAddress": "0xd7d9babf56a66daff2ac5dc96f7e886c05124676",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x7272a5a8bd39f204bf773e8b74bb01e31681ad1d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Arch Crypto AI",
+        "symbol": "ACAI",
+        "decimals": 18,
+        "originTokenAddress": "0xd1ce69b4bdd3dda553ea55a2a57c21c65190f3d5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x9f5c845a178dfcb9abe1e9d3649269826ce43901",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Digital Asset Rights Token",
+        "symbol": "DAR",
+        "decimals": 18,
+        "originTokenAddress": "0x5d953355d8dd64fc39e6124e66e89af15fda4cb5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x428f3da909445b1bfd14f359beb114059ec96148",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Frankencoin Pool Share",
+        "symbol": "WFPS",
+        "decimals": 18,
+        "originTokenAddress": "0x5052d3cc819f53116641e89b96ff4cd1ee80b182",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x54cc50d5cc4914f0c5da8b0581938dc590d29b3d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
