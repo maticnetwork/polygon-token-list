@@ -60364,5 +60364,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped SOL",
+        "symbol": "SOL",
+        "decimals": 9,
+        "originTokenAddress": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x99bd591703721d7c4e0413c91902bc2418e4e598",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
