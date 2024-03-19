@@ -1094,5 +1094,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "OCTZTest",
+        "symbol": "OCTZ",
+        "decimals": 18,
+        "originTokenAddress": "0x1b8f382c9ff29d8c83a0341d452304cd79075736",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x5bc90f0d5fa1b716fb5edfda885a44bfc41b5594",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
