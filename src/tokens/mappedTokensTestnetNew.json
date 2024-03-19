@@ -1028,5 +1028,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Cobak Token",
+        "symbol": "CBK",
+        "decimals": 18,
+        "originTokenAddress": "0xac4b2b9240569ee4ce2e62ddd31278e4da73508d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x6dc1ed4402a9db4956e077876e72d3ac7ba7f47f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
