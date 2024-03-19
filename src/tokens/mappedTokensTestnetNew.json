@@ -1072,5 +1072,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": 18,
+        "originTokenAddress": "0xa0e6b699cc6b91a71f4ba0994ac9f90006f8bccc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xdd77d62e163e92580bbdded97798d3c6cf7460c6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
