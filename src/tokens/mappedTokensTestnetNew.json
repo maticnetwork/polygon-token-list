@@ -1138,5 +1138,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Digital Asset Rights Token",
+        "symbol": "DAR",
+        "decimals": 18,
+        "originTokenAddress": "0xea87a4a2d9f54f18e9f30758740a8dac11992b6d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xe939da1ef4d82c2f460a85c6bd65af4bd6c066d1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
