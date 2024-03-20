@@ -1116,5 +1116,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MyPermitToken",
+        "symbol": "MPT",
+        "decimals": 18,
+        "originTokenAddress": "0xb237992b4ff5eb72fa51a6f22e48de635ec7b5bd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xb73ac8123e72d6fc43a255fdf7539f62d6f1fd0a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
