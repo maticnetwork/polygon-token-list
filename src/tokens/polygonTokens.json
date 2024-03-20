@@ -20862,5 +20862,27 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+        "chainId": 137,
+        "name": "LeisureMeta",
+        "symbol": "LM",
+        "decimals": 18,
+        "address": "0xb2d3Edf61B27ab28288D8c760fa686Be084ff526",
+        "logoURI": "https://d3j8b1jkcxmuqq.cloudfront.net/images/logo/logo_leisuremeta.png",
+        "tags": [
+            "erc20",
+            "pos"
+        ],
+        "extensions": {
+            "originTokenAddress": "0xc064F4F215B6A1E4e7F39bD8530C4dE0fC43ee9D",
+            "project": {
+                "name": "LeisureMetaveres",
+                "summary": "LeisureMetaverse, a new normal community project in building social, cultural, and economic communities for Web 3.0 Creators and fans, issued its own utility token, LM token. LeisureMetaverse is a Web 3.0 Enabler that realizes the Web 3.0 values of rights and introduces Web 3.0 Creator, a new form of employment and income source. LeisureMetaverse aims to become the core infrastructure of the digital economy in social, cultural, and economic communities where humanity and free will are respected. LeisureMetaverse operates its own blockchain, but the LM token in LeisureMetaverse and the ERC20 LM token on Ethereum are interchangeable through the gateway between LeisureMetaverse and Ethereum.",
+                "contact": "contact@leisuremeta.io",
+                "website": "https://leisuremeta.io//"
+            },
+            "originTokenNetwork": 0
+        }
     }
 ]
