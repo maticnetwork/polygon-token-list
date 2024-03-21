@@ -31624,6 +31624,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x74024b4859bfc5d0b69838cde4f1ba4499119d91",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/ern.svg"
