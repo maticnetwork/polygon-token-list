@@ -60417,5 +60417,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "PKG Token",
+        "symbol": "PKG",
+        "decimals": 18,
+        "originTokenAddress": "0x02f2d4a04e6e01ace88bd2cd632875543b2ef577",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x660d718d6295c5087bef3c4eebbb217d368d9dde",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
