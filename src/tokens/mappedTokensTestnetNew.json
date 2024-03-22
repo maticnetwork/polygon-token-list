@@ -1182,5 +1182,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 2442,
+        "name": "TEST1",
+        "symbol": "TT",
+        "decimals": 18,
+        "originTokenAddress": "0xd7704eccb6d9355e7723fa92d5704c5c70031c8d",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0x262fec096869bf57bddaffb2fe6b4f37e6383055",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
