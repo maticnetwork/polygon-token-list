@@ -20862,5 +20862,23 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+        "chainId": 137,
+        "name": "saltydog",
+        "symbol": "SDOG",
+        "decimals": 18,
+        "address": "0x123127BEEe6193b805fC7a0af414B09E2e96F377",
+        "logoURI": "https://github.com/saltydogcoin/saltydogcoin/blob/1c0d3641fa92ad23b2d09eda573e02fd772fb99d/saltydogcoinsmall.jpg",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+            "rootAddress": "0xBd2262775F0559Adf02D4C01E457853D427915F2",
+            "project": {
+                "name": "Salty Dog Coin",
+                "summary": "Salty Dog Coin is a lifestyle token based on Beach going dogs, NFTs, merchandise and more",
+                "contact": "https://twitter.com/saltydogcoin",
+                "website": "https://www.saltydogcoin.com/"
+            }
+        }
     }
 ]
