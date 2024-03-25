@@ -1257,5 +1257,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "bubotest",
+        "symbol": "TBUBO",
+        "decimals": 18,
+        "originTokenAddress": "0x4b00c4433d092220355955e0edf6b527da970d7b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x7bc5fa71622bb8903745d497d84007718f4cc6cd",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
