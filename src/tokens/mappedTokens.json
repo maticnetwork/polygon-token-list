@@ -826,7 +826,9 @@
         "originTokenAddress": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20",
+            "noDeposit",
+            "noWithdraw"
         ],
         "wrappedTokens": [
             {
@@ -835,7 +837,9 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ],
