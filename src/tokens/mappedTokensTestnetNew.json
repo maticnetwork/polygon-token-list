@@ -1301,5 +1301,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Bridged USDCS",
+        "symbol": "USDC.s",
+        "decimals": 6,
+        "originTokenAddress": "0x9cc6e2740fb24af0db5fd5f218494c018246298e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xd87392171247b99d6de56832b2edc02e317c0f21",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
