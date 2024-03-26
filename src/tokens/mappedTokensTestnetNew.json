@@ -1299,6 +1299,17 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x1d747676940c490b08c40db90da4bf653e57473a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
             }
         ]
     },
