@@ -60419,6 +60419,15 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x566611224e1beb2c74ace0426cdbef0c71917c75",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -60439,6 +60448,72 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "WERACLE",
+        "symbol": "WERAC",
+        "decimals": 18,
+        "originTokenAddress": "0x45724b2980960a78f3e3fa84fc6f890b22835488",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x6bfdc41db6b555cf4b5c13a3982ab8235f7f76f7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "XWW Corp",
+        "symbol": "XWW",
+        "decimals": 18,
+        "originTokenAddress": "0x6ee592b1c2386b4d3b12c0622afc1fa0de5c1a20",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc88ed7f3186dccc471456c7386e75beff00f6bba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "EDUM",
+        "symbol": "EDUM",
+        "decimals": 18,
+        "originTokenAddress": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x8bed972bc5ff0ab8290461cd01f8b58f39fa312f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
                     "erc20"
                 ]
             }
