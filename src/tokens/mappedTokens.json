@@ -60518,5 +60518,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Unipilot",
+        "symbol": "PILOT",
+        "decimals": 18,
+        "originTokenAddress": "0x37c997b35c619c21323f3518b9357914e8b99525",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa3f8e91455a84ea02a6435d5db15667cedaf7c10",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
