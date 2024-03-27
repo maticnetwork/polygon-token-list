@@ -60549,5 +60549,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "RoRa Prime",
+        "symbol": "RORAP",
+        "decimals": 18,
+        "originTokenAddress": "0xd682c2ff2a311959e62f242e77037c18df3ac823",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8d0161e0a990d31752108a7481005a679531905f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
