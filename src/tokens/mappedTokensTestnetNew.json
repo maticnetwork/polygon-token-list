@@ -1334,5 +1334,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "JFH Token",
+        "symbol": "JFH",
+        "decimals": 18,
+        "originTokenAddress": "0x7de7d2054ab97f9983ac54c0582dceb976d9a8a6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x035455efefa420a99dee332f71b55eed8a1bd042",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
