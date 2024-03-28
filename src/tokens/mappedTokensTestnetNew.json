@@ -1356,5 +1356,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "OSIS",
+        "symbol": "ATM",
+        "decimals": 18,
+        "originTokenAddress": "0xf1b306e0624cf788954c08f8b03c981d4b44e8f2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x5017480de11fc20d2457f6347f0ba4b65f85f0f2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
