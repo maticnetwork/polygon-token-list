@@ -60580,5 +60580,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Uniports Online Shopping  Token",
+        "symbol": "UOST",
+        "decimals": 6,
+        "originTokenAddress": "0xab86b582eb502243d8dfe1795760f86d98d6637a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd5846cabc4b387ca5689d36604a2846621f302e2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
