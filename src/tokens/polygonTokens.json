@@ -20865,10 +20865,10 @@
     },
     {
         "chainId": 137,
-        "name": "saltydog",
+        "name": "$SALTYDOG",
         "symbol": "SDOG",
         "decimals": 18,
-        "address": "0x123127BEEe6193b805fC7a0af414B09E2e96F377",
+        "address": "0xde56ABbDE938904254927A3597D80eCC020e070b",
         "logoURI": "https://www.saltydogcoin.com/images/saltydogcoinsmall.svg",
         "tags": ["pos", "erc20", "swapable"],
         "extensions": {
