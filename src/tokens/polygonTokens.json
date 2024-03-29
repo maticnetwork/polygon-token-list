@@ -20863,4 +20863,17 @@
         }
       }
     }
+    },
+    {
+        "chainId": 137,
+        "name": "MAGURO Coin",
+        "symbol": "MAGURO",
+        "decimals": 18,
+        "address": "0x15d69c70904A09DBA9d1E64A98BB91FAa5DB197b",
+        "logoURI": "https://github.com/tsuruco/crypto-MAGURO/blob/main/S__999428.jpg",
+        "tags": ["pos", "erc20", "swapable"],
+        "extensions": {
+          "rootAddress": "0xdA7b17763873A71FB1Bbe7AC36ecef27F05986B4"
+        }
+    }
 ]
