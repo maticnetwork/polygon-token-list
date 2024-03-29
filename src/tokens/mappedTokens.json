@@ -60611,5 +60611,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Alephium (AlphBridge)",
+        "symbol": "ALPH",
+        "decimals": 18,
+        "originTokenAddress": "0x590f820444fa3638e022776752c5eef34e2f89a6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9ea399f7daa29c46637bfca37a2db45afa3c2298",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
