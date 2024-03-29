@@ -20862,5 +20862,24 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+        "chainId": 137,
+        "name": "EDUM",
+        "symbol": "EDUM",
+        "decimals": 18,
+        "address": "0x8BED972bC5FF0ab8290461cd01f8B58F39fa312F",
+        "logoURI": "https://drive.google.com/file/d/1vlS_KVTqy8H0gX0IM5BCckS0AWRJcoTG/view?usp=sharing",
+        "tags": ["POS", "erc20"],
+        "extensions": {
+            "originTokenAddress": "0xaC9518BA93EeB2336A03137d254d8CC2e4d0fA38", 
+            "originTokenNetwork": "-1",
+          "project": {
+            "name": "EDUM",
+            "summary": "EDUM Project aims to establish a web 3.0 blockchain ecosystem in the education field that enables learners to acquire practical economic value through innovative systems of reward, certification, and intellectual property.",
+            "contact": "contact@edum.io",
+            "website": "https://edum.io/"
+          }
+        }
     }
 ]
