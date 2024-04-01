@@ -1758,6 +1758,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x424480e9ccbb705f0fe37662186f27c061ae0f27",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://drive.google.com/file/d/106QzWJ-42p2FVsgZQ4pVCw_cTTAudU39/view?usp=sharing"
