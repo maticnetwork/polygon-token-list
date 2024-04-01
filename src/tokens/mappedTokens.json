@@ -60642,5 +60642,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "ValorToken",
+        "symbol": "VALOR",
+        "decimals": 18,
+        "originTokenAddress": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x376e8b803b59843ffe16f8d7190912a9d30a038c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
