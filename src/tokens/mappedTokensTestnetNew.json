@@ -1444,5 +1444,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "EDUM",
+        "symbol": "EDUM",
+        "decimals": 18,
+        "originTokenAddress": "0xda418f2e76c1605aff49817bb357e81bc73d99c9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x45572f4ae8610e6b665418d1bccfb69e5bbb363c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
