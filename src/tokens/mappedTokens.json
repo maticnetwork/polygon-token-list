@@ -60673,5 +60673,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "TestUSDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0x83bf0bacd31f9c2ae93da3a863a4f210f7b9bce1",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0xfeac23a9bdc4206e27e290d1ca439ac0df1c6a4a",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
