@@ -1488,5 +1488,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "BYL-NFT",
+        "symbol": "ApNFT",
+        "decimals": 0,
+        "originTokenAddress": "0x09cb91e30fa29450af4fd641760c5b06e63ab993",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xf6e87559ace32137d2123ae5c71af4672992ee8e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
