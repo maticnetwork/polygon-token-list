@@ -60695,5 +60695,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "JPY Coin",
+        "symbol": "JPYC",
+        "decimals": 18,
+        "originTokenAddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x674a7bb9b3302edcec6d23cb697298177f371183",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
