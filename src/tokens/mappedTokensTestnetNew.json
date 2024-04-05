@@ -1532,5 +1532,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Decentraland MANA",
+        "symbol": "MANA",
+        "decimals": 18,
+        "originTokenAddress": "0xfa04d2e2ba9aec166c93dfeeba7427b2303befa9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x7ad72b9f944ea9793cf4055d88f81138cc2c63a0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
