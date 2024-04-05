@@ -60717,5 +60717,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Gala",
+        "symbol": "GALA",
+        "decimals": 8,
+        "originTokenAddress": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd3131e4ad1eb2148b6d31758f500039d0123311c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
