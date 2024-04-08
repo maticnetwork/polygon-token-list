@@ -40056,6 +40056,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x37908ffdef18add36518e781a9a77c2c6f4a4260",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://s.ozys.io/icon/orbitchain.svg"
