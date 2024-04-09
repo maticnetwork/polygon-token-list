@@ -1576,5 +1576,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "wMinima",
+        "symbol": "wMIN",
+        "decimals": 18,
+        "originTokenAddress": "0xe60eefee4f610db767371591480c7ddbfceae719",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x3ebb712f6d4465ee9cae56558d0bde0dce45874e",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
