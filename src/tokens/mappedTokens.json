@@ -60408,28 +60408,6 @@
     },
     {
         "chainId": 1,
-        "name": "Digital Asset Rights Token",
-        "symbol": "DAR",
-        "decimals": 18,
-        "originTokenAddress": "0x5d953355d8dd64fc39e6124e66e89af15fda4cb5",
-        "originNetworkId": 0,
-        "tags": [
-            "erc20"
-        ],
-        "wrappedTokens": [
-            {
-                "chainId": 137,
-                "wrappedTokenAddress": "0x428f3da909445b1bfd14f359beb114059ec96148",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20"
-                ]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
         "name": "Wrapped Frankencoin Pool Share",
         "symbol": "WFPS",
         "decimals": 18,
