@@ -60766,5 +60766,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Minima",
+        "symbol": "WMINIMA",
+        "decimals": 18,
+        "originTokenAddress": "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa559438c63d360228457073d677093d161c58f30",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
