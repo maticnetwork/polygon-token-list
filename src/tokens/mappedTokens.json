@@ -60819,5 +60819,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Test10.04",
+        "symbol": "T10.04",
+        "decimals": 18,
+        "originTokenAddress": "0x088092c8998f38d20ddd5c6d6a32d1d98567db7f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3bc4313f9f679774a77db26d699ae7df7f4b3a33",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
