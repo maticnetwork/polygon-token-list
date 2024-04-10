@@ -60797,5 +60797,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Banana Cat",
+        "symbol": "BANANACAT",
+        "decimals": 18,
+        "originTokenAddress": "0x179bdd4870d6eacfd273cd4c8cbc4542a4433b8b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7c749a65556d01bf3fbb435653def906a5b585f8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
