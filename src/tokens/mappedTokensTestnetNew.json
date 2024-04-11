@@ -1598,5 +1598,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Fuzuki Inu",
+        "symbol": "Fuzuki",
+        "decimals": 18,
+        "originTokenAddress": "0x94dd543aac2f95d7a36ba04340713bb17109f555",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x82762a2ceb44e844cb33eb7718c15492bcab9bae",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
