@@ -60859,5 +60859,93 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Digital Asset Rights Token",
+        "symbol": "DAR",
+        "decimals": 18,
+        "originTokenAddress": "0x1db11e86fa9b9a87813a4dd3f747eef12ed55a55",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x30d3d659dcfb9620acde64605068718f270fda6d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Arch Bitcoin Diversified Yield",
+        "symbol": "ABDY",
+        "decimals": 18,
+        "originTokenAddress": "0xde2925d582fc8711a0e93271c12615bdd043ed1c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xef7b6cd33afafc36379289b7accae95116e27c88",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "UTU Coin",
+        "symbol": "UTU",
+        "decimals": 18,
+        "originTokenAddress": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x05f691c5bd5efb3e70686dcf24effe9ce3fd7260",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Hokuto 7",
+        "symbol": "HKT",
+        "decimals": 18,
+        "originTokenAddress": "0x05249b2e1f2492a8a64a67863d8ee2d4823b3d51",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x39e2f4d8d74f5efa4db732a751f7731764968f00",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
