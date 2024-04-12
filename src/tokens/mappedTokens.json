@@ -60947,5 +60947,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "DeNet Storage (Layer 2)",
+        "symbol": "etherDE",
+        "decimals": 18,
+        "originTokenAddress": "0x7cc35c17db6fc7c7894f0ac19932a2c852fa7ed2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x49f93950983dda593b6867bbd40e7e87ad8d4056",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
