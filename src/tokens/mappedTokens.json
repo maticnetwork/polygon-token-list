@@ -60978,5 +60978,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "LIFE Rewards Token",
+        "symbol": "LIRF",
+        "decimals": 18,
+        "originTokenAddress": "0xf278a83dd165b73257bf6d51bb692f6373183205",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x6b636775db455d3c6371c4a5042c313e22440212",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
