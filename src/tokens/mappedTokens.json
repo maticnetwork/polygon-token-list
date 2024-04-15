@@ -54646,6 +54646,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x28a32b0d375a3b24d8fd57b81f19decfec34c732",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
