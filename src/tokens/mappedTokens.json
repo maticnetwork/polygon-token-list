@@ -61049,5 +61049,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Frankencoin Pool Share",
+        "symbol": "FPS",
+        "decimals": 18,
+        "originTokenAddress": "0x1ba26788dfde592fec8bcb0eaff472a42be341b2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4b4f83b59f2d7535a21e72c20b6d0ae4f59de23d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
