@@ -1642,5 +1642,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "SAND",
+        "symbol": "SAND",
+        "decimals": 18,
+        "originTokenAddress": "0x0dd44c60565b3c1a4a6b97013e722940fd37580e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xd20fbd836e80dabfb777e6aabbe52e96c07ecd1b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
