@@ -61080,5 +61080,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Calvaria: Duels of Eternity",
+        "symbol": "RIA",
+        "decimals": 18,
+        "originTokenAddress": "0x9b110fda4e20db18ad7052f8468a455de7449eb6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5b6616fb63fb5f855761a7151072a6d888fc07fe",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
