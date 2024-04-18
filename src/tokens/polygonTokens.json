@@ -20862,5 +20862,23 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+      "chainId": 137,
+      "name": "uaht.io",
+      "symbol": "UAHT",
+      "decimals": 2,
+      "address": "0x0d9447e16072b636b4a1e8f2b8c644e58f3eaa6a",
+      "logoURI": "https://raw.githubusercontent.com/starscrowding/UAHT/dev/public/icon.png",
+      "tags": ["erc20", "stablecoin"],
+      "extensions": {
+        "rootAddress": "0x0d9447e16072b636b4a1e8f2b8c644e58f3eaa6a",
+        "project": {
+          "name": "UAHT",
+          "summary": "Borderless protocol for free people.",
+          "contact": "space@uaht.io",
+          "website": "https://uaht.io/"
+        }
+      }
     }
 ]
