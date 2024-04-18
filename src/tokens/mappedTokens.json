@@ -59100,7 +59100,7 @@
         "originTokenAddress": "0xaC9518BA93EeB2336A03137d254d8CC2e4d0fA38",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20" 
         ],
         "wrappedTokens": [
             {
