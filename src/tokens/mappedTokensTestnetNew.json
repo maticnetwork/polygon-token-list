@@ -1686,5 +1686,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "testing",
+        "symbol": "ttt",
+        "decimals": 18,
+        "originTokenAddress": "0xfe8bda4e1f1bcd3d009f0a20f764f371d135f93a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x1ea7ee29d6393ce2f76a287411c4ad5ebc8e1eaf",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
