@@ -1664,5 +1664,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "WhiteSwap",
+        "symbol": "WSD",
+        "decimals": 18,
+        "originTokenAddress": "0x86f2c3b6982cc27e2e5e7b5d1b126625e51716a3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xba7b5f58e58c49c8aead5d9f3861ac10158ae89b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
