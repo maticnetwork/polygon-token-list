@@ -1684,6 +1684,17 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xad9fe25d42afd05d7851747ef93108002d6da810",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x049dce18d91f360d8dd089a147454a99db434205",
+                "fxChildTunnelAddress": ""
             }
         ]
     },
