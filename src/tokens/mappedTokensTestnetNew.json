@@ -1752,5 +1752,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "TestToken",
+        "symbol": "TT",
+        "decimals": 6,
+        "originTokenAddress": "0x0f4495a394aaabaa86c2c09b6ccadf04f1ce0b3e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x235ecb3ca1ed341d161c678f6f78a4aa61397e37",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
