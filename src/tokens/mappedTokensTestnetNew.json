@@ -1730,5 +1730,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Legend",
+        "symbol": "LEGEND",
+        "decimals": 18,
+        "originTokenAddress": "0x4331555cf00df056ddce67149f2236b2c417bc02",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x8b377fdacb6d5bd4d13707fb7b9a2d523a4afdf4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
