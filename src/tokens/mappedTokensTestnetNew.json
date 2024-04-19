@@ -1774,5 +1774,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "RealityMetaverse",
+        "symbol": "RMV",
+        "decimals": 18,
+        "originTokenAddress": "0xf84f773d0514602cb9cdc5ad4f07b36c63b7704c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xea594bff00454c2ae81c212bf3394676547de486",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
