@@ -1796,5 +1796,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "THXC V1",
+        "symbol": "THXCV1",
+        "decimals": 18,
+        "originTokenAddress": "0x4d4d4dfd77fd930d319361161515597d55fb967d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x8bdc1239840d4a0db234f2e7d65df83164d18e49",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
