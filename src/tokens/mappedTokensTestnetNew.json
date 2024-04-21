@@ -1884,5 +1884,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Capexmove Root Sterling",
+        "symbol": "rCPGBP",
+        "decimals": 0,
+        "originTokenAddress": "0x5fb0ccadc860aed317d0e04937e2efc4c0cf50f5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x96cd05907fc6a5afa5067a1e24273ab9909fa8ba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
