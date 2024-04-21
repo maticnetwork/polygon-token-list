@@ -1840,5 +1840,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "ERC20 ownerless generic token",
+        "symbol": "ERC20TokenOwnerless",
+        "decimals": 18,
+        "originTokenAddress": "0xeb2725bd76f6b1569cf1484fca0f2d55714a085d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xecd870085aa3bab4ae12f675811122da4173c6a9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
