@@ -1862,5 +1862,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Forta",
+        "symbol": "FORT",
+        "decimals": 18,
+        "originTokenAddress": "0x95d9a757ad9c25999ffe93f3067221f04ce1cc79",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xac8713e6bbc45684abdc16fdbdd3bc628761f252",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
