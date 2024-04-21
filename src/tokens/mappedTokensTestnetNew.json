@@ -1906,5 +1906,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Capexmove Root Euro",
+        "symbol": "rCPEUR",
+        "decimals": 0,
+        "originTokenAddress": "0x492139751161586686fcbc640e9a96e37fdb680a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xdde53e1d4b30cdcdf6f994c1208e4ed38ccdef31",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
