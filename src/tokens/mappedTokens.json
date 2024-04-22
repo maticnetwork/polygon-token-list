@@ -61034,6 +61034,15 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x537438d607d6ddd828ff58dbc2f2eb130675154f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -61120,6 +61129,50 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wasder Token",
+        "symbol": "WAS",
+        "decimals": 18,
+        "originTokenAddress": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xd82a0cf45b952d685fe0a078ac38a5b1fd0b57bc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Fuzuki Inu",
+        "symbol": "FUZUKI",
+        "decimals": 18,
+        "originTokenAddress": "0x1bfc53f23d6ee0c8a97e88066834da5b09216c54",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf1ae259ce7dff0267c64b7f49af773553ec7c42b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
                     "erc20"
                 ]
             }
