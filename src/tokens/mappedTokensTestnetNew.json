@@ -1950,5 +1950,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "IDEX Dev Token",
+        "symbol": "IDEX",
+        "decimals": 18,
+        "originTokenAddress": "0x1d2619ec03d21194f29206128c0ca3f81ca15517",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x68b741416153bbf5cb4faee0aa447f918fe5c322",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
