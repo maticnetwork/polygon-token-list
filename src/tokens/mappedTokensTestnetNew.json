@@ -1928,5 +1928,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Chain Games",
+        "symbol": "CHAIN",
+        "decimals": 18,
+        "originTokenAddress": "0xdbc75c1dfd1e1ba80dd8aeb2492870b034ba77ca",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x656ac30dd80b7152d5e7d64d200424d02a943e57",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
