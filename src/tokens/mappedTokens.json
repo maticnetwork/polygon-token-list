@@ -61177,5 +61177,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Astar Token",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "originTokenAddress": "0xdf41220c7e322bfef933d85d01821ad277f90172",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x90be3031ffbf419881d205d81483aef9640c31c3",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
