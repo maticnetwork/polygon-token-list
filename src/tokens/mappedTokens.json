@@ -1094,6 +1094,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x31863337fc286425c9e17aed045fbbc05999912a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://www.dropbox.com/sh/g97lq77b9mv9lfz/AABRnKWx9aiv6x8KShkIgDgla/Brain%20Logo%20Design-03.png?dl=0"
