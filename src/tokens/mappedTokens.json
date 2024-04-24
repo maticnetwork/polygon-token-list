@@ -61199,5 +61199,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Defibillboards",
+        "symbol": "DBB",
+        "decimals": 18,
+        "originTokenAddress": "0xf5845417748dce27c8dddd9b031da028954187bc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd0c90c44de0a9f0245bc0025d57a68878202def8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
