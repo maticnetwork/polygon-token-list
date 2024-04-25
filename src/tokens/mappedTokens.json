@@ -61230,5 +61230,49 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Made in USA Certified",
+        "symbol": "USA",
+        "decimals": 18,
+        "originTokenAddress": "0x550a32566dfa90aa3d3c66de0c22be3fb532857a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x4e1785db8c47e2ca16a723067c98e6a1528e769e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Nova DAO",
+        "symbol": "NOVA",
+        "decimals": 18,
+        "originTokenAddress": "0x82967568a57625675b260ebab1294038c9accc6e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x119fd89e56e3845b520644dcedf4a86cd0b66aa6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
