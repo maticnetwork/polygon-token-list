@@ -26117,6 +26117,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc9055f4e9f4dbd16e35156c968eed54983637522",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/fox.svg"
