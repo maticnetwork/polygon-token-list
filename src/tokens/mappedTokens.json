@@ -61283,5 +61283,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "MobyToken",
+        "symbol": "MOBY",
+        "decimals": 18,
+        "originTokenAddress": "0x40a7df3df8b56147b781353d379cb960120211d7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x60fb89f9c7c7f8a89c94597d693243555fcfb274",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
