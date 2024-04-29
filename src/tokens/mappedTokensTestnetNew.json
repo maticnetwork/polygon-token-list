@@ -1983,5 +1983,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "PayToken",
+        "symbol": "PTK",
+        "decimals": 18,
+        "originTokenAddress": "0xc3e9a9ef91982aaff10274be170b28d6a1d952d3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x6e5c2f72f54704b7fc062f60e436fa4032e0aa95",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
