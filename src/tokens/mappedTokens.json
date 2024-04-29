@@ -61305,5 +61305,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "ERC20",
+        "symbol": "ERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xcdd981ef3330e159029e6e226dbd73d99f868f4d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3c675f671fab802cd2cf88abaa7a745de52294dd",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
