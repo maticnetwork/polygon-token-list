@@ -61336,5 +61336,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "GigaSwap",
+        "symbol": "GIGA",
+        "decimals": 9,
+        "originTokenAddress": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x008deefb8dab8a5cd8e6bab6b5dba958e4e4abed",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
