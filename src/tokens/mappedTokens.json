@@ -61376,5 +61376,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "CandorCoin",
+        "symbol": "CAN",
+        "decimals": 18,
+        "originTokenAddress": "0x0cc8ba204a31c8725f51dc02ac60732d48a93710",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xdb28b2e62a3b2d31e0427f068c177706c497663d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
