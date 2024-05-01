@@ -40803,6 +40803,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2b81dcdd69a02a7c24ec228f37b95e9beff7423c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://breederdao-images.s3.ap-southeast-1.amazonaws.com/breed-icon.png"
