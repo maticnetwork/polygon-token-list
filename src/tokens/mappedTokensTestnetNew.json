@@ -2049,5 +2049,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Chain Games USDT",
+        "symbol": "CHAIN_USDT",
+        "decimals": 18,
+        "originTokenAddress": "0xd5be1d44b92b0ec56c300a7e4e4f72e354d8f305",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xf9a3a4b87e5fdaf885ab64973581e9dac96d5ba8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
