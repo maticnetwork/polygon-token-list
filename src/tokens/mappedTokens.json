@@ -841,6 +841,15 @@
                     "noDeposit",
                     "noWithdraw"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf6c7a0dc97354a2f08b2b36d4c9ffacb7715ec1a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://gateway.pinata.cloud/ipfs/QmSqt6RAgNYWq3kJRhEoLquY2xcZ7QXAJGovaeaxmZYCVJ"
@@ -61394,6 +61403,50 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SNPIT TOKEN",
+        "symbol": "SNPT",
+        "decimals": 18,
+        "originTokenAddress": "0xc6763c883755412b3fab050895656362d0447da2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GALAXIS Token",
+        "symbol": "GALAXIS",
+        "decimals": 18,
+        "originTokenAddress": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x3c69d114664d48357d820dbdd121a8071eac99bf",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
                     "erc20"
                 ]
             }
