@@ -2005,5 +2005,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Dolla",
+        "symbol": "DOLLA",
+        "decimals": 18,
+        "originTokenAddress": "0xe6e6809bbfa49cee58988e532d71bddf83ad2a38",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 11155111,
+                "wrappedTokenAddress": "0xb89a7eb06f277c9105a91e523357972384c8a27d",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
