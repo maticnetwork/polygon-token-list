@@ -61451,5 +61451,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "XNET Mobile",
+        "symbol": "XNET",
+        "decimals": 18,
+        "originTokenAddress": "0x5393ceed9a265bda7952780e5b9413150e666a24",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe64d3b062ff7697f574225b0f1d3d078b350d203",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
