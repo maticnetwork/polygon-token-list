@@ -61482,5 +61482,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "MetalSwap",
+        "symbol": "XMT",
+        "decimals": 18,
+        "originTokenAddress": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5c4360cd10fe783f27ff6677133d84d8c55ec1fb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
