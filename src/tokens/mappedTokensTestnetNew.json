@@ -2115,5 +2115,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Digital Carbon",
+        "symbol": "tCO2",
+        "decimals": 18,
+        "originTokenAddress": "0xfd5d3cb709fdbffd381c224fbb1f8d59a6a2b987",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x92d3f205e50431d044635553016907995dd42917",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
