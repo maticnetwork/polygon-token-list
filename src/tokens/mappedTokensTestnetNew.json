@@ -2093,5 +2093,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Digital Oxygen",
+        "symbol": "tNEEV",
+        "decimals": 18,
+        "originTokenAddress": "0x207d73d044b7e75e957e70129f85b3dd6ef85186",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x3e10642d61dfe79cb700d7a323307072765d5235",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
