@@ -61526,5 +61526,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Genius Token & NFT Collections",
+        "symbol": "GNUS",
+        "decimals": 18,
+        "originTokenAddress": "0x614577036f0a024dbc1c88ba616b394dd65d105a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb80328497c7ce8d7543c8a806ddd3f82ca07fce1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
