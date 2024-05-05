@@ -61504,5 +61504,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Brett",
+        "symbol": "BRETT",
+        "decimals": 9,
+        "originTokenAddress": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x13df8d84fd9a141be403a418f82a3e151a1ceff0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
