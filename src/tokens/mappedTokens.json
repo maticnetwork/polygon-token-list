@@ -826,22 +826,9 @@
         "originTokenAddress": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
         "originNetworkId": 0,
         "tags": [
-            "erc20",
-            "noDeposit",
-            "noWithdraw"
+            "erc20"
         ],
         "wrappedTokens": [
-            {
-                "chainId": 137,
-                "wrappedTokenAddress": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
-                "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20",
-                    "noDeposit",
-                    "noWithdraw"
-                ]
-            },
             {
                 "chainId": 137,
                 "wrappedTokenAddress": "0xf6c7a0dc97354a2f08b2b36d4c9ffacb7715ec1a",
