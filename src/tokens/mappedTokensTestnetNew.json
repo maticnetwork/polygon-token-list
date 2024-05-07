@@ -2159,5 +2159,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "DWEBUSDT",
+        "symbol": "DWEBUSDT",
+        "decimals": 6,
+        "originTokenAddress": "0x87bcd56fb904c919d80a5d06598958301ef417af",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x0300c60e81709fe6133165030751b709e3547429",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
