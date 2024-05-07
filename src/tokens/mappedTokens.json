@@ -61536,5 +61536,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "AllianceBlock Nexera Token",
+        "symbol": "NXRA",
+        "decimals": 18,
+        "originTokenAddress": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xaa32375f9223d006ea22355c9d5bb600f4f3800f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
