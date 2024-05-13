@@ -2181,5 +2181,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Novolem",
+        "symbol": "NOVO",
+        "decimals": 18,
+        "originTokenAddress": "0x0132111aa00f8f6972e0de565d02ec1ffcf3bd85",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x883d1d710bd08030af4c538685b2a523e1f02fc0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
