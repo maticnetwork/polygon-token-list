@@ -59091,5 +59091,28 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "EDUM",
+        "symbol": "EDUM",
+        "decimals": 18,
+        "originTokenAddress": "0xaC9518BA93EeB2336A03137d254d8CC2e4d0fA38",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20" 
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x8BED972bC5FF0ab8290461cd01f8B58F39fa312F",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ],
+        "logoURI": "https://edum.io/images/logo/edum_logo.svg"
     }
 ]
