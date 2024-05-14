@@ -61615,5 +61615,49 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "xLazy",
+        "symbol": "xLazy",
+        "decimals": 18,
+        "originTokenAddress": "0xd1674e0f43b12832d063fcaf415597e757568867",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc3663b94d2e22d3c1117d83214dd59322889c4fb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Fuzuki Inu",
+        "symbol": "FUZUKI",
+        "decimals": 18,
+        "originTokenAddress": "0x63b0c0c2e4a1ef8e2862c64acc84e2459dc426cd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x5bcb9e5214cebd52eb99c7fc5d9b5d8f7a678212",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
