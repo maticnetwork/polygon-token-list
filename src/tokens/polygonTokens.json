@@ -20846,21 +20846,70 @@
         }
     },
     {
-      "chainId": 137,
-      "name": "Tetu bridge token",
-      "symbol": "fxTETU",
-      "decimals": 18,
-      "address": "0xe74b3e6232e6b02ece8ede707a3a32ae3525b44f",
-      "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/5eacc48da808b5fc4e3b1257a73693a9ab1d2bfd/token_icons/flat_icon.svg",
-      "tags": ["erc20", "fx"],
-      "extensions": {
-        "rootAddress": "0x0f72964fa4b766521d84107991e837c30d0ef2b1",
-        "project": {
-          "name": "Tetu bridge token",
-          "summary": "fxTETU is an immutable 1:1 convertable version of TETU token for bridge TETU to Ethereum.",
-          "contact": "admin@tetu.io",
-          "website": "https://tetu.io/"
+        "chainId": 137,
+        "name": "Tetu bridge token",
+        "symbol": "fxTETU",
+        "decimals": 18,
+        "address": "0xe74b3e6232e6b02ece8ede707a3a32ae3525b44f",
+        "logoURI": "https://raw.githubusercontent.com/tetu-io/tetu-brand-assets/5eacc48da808b5fc4e3b1257a73693a9ab1d2bfd/token_icons/flat_icon.svg",
+        "tags": [
+            "erc20",
+            "fx"
+        ],
+        "extensions": {
+            "rootAddress": "0x0f72964fa4b766521d84107991e837c30d0ef2b1",
+            "project": {
+                "name": "Tetu bridge token",
+                "summary": "fxTETU is an immutable 1:1 convertable version of TETU token for bridge TETU to Ethereum.",
+                "contact": "admin@tetu.io",
+                "website": "https://tetu.io/"
+            }
         }
-      }
+    },
+    {
+        "chainId": 137,
+        "name": "B4REAL",
+        "symbol": "B4RE",
+        "decimals": 18,
+        "address": "0x3c27564e3161bbaA6E7d2f0320fa4BE77AED54da",
+        "logoURI": "",
+        "tags": [
+            "erc20",
+            "pos",
+            "noWithdraw",
+            "noDeposit"
+        ],
+        "extensions": {
+            "rootAddress":"0x0000000000000000000000000000000000000000",
+            "project":{
+                "name":"B4REAL",
+                "summary":"B4REAL is Black Tie Digital’s flagship real estate platform, built by a progressive group of agents, funders, property developers and blockchain experts who have come together to create the leading crypto property investment program currently available in Australia.",
+                "contact":"help@blacktie.digital",
+                "website":"https://www.b4real.digital/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
+        "name": "B4Real Credits",
+        "symbol": "B4RC",
+        "decimals": 18,
+        "address": "0x6be961cc7f0f182a58D1fa8052C5e92026CBEcAa",
+        "logoURI": "",
+        "tags": [
+            "erc20",
+            "pos",
+            "noWithdraw",
+            "noDeposit"
+        ],
+        "extensions": {
+            "rootAddress":"0x0000000000000000000000000000000000000000",
+            "project":{
+                "name":"B4REAL",
+                "summary":"B4REAL is Black Tie Digital’s flagship real estate platform, built by a progressive group of agents, funders, property developers and blockchain experts who have come together to create the leading crypto property investment program currently available in Australia.",
+                "contact":"help@blacktie.digital",
+                "website":"https://www.b4real.digital/"
+            }
+        }
     }
 ]
