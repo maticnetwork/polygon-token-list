@@ -2203,5 +2203,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "BridgeTest",
+        "symbol": "BDTT",
+        "decimals": 18,
+        "originTokenAddress": "0xdfebf08e04bcacca414aabd0962d2d903101a022",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xe794e8b88287c6700ead559ba6d2d2ee1f2bf49d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
