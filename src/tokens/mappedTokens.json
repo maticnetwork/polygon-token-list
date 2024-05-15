@@ -61668,5 +61668,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Datamall Chain Token",
+        "symbol": "DMC",
+        "decimals": 18,
+        "originTokenAddress": "0x05f2e406606f82ec96dce822b295278795c5053b",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x910e888698da0c2ecc97a04a137aa1cfc1dfd209",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
