@@ -61578,6 +61578,7 @@
         "tags": [
             "erc20"
         ],
+        "logoURI": "https://app.gyro.finance/_next/static/media/gyd.aab5a49d.svg",
         "wrappedTokens": [
             {
                 "chainId": 1101,
