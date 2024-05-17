@@ -61700,5 +61700,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "GKB",
+        "symbol": "GKB",
+        "decimals": 18,
+        "originTokenAddress": "0x7fff600e06ebc8a9b46e22eed87693b11ab07451",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x4be2096347314b8149ccd1cb986fe047a83240d1",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
