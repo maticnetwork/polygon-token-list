@@ -2225,5 +2225,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "decimals": 18,
+        "originTokenAddress": "0x054f06722b11a9304867436a76ed8ac2c5db0a3e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x35724e5d9afe2b8631bae92d955c768d8c193f88",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
