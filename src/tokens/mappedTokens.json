@@ -61742,6 +61742,59 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x24a884e8cbd0b4dd1a23181dbb9623bb40a636e4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "M2 Global Wealth Limited",
+        "symbol": "MMX",
+        "decimals": 18,
+        "originTokenAddress": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT1",
+        "symbol": "SOT1",
+        "decimals": 8,
+        "originTokenAddress": "0x5072fda285d9889ef28bcbfc6d9a262a2d66ca99",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x62864b0359512ebd281a9189018f1cc1034fdff6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     }
