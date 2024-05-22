@@ -61722,5 +61722,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Hokuto 7",
+        "symbol": "HKT",
+        "decimals": 18,
+        "originTokenAddress": "0xdafe2b7d99b95b0d4b3ea4eb366643debb1839c6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x976c329067eebe6a502b959c9834e881e1da73c1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
