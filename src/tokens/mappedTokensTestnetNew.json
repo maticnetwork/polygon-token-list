@@ -2313,5 +2313,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0x7b79995e5f793a07bc00c21412e50ecae098e7f9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xbb46b7a0f1ccbae9d44ea55460aa8d6cdc4b2834",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
