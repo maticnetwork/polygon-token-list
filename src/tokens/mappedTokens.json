@@ -61797,5 +61797,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Diamond castle",
+        "symbol": "DMCK",
+        "decimals": 18,
+        "originTokenAddress": "0x2242328a9e9a2dea3b9ef5952b9614f45c7585d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x593c8f43ef20461b2ae4ec50d2aa6db589facaec",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
