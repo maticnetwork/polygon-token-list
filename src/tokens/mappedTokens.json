@@ -61819,5 +61819,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "MoonRock",
+        "symbol": "ROCK",
+        "decimals": 9,
+        "originTokenAddress": "0x1a6921f7b92113c79306f1a9e148d83445ac42bc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe54e6e2ce27f24895bb3e3454c94f2ed6c6eb3a5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
