@@ -2335,5 +2335,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "M",
+        "symbol": "M",
+        "decimals": 18,
+        "originTokenAddress": "0xf71f370a3c8beab22a96f812c2979499d872a68e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x2a295dbdae8e8e92e7d8ff114068b05cc2b758ed",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
