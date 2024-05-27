@@ -2379,5 +2379,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "kiki",
+        "symbol": "kiki",
+        "decimals": 18,
+        "originTokenAddress": "0x2b5ffd57d99d8267a4de9d30e9119c96b09fd332",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xed34c0d0763eb4408572735e7ef5d0aea0231192",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
