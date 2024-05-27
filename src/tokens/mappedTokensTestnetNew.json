@@ -2357,5 +2357,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "DecentraWeb",
+        "symbol": "DWEB",
+        "decimals": 18,
+        "originTokenAddress": "0x03e22c48d9fbe2d80d3d122443ecdbc9c2f3c937",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x76bf9ac96fc75849c6872cf89f367e56feed5c30",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
