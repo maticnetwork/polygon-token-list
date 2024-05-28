@@ -61841,5 +61841,225 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT2",
+        "symbol": "SOT2",
+        "decimals": 8,
+        "originTokenAddress": "0x17cc9db9efcae1e4955f9090d13f42568e296844",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x009d2dd3452248a4c013d1f7427f559de2c81fb5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT3",
+        "symbol": "SOT3",
+        "decimals": 8,
+        "originTokenAddress": "0x38e54acd4dd7c975fb047233184bceb48928bd57",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x8129bd64e8f2468ed289cf08c99f95cbd40e2b88",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT4",
+        "symbol": "SOT4",
+        "decimals": 8,
+        "originTokenAddress": "0x82486c1ef00880959b0222c6282f4b17c2f84831",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x47c53c7ba6085b4a0818bf8b9d79833a2329288f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_09",
+        "symbol": "SOT_2023_09",
+        "decimals": 8,
+        "originTokenAddress": "0x7edd3309ca15ea3fad1230de808cd05e32b64331",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2ecd0ba1ee1758e126d499d729bf3f72de9d24a6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_10",
+        "symbol": "SOT_2023_10",
+        "decimals": 8,
+        "originTokenAddress": "0x9651675a17bc4744461e3cfc1140b50a956f742f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x01969e9da6aef3bb7635d69eda88fa4cdc17ef16",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_11",
+        "symbol": "SOT_2023_11",
+        "decimals": 8,
+        "originTokenAddress": "0xb8ff5af775a35c5df323ecc2e9787a0e49c8134f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xdb2f328a48e378aac19b914fb53f75e816d6513f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_12",
+        "symbol": "SOT_2023_12",
+        "decimals": 8,
+        "originTokenAddress": "0x7fc7d269e2f042056d801d3743a5e78aac2a3e33",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x9936786d9731bb968325584f9716c46b71116074",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2024_01",
+        "symbol": "SOT_2024_01",
+        "decimals": 8,
+        "originTokenAddress": "0x638a25dfd8535d20da320716fe75990af450d473",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xfddf7e4fd3153a4205b4bc260d7fe7da373b8e01",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2024_02",
+        "symbol": "SOT_2024_02",
+        "decimals": 8,
+        "originTokenAddress": "0x6741212287b0b437a5eb36ed3747b49ba4904a3b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x5544b27a61db67f58143209e7c7d74d3a91ff2a0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Aka",
+        "symbol": "AKA",
+        "decimals": 18,
+        "originTokenAddress": "0x3b70691aa1dd96f07b268d423114d0f60e79c783",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x739177d97ca57cb871797ff4a31a23e3292aa3a0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
