@@ -62061,5 +62061,49 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2024_03",
+        "symbol": "SOT_2024_03",
+        "decimals": 8,
+        "originTokenAddress": "0x85cb634fdd8e4abaad2b62640c691c7ddaae5f23",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc980ca18d813158bf75aadf57f317956d4eb4826",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Flixx",
+        "symbol": "FLIXX",
+        "decimals": 18,
+        "originTokenAddress": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x170d917ad5fd71534ef9fb8a533aac4a93117ec5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
