@@ -62105,5 +62105,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Schnoodle",
+        "symbol": "SNOOD",
+        "decimals": 18,
+        "originTokenAddress": "0xd45740ab9ec920bedbd9bab2e863519e59731941",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xde255511bb40d55662c3c00a37266847daa03229",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
