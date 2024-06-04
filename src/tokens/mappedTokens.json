@@ -62127,5 +62127,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bitcorn",
+        "symbol": "BTC",
+        "decimals": 8,
+        "originTokenAddress": "0xe8a25c46d623f12b8ba08b583b6fe1bee3eb31c9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x72b6aa4e2e94acda5c9ea2534e3bdcce6dd4d3e4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
