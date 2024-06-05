@@ -62155,5 +62155,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dogeverse",
+        "symbol": "DOGEVERSE",
+        "decimals": 18,
+        "originTokenAddress": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe58c79bb0f93cd4e1cbbd1927b613d0777458286",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
