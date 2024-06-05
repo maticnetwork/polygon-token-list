@@ -62199,5 +62199,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Evo Exchange",
+        "symbol": "EvoX",
+        "decimals": 18,
+        "originTokenAddress": "0xdcd2aa9c0756ea7f9d5020e41b07be469c221ffc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf621ccfd117f4a412101b7613db3e72eea4f4dcf",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
