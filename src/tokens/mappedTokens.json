@@ -62177,5 +62177,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Calico",
+        "symbol": "CALICO",
+        "decimals": 18,
+        "originTokenAddress": "0x9ffb1d4c2d27731c1aa11fbd44a1b5d596d663b4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x934e03a72c5433e68f56ba811dd031ce12ae67b8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
