@@ -2401,5 +2401,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "PCE Token",
+        "symbol": "PCE",
+        "decimals": 18,
+        "originTokenAddress": "0xb85364785568d49821e122e2e8701a3a967207d9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x34a1ced4169cf2b8f4d8760c1d4014ab4880e1e7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
