@@ -62221,5 +62221,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Staked Open Ecosystem Token",
+        "symbol": "xOPN",
+        "decimals": 18,
+        "originTokenAddress": "0x686e8500b6be8812eb198aabbbfa14c95c03fc88",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7773cc93a7517935eedbbff5c4493b15d7b14b92",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
