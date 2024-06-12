@@ -2511,5 +2511,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "A COIN",
+        "symbol": "ACO",
+        "decimals": 18,
+        "originTokenAddress": "0xffa422eca0d499706c40a953457b69bd3a9286ed",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0xb8c7abb67e25e9094834a24324cc82af4b7f4d03",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
