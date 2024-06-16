@@ -62265,5 +62265,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Birdman",
+        "symbol": "BDM",
+        "decimals": 18,
+        "originTokenAddress": "0x73dd50dfa1ae4a742540776a7e8e4a1aae0e3dad",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe1489d62dc1b74da19536891e80a0617f2bc6a1a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
