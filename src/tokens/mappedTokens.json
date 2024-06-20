@@ -41739,7 +41739,7 @@
         "name": "LeisureMeta",
         "symbol": "LM",
         "decimals": 18,
-        "originTokenAddress": "0x7bec98609cb6378d6f995e8f8097ee78376fbec9",
+        "originTokenAddress": "0xc064F4F215B6A1E4e7F39bD8530C4dE0fC43ee9D",
         "originNetworkId": 0,
         "tags": [
             "erc20"
@@ -41747,7 +41747,7 @@
         "wrappedTokens": [
             {
                 "chainId": 137,
-                "wrappedTokenAddress": "0x32455b151e3bbaabba50989d8c4b3100d1cf8638",
+                "wrappedTokenAddress": "0xb2d3Edf61B27ab28288D8c760fa686Be084ff526",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
