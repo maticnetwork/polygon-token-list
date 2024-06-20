@@ -62287,5 +62287,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Scotty AI",
+        "symbol": "SCOTTY",
+        "decimals": 18,
+        "originTokenAddress": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xee18793879b53d820377f55362335bc013e89ed8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
