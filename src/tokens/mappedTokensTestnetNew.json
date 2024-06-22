@@ -2623,5 +2623,29 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "FinalToken",
+        "symbol": "FTA",
+        "decimals": 0,
+        "originTokenAddress": "0xb916bbf8414b1d239287767d1e436fb35a82a453",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x47b7015a12ebc3550f124721c2b604f7ad2df2af",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
