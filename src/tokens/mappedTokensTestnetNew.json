@@ -2599,5 +2599,29 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": 0,
+        "originTokenAddress": "0x0607caca177d99bcd0feebb6a7e77f09d15cb1a9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x20f55f3e45c3d5d460e202c9408d6f30bd726585",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
