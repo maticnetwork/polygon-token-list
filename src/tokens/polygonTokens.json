@@ -20639,6 +20639,24 @@
     },
     {
         "chainId": 137,
+        "name": "Taki",
+        "symbol": "TAKI",
+        "decimals": 18,
+        "address": "0xe78aeE6CCb05471a69677fB74da80F5d251c042B",
+        "logoURI": "https://shdw-drive.genesysgo.net/4cYdz18E7YqRLmJK7RV7icXfcnu2yUKxrYR7T49zdmzt/taki_polygon_native.svg",
+        "tags": ["native","erc20", "noDeposit", "noWithdraw"],
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000",
+            "project": {
+                "name": "Taki",
+                "summary": "Taki natively minted on Polygon",
+                "contact": "support@takigames.net",
+                "website": "https://takigames.net/"
+            }
+        }
+    },
+    {
+        "chainId": 137,
         "name": "TruStake MATIC Vault Shares",
         "symbol": "TruMATIC",
         "decimals": 18,
