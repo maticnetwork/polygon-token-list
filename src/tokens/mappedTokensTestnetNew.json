@@ -2713,5 +2713,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Follow",
+        "symbol": "FOLO",
+        "decimals": 18,
+        "originTokenAddress": "0x8a6bcc8f90d4852952c5491f517c580267140c23",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x0fa8781a83e46826621b3bc094ea2a0212e71b23",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
