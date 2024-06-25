@@ -2691,5 +2691,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": 0,
+        "originTokenAddress": "0x6ddc71c2c6d3d9aef93cb2826ce6d1fbb82b8da7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xe6f1785c2c61c5101ddb6155ad70a8ea84bca6a3",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
