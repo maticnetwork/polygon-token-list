@@ -62318,5 +62318,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "MAGA",
+        "symbol": "MAGA",
+        "decimals": 9,
+        "originTokenAddress": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe3a0e309c8ce495c66210694d0101571cb11b676",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
