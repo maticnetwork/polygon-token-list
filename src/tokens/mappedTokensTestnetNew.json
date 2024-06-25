@@ -2647,5 +2647,27 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Token",
+        "symbol": "TKN",
+        "decimals": 18,
+        "originTokenAddress": "0x1845c893f208b65b528e14e83a8de630b510742f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0x4afc94e67f068d630550a88f9407122caef85855",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
