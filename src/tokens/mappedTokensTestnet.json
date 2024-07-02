@@ -27,6 +27,15 @@
                     "lxly",
                     "nativeToken"
                 ]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x52ef3d68bab452a294342dc3e5f464d7f610f72e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
@@ -4324,6 +4333,83 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xf468619468c78be20d664f63209453e75e046d5b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x825e23e8317565a1d68dff6890caf64e5dfa5eb6",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x348ae5d3478bce827ea609f18d512094448d1ba4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0xf6d11b8f8e4073b28069968bba32ff0a2fc0bae1",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa728ae3acb364e41a9300299abeb1c471f5a2143",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x0a2b67b3e687f2e43231798aad89bbaffdac5285",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa7a6f310f2d5051af4d30b73e3aa2cef0682ad1a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0xc09db9159db13c37c0594fdffbba8545718737b2",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x09af5474f8e104d2564af8ed6f131df137c8fa31",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x101d71bdbf9a4dcbd4be696255da240eb0d4bde2",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x312c51188f0e6f77a9363f32413c2cb3df18fb1a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x61051f1640418db4ca9917ce7fd3cb7d47925204",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xfaa5dcd7482c74eb2ed8a6a4389df1439097e043",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4e4d618e1e126e447355caf7c4ad97d846456f36",
+                "fxChildTunnelAddress": ""
             }
         ]
     },
@@ -50673,6 +50759,651 @@
                     "pos",
                     "erc20"
                 ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Humty_Dumty",
+        "symbol": "HD",
+        "decimals": 18,
+        "originTokenAddress": "0x6be493bc6c452ce062f8d227c10d95bd6ffd7458",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xae8a6228828c8a928df242e99549fff5d8ab717b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "MyToken",
+        "symbol": "MTK",
+        "decimals": 9,
+        "originTokenAddress": "0x19ec81a11fe9c200135291f465533de03fc516c7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x9698dc738497ce1e8939c3ea9bbe4a111662d860",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "The Panda Coin",
+        "symbol": "PANDA",
+        "decimals": 18,
+        "originTokenAddress": "0xf291d26e840b5d102caa6f9df2154a176738114a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x32c34a2c0d7a1d30c873f3cc1ded629091636809",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Dummy ERC20",
+        "symbol": "DERC20",
+        "decimals": "18",
+        "originTokenAddress": "0xb480378044d92c96d16589eb95986df6a97f2cfb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xf3202e7270a10e599394d8a7da2f4fbd475e96ba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xd7f3b2a4caa993d603d5c28b833cd23f80b50fe0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Dummy Mintable ERC20",
+        "symbol": "DERC20",
+        "decimals": "18",
+        "originTokenAddress": "0xf35e40ba249a1cbf5dc3e0ab3084a0df836c0d18",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x0507b845ff73c463f3c73450787daef46f3548db",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "FxERC20",
+        "symbol": "FE1",
+        "decimals": "18",
+        "originTokenAddress": "0x3fdce5105d3f4aac240d060915227c7cd83517c5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xc0c7095cfe1825211c6e153e2390c14aed67b835",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x60e371b23e4dd30b831f1b718dac7d2d2a0ecb53",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x959949ca0522c617edcc67de2dbb56b7450a7633",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0xae25bd50d3aa98c36756b1547888bf486b7c22f0",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x483208cd22807565c2e250ca9042de57b3fd19f1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x4b915dc5d123631c53ae619d2222f7124a2143fa",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0xa0a151825524dbdc1b4cfa1ddeffa935521b9bda",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x3f07d24a2458a80c2be97752ba476c27f264ebb6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Arcana",
+        "symbol": "XAR",
+        "decimals": 6,
+        "originTokenAddress": "0xaa7d74677919f42fe3388dd2d0965032258422fd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x2e5714010cbd2f97a19fc5fc9350a0e7e58d4050",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Arcana",
+        "symbol": "XAR",
+        "decimals": "6",
+        "originTokenAddress": "0x9b2fb49af3bf0b931e311ddfe74e7a05d8d70404",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x07cbd3701852035ca40952c250cb2ce191627359",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "SOUNDLINX",
+        "symbol": "SDLX",
+        "decimals": 18,
+        "originTokenAddress": "0xdbf5855430cd388ea340ec8d00e3042cb2eb08f0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xb5b2dcae0889f8db640b06ab86d5f5c1f76ba10c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "SGT",
+        "symbol": "SGT",
+        "decimals": "8",
+        "originTokenAddress": "0x9a7e3afd669d270d729b14f7e546f81ac3f2a782",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x5b99a443fb1f40fb0b5152236e5dfb455fa8beb1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "UNI",
+        "symbol": "UNI",
+        "decimals": 18,
+        "originTokenAddress": "0x603e5ef348ae022031ee83610ff0dcaaa62c3fcd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x47aabf2da728c60bc83f6d3edeaf0055b03105af",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "originTokenAddress": "0xd7c13106e69f7b4b271b603747e8095dfe9e30d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xf90cabc33f7a246f12aad9974b9b196cede08bd0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "MKR",
+        "symbol": "MKR",
+        "decimals": 18,
+        "originTokenAddress": "0x90be02599452fbc1a3d47e9eb62895330cfa05ed",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x0bdee59bb12e9fec27832529f0eae6e121f879dc",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "originTokenAddress": "0x091a129a559ee372eb35d339f0da2b7bbab495a3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0xb39c0dfc9c6407920d4e6363735420f74b2ddc8c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "SUSD",
+        "symbol": "SUSD",
+        "decimals": 18,
+        "originTokenAddress": "0x4e62eb262948671590b8d967bde048557bdd03ed",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x1e83182c2d599ccbabc00889b6657f330a68b19c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "ZRX",
+        "symbol": "ZRX",
+        "decimals": 18,
+        "originTokenAddress": "0xacfd03ddf9c68015e1943fb02b60c5df56c4cb9e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x7def99b741c96738628196358a6944815e2d01bd",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": "0",
+        "originTokenAddress": "0x539e4a5fb10e63cb59ddc759a2a8b4d18db0238b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x60afed37e37bd7f9c8e71a8d1beca3f3510d01b7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x3658ccfde5e9629b0805eb06aacfc42416850961",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": "0",
+        "originTokenAddress": "0x283f8003abd2ce7f62c8376d4d9565b62d3ab0c4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x89064827969b467ebbe7e89a387297d813f9863a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x3658ccfde5e9629b0805eb06aacfc42416850961",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "originTokenAddress": "0xa2025b15a1757311bfd68cb14eaefcc237af5b43",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x887982314903a14f4d6700b9aa367b06ff63dcc8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Compound 0x 📈",
+        "symbol": "cZRX",
+        "decimals": 8,
+        "originTokenAddress": "0xa253295ec2157b8b69c44b2cb35360016daa25b1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1442,
+                "wrappedTokenAddress": "0x53d35566f82b930cc1d3d23e23e33ebcec2911f9",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "TEST",
+        "symbol": "TST",
+        "decimals": "18",
+        "originTokenAddress": "0x0abc24f6e288ad9666c8e4adc7c27989e2c9bf83",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x8df7f5ce9482a2d7ee916b2b42bf49191fdea2d7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": 0,
+        "originTokenAddress": "0xf93041f3816a60098a056501fcef5fcd286e18fc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xa625ae661cefc64b636cb93111e7b4bcc1b47bb9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x3658ccfde5e9629b0805eb06aacfc42416850961",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Root ERC20 Token",
+        "symbol": "rootERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xede448f75296d887ea028f158f1dd4122e784c13",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x95b8bd61a8cade94001ffd87966eef9c8efa4742",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "MetaToken",
+        "symbol": "MTA",
+        "decimals": 0,
+        "originTokenAddress": "0xf0b48ea7e59cb29241e53e6499ca1334cbd71250",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0x84d143ec6c798eb444381d60eddd81216b130e1e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x3658ccfde5e9629b0805eb06aacfc42416850961",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Root ERC20 Token",
+        "symbol": "rootERC20",
+        "decimals": 18,
+        "originTokenAddress": "0x4dfe070720ec221c7e2629a6121bed8489eabcbb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xe0deac0c43b6658d7f8c0fecb003f18e77e4a776",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c",
+                "fxChildTunnelAddress": ""
+            }
+        ]
+    },
+    {
+        "chainId": 5,
+        "name": "Root ERC20 Token",
+        "symbol": "rootERC20Token",
+        "decimals": 18,
+        "originTokenAddress": "0x77953efdacfcfa8cc154cff01db57f8a50e5e96e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80001,
+                "wrappedTokenAddress": "0xe6a432576d8a208f42d49f4c12fc833427892d3f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x79b77456684aeb0bf7c8ec50fb9c714d52bda46c",
+                "fxChildTunnelAddress": ""
             }
         ]
     }

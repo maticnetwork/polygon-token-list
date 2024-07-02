@@ -393,6 +393,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc32cb86ae7921f45c0aa44f638d0ee8b67c98b98",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/sushi.svg"
@@ -794,7 +803,20 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7bf229de64508ca59a5bb83b34581a60e03858f0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ],
@@ -813,7 +835,7 @@
         "wrappedTokens": [
             {
                 "chainId": 137,
-                "wrappedTokenAddress": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+                "wrappedTokenAddress": "0xf6c7a0dc97354a2f08b2b36d4c9ffacb7715ec1a",
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
@@ -1070,6 +1092,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x31863337fc286425c9e17aed045fbbc05999912a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -1736,6 +1767,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x424480e9ccbb705f0fe37662186f27c061ae0f27",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://drive.google.com/file/d/106QzWJ-42p2FVsgZQ4pVCw_cTTAudU39/view?usp=sharing"
@@ -1757,6 +1797,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb71320c68f6d023898ad78f53137940acfb19775",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -2375,6 +2424,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb2cdc2bd0a3cacff5fcbbbe6cb869abc1e02afe5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -4655,6 +4713,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd3ceb521e9b093c7af78ffc5efe1bec6ca68c4c4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -5798,7 +5865,8 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             }
         ]
@@ -7612,6 +7680,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8281a0540cc00ca0d5d20f18a67246165276896d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -7686,6 +7763,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd0e67001e9c7f4a3ec5188e4b1f52d592ca93870",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -9475,6 +9561,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2d009c71975115f70d47dbb7545121b8b24a76b0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -11606,6 +11701,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9863c2f2ba7c23f74c7ad04100afbeae00d54d0c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -13194,6 +13298,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5d1f092f66248c9c39ff620f083a9828e9b579fa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -16266,6 +16379,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9370afa499c7160063294af9a50ea9d9bfe6a1d1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -16670,6 +16792,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa23390ab60fe5482e9230245eb817a8117528b38",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -19054,7 +19185,9 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ],
@@ -23842,6 +23975,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xaa26786c9b62afa8ffe3db8d08ea40d56fd3ac25",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -25834,6 +25976,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xfecd03d6b172d4dd0013659ab3f81fdc57019463",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -25967,6 +26118,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc9055f4e9f4dbd16e35156c968eed54983637522",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -26577,6 +26737,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa29b7006cfabf6481e1e28023e6ad0e6dbe2aabe",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -27681,6 +27850,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf087da5c2b8decec43e3fe7ba8b07366151fd555",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -29065,6 +29243,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x88f41fedf1683ea36c50e39687b78027f4110d7c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -31498,6 +31685,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x74024b4859bfc5d0b69838cde4f1ba4499119d91",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/ern.svg"
@@ -32060,6 +32256,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2064d37a31d5f947458ca696b2f42a627ecf8270",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -32460,6 +32665,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xec08408df39324505a6ef8cf3718f5c2f34c683e",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -33431,6 +33645,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x90c6a9befa477ab3c3ec3b8be8dbc7a3e6ef1415",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/snx.svg"
@@ -33823,6 +34046,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3dacbd6e7767a4f185fa8a7c26a85c87880013c6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -35028,6 +35260,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x12fa206e36ac93dbbaeed6b3b0fbcb9ba07346bc",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/jrt.svg"
@@ -35745,6 +35986,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa230d5ef2e26382d6263ac7e4ac15d6149bb8bcb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -36819,6 +37069,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4958914adfbff9a28f687927c77c0b3474d69546",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -37925,6 +38184,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4cb38c7e21934b9f8b8f97f61ef4c821af6fade5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -38086,6 +38354,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x64150972acb6133ab7d656ea81a7e380e6d0c89c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -38747,7 +39024,8 @@
         "originTokenAddress": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20",
+            "noDeposit"
         ],
         "wrappedTokens": [
             {
@@ -38756,7 +39034,8 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             }
         ]
@@ -39407,6 +39686,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd57b6d4d5b38cc229b59b50e30d2e00709494957",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -39427,6 +39715,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x20c9f9633396298b618c2eac35c1b9746380700a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -39537,6 +39834,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7fc3f5ead5a5b74d3094d46df8bbaa60e223ab43",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -39711,6 +40017,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x07f9a230f4e6288be94bf68f7ffb4c691952c8c6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -39823,6 +40138,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x37908ffdef18add36518e781a9a77c2c6f4a4260",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -40104,6 +40428,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5b87ed163b950a9f3064b4cdca59f9c407ee50d6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -40482,6 +40815,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2b81dcdd69a02a7c24ec228f37b95e9beff7423c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://breederdao-images.s3.ap-southeast-1.amazonaws.com/breed-icon.png"
@@ -40499,12 +40841,25 @@
         "wrappedTokens": [
             {
                 "chainId": 1101,
-                "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+                "wrappedTokenAddress": "0xbf6de60ccd9d22a5820a658fbe9fc87975ea204f",
                 "wrappedNetworkId": 1,
                 "tags": [
-                    "lxly",
+                    "zkevmMessageBridge",
                     "erc20"
-                ]
+                ],
+                "originChainBridgeAdapter": "0xf0CDE1E7F0FAD79771cd526b1Eb0A12F69582C01",
+                "wrappedChainBridgeAdapter": "0xDB5D9c10FD2a92692DB51853e06058EE0436d69B"
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
+                "tags": [
+                    "lxly",
+                    "erc20",
+                    "legacy",
+                    "noDeposit"
+                ],
+                "wrappedNetworkId": 1
             },
             {
                 "chainId": 137,
@@ -40512,6 +40867,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5d8cff95d7a57c0bf50b30b43c7cc0d52825d4a9",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -40910,6 +41274,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x51d980e999b6b8fc60b36627e94e11636b2380fe",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -41951,6 +42324,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xea8261fa8845c371f4c348344703e12f0bd8357b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -42455,6 +42837,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb89ea60a28b2ad43559bfa1c55b98367493db0d6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -43067,6 +43458,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xdd9b38b06cbc41e013027579211f9bddbe48ca99",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -45375,6 +45775,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xbc50659bf39ecf4c23b4b996ad014e6d09206030",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -47059,6 +47468,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa5aa9ee032ceb0dc7528976cce325ff2eeb8dda2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -48943,7 +49361,7 @@
         "chainId": 1,
         "name": "Balance token",
         "symbol": "BAL",
-        "decimals": "0",
+        "decimals": 0,
         "originTokenAddress": "0xe7049114562c759d5e9d1d25783773ccd61c0a65",
         "originNetworkId": 0,
         "tags": [
@@ -51646,7 +52064,8 @@
         "originTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "originNetworkId": 0,
         "tags": [
-            "erc20"
+            "erc20",
+            "noDeposit"
         ],
         "wrappedTokens": [
             {
@@ -51655,7 +52074,8 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
-                    "erc20"
+                    "erc20",
+                    "noDeposit"
                 ]
             },
             {
@@ -51664,7 +52084,9 @@
                 "wrappedNetworkId": 1,
                 "tags": [
                     "lxly",
-                    "erc20"
+                    "erc20",
+                    "noDeposit",
+                    "noWithdraw"
                 ]
             }
         ]
@@ -53055,6 +53477,15 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xe3c8f0d7f978aadf1929cbbfb116419175844f04",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -53458,7 +53889,7 @@
         "chainId": 1,
         "name": "Arch Blockchains",
         "symbol": "CHAIN",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x89c53b02558e4d1c24b9bf3bed1279871187ef0b",
         "originNetworkId": 0,
         "tags": [
@@ -53480,7 +53911,7 @@
         "chainId": 1,
         "name": "Frog Coin",
         "symbol": "FRG",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x726516b20c4692a6bea3900971a37e0ccf7a6bff",
         "originNetworkId": 0,
         "tags": [
@@ -53502,7 +53933,7 @@
         "chainId": 1,
         "name": "Insula",
         "symbol": "ISLA",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
         "originNetworkId": 0,
         "tags": [
@@ -53590,7 +54021,7 @@
         "chainId": 1,
         "name": "Frankencoin",
         "symbol": "ZCHF",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
         "originNetworkId": 0,
         "tags": [
@@ -53612,7 +54043,7 @@
         "chainId": 1,
         "name": "Qrolli",
         "symbol": "QR",
-        "decimals": "9",
+        "decimals": 9,
         "originTokenAddress": "0xccdb064a41afcd432bcea6f6d0d1e7c371d0b002",
         "originNetworkId": 0,
         "tags": [
@@ -53634,7 +54065,7 @@
         "chainId": 1,
         "name": "Arch Web3",
         "symbol": "WEB3",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x8f0d5660929ca6ac394c5c41f59497629b1dbc23",
         "originNetworkId": 0,
         "tags": [
@@ -53656,7 +54087,7 @@
         "chainId": 1,
         "name": "ProperT",
         "symbol": "PROPT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xd58b9ae085f725ba97b8c30c0d0aec0eca47146b",
         "originNetworkId": 0,
         "tags": [
@@ -53700,7 +54131,7 @@
         "chainId": 1,
         "name": "Salad",
         "symbol": "SALD",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x5582a479f0c403e207d2578963ccef5d03ba636f",
         "originNetworkId": 0,
         "tags": [
@@ -53744,7 +54175,7 @@
         "chainId": 1,
         "name": "WhiteSwap",
         "symbol": "WSD",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
         "originNetworkId": 0,
         "tags": [
@@ -53779,6 +54210,26 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf3443e91b2ea741a49bb7d060037f11786407f4e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x5e1dec6c0dd751d477e9f424deae3e429f0716b1",
+                "fxChildTunnelAddress": ""
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8521b7676cbf03e0a9853ef1dd12ac1e3030ddfa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -53832,7 +54283,7 @@
         "chainId": 1,
         "name": "Bag",
         "symbol": "BAG",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x735e4886dbaffd3bdbef2d00f70268de5556f6b1",
         "originNetworkId": 0,
         "tags": [
@@ -53854,7 +54305,7 @@
         "chainId": 1,
         "name": "TRADE MASTER",
         "symbol": "TRDM",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xc8dfb57d83bf561457b1a3f6ce22956bb554bcab",
         "originNetworkId": 0,
         "tags": [
@@ -54030,7 +54481,7 @@
         "chainId": 1,
         "name": "WEBILITY",
         "symbol": "WEBI",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x37e43b704181c7324333991bcb42cd3f29a540e8",
         "originNetworkId": 0,
         "tags": [
@@ -54052,7 +54503,7 @@
         "chainId": 1,
         "name": "VERITY",
         "symbol": "VRTY",
-        "decimals": "12",
+        "decimals": 12,
         "originTokenAddress": "0x87e960f996e789ca2c8415fc449e4720adbe0497",
         "originNetworkId": 0,
         "tags": [
@@ -54074,7 +54525,7 @@
         "chainId": 1,
         "name": "bitsCrunch Token",
         "symbol": "BCUT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406",
         "originNetworkId": 0,
         "tags": [
@@ -54087,6 +54538,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf8903b434573b191e130829f2f8ce9a22595a73f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -54250,6 +54710,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x28a32b0d375a3b24d8fd57b81f19decfec34c732",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -54585,6 +55054,15 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "fx",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x205607af7f18e2a5d55392d1cc8e63ffd58dfe64",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
@@ -56217,6 +56695,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x6b8d8249920d38d8b6f4ef7a021aee8c3c55953d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -57587,6 +58074,15 @@
                     "fx",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb78431892f82714d373d96926d36dc11a052d9f9",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ]
     },
@@ -58933,7 +59429,7 @@
         "chainId": 1,
         "name": "JannaviToken",
         "symbol": "JN",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xd5acd9226fcaa71b0e94eac53ba29fb831389e92",
         "originNetworkId": 0,
         "tags": [
@@ -59030,7 +59526,7 @@
         "chainId": 1,
         "name": "Kabuni Coin",
         "symbol": "KBC",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xa88920b4a35f7d0e81bc586ce1875036fced9154",
         "originNetworkId": 0,
         "tags": [
@@ -59052,7 +59548,7 @@
         "chainId": 1,
         "name": "RoyaltyCOIN",
         "symbol": "RYLT",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0xd30a2e9347ad48ea208ee563a9cdfd80e962a727",
         "originNetworkId": 0,
         "tags": [
@@ -59074,7 +59570,7 @@
         "chainId": 1,
         "name": "Big Time",
         "symbol": "BIGTIME",
-        "decimals": "18",
+        "decimals": 18,
         "originTokenAddress": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
         "originNetworkId": 0,
         "tags": [
@@ -59087,6 +59583,2768 @@
                 "wrappedNetworkId": -1,
                 "tags": [
                     "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Carbify",
+        "symbol": "CBY",
+        "decimals": 18,
+        "originTokenAddress": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xebafdaee9b00be1f98a3d6c6b36dc062581abe0e",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "BlueSkyWhale Token",
+        "symbol": "BSW",
+        "decimals": 18,
+        "originTokenAddress": "0x5ab02e0bd1d7fa8798a04c1bae575813543ee12a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9329000f1f3d76c7e50aa07f83f09bf96c6ac21d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Greelance",
+        "symbol": "GRL",
+        "decimals": 9,
+        "originTokenAddress": "0xa067237f8016d5e3770cf08b20e343ab9ee813d5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe12fe027e865a66dcea52af6416ec4ad63f40ed0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Curve.Fi USD Stablecoin",
+        "symbol": "crvUSD",
+        "decimals": 18,
+        "originTokenAddress": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xda8f4eb4503acf5dec5420523637bb5b33a846f6",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Carnomaly",
+        "symbol": "CARR",
+        "decimals": 18,
+        "originTokenAddress": "0x884ddbb5dc6c2cef77d3e74c6ccca315797d655b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4cf3ef618c064c57c4a1bb582866ec009961ee82",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bag",
+        "symbol": "BAG",
+        "decimals": 18,
+        "originTokenAddress": "0x808688c820ab080a6ff1019f03e5ec227d9b522b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x73b29199a8e4c146e893eb95f18dac41738a88c6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Trump Victory Token",
+        "symbol": "TPVT",
+        "decimals": 18,
+        "originTokenAddress": "0x96124631959cd78f2f9149fe24bbf43c2b012fcb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5a5c7db6026acbfd64b48a6a1a5b145261c544cb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Meteora",
+        "symbol": "MRA",
+        "decimals": 18,
+        "originTokenAddress": "0xc0add6fc2942d86b132f52a0a909ad6b34baaf42",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x390bf80cb7cb2b25b028661b67021ef9f3b873d9",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "D-Drops",
+        "symbol": "DOP",
+        "decimals": 18,
+        "originTokenAddress": "0x2a7cad775fd9c5c43f996a948660ffc21b4e628c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf24a9cd051dd11e815cbf699edd704541a08b996",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa723ecd35fad92b74b2a71b5c556d693671f3a32",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Blood Crystal",
+        "symbol": "BC",
+        "decimals": 18,
+        "originTokenAddress": "0x4b6d036d0bc62a633acca6d10956e9dbbb16748f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xfe049f59963545bf5469f968e04c9646d6e2c2c5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x43b5d03a950ad93db3b8d2db0c1be458873bfab8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "FOOM",
+        "symbol": "FOOM",
+        "decimals": 18,
+        "originTokenAddress": "0xd0d56273290d339aaf1417d9bfa1bb8cfe8a0933",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x121f24eb74d871e46e2494f054b2822905c5d78d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2e250061938231e8d85c9d2d3313dee6674f6609",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SubQueryToken",
+        "symbol": "SQT",
+        "decimals": 18,
+        "originTokenAddress": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc52f0f8361835b53a18408bb44d7f4136f0ef69d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Arcana Network",
+        "symbol": "XAR",
+        "decimals": 18,
+        "originTokenAddress": "0x5027fc44a7ba114b8f494b1e4970900c6652fedf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x38e480ddd77fb8e9324483e6378f3c66028ed80b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SpongeBob",
+        "symbol": "SPONGE",
+        "decimals": 18,
+        "originTokenAddress": "0x25722cd432d02895d9be45f5deb60fc479c8781e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd84518aa3db62f26653ec681ab2c1ed158b26ed8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Tamadoge",
+        "symbol": "TAMA",
+        "decimals": 18,
+        "originTokenAddress": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xcd6473e10efba3fb4bd8ef0f2405ae64f6b849b4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SGT",
+        "symbol": "SGT",
+        "decimals": 8,
+        "originTokenAddress": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x1ef5bb23e0b91c2e8480a4a2b71feb4607cb32f1",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ZYM",
+        "symbol": "ZYM",
+        "decimals": 18,
+        "originTokenAddress": "0xfc4d2c10beb523106f8d5cddf4d84b9bd858fe61",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xfd4dc5e8e622ad572eabdd1574d29ee010f8e07d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Smart Layer Network Token",
+        "symbol": "SLN",
+        "decimals": 18,
+        "originTokenAddress": "0xdb82c0d91e057e05600c8f8dc836beb41da6df14",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x1fe78e67ad10ba3a9583e672cac0480737d1b9f7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DAppNode DAO Token",
+        "symbol": "NODE",
+        "decimals": 18,
+        "originTokenAddress": "0xda007777d86ac6d989cc9f79a73261b3fc5e0da0",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x978c3174145f5edfd71652f5e67e31d09c7851ee",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Sity Token",
+        "symbol": "SITY",
+        "decimals": 18,
+        "originTokenAddress": "0xc8762fea29fd80e7262313374e62359c17e14eca",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xccd5cd27a9b4b36b66e42c7d938775cc320c7e4b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ROND Coin",
+        "symbol": "ROND",
+        "decimals": 18,
+        "originTokenAddress": "0x82197d7446a435105d6f3a430d72a6713960e34d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xfc3bd1e188b73e3346798357f5b15f2d43ebd8e5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Independence Token",
+        "symbol": "RFKJ",
+        "decimals": 18,
+        "originTokenAddress": "0xf64265e65c4529879a7abf467e00d39e39c0b0da",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x343c7e16f2cc19303a764f145515b590eff3397c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Rock token",
+        "symbol": "ROCK",
+        "decimals": 18,
+        "originTokenAddress": "0x14349aa52324d02748728cff25774e8db00e330b",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0xb327418f59a237e8fa5fb14267e94d343e8b05dc",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DMCCOIN",
+        "symbol": "DMCC",
+        "decimals": 18,
+        "originTokenAddress": "0x148255a3b10666d9788ec48bc61ea3e48974bf2c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xfc85432e10d6752af03949cf1c2934ed071a02d0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x0f388bce483f0f28811093d4d4e6f81547426f2f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "JEFF",
+        "symbol": "JEFF",
+        "decimals": 18,
+        "originTokenAddress": "0xf831938caf837cd505de196bbb408d81a06376ab",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x25aff8f3bd68cb293a0ebd268f2243a32e476325",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Open Ecosystem Token",
+        "symbol": "OPN",
+        "decimals": 18,
+        "originTokenAddress": "0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x7844f79fc841e4f92d974c417031c76f8578c2d5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Smell Token",
+        "symbol": "SML",
+        "decimals": 8,
+        "originTokenAddress": "0xa9cc3aa847dfe26d9f4ae1b8aeb50368a840a663",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0ffbf0d8371a7a5fc4e230cdbe2e97924c600d18",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "OMTest Token",
+        "symbol": "OMTTZ",
+        "decimals": 18,
+        "originTokenAddress": "0xdb8f07b4992f2ae797226238d549946da901c0f2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x79deed8f13f9c033ea78959b392b10a96715c2d8",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Ethereum Message Search",
+        "symbol": "EMS",
+        "decimals": 18,
+        "originTokenAddress": "0xa3e97b72ce6d439a2a257534bade7c2e3cb63491",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x860475f4ca1afe93dcf5551f1af4e04fed58cfaa",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LeisureMeta",
+        "symbol": "LM",
+        "decimals": 18,
+        "originTokenAddress": "0xc064f4f215b6a1e4e7f39bd8530c4de0fc43ee9d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xb2d3edf61b27ab28288d8c760fa686be084ff526",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SINERGIA",
+        "symbol": "SNG",
+        "decimals": 8,
+        "originTokenAddress": "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf4d984e112835f73f1d4655d1d97ab75993b3c55",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe512e3f04546beb4b6aaa64bd4a0d6c0f3590190",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Grandma",
+        "symbol": "GRNDMA",
+        "decimals": 8,
+        "originTokenAddress": "0xbf94e3bdac6ddc980d5d7a1fbc2d14a05ea29e9f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa99a4d7df1a3f013fbafc059aa2b5a039a349c46",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Telcoin",
+        "symbol": "TEL",
+        "decimals": 2,
+        "originTokenAddress": "0x85e076361cc813a908ff672f9bad1541474402b2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2ebb326144c3f3f644149a2d519d8e3c7dd02d41",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Aether Games",
+        "symbol": "AEG",
+        "decimals": 6,
+        "originTokenAddress": "0x80ca3d361affeb2bd088d8710fd3a620751778d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd862f7a1ea9ad8b8818171cf617ff42afe69bedc",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "iMe Lab",
+        "symbol": "LIME",
+        "decimals": 18,
+        "originTokenAddress": "0x9d0b65a76274645b29e4cc41b8f23081fa09f4a3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7124b2d87c6ad79ee488b7207ffc83dcb4cb0fe4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Shih Tzu",
+        "symbol": "SHIH",
+        "decimals": 18,
+        "originTokenAddress": "0x841fb148863454a3b3570f515414759be9091465",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4f39fcaa65a186133e14f736383a8d0a921a8814",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "originTokenAddress": "0x3f0cc41de057458591e1c753f5bc162c982cbd00",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2903b624ef463a69e5a3d66bfb13ae9fe821250a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1101,
+        "name": "Ankr Staked ETH",
+        "symbol": "ankrETH",
+        "decimals": 18,
+        "originTokenAddress": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x9ff5f723452a272cec81cb4591e071297b05589e",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "KOSHER CERTIFIED | VERIFIED | VERITY",
+        "symbol": "KOSHER",
+        "decimals": 18,
+        "originTokenAddress": "0x64ad128b1cef10dbb279a7ac7190ddab043a16e7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2e47767fb240467fe5841fec00562773afcdf2ff",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Open Meta City",
+        "symbol": "OMZ",
+        "decimals": 18,
+        "originTokenAddress": "0xd7d9babf56a66daff2ac5dc96f7e886c05124676",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x7272a5a8bd39f204bf773e8b74bb01e31681ad1d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Arch Crypto AI",
+        "symbol": "ACAI",
+        "decimals": 18,
+        "originTokenAddress": "0xd1ce69b4bdd3dda553ea55a2a57c21c65190f3d5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x9f5c845a178dfcb9abe1e9d3649269826ce43901",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Digital Asset Rights Token",
+        "symbol": "DAR",
+        "decimals": 18,
+        "originTokenAddress": "0x5d953355d8dd64fc39e6124e66e89af15fda4cb5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x428f3da909445b1bfd14f359beb114059ec96148",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Frankencoin Pool Share",
+        "symbol": "WFPS",
+        "decimals": 18,
+        "originTokenAddress": "0x5052d3cc819f53116641e89b96ff4cd1ee80b182",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x54cc50d5cc4914f0c5da8b0581938dc590d29b3d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x428a5d1c52fd1cf72f1bfa2f825f1d4d0cebec63",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped SOL",
+        "symbol": "SOL",
+        "decimals": 9,
+        "originTokenAddress": "0xd31a59c85ae9d8edefec411d448f90841571b89c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x99bd591703721d7c4e0413c91902bc2418e4e598",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bubo",
+        "symbol": "BUBO",
+        "decimals": 18,
+        "originTokenAddress": "0xccbf21ba6ef00802ab06637896b799f7101f54a2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x2deed7054b148641c0b31f22c4f0726c143bb17b",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x566611224e1beb2c74ace0426cdbef0c71917c75",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "PKG Token",
+        "symbol": "PKG",
+        "decimals": 18,
+        "originTokenAddress": "0x02f2d4a04e6e01ace88bd2cd632875543b2ef577",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x660d718d6295c5087bef3c4eebbb217d368d9dde",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "WERACLE",
+        "symbol": "WERAC",
+        "decimals": 18,
+        "originTokenAddress": "0x45724b2980960a78f3e3fa84fc6f890b22835488",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x6bfdc41db6b555cf4b5c13a3982ab8235f7f76f7",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "XWW Corp",
+        "symbol": "XWW",
+        "decimals": 18,
+        "originTokenAddress": "0x6ee592b1c2386b4d3b12c0622afc1fa0de5c1a20",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc88ed7f3186dccc471456c7386e75beff00f6bba",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "EDUM",
+        "symbol": "EDUM",
+        "decimals": 18,
+        "originTokenAddress": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x8bed972bc5ff0ab8290461cd01f8b58f39fa312f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Unipilot",
+        "symbol": "PILOT",
+        "decimals": 18,
+        "originTokenAddress": "0x37c997b35c619c21323f3518b9357914e8b99525",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa3f8e91455a84ea02a6435d5db15667cedaf7c10",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "RoRa Prime",
+        "symbol": "RORAP",
+        "decimals": 18,
+        "originTokenAddress": "0xd682c2ff2a311959e62f242e77037c18df3ac823",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x8d0161e0a990d31752108a7481005a679531905f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Uniports Online Shopping  Token",
+        "symbol": "UOST",
+        "decimals": 6,
+        "originTokenAddress": "0xab86b582eb502243d8dfe1795760f86d98d6637a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd5846cabc4b387ca5689d36604a2846621f302e2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Alephium (AlphBridge)",
+        "symbol": "ALPH",
+        "decimals": 18,
+        "originTokenAddress": "0x590f820444fa3638e022776752c5eef34e2f89a6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9ea399f7daa29c46637bfca37a2db45afa3c2298",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ValorToken",
+        "symbol": "VALOR",
+        "decimals": 18,
+        "originTokenAddress": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x376e8b803b59843ffe16f8d7190912a9d30a038c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "TestUSDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "originTokenAddress": "0x83bf0bacd31f9c2ae93da3a863a4f210f7b9bce1",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0xfeac23a9bdc4206e27e290d1ca439ac0df1c6a4a",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "JPY Coin",
+        "symbol": "JPYC",
+        "decimals": 18,
+        "originTokenAddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x674a7bb9b3302edcec6d23cb697298177f371183",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Gala",
+        "symbol": "GALA",
+        "decimals": 8,
+        "originTokenAddress": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd3131e4ad1eb2148b6d31758f500039d0123311c",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Minima",
+        "symbol": "WMINIMA",
+        "decimals": 18,
+        "originTokenAddress": "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xa559438c63d360228457073d677093d161c58f30",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Banana Cat",
+        "symbol": "BANANACAT",
+        "decimals": 18,
+        "originTokenAddress": "0x179bdd4870d6eacfd273cd4c8cbc4542a4433b8b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7c749a65556d01bf3fbb435653def906a5b585f8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Test10.04",
+        "symbol": "T10.04",
+        "decimals": 18,
+        "originTokenAddress": "0x088092c8998f38d20ddd5c6d6a32d1d98567db7f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3bc4313f9f679774a77db26d699ae7df7f4b3a33",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Digital Asset Rights Token",
+        "symbol": "DAR",
+        "decimals": 18,
+        "originTokenAddress": "0x1db11e86fa9b9a87813a4dd3f747eef12ed55a55",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x30d3d659dcfb9620acde64605068718f270fda6d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Arch Bitcoin Diversified Yield",
+        "symbol": "ABDY",
+        "decimals": 18,
+        "originTokenAddress": "0xde2925d582fc8711a0e93271c12615bdd043ed1c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xef7b6cd33afafc36379289b7accae95116e27c88",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "UTU Coin",
+        "symbol": "UTU",
+        "decimals": 18,
+        "originTokenAddress": "0xa58a4f5c4bb043d2cc1e170613b74e767c94189b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x05f691c5bd5efb3e70686dcf24effe9ce3fd7260",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Hokuto 7",
+        "symbol": "HKT",
+        "decimals": 18,
+        "originTokenAddress": "0x05249b2e1f2492a8a64a67863d8ee2d4823b3d51",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x39e2f4d8d74f5efa4db732a751f7731764968f00",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "DeNet Storage (Layer 2)",
+        "symbol": "etherDE",
+        "decimals": 18,
+        "originTokenAddress": "0x7cc35c17db6fc7c7894f0ac19932a2c852fa7ed2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x49f93950983dda593b6867bbd40e7e87ad8d4056",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "LIFE Rewards Token",
+        "symbol": "LIRF",
+        "decimals": 18,
+        "originTokenAddress": "0xf278a83dd165b73257bf6d51bb692f6373183205",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x6b636775db455d3c6371c4a5042c313e22440212",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x537438d607d6ddd828ff58dbc2f2eb130675154f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1101,
+        "name": "Aura",
+        "symbol": "AURA",
+        "decimals": 18,
+        "originTokenAddress": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+        "originNetworkId": 1,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x741971af1fb2951bcf25ac0a61411687be5869de",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Frankencoin Pool Share",
+        "symbol": "FPS",
+        "decimals": 18,
+        "originTokenAddress": "0x1ba26788dfde592fec8bcb0eaff472a42be341b2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x4b4f83b59f2d7535a21e72c20b6d0ae4f59de23d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Calvaria: Duels of Eternity",
+        "symbol": "RIA",
+        "decimals": 18,
+        "originTokenAddress": "0x9b110fda4e20db18ad7052f8468a455de7449eb6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5b6616fb63fb5f855761a7151072a6d888fc07fe",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Ixs Token",
+        "symbol": "IXS",
+        "decimals": 18,
+        "originTokenAddress": "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe8aad86afb51b7db7df738881712f36f476e2c71",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wasder Token",
+        "symbol": "WAS",
+        "decimals": 18,
+        "originTokenAddress": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xd82a0cf45b952d685fe0a078ac38a5b1fd0b57bc",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Fuzuki Inu",
+        "symbol": "FUZUKI",
+        "decimals": 18,
+        "originTokenAddress": "0x1bfc53f23d6ee0c8a97e88066834da5b09216c54",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xf1ae259ce7dff0267c64b7f49af773553ec7c42b",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Astar Token",
+        "symbol": "ASTR",
+        "decimals": 18,
+        "originTokenAddress": "0xdf41220c7e322bfef933d85d01821ad277f90172",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x90be3031ffbf419881d205d81483aef9640c31c3",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Defibillboards",
+        "symbol": "DBB",
+        "decimals": 18,
+        "originTokenAddress": "0xf5845417748dce27c8dddd9b031da028954187bc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd0c90c44de0a9f0245bc0025d57a68878202def8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Made in USA Certified",
+        "symbol": "USA",
+        "decimals": 18,
+        "originTokenAddress": "0x550a32566dfa90aa3d3c66de0c22be3fb532857a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x4e1785db8c47e2ca16a723067c98e6a1528e769e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Nova DAO",
+        "symbol": "NOVA",
+        "decimals": 18,
+        "originTokenAddress": "0x82967568a57625675b260ebab1294038c9accc6e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x119fd89e56e3845b520644dcedf4a86cd0b66aa6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MobyToken",
+        "symbol": "MOBY",
+        "decimals": 18,
+        "originTokenAddress": "0x40a7df3df8b56147b781353d379cb960120211d7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x60fb89f9c7c7f8a89c94597d693243555fcfb274",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "ERC20",
+        "symbol": "ERC20",
+        "decimals": 18,
+        "originTokenAddress": "0xcdd981ef3330e159029e6e226dbd73d99f868f4d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x3c675f671fab802cd2cf88abaa7a745de52294dd",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GigaSwap",
+        "symbol": "GIGA",
+        "decimals": 9,
+        "originTokenAddress": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x008deefb8dab8a5cd8e6bab6b5dba958e4e4abed",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "CandorCoin",
+        "symbol": "CAN",
+        "decimals": 18,
+        "originTokenAddress": "0x0cc8ba204a31c8725f51dc02ac60732d48a93710",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xdb28b2e62a3b2d31e0427f068c177706c497663d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SNPIT TOKEN",
+        "symbol": "SNPT",
+        "decimals": 18,
+        "originTokenAddress": "0xc6763c883755412b3fab050895656362d0447da2",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x22737f5bbb7c5b5ba407b0c1c9a9cdf66cf25d7d",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GALAXIS Token",
+        "symbol": "GALAXIS",
+        "decimals": 18,
+        "originTokenAddress": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x3c69d114664d48357d820dbdd121a8071eac99bf",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x0db6d9d66bafd09baad2b7179178a2c1f9bc12ed",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "XNET Mobile",
+        "symbol": "XNET",
+        "decimals": 18,
+        "originTokenAddress": "0x5393ceed9a265bda7952780e5b9413150e666a24",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe64d3b062ff7697f574225b0f1d3d078b350d203",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MetalSwap",
+        "symbol": "XMT",
+        "decimals": 18,
+        "originTokenAddress": "0x3e5d9d8a63cc8a88748f229999cf59487e90721e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x5c4360cd10fe783f27ff6677133d84d8c55ec1fb",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Brett",
+        "symbol": "BRETT",
+        "decimals": 9,
+        "originTokenAddress": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x13df8d84fd9a141be403a418f82a3e151a1ceff0",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Genius Token & NFT Collections",
+        "symbol": "GNUS",
+        "decimals": 18,
+        "originTokenAddress": "0x614577036f0a024dbc1c88ba616b394dd65d105a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xb80328497c7ce8d7543c8a806ddd3f82ca07fce1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "AllianceBlock Nexera Token",
+        "symbol": "NXRA",
+        "decimals": 18,
+        "originTokenAddress": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xaa32375f9223d006ea22355c9d5bb600f4f3800f",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Gyro Dollar",
+        "symbol": "GYD",
+        "decimals": 18,
+        "originTokenAddress": "0xe07F9D810a48ab5c3c914BA3cA53AF14E4491e8A",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "logoURI": "https://app.gyro.finance/_next/static/media/gyd.aab5a49d.svg",
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "zkevmMessageBridge",
+                    "erc20"
+                ],
+                "originChainBridgeAdapter": "0xF3387a880998C9B9169bc9973E8826Fc9035c171",
+                "wrappedChainBridgeAdapter": "0xCA5d8F8a8d49439357d3CF46Ca2e720702F132b8"
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x9496C473A7b1809dE32198aE1C23a7Ba844D9f6d",
+                "tags": [
+                    "lxly",
+                    "erc20",
+                    "legacy",
+                    "noDeposit"
+                ],
+                "wrappedNetworkId": 1
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Novolem",
+        "symbol": "NOVO",
+        "decimals": 18,
+        "originTokenAddress": "0x752894f28d2e20b33f0633526bfc2c3db7dc739c",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xc8f834530f0e692892865ffcc835a147929a63ec",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "xLazy",
+        "symbol": "xLazy",
+        "decimals": 18,
+        "originTokenAddress": "0xd1674e0f43b12832d063fcaf415597e757568867",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc3663b94d2e22d3c1117d83214dd59322889c4fb",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Fuzuki Inu",
+        "symbol": "FUZUKI",
+        "decimals": 18,
+        "originTokenAddress": "0x63b0c0c2e4a1ef8e2862c64acc84e2459dc426cd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x5bcb9e5214cebd52eb99c7fc5d9b5d8f7a678212",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Datamall Chain Token",
+        "symbol": "DMC",
+        "decimals": 18,
+        "originTokenAddress": "0x05f2e406606f82ec96dce822b295278795c5053b",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x910e888698da0c2ecc97a04a137aa1cfc1dfd209",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "GKB",
+        "symbol": "GKB",
+        "decimals": 18,
+        "originTokenAddress": "0x7fff600e06ebc8a9b46e22eed87693b11ab07451",
+        "originNetworkId": 3,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x4be2096347314b8149ccd1cb986fe047a83240d1",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Hokuto 7",
+        "symbol": "HKT",
+        "decimals": 18,
+        "originTokenAddress": "0xdafe2b7d99b95b0d4b3ea4eb366643debb1839c6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x976c329067eebe6a502b959c9834e881e1da73c1",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x24a884e8cbd0b4dd1a23181dbb9623bb40a636e4",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "M2 Global Wealth Limited",
+        "symbol": "MMX",
+        "decimals": 18,
+        "originTokenAddress": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x95a62521c655e7a24a3919aa1f99764c05b7ec4e",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT1",
+        "symbol": "SOT1",
+        "decimals": 8,
+        "originTokenAddress": "0x5072fda285d9889ef28bcbfc6d9a262a2d66ca99",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x62864b0359512ebd281a9189018f1cc1034fdff6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Diamond castle",
+        "symbol": "DMCK",
+        "decimals": 18,
+        "originTokenAddress": "0x2242328a9e9a2dea3b9ef5952b9614f45c7585d6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x593c8f43ef20461b2ae4ec50d2aa6db589facaec",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MoonRock",
+        "symbol": "ROCK",
+        "decimals": 9,
+        "originTokenAddress": "0x1a6921f7b92113c79306f1a9e148d83445ac42bc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe54e6e2ce27f24895bb3e3454c94f2ed6c6eb3a5",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT2",
+        "symbol": "SOT2",
+        "decimals": 8,
+        "originTokenAddress": "0x17cc9db9efcae1e4955f9090d13f42568e296844",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x009d2dd3452248a4c013d1f7427f559de2c81fb5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT3",
+        "symbol": "SOT3",
+        "decimals": 8,
+        "originTokenAddress": "0x38e54acd4dd7c975fb047233184bceb48928bd57",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x8129bd64e8f2468ed289cf08c99f95cbd40e2b88",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT4",
+        "symbol": "SOT4",
+        "decimals": 8,
+        "originTokenAddress": "0x82486c1ef00880959b0222c6282f4b17c2f84831",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x47c53c7ba6085b4a0818bf8b9d79833a2329288f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_09",
+        "symbol": "SOT_2023_09",
+        "decimals": 8,
+        "originTokenAddress": "0x7edd3309ca15ea3fad1230de808cd05e32b64331",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2ecd0ba1ee1758e126d499d729bf3f72de9d24a6",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_10",
+        "symbol": "SOT_2023_10",
+        "decimals": 8,
+        "originTokenAddress": "0x9651675a17bc4744461e3cfc1140b50a956f742f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x01969e9da6aef3bb7635d69eda88fa4cdc17ef16",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_11",
+        "symbol": "SOT_2023_11",
+        "decimals": 8,
+        "originTokenAddress": "0xb8ff5af775a35c5df323ecc2e9787a0e49c8134f",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xdb2f328a48e378aac19b914fb53f75e816d6513f",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2023_12",
+        "symbol": "SOT_2023_12",
+        "decimals": 8,
+        "originTokenAddress": "0x7fc7d269e2f042056d801d3743a5e78aac2a3e33",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x9936786d9731bb968325584f9716c46b71116074",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2024_01",
+        "symbol": "SOT_2024_01",
+        "decimals": 8,
+        "originTokenAddress": "0x638a25dfd8535d20da320716fe75990af450d473",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xfddf7e4fd3153a4205b4bc260d7fe7da373b8e01",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2024_02",
+        "symbol": "SOT_2024_02",
+        "decimals": 8,
+        "originTokenAddress": "0x6741212287b0b437a5eb36ed3747b49ba4904a3b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x5544b27a61db67f58143209e7c7d74d3a91ff2a0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Aka",
+        "symbol": "AKA",
+        "decimals": 18,
+        "originTokenAddress": "0x3b70691aa1dd96f07b268d423114d0f60e79c783",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x739177d97ca57cb871797ff4a31a23e3292aa3a0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "SOT_2024_03",
+        "symbol": "SOT_2024_03",
+        "decimals": 8,
+        "originTokenAddress": "0x85cb634fdd8e4abaad2b62640c691c7ddaae5f23",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xc980ca18d813158bf75aadf57f317956d4eb4826",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Flixx",
+        "symbol": "FLIXX",
+        "decimals": 18,
+        "originTokenAddress": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x170d917ad5fd71534ef9fb8a533aac4a93117ec5",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Schnoodle",
+        "symbol": "SNOOD",
+        "decimals": 18,
+        "originTokenAddress": "0xd45740ab9ec920bedbd9bab2e863519e59731941",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xde255511bb40d55662c3c00a37266847daa03229",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Bitcorn",
+        "symbol": "BTC",
+        "decimals": 8,
+        "originTokenAddress": "0xe8a25c46d623f12b8ba08b583b6fe1bee3eb31c9",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x72b6aa4e2e94acda5c9ea2534e3bdcce6dd4d3e4",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Dogeverse",
+        "symbol": "DOGEVERSE",
+        "decimals": 18,
+        "originTokenAddress": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe58c79bb0f93cd4e1cbbd1927b613d0777458286",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Calico",
+        "symbol": "CALICO",
+        "decimals": 18,
+        "originTokenAddress": "0x9ffb1d4c2d27731c1aa11fbd44a1b5d596d663b4",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x934e03a72c5433e68f56ba811dd031ce12ae67b8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Evo Exchange",
+        "symbol": "EvoX",
+        "decimals": 18,
+        "originTokenAddress": "0xdcd2aa9c0756ea7f9d5020e41b07be469c221ffc",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xf621ccfd117f4a412101b7613db3e72eea4f4dcf",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Staked Open Ecosystem Token",
+        "symbol": "xOPN",
+        "decimals": 18,
+        "originTokenAddress": "0x686e8500b6be8812eb198aabbbfa14c95c03fc88",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x7773cc93a7517935eedbbff5c4493b15d7b14b92",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Legend",
+        "symbol": "LEGEND",
+        "decimals": 18,
+        "originTokenAddress": "0x1b1ff83ae0751ffb7ce0224e9c330e859e95dd16",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x4bded3d44f716fe6139250db8eb8366baa8f3992",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Birdman",
+        "symbol": "BDM",
+        "decimals": 18,
+        "originTokenAddress": "0x73dd50dfa1ae4a742540776a7e8e4a1aae0e3dad",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe1489d62dc1b74da19536891e80a0617f2bc6a1a",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "Scotty AI",
+        "symbol": "SCOTTY",
+        "decimals": 18,
+        "originTokenAddress": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xee18793879b53d820377f55362335bc013e89ed8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "MAGA",
+        "symbol": "MAGA",
+        "decimals": 9,
+        "originTokenAddress": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xe3a0e309c8ce495c66210694d0101571cb11b676",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
                     "erc20"
                 ]
             }
