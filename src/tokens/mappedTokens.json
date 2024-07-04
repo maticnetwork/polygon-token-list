@@ -62237,6 +62237,15 @@
                     "lxly",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x2746c4637926577ad53092656f4c4525dd111794",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
             }
         ]
     },
