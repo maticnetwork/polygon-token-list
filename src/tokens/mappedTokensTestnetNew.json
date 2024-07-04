@@ -2877,5 +2877,29 @@
                 "fxChildTunnelAddress": ""
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "PAZA",
+        "symbol": "PAZA",
+        "decimals": 18,
+        "originTokenAddress": "0x849d8c10b92acfe525cedee222a896af3183335e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 80002,
+                "wrappedTokenAddress": "0xb764cee5d0d9c84bd47544f44d35a38e5a205228",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc20"
+                ],
+                "fxRootTunnelAddress": "0x85343d56175f203e4b833999e81803f188f8f672",
+                "fxChildTunnelAddress": ""
+            }
+        ]
     }
 ]
