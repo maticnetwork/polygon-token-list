@@ -62358,5 +62358,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "originTokenAddress": "0xbe042e9d09cb588331ff911c2b46fd833a3e5bd6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xdd0a976acd78bf85d80bfdff8e0cb7a683f8eae8",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
