@@ -62402,5 +62402,49 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Matr1x",
+        "symbol": "MAX",
+        "decimals": 18,
+        "originTokenAddress": "0xb7109df1a93f8fe2b8162c6207c9b846c1c68090",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0xbed0b9240bdbcc8e33f66d2ca650a5ef60a5bab0",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
+    },
+    {
+        "chainId": 1,
+        "name": "xLazy",
+        "symbol": "xLazy",
+        "decimals": 18,
+        "originTokenAddress": "0xfd7f7ef9993bac6bafdcd6e773abdd5840af9bf3",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x5da2603466e1011ace8625a4d0547a5fd06a1d27",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
