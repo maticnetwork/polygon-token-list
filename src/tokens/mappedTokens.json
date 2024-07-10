@@ -62380,5 +62380,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "xGET",
+        "symbol": "xGET",
+        "decimals": 18,
+        "originTokenAddress": "0x3e49e9c890cd5b015a18ed76e7a4093f569f1a04",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xd2691f13adbb600822dd5a66f0f0e2fbabc8513d",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
