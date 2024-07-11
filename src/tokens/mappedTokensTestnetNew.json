@@ -2923,5 +2923,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "iExec RLC Token",
+        "symbol": "RLC",
+        "decimals": 9,
+        "originTokenAddress": "0x26a738b6d33ef4d94ff084d3552961b8f00639cd",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x9d793bd7b9272c59180c49327288f10e712a78e7",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
