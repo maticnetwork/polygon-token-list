@@ -3011,5 +3011,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "LUSD",
+        "symbol": "LUSD",
+        "decimals": 18,
+        "originTokenAddress": "0x2956c89c58ec19660e2962acdbf369d5f50305b7",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x31a1cb4514fd90fefc05ad887fd08db3b08c0b87",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
