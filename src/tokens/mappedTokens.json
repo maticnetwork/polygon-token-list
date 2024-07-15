@@ -1411,6 +1411,15 @@
                     "pos",
                     "erc20"
                 ]
+            },
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x10e04ae947cffd62866bdde2250af43d79715740",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/orbs-network/graphical-assets/main/orbs/ethereum/token/logo256.png"
