@@ -62455,5 +62455,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "LAKE",
+        "symbol": "LAK3",
+        "decimals": 18,
+        "originTokenAddress": "0x13d074303c95a34d304f29928dc8a16dec797e9e",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 137,
+                "wrappedTokenAddress": "0x74fd071c5e49a56ebe4990f31e46345aaf33b12a",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "pos",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
