@@ -3077,5 +3077,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Aggregation Layer Token",
+        "symbol": "AGG",
+        "decimals": 18,
+        "originTokenAddress": "0x2170cc348ae3cfb77cde9c3ca6b279863df7e0bf",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 2442,
+                "wrappedTokenAddress": "0x757413d0ae85d44e2aa8adf09b00c19be27346c7",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
