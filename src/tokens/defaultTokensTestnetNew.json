@@ -64,6 +64,38 @@
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
     },
+        {
+            "chainId": 11155111,
+            "name": "Polygon Ecosystem Token",
+            "symbol": "POL",
+            "decimals": 18,
+            "originTokenAddress": "0x44499312f493f62f2dfd3c6435ca3603ebfceeba",
+            "originNetworkId": 0,
+            "tags": [
+                "erc20"
+            ],
+            "wrappedTokens": [
+                {
+                    "chainId": 80002,
+                    "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
+                    "wrappedNetworkId": -1,
+                    "tags": [
+                        "plasma",
+                        "nativeToken"
+                    ]
+                },
+                {
+                    "chainId": 2442,
+                    "wrappedTokenAddress": "0x5Ee025376797aa49a8B4D93ab1A900BF5dA38a9E",
+                    "wrappedNetworkId": 1,
+                    "tags": [
+                        "lxly",
+                        "erc20"
+                    ]
+                }
+            ],
+            "logoURI": "https://assets.polygon.technology/tokenAssets/pol.png"
+        },
     {
         "chainId": 11155111,
         "name": "Dummy ERC20",
