@@ -206,6 +206,17 @@ fs.writeFile(
     }
 );
 
+fs.writeFile(
+    "build/tokenlists/mappedStaging.tokenlist.json",
+    JSON.stringify(tokenlists.v2MappedTokenListStaging, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("mappedStaging.tokenlist.json successfully built");
+    }
+);
+
 // Blacklist Tokenlist
 fs.writeFile(
     "build/tokenlists/blacklist.tokenlist.json",
