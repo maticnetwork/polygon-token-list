@@ -13,6 +13,7 @@ const v2PopularTokensTestnet = require("./tokens/defaultTokensTestnet.json");
 const v2PopularTokensTestnetNew = require("./tokens/defaultTokensTestnetNew.json");
 const v2MappedTokensTestnet = require("./tokens/mappedTokensTestnet.json");
 const v2PopularTokensStaging = require("./tokens/defaultTokensStaging.json");
+const v2MappedTokensStaging = require("./tokens/mappedTokensStaging.json");
 const v2MappedTokensTestnetNew = require("./tokens/mappedTokensTestnetNew.json");
 const polygonTokensTokenList = require("./metadata/polygonTokens.json");
 const popularTokenList = require("./metadata/popularTokens.json");
@@ -29,6 +30,7 @@ const v2PopularTestnetTokenList = require("./metadata/defaultTokensTestnet.json"
 const v2MappedTestnetTokenList = require("./metadata/mappedTokensTestnet.json");
 const v2PopularTestnetTokenListNew = require("./metadata/defaultTokensTestnetNew.json");
 const v2PopularTokenListStaging = require("./metadata/defaultTokensStaging.json");
+const v2MappedTokenListStaging = require("./metadata/mappedTokensStaging.json");
 const v2MappedTestnetNewTokenList = require("./metadata/mappedTokensTestnetNew.json");
 
 // Remove the project information from lists
@@ -101,6 +103,10 @@ module.exports = function buildList() {
         timestamp,
         tokens: v2PopularTokensStaging,
     }); // Staging Tokenlist
+    Object.assign(v2MappedTokenListStaging, {
+        timestamp,
+        tokens: v2MappedTokensStaging,
+    }); // Staging Tokenlist
 
     return {
         allPolygonTokenList,
@@ -113,6 +119,7 @@ module.exports = function buildList() {
         testnetTokenList,
         blacklistTokenList,
         v2PopularTokenListStaging,
+        v2MappedTokenListStaging,
         v2PopularTokenList,
         v2MappedTokenList,
         v2PopularTestnetTokenList,

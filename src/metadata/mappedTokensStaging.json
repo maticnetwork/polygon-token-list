@@ -1,0 +1,45 @@
+{
+    "name": "Mapped Tokens Staging",
+    "version": 3,
+    "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
+    "description": "Contains tokens that are mapped to Polygon PoS and Polygon zkEVM. Anyone can propose updates to this list.",
+    "tags": {
+        "lxly": {
+            "name": "lxly",
+            "description": "Token mapped through lxly bride"
+        },
+        "pos": {
+            "name": "pos",
+            "description": "Token mapped through pos bride"
+        },
+        "plasma": {
+            "name": "plasma",
+            "description": "Token mapped through plasma bride"
+        },
+        "fx": { "name": "fx", "description": "Token mapped through fx bride" },
+        "zkevmMessageBridge": {
+            "name": "zkevmMessageBridge",
+            "description": "Token mapped through zkevmMessageBridge bride"
+        },
+        "customFx": {
+            "name": "customFx",
+            "description": "Token mapped through customFx bride"
+        },
+        "erc20": {
+            "name": "erc20",
+            "description": "Token of ERC20 token type"
+        },
+        "nativeToken": {
+            "name": "nativeToken",
+            "description": "Native token of the chain"
+        },
+        "customWithdrawEventSig": {
+            "name": "customWithdrawEventSig",
+            "description": "The token has a custom withdraw event signature"
+        },
+        "noDeposit": {
+            "name": "noDeposit",
+            "description": "Token not eligible for deposits"
+        }
+    }
+}
