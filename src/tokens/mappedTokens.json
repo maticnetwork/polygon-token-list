@@ -62477,5 +62477,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "oeth.app",
+        "symbol": "Visit https://www.oeth.app to claim rewards.",
+        "decimals": 18,
+        "originTokenAddress": "0xdcc3d7b064d650d007dc5133b6f806859a5276ce",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0x38f417e103cc603f6c294a7ec229a0f122157f26",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
