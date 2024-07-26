@@ -2987,5 +2987,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "YellowChikkyy",
+        "symbol": "YC",
+        "decimals": 0,
+        "originTokenAddress": "0xc56f7a2c5216f884a32098ef0827fbdf285a6675",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xdf7351de13c6643d3699dfeccf216978ba73bf45",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
