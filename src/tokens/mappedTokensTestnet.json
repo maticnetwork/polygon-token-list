@@ -2966,5 +2966,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "AfriBarbieNFT",
+        "symbol": "AFT",
+        "decimals": 0,
+        "originTokenAddress": "0x01aa1c2b859342344eaf60a72ac9842f9a4f0a3b",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x6702efe2c391f6bc29c19d7af0d32fccb2f2c945",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
