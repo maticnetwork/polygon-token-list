@@ -62499,5 +62499,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "originTokenAddress": "0xe9cc37904875b459fa5d0fe37680d36f1ed55e38",
+        "originNetworkId": 2,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1,
+                "wrappedTokenAddress": "0x62cde76fe374268ae1c19b79036eec57b4e8a1f7",
+                "wrappedNetworkId": 0,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
