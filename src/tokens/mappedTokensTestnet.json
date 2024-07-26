@@ -3113,5 +3113,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "Testv4",
+        "symbol": "Testv4",
+        "decimals": 18,
+        "originTokenAddress": "0x499d11e0b6eac7c0593d8fb292dcbbf815fb29ae",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
