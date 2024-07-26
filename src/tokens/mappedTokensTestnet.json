@@ -2926,5 +2926,25 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "UnirisToken",
+        "symbol": "UCO",
+        "decimals": 18,
+        "originTokenAddress": "0x1ac1544bba39d35951a10375465d18ae6a75a86a",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xcdf374bf62756cf8f3da0f088cbb68678881f4f7",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
