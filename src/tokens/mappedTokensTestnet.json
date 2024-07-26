@@ -2924,6 +2924,14 @@
                     "plasma",
                     "erc20"
                 ]
+            },
+            {
+                "wrappedTokenAddress": "0x4dfae612aacb5b448c12a591cd0879bfa2e51d62",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "erc20"
+                ]
             }
         ]
     },
