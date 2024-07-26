@@ -3071,5 +3071,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "coolKidNft",
+        "symbol": "CKN",
+        "decimals": 0,
+        "originTokenAddress": "0x341cb0e050ec87ac2ac0d74b3820a9793a7abf02",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x578a7c54217c712b52c38e2fa05f4da5ced63766",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
