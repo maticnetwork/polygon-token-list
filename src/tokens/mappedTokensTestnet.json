@@ -3092,5 +3092,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "rawrNFT",
+        "symbol": "RWR",
+        "decimals": 0,
+        "originTokenAddress": "0x47cd8e17d9db69d8db8dbcb2a14f6a80adca7992",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0xbbdbdfb580bb0f54d631b64d4879eeaa63cbbace",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
