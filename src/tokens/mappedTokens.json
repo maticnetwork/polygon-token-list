@@ -62521,5 +62521,27 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 1,
+        "name": "Falafel",
+        "symbol": "FALF",
+        "decimals": 18,
+        "originTokenAddress": "0x14eaae57f698b6b2eb75e8b6205c736aed46af1d",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "chainId": 1101,
+                "wrappedTokenAddress": "0xaf52fb98d006799e4533f02fde9f6f94fc7ca7b2",
+                "wrappedNetworkId": 1,
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ]
     }
 ]
