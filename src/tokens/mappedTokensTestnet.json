@@ -3226,5 +3226,26 @@
                 ]
             }
         ]
+    },
+    {
+        "chainId": 11155111,
+        "name": "NFTVerse",
+        "symbol": "NFTs",
+        "decimals": 0,
+        "originTokenAddress": "0xb140a22eb43a0d592c9fbf5600fc6c81fd3bd3cb",
+        "originNetworkId": 0,
+        "tags": [
+            "erc721"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x3c5977da285da522403bac2259f216343cf2ad9c",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "fx",
+                    "erc721"
+                ]
+            }
+        ]
     }
 ]
