@@ -226,7 +226,7 @@
             {
                 "chainId": 1101,
                 "wrappedTokenAddress": "0x5D8cfF95D7A57c0BF50B30b43c7CC0D52825D4a9",
-                "tags": ["lxly", "erc20", "legacy", "noDeposit"],
+                "tags": ["lxly", "erc20", "legacy"],
                 "wrappedNetworkId": 1
             }
         ],
