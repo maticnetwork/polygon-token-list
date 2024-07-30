@@ -64,6 +64,32 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/pol.png"
     },
     {
+      "chainId": 11155111,
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "originTokenAddress": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+      "originNetworkId": 0,
+      "tags": [
+        "erc20"
+      ],
+      "wrappedTokens": [
+        {
+          "wrappedTokenAddress": "0x41e94eb019c0762f9bfcf9fb1e58725bfb0e7582",
+          "wrappedNetworkId": -1,
+          "tags": [
+            "customBridge",
+            "erc20",
+            "nativeToken"
+          ],
+          "originChainBridgeAdapter": "0x9f3B8679c73C2Fef8b59B4f3444d4e156fb70AA5",
+          "wrappedChainBridgeAdapter": "0x9f3B8679c73C2Fef8b59B4f3444d4e156fb70AA5",
+          "originChainClaimAdapter": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD",
+          "wrappedChainClaimAdapter": "0x7865fAfC2db2093669d92c0F33AeEF291086BEFD"
+        }
+      ]
+    },
+    {
         "chainId": 11155111,
         "name": "Dummy ERC20",
         "symbol": "DERC20",
