@@ -20625,15 +20625,15 @@
         "symbol": "TAKI",
         "decimals": 9,
         "address": "0xd872b7fFca41a67eDA85b04A9185c6b270006b58",
-        "logoURI": "https://shdw-drive.genesysgo.net/4cYdz18E7YqRLmJK7RV7icXfcnu2yUKxrYR7T49zdmzt/taki_wormhole_logo.svg",
+        "logoURI": "https://assets.coingecko.com/coins/images/25271/small/logo.png?1651118069",
         "tags": ["erc20", "noDeposit", "noWithdraw"],
         "extensions": {
             "rootAddress": "0x0000000000000000000000000000000000000000",
             "project": {
                 "name": "Taki",
                 "summary": "Wormhole Taki from Solana - https://solscan.io/token/Taki7fi3Zicv7Du1xNAWLaf6mRK7ikdn77HeGzgwvo4",
-                "contact": "support@takigames.net",
-                "website": "https://takigames.net/"
+                "contact": "support@taki.app",
+                "website": "https://taki.app/"
             }
         }
     },
