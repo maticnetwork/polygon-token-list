@@ -1,8 +1,8 @@
 {
-    "name": "Mapped Tokens Testnet",
-    "version": 3,
+    "name": "Popular Tokens Testnet",
+    "version": 2,
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
-    "description": "Contains tokens that are mapped to Polygon PoS and Polygon zkEVM. Anyone can propose updates to this list.",
+    "description": "Contains the top 100 most used tokens on the Polygon chains",
     "tags": {
         "lxly": {
             "name": "lxly",

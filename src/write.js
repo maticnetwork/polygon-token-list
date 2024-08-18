@@ -52,6 +52,30 @@ fs.writeFile(
     }
 );
 
+// v2 Mapped Testnet New List
+fs.writeFile(
+    "build/tokenlists/mappedTestnetNew.tokenlist.json",
+    JSON.stringify(tokenlists.v2MappedTestnetNewTokenList, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("mappedTestnetNew.tokenlist.json successfully built");
+    }
+);
+
+// v2 Popular Testnet New List
+fs.writeFile(
+    "build/tokenlists/popularTestnetNew.tokenlist.json",
+    JSON.stringify(tokenlists.v2PopularTestnetTokenListNew, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("popularTestnetNew.tokenlist.json successfully built");
+    }
+);
+
 // Aggregated List
 fs.writeFile(
     "build/tokenlists/polygon.tokenlist.json",
@@ -173,12 +197,23 @@ fs.writeFile(
 // Staging Tokenlist
 fs.writeFile(
     "build/tokenlists/staging.tokenlist.json",
-    JSON.stringify(tokenlists.stagingTokenList, null, 2),
+    JSON.stringify(tokenlists.v2PopularTokenListStaging, null, 2),
     (err) => {
         if (err) {
             throw err;
         }
         console.log("staging.tokenlist.json successfully built");
+    }
+);
+
+fs.writeFile(
+    "build/tokenlists/mappedStaging.tokenlist.json",
+    JSON.stringify(tokenlists.v2MappedTokenListStaging, null, 2),
+    (err) => {
+        if (err) {
+            throw err;
+        }
+        console.log("mappedStaging.tokenlist.json successfully built");
     }
 );
 

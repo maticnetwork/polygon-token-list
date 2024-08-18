@@ -1,6 +1,6 @@
 {
     "name": "Mapped Tokens Testnet",
-    "version": 3,
+    "version": 2,
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "description": "Contains tokens that are mapped to Polygon PoS and Polygon zkEVM. Anyone can propose updates to this list.",
     "tags": {
