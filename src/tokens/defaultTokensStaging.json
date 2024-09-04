@@ -72,19 +72,56 @@
         "decimals": 18,
         "originTokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
         "originNetworkId": 0,
-        "tags": ["erc20"],
+        "tags": [
+            "erc20"
+        ],
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
                 "wrappedNetworkId": -1,
-                "tags": ["plasma", "governanceToken"]
+                "tags": [
+                    "plasma",
+                    "governanceToken"
+                ]
             },
             {
                 "wrappedTokenAddress": "0xa2036f0538221a77a3937f1379699f44945018d0",
-                "tags": ["lxly", "erc20"]
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
+    },
+    {
+        "chainId": 1,
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "decimals": 18,
+        "originTokenAddress": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+        "originNetworkId": 0,
+        "tags": [
+            "erc20"
+        ],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000001010",
+                "wrappedNetworkId": -1,
+                "tags": [
+                    "plasma",
+                    "nativeToken"
+                ]
+            },
+            {
+                "wrappedTokenAddress": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
+                "tags": [
+                    "lxly",
+                    "erc20"
+                ]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/pol.png"
     },
     {
         "chainId": 1,
