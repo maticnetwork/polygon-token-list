@@ -1,6 +1,6 @@
 const { expect } = require("chai");
-const buildList = require("../../src/build");
-const lists = require("../../src/listRegistry.json");
+const buildList = require("../src/build");
+const lists = require("../src/listRegistry.json");
 
 describe("Test new token additions", () => {
     const tokenlists = buildList();
