@@ -9,6 +9,9 @@ describe("Test new token additions", () => {
         let map = {};
         for (const token of tokenlists.mappedTokenList.tokens) {
             const key = `${token.originTokenAddress.toLowerCase()}`;
+            if (!map[token.originNetworkId]) {
+                map[token.originNetworkId] = {};
+            }
             expect(typeof map[token.originNetworkId][key]).to.equal(
                 "undefined",
                 `duplicate originTokenAddress: ${token.originTokenAddress} in mappedTokenList`
