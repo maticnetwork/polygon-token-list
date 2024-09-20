@@ -1,5 +1,5 @@
 {
-    "name": "Popular Tokens",
+    "name": "Popular Tokens Staging",
     "version": 3,
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "description": "Contains the top 100 most used tokens on the Polygon chains",

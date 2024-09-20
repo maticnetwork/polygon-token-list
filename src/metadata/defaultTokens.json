@@ -1,6 +1,6 @@
 {
     "name": "Popular Tokens",
-    "version": 2,
+    "version": 3,
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "description": "Contains the top 100 most used tokens on the Polygon chains",
     "tags": {
@@ -17,6 +17,10 @@
             "description": "Token mapped through plasma bride"
         },
         "fx": { "name": "fx", "description": "Token mapped through fx bride" },
+        "customBridge": {
+            "name": "customBridge",
+            "description": "Token mapped through custom bridges"
+        },
         "zkevmMessageBridge": {
             "name": "zkevmMessageBridge",
             "description": "Token mapped through zkevmMessageBridge bride"
@@ -28,6 +32,10 @@
         "erc20": {
             "name": "erc20",
             "description": "Token of ERC20 token type"
+        },
+        "governanceToken": {
+            "name": "governanceToken",
+            "description": "Governance token of the chain"
         },
         "nativeToken": {
             "name": "nativeToken",

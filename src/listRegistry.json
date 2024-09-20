@@ -1,43 +1,43 @@
 [
     {
-        "name": "Polygon Tokens",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/polygonTokens.tokenlist.json",
-        "summary": "A list of tokens on the polygon network added by the community",
-        "homepage": "polygon.technology",
-        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
-    },
-    {
         "name": "Popular Tokens",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/popularTokens.tokenlist.json",
-        "summary": "A list of most used tokens on the polygon wallet",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/popular.tokenlist.json",
+        "summary": "Contains the top 100 most used tokens on the Polygon chains",
         "homepage": "polygon.technology",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
     },
     {
-        "name": "ZKEVM Popular",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/zkevmPopular.tokenlist.json",
-        "summary": "A list of most used tokens on the polygon wallet zkevm chain",
+        "name": "Popular Tokens Staging",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/staging.tokenlist.json",
+        "summary": "Contains the top 100 most used tokens on the Polygon chains - Staging purposes",
         "homepage": "polygon.technology",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
     },
     {
-        "name": "Cross-Chain",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/cross-chain.tokenlist.json",
-        "summary": "A cross-chain tokens list for transfers and swaps",
+        "name": "Popular Tokens Testnet",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/popularTestnet.tokenlist.json",
+        "summary": "Contains the top 100 most used tokens on the Polygon testnet chains",
         "homepage": "polygon.technology",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
     },
     {
-        "name": "Polygon Testnet",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/testnet.tokenlist.json",
-        "summary": "A list of tokens on the Mumbai testnet",
+        "name": "Mapped Tokens",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/mapped.tokenlist.json",
+        "summary": "Contains tokens that are mapped on Polygon Bridges. Anyone can propose updates to this list.",
         "homepage": "polygon.technology",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
     },
     {
-        "name": "BlackList Tokens",
-        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/blacklist.tokenlist.json",
-        "summary": "A list of tokens that are blacklisted",
+        "name": "Mapped Tokens Staging",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/mappedStaging.tokenlist.json",
+        "summary": "Contains tokens that are mapped on Polygon Bridges. Anyone can propose updates to this list.",
+        "homepage": "polygon.technology",
+        "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
+    },
+    {
+        "name": "Mapped Tokens Testnet",
+        "listURI": "api-polygon-tokens.polygon.technology/tokenlists/mappedTestnet.tokenlist.json",
+        "summary": "Contains tokens that are mapped on Polygon Bridges. Anyone can propose updates to this list.",
         "homepage": "polygon.technology",
         "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg"
     }
