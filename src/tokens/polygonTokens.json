@@ -20862,5 +20862,23 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+      "chainId": 137,
+      "name": "THAT",
+      "symbol": "THAT",
+      "decimals": 18,
+      "address": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+      "logoURI": "https://raw.githubusercontent.com/THAT-Global/brand-assets/4517783608b6b66acc87bd1bf43f56136ad42e4d/that.svg",
+      "tags": ["pos", "erc20", "noDeposit", "noWithdraw", "swapable"],
+      "extensions": {
+        "rootAddress": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+        "project": {
+          "name": "THAT",
+          "summary": "THAT facilitates native, real-world crypto payments, with specific emphasis on ease of use and merchant recognition.",
+          "contact": "contact@that.global",
+          "website": "https://that.website/"
+        }
+      }
     }
 ]
