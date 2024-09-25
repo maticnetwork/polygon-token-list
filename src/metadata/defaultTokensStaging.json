@@ -1,33 +1,33 @@
 {
-    "name": "Popular Tokens",
+    "name": "Popular Tokens Staging",
     "version": 3,
     "logoURI": "https://assets.polygon.technology/tokenAssets/matic.svg",
     "description": "Contains the top 100 most used tokens on the Polygon chains",
     "tags": {
         "lxly": {
             "name": "lxly",
-            "description": "Token mapped through lxly bride"
+            "description": "Token mapped through lxly bridge"
         },
         "pos": {
             "name": "pos",
-            "description": "Token mapped through pos bride"
+            "description": "Token mapped through pos bridge"
         },
         "plasma": {
             "name": "plasma",
-            "description": "Token mapped through plasma bride"
+            "description": "Token mapped through plasma bridge"
         },
-        "fx": { "name": "fx", "description": "Token mapped through fx bride" },
+        "fx": { "name": "fx", "description": "Token mapped through fx bridge" },
         "customBridge": {
             "name": "customBridge",
             "description": "Token mapped through custom bridges"
         },
         "zkevmMessageBridge": {
             "name": "zkevmMessageBridge",
-            "description": "Token mapped through zkevmMessageBridge bride"
+            "description": "Token mapped through zkevmMessageBridge bridge"
         },
         "customFx": {
             "name": "customFx",
-            "description": "Token mapped through customFx bride"
+            "description": "Token mapped through customFx bridge"
         },
         "erc20": {
             "name": "erc20",
