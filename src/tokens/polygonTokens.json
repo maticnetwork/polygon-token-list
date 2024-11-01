@@ -20846,6 +20846,24 @@
         }
     },
     {
+        "chainId": 137,
+        "name": "Ak parti",
+        "symbol": "AKP",
+        "decimals": 18,
+        "address": "0x645B28102f69CE4A8Ad0C5aC60469EA6BB748ddc",
+        "logoURI": "https://github.com/umutozkirisci/tokenlogo/blob/main/IMG_20241101_015641.png",
+        "tags": ["pos", "erc20"],
+        "extensions": {
+            "rootAddress": "0x68f1974F03Db85DA6769ADded9d356EDCa1CE2ab",
+            "project": {
+                "name": "Ak parti",
+                "summary": "Created for the political party community.",
+                "contact": "info@akparti.com",
+                "website": "https://akparti.com/"
+            }
+        }
+    },
+    {
       "chainId": 137,
       "name": "Tetu bridge token",
       "symbol": "fxTETU",
