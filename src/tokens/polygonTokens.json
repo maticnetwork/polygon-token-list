@@ -20846,6 +20846,29 @@
         }
     },
     {
+        "chainId": 137,
+        "name": "Risy DAO",
+        "symbol": "RISY",
+        "decimals": 18,
+        "address": "0xca154cF88F6ffBC23E16B5D08a9Bf4851FB97199",
+        "logoURI": "https://raw.githubusercontent.com/RisyDAO/contract-metadata/1351b3465ab8f71d5a7e9def0c4d674a8f0d8382/images/RISY.svg",
+        "tags": [
+            "erc20",
+            "noDeposit",
+            "noWithdraw",
+            "swapable"
+        ],
+        "extensions": {
+            "originTokenNetwork": -1,
+            "project": {
+                "name": "Risy DAO",
+                "summary": "Risy DAO is revolutionizing DeFi with innovative tokenomics, community governance, and sustainable growth mechanisms on the Polygon blockchain.",
+                "contact": "info@risy.io",
+                "website": "https://risy.io"
+            }
+        }
+    },
+    {
       "chainId": 137,
       "name": "Tetu bridge token",
       "symbol": "fxTETU",
