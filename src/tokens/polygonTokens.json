@@ -20864,25 +20864,24 @@
       }
     },
     {
-        "chainId": 137, // Chain Id of the L2 chain
+        "chainId": 137,
         "name": "Ak parti",
         "symbol": "AKP",
         "decimals": "18",
         "address": "0x645B28102f69CE4A8Ad0C5aC60469EA6BB748ddc",
         "logoURI": "https://github.com/umutozkirisci/tokenlogo/blob/main/IMG_20241101_015641.png",
-        "tags": ["<bridge>", "<token_type>", "<optional_tag>", "<optional_tag>", ...], // For all acceptable tags, check the below list
+        "tags": ["<bridge>", "<token_type>", "<optional_tag>", "<optional_tag>", ...],
         "extensions": {
-            "originTokenAddress": "token_address on the origin chain", // If not deployed on ethereum, add noDeposit and noWithdraw tags
-            "originTokenNetwork": "id of the token's origin chain", // Use 0 for Ethereum, 1 for zkEVM, -1 for PoS
-            "wrappedTokenNetwork": "id of the wrapper token's chain", // Only for tokens bridged via LxLy bridge (zkEVM)
+            "originTokenAddress": "token_address on the origin chain",
+            "originTokenNetwork": "id of the token's origin chain",
+            "wrappedTokenNetwork": "id of the wrapper token's chain",
             "project": {
                 "name": "Ak parti",
                 "summary": "For our party community",
                 "contact": "info@akparti.org.tr",
                 "website": "www.akparti.org.tr"
             },
-            "originChainBridgeAdapter": "Bridge adapter contract address on origin chain", // Only required for tokens bridged using zkEVM messaging layer
-            "wrapperChainBridgeAdapter": "Bridge adapter contract address on wrapper chain" // Only required for tokens bridged using zkEVM messaging layer
+    
         }
     }
 ]
