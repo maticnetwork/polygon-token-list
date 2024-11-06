@@ -20865,7 +20865,7 @@
     },
     {
         "chainId": 137, // Chain Id of the L2 chain
-        "name": "Ak Parti",
+        "name": "Ak parti",
         "symbol": "AKP",
         "decimals": "18",
         "address": "0x645B28102f69CE4A8Ad0C5aC60469EA6BB748ddc",
@@ -20876,7 +20876,7 @@
             "originTokenNetwork": "id of the token's origin chain", // Use 0 for Ethereum, 1 for zkEVM, -1 for PoS
             "wrappedTokenNetwork": "id of the wrapper token's chain", // Only for tokens bridged via LxLy bridge (zkEVM)
             "project": {
-                "name": "Ak Parti",
+                "name": "Ak parti",
                 "summary": "For our party community",
                 "contact": "info@akparti.org.tr",
                 "website": "www.akparti.org.tr"
