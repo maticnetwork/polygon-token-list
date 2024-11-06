@@ -20862,5 +20862,26 @@
           "website": "https://tetu.io/"
         }
       }
+    },
+    {
+        "chainId": 137,
+        "name": "Ak parti",
+        "symbol": "AKP",
+        "decimals": "18",
+        "address": "0x645B28102f69CE4A8Ad0C5aC60469EA6BB748ddc",
+        "logoURI": "https://github.com/umutozkirisci/tokenlogo/blob/main/IMG_20241101_015641.png",
+        "tags": ["erc20", "fx"],
+        "extensions": {
+            "originTokenAddress": "token_address on the origin chain",
+            "originTokenNetwork": "id of the token's origin chain",
+            "wrappedTokenNetwork": "id of the wrapper token's chain",
+            "project": {
+                "name": "Ak parti",
+                "summary": "For our party community",
+                "contact": "info@akparti.org.tr",
+                "website": "www.akparti.org.tr"
+            },
+    
+        }
     }
 ]
