@@ -20870,8 +20870,8 @@
     "symbol": "GIV",
     "decimals": "18",
     "address": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
-    "logoURI": "https://zkevm.polygonscan.com/token/0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
-    "tags": ["erc20", "pos", "swapable"], // For all acceptable tags, check the below list
+    "logoURI": "",
+    "tags": ["erc20", "pos"], // For all acceptable tags, check the below list
     "extensions": {
         "originTokenAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", // If not deployed on ethereum, add noDeposit and noWithdraw tags
         "originTokenNetwork": "0", // Use 0 for Ethereum, 1 for zkEVM, -1 for PoS
