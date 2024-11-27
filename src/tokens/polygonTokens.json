@@ -20871,7 +20871,7 @@
     "symbol": "GIV",
     "decimals": "18",
     "address": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
-    "logoURI": "https://github.com/Giveth/giveth-design-assets/blob/master/02-logos/GIV%20Token/GIVToken_200x200.svg",
+    "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/9fc25bfcd4a04cae53ceaecb8f96e5db738ff8a5/02-logos/GIV%20Token/GIVToken_200x200.svg",
     "tags": ["erc20", "lxly"], // For all acceptable tags, check the below list
     "extensions": {
         "originTokenAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", // If not deployed on ethereum, add noDeposit and noWithdraw tags
