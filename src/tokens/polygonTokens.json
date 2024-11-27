@@ -20864,19 +20864,18 @@
       }
     },
     
-    // GIV merge for get listed on Polygon Portal
     {
-    "chainId": 1101, // Chain Id of the L2 chain
+    "chainId": 1101, 
     "name": "Giveth",
     "symbol": "GIV",
     "decimals": "18",
     "address": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
     "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/9fc25bfcd4a04cae53ceaecb8f96e5db738ff8a5/02-logos/GIV%20Token/GIVToken_200x200.svg",
-    "tags": ["erc20", "lxly"], // For all acceptable tags, check the below list
+    "tags": ["erc20", "lxly"], 
     "extensions": {
-        "originTokenAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0", // If not deployed on ethereum, add noDeposit and noWithdraw tags
-        "originTokenNetwork": "0", // Use 0 for Ethereum, 1 for zkEVM, -1 for PoS
-        "wrappedTokenNetwork": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2", // Only for tokens bridged via LxLy bridge (zkEVM)
+        "originTokenAddress": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
+        "originTokenNetwork": "0",
+        "wrappedTokenNetwork": "0xddAFB91475bBf6210a151FA911AC8fdA7dE46Ec2",
         "project": {
             "name": "Giveth",
             "summary": "Giveth empowers changemakers to accept crypto donations. We want transform the way we fund nonprofits and social causes using innovative crypto fundraising strategies.",
