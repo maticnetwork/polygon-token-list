@@ -22,7 +22,7 @@
               "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
               "tags": ["lxly", "governanceToken"],
               "name": "Wrapped Ether",
-              "symbol": "WETH",
+              "symbol": "WETH"
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/eth.svg"
@@ -65,7 +65,7 @@
               "wrappedNetworkId": 1,
               "tags": ["lxly", "erc20", "legacy"],
               "name": "Legacy Bridge USD Coin",
-              "symbol": "USDC",
+              "symbol": "USDC"
             },
             {
                 "wrappedTokenAddress": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
@@ -149,19 +149,19 @@
         {
           "wrappedTokenAddress": "0x8F94400CDeF837F388100cfE56D7ebB8a3A3fb44",
           "wrappedNetworkId": -1,
-          "tags": ["pos", "erc20"],
+          "tags": ["pos", "erc20"]
         },
         {
           "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
           "wrappedNetworkId": 3,
-          "tags": ["lxly", "governanceToken"],
+          "tags": ["lxly", "governanceToken"]
         },
         {
           "wrappedTokenAddress": "0xa23390ab60fe5482e9230245eb817a8117528b38",
-          "tags": ["lxly", "erc20"],
-        },
+          "tags": ["lxly", "erc20"]
+        }
       ],
-      "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png",
+      "logoURI": "https://assets.polygon.technology/tokenAssets/okb.png"
     },
     {
         "chainId": 1,
@@ -205,7 +205,7 @@
             {
               "wrappedTokenAddress": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
               "wrappedNetworkId": 1,
-              "tags": ["lxly", "erc20", "legacy"],
+              "tags": ["lxly", "erc20", "legacy"]
             },
             {
                 "wrappedTokenAddress": "0x744C5860ba161b5316F7E80D9Ec415e2727e5bD5",
