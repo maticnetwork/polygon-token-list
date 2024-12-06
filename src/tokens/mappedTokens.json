@@ -21365,7 +21365,13 @@
             {
                 "wrappedTokenAddress": "0xcf32822ff397ef82425153a9dcb726e5ff61dca7",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "customWithdrawEventSig", "noDeposit", "noWithdraw"],
+                "tags": [
+                    "pos",
+                    "erc20",
+                    "customWithdrawEventSig",
+                    "noDeposit",
+                    "noWithdraw"
+                ],
                 "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             },
             {
@@ -29305,6 +29311,10 @@
                 "tags": ["fx", "erc20"],
                 "fxRootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
                 "fxChildTunnelAddress": "0xd531Cf2142D9b9Dc8b077dF3c4E93B46E7Cf879a"
+            },
+            {
+                "wrappedTokenAddress": "0xddafb91475bbf6210a151fa911ac8fda7de46ec2",
+                "tags": ["lxly", "erc20"]
             }
         ],
         "logoURI": "https://raw.githubusercontent.com/Giveth/giveth-design-assets/master/02-logos/GIV%20Token/GIVToken_256x256.png"
