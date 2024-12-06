@@ -6,78 +6,49 @@ This repo contains lists of tokens mapped to the Polygon chains that may be used
 
 The JSON schema for the tokens includes: chainId, name, address, decimals, symbol, logoURI (optional), tags (optional), and custom extensions metadata.
 
-1. [Mapped Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygon.tokenlist.json) Contains tokens that are mapped to Polygon PoS and Polygon zkEVM. Anyone can propose updates to this list.
+1. [Mapped Tokens](https://api-polygon-tokens.polygon.technology/tokenlists/mapped.tokenlist.json) Contains tokens that are mapped to Polygon bridges. Anyone can propose updates to this list.
 
-2. [Popular Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonPopular.tokenlist.json) Contains the top 100 most used tokens on the Polygon chains.
+2. [Popular Tokens](https://api-polygon-tokens.polygon.technology/tokenlists/popular.tokenlist.json) Contains the top 100 most used tokens on the mainnet chains.
 
-3. [Testnet Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/polygonTestnet.tokenlist.json) contains the tokens mapped on the Mumbai chain.
+3. [Mapped Tokens Testnet](https://api-polygon-tokens.polygon.technology/tokenlists/mappedTestnet.tokenlist.json) ontains tokens that are mapped to Polygon bridges on testnet chains. Anyone can propose updates to this list.
 
-4. [Blacklist Tokens List](https://api-polygon-tokens.polygon.technology/tokenlists/blacklist.tokenlist.json) Contains tokens that have been flagged for issues.
+4. [Popular Tokens Testnet](https://api-polygon-tokens.polygon.technology/tokenlists/popularTestnet.tokenlist.json) Contains the most used tokens on the testnet chains.
 
-## Adding or Updating a token
+## Updating a token
 
 1. Fork the repository
 
-2. Add the new token at the end of the token array in `src/tokens/polygonTokens.json`
+2. Update the token in the token array of `src/tokens/mapped.json` for mainnet or `src/tokens/mappedTestnet.json` for testnet
 
-    Please make sure that the new token follows this schema.
-
-    ```json
-    {
-        "chainId": 137, // Chain Id of the L2 chain
-        "name": "token_name",
-        "symbol": "token_symbol",
-        "decimals": "<token_decimals>",
-        "address": "token_address on Polygon",
-        "logoURI": "token_icon_uri",
-        "tags": ["<bridge>", "<token_type>", "<optional_tag>", "<optional_tag>", ...], // For all acceptable tags, check the below list
-        "extensions": {
-            "originTokenAddress": "token_address on the origin chain", // If not deployed on ethereum, add noDeposit and noWithdraw tags
-            "originTokenNetwork": "id of the token's origin chain", // Use 0 for Ethereum, 1 for zkEVM, -1 for PoS
-            "wrappedTokenNetwork": "id of the wrapper token's chain", // Only for tokens bridged via LxLy bridge (zkEVM)
-            "project": {
-                "name": "Project_Name",
-                "summary": "Short_Project_Description",
-                "contact": "Project_Support",
-                "website": "Project_Website"
-            },
-            "originChainBridgeAdapter": "Bridge adapter contract address on origin chain", // Only required for tokens bridged using zkEVM messaging layer
-            "wrapperChainBridgeAdapter": "Bridge adapter contract address on wrapper chain" // Only required for tokens bridged using zkEVM messaging layer
-        }
-    }
-    ```
+    Please make sure that the updated token do not disturb the schema.
 
     ### Tags
 
-    1. `stablecoin`: Tokens that are pegged to a fiat asset, e.g. USDC, USDT
+    1. `lxly`: Tokens that are bridged using the LxLy bridge (Agg Layer v1)
 
-    2. `swapable`: Tokens are eligible for swapping through the 0x contracts
+    2. `pos`: Tokens that are bridged using the PoS bridge
 
-    3. `native`: Tokens are native tokens of the chain
+    3. `plasma`: Tokens that are bridged using the PLASMA bridge
 
-    4. `erc20`: Tokens are of ERC20 token type
+    4. `fx`: Tokens that are bridged using the FX
 
-    5. `pos`: Tokens that are bridged using the PoS bridge
-       Note: Also use this tag if the tokens cannot be bridged.
+    5. `customBridge`: Token mapped through custom bridges
 
-    6. `fx`: Tokens that are bridged using the FX or custom FX bridge
+    6. `zkevmMessageBridge`: Token mapped through zkevmMessageBridge bridge
 
-    7. `plasma`: Tokens that are bridged using the PLASMA bridge
+    7. `customFx`: Token mapped through customFx bridge
 
-    8. `lxly`: Tokens that are bridged using the LxLy bridge (zkEVM)
+    8. `erc20`: Token of ERC20 token type
 
-    9. `metaTx`: Tokens are eligible for meta transactions
-       Note: Use this tag if the tokens support meta transactions and can be used for a gasless swaps.
+    9. `governanceToken`: Governance token of the chain
 
-    10. `customSig`: The token has its custom withdraw event signature and does not depend on the transfer event signature while verifing withdrawals
+    10. `nativeToken`: Native token of the chain
 
-    11. `noDeposit`: Tokens are not eligible for deposits from Ethereum
-        Note: Also use this tag if the tokens cannot be bridged.
+    11. `customWithdrawEventSig`: The token has its custom withdraw event signature and does not depend on the transfer event signature while verifing withdrawals
 
-    12. `noWithdraw`: Tokens are not eligible for withdrawals back to Ethereum
-        Note: Also use this tag if the tokens cannot be bridged.
+    12. `noDeposit`: Token not eligible for deposits
 
-    13. `customZkevmBridge`: Tokens that are bridged using zkEVM messaging layer
+    13. `noWithdraw`: Token not eligible for withdrawals on PoS bridges
 
 3. Run linter and fix the issues if any
 
@@ -99,7 +70,7 @@ The JSON schema for the tokens includes: chainId, name, address, decimals, symbo
     npm run build
     ```
 
-5. Commit the changes and raise a Pull request to our repo's dev branch
+5. Commit the changes and raise a Pull request to our repo
 
 ### Disclaimer
 
