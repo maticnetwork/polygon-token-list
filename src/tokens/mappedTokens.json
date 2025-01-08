@@ -33004,7 +33004,7 @@
             {
                 "wrappedTokenAddress": "0xe261d618a959afffd53168cd07d12e37b26761db",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0x1ad44cb93abd244f0360872e954ba92cbaec33dc",
