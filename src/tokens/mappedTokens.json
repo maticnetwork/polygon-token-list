@@ -1255,7 +1255,7 @@
             {
                 "wrappedTokenAddress": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0xb71320c68f6d023898ad78f53137940acfb19775",
@@ -1376,7 +1376,7 @@
             {
                 "wrappedTokenAddress": "0x51738017dc69f23deb5db8de97685cf3b7001e79",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -1608,7 +1608,7 @@
             {
                 "wrappedTokenAddress": "0xb22ecdfe16bef29ce48a63cde0add3e8b536d122",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -1673,7 +1673,7 @@
             {
                 "wrappedTokenAddress": "0xa95b410743e8c2f7b64f1373d3ca2b3454864a94",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -2361,7 +2361,7 @@
             {
                 "wrappedTokenAddress": "0xe81e0a387d2585fbc5353f56a57afd20331ef12d",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -2393,7 +2393,7 @@
             {
                 "wrappedTokenAddress": "0x8a23d240763057432ce048a43f9a3a1b2cc22404",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -2521,7 +2521,7 @@
             {
                 "wrappedTokenAddress": "0x5530aa1823573af28b6315d7e75138573eabf6e4",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -3071,7 +3071,7 @@
             {
                 "wrappedTokenAddress": "0x84cf3e9f5ec08a77bbc4c437eaea411b44673cfc",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -3353,7 +3353,7 @@
             {
                 "wrappedTokenAddress": "0xa5577d1cec2583058a6bd6d5deac44797c205701",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0xd3ceb521e9b093c7af78ffc5efe1bec6ca68c4c4",
@@ -4576,7 +4576,7 @@
             {
                 "wrappedTokenAddress": "0xae29ac47a9e3b0a52840e547adf74b912999f7fc",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -5150,7 +5150,7 @@
             {
                 "wrappedTokenAddress": "0x91c5A5488c0dEcde1Eacd8a4F10e0942fb925067",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0x6339458fabd17bca204fba94fc69abbdbb481d26",
@@ -5334,7 +5334,7 @@
             {
                 "wrappedTokenAddress": "0x05323017c00874198Cf1b0832922074BeEA0db83",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -5720,7 +5720,7 @@
             {
                 "wrappedTokenAddress": "0x3Afe98235d680e8d7A52e1458a59D60f45F935C0",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7178,7 +7178,7 @@
             {
                 "wrappedTokenAddress": "0x4C2C04E6f0ec30EbD60b2fFbE11814C3d59910f7",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7323,7 +7323,7 @@
             {
                 "wrappedTokenAddress": "0x51869836681BcE74a514625c856aFb697a013797",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ],
         "logoURI": "https://svgshare.com/i/fJk.svg"
@@ -7372,7 +7372,7 @@
             {
                 "wrappedTokenAddress": "0xE97a60f5D34dA4f68bc1f1b9CE2C19Ec1A33E928",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7420,7 +7420,7 @@
             {
                 "wrappedTokenAddress": "0x7621eE0CE0F686b88dD70551B05F90dd3C04d6e9",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7484,7 +7484,7 @@
             {
                 "wrappedTokenAddress": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7532,7 +7532,7 @@
             {
                 "wrappedTokenAddress": "0x7Dc47Cfb674bEb5827283F6140F635680A5cE992",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7720,7 +7720,7 @@
             {
                 "wrappedTokenAddress": "0x13607B1ca022368c81f2f2709b181ee8e0f42dD6",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -7768,7 +7768,7 @@
             {
                 "wrappedTokenAddress": "0x3be6601208c404a022612d06bfc8db5c88c8217c",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -8433,7 +8433,7 @@
             {
                 "wrappedTokenAddress": "0x6db9dd7342e9aE835Ed498d141A85970813F1E9c",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -8694,7 +8694,7 @@
             {
                 "wrappedTokenAddress": "0xc9b7Bc25AaA5D2a26e508eb0cB0b3AF08a4cA6F8",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -8742,7 +8742,7 @@
             {
                 "wrappedTokenAddress": "0x1fB39C88Df91c9fDB83D0e8761c8D2D2A4Ab5335",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -8822,7 +8822,7 @@
             {
                 "wrappedTokenAddress": "0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -9038,7 +9038,7 @@
             {
                 "wrappedTokenAddress": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -9070,7 +9070,7 @@
             {
                 "wrappedTokenAddress": "0x229F692adA2f4405789D5AEEac832877e4C0750E",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -9166,7 +9166,7 @@
             {
                 "wrappedTokenAddress": "0x5c1A50c4Cd26AD2a3A156c2F4B1A8826E7f3a4e0",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -9810,7 +9810,7 @@
             {
                 "wrappedTokenAddress": "0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -9878,7 +9878,7 @@
             {
                 "wrappedTokenAddress": "0x3DA47Ba3528FDcA867b94496027c65d504eef8e6",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -10118,7 +10118,7 @@
             {
                 "wrappedTokenAddress": "0x3b82319eF9e45c16621CC6F6b588324f5719a882",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -10218,7 +10218,7 @@
             {
                 "wrappedTokenAddress": "0x1a6872038b633bc9ebd2ea36df3f81eacd9b8823",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ],
         "logoURI": "https://navcoin.org/images/nav-logo-border.svg"
@@ -10536,7 +10536,7 @@
             {
                 "wrappedTokenAddress": "0x6d470424afaf9cc6476ce8a5d709b7b35f7cc790",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -10616,7 +10616,7 @@
             {
                 "wrappedTokenAddress": "0x0cfbBb89Fd58F6B49B7bF5665397ddc84003d47c",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -13142,7 +13142,7 @@
             {
                 "wrappedTokenAddress": "0x89b1F5DB1797f82af33dED6e6B50623a83aE84fA",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -13158,7 +13158,7 @@
             {
                 "wrappedTokenAddress": "0xE52F979590067637120004D188771b4aE48807Ee",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -13174,7 +13174,7 @@
             {
                 "wrappedTokenAddress": "0x39cDBd331c94d781D4B50802346152549689B1e5",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0xcf2127666bbbbbf4c13d7436d39a8fa6ee11e89b",
@@ -13194,7 +13194,7 @@
             {
                 "wrappedTokenAddress": "0x3Dbd2A88627566306AE9f5F5FB466B498535aF21",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -13326,7 +13326,7 @@
             {
                 "wrappedTokenAddress": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ],
         "logoURI": "https://assets.polygon.technology/tokenAssets/mooned.svg"
@@ -13652,7 +13652,7 @@
             {
                 "wrappedTokenAddress": "0x24F8A7bB3190039b4Cf0F96Cd72e2EA3a2D82256",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -14261,7 +14261,7 @@
             {
                 "wrappedTokenAddress": "0x14B5eD5dc05e9F7d35104D035719BD65a7EE93E0",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ],
         "logoURI": "https://1planet.app/images/1PL_Token_Logo.svg"
@@ -14438,7 +14438,7 @@
             {
                 "wrappedTokenAddress": "0xCEb082Ab7c63d68476797223a84f49e0284e9B29",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -14727,7 +14727,7 @@
             {
                 "wrappedTokenAddress": "0x07280d3143311b012ad268a74f2aa791713952ea",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -15247,7 +15247,7 @@
             {
                 "wrappedTokenAddress": "0x46d3EC8CE3eC767414F16FE12176De23E3E5B46A",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -16553,7 +16553,7 @@
             {
                 "wrappedTokenAddress": "0xaba7d7454175D549a21a6318831fde7f5046C303",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -16747,7 +16747,7 @@
             {
                 "wrappedTokenAddress": "0xcE899f26928a2B21c6a2Fddd393EF37c61dbA918",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -17351,7 +17351,7 @@
             {
                 "wrappedTokenAddress": "0xdc87ed1b972d42c5b218503a542d438b7fc65b7b",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -21010,7 +21010,7 @@
             {
                 "wrappedTokenAddress": "0x1A5C71dDF3d71CBB0C0Bc312ff712a52cBe29cD2",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -21882,7 +21882,7 @@
             {
                 "wrappedTokenAddress": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -27721,7 +27721,7 @@
             {
                 "wrappedTokenAddress": "0xa6f7645ed967faf708a614a2fca8d4790138586f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -29024,7 +29024,7 @@
             {
                 "wrappedTokenAddress": "0x9d7313E23C29e6d314A160A3fF345a2f7Ab0f3f5",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ],
         "logoURI": "https://etherscan.io/token/images/cityrootsunity_32.png"
@@ -29058,13 +29058,7 @@
             {
                 "wrappedTokenAddress": "0xc99fd38d967944d7c3578afc4451920404c238d1",
                 "wrappedNetworkId": -1,
-                "tags": [
-                    "pos",
-                    "erc20",
-                    "customWithdrawEventSig",
-                    "noDeposit",
-                    "noWithdraw"
-                ],
+                "tags": ["pos", "erc20", "customWithdrawEventSig"],
                 "withdrawEventSig": "0x7084f5476618d8e60b11ef0d7d3f06914655adb8793e28ff7f018d4c76d505d5"
             }
         ]
@@ -29638,7 +29632,7 @@
             {
                 "wrappedTokenAddress": "0x95093f8348c6678df4812c008248d88cad344069",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -29707,7 +29701,7 @@
             {
                 "wrappedTokenAddress": "0x53d9006010ce785bae94555e07d5268480b5c371",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -29723,7 +29717,7 @@
             {
                 "wrappedTokenAddress": "0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0x51d980e999b6b8fc60b36627e94e11636b2380fe",
@@ -29775,7 +29769,7 @@
             {
                 "wrappedTokenAddress": "0xd2e730d5a15ea4be6c1cb520e8b81e9fcf79ae62",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -30003,7 +29997,7 @@
             {
                 "wrappedTokenAddress": "0x4fbadbc05c4680e7756165d73194ae373e18e15f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -30883,7 +30877,7 @@
             {
                 "wrappedTokenAddress": "0x469a7483ae288a4b88bdebaf2b7f79a5bae5f49c",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -30951,7 +30945,7 @@
             {
                 "wrappedTokenAddress": "0xea3a0a8e638d7893582f8d0c3f51fb413376d421",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -31228,7 +31222,7 @@
             {
                 "wrappedTokenAddress": "0x53c0855f38f418e7c13f6e1ecd9b7997b286a481",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -31244,7 +31238,7 @@
             {
                 "wrappedTokenAddress": "0x3032198fab7c1c614985687a666598be81eb7430",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -31460,7 +31454,7 @@
             {
                 "wrappedTokenAddress": "0x468ac716493c51184162681130035b61baff040b",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -31796,7 +31790,7 @@
             {
                 "wrappedTokenAddress": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -31828,7 +31822,7 @@
             {
                 "wrappedTokenAddress": "0x9a5c2f40910b3d0e97defab7d775cd408085c14e",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -32440,7 +32434,7 @@
             {
                 "wrappedTokenAddress": "0x00b97145de02d6bf257d3976e51eefcd15962d07",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -32888,7 +32882,7 @@
             {
                 "wrappedTokenAddress": "0x86e93c4ce9c00889298e1328bfcca1260d1bac53",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -33004,7 +32998,7 @@
             {
                 "wrappedTokenAddress": "0xe261d618a959afffd53168cd07d12e37b26761db",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             },
             {
                 "wrappedTokenAddress": "0x1ad44cb93abd244f0360872e954ba92cbaec33dc",
@@ -33056,7 +33050,7 @@
             {
                 "wrappedTokenAddress": "0xa3ea90482679a2feb92709eb13a9b774796535f6",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -33972,7 +33966,7 @@
             {
                 "wrappedTokenAddress": "0x9111d6446ac5b88a84cf06425c6286658368542f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -33988,7 +33982,7 @@
             {
                 "wrappedTokenAddress": "0x765bba5e38e76bafd42c58f37c42038d3b04243a",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -34172,7 +34166,7 @@
             {
                 "wrappedTokenAddress": "0xb95e2384d8db81d8776a0f2b2eb994b4e9f1dd1f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -34304,7 +34298,7 @@
             {
                 "wrappedTokenAddress": "0xbfea498569a9fbea6ea580e31da6307035d2c94f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -34676,7 +34670,7 @@
             {
                 "wrappedTokenAddress": "0x3af677c1bdde9bc2ed8f3ff03b616a7606bc9986",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -34916,7 +34910,7 @@
             {
                 "wrappedTokenAddress": "0x34c825859e5aa32a14c7853a07d0aeea032d7f4a",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -35012,7 +35006,7 @@
             {
                 "wrappedTokenAddress": "0x9f57caca8aba57414bf7eeea299e0477455f4387",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -35788,7 +35782,7 @@
             {
                 "wrappedTokenAddress": "0xd0513db39d87e8825389feb10bd911dc53b3a153",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36106,7 +36100,7 @@
             {
                 "wrappedTokenAddress": "0x6a969dc24ed1266268d7385866e6a1b0db3a46af",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36122,7 +36116,7 @@
             {
                 "wrappedTokenAddress": "0x96a73e3b9e7a12caebc72838d9c8a90c02556da8",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36154,7 +36148,7 @@
             {
                 "wrappedTokenAddress": "0x783412c70681b19e39a6917be73770fe23f4f351",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36186,7 +36180,7 @@
             {
                 "wrappedTokenAddress": "0xa4c1e8e8ac85c61293479f91574cbaafa920184f",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36202,7 +36196,7 @@
             {
                 "wrappedTokenAddress": "0x0310ec163aba33e387b7e3205ecbd7d5735cb5f3",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36234,7 +36228,7 @@
             {
                 "wrappedTokenAddress": "0x8b2b00e44b86a77a3d0e5e11f4558d9aa226a2c9",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36394,7 +36388,7 @@
             {
                 "wrappedTokenAddress": "0xf8cf80f34a9329dcd554129eb25658fcf7d2f401",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36442,7 +36436,7 @@
             {
                 "wrappedTokenAddress": "0xe6e6b6fafce2e58fbc84b0e00c43bd114a4a138d",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36558,7 +36552,7 @@
             {
                 "wrappedTokenAddress": "0x0b6afe834dab840335f87d99b45c2a4bd81a93c7",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
@@ -36846,7 +36840,7 @@
             {
                 "wrappedTokenAddress": "0xcae8304fa1f65bcd72e5605db648ee8d6d889509",
                 "wrappedNetworkId": -1,
-                "tags": ["pos", "erc20", "noDeposit", "noWithdraw"]
+                "tags": ["pos", "erc20"]
             }
         ]
     },
