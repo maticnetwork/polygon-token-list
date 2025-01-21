@@ -20,7 +20,14 @@
             {
                 "wrappedNetworkId": 3,
                 "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
-                "tags": ["lxly", "governanceToken"],
+                "tags": ["lxly"],
+                "name": "Wrapped Ether",
+                "symbol": "WETH"
+            },
+            {
+                "wrappedNetworkId": 13,
+                "wrappedTokenAddress": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+                "tags": ["lxly"],
                 "name": "Wrapped Ether",
                 "symbol": "WETH"
             }
