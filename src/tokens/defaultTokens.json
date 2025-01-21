@@ -149,6 +149,27 @@
     },
     {
         "chainId": 1,
+        "name": "Ternoa",
+        "symbol": "CAPS",
+        "decimals": 18,
+        "originTokenAddress": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+        "originNetworkId": 0,
+        "tags": ["erc20"],
+        "wrappedTokens": [
+            {
+                "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+                "wrappedNetworkId": 13,
+                "tags": ["lxly", "governanceToken"]
+            },
+            {
+                "wrappedTokenAddress": "0x3ec5D3873eABBB312316B2E3eb8950fe743a9B39",
+                "tags": ["lxly", "erc20"]
+            }
+        ],
+        "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
+    },
+    {
+        "chainId": 1,
         "name": "Tether USD",
         "symbol": "USDT",
         "decimals": 6,
