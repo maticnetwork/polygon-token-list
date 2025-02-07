@@ -1,0 +1,22 @@
+name: api-polygon-tokens Deployment GCP
+on:
+  push:
+    branches:
+      - dev
+  workflow_dispatch:
+    inputs:
+      environment:
+        required: true
+        type: choice
+        description: "Select the environment to deploy to"
+        options:
+          - staging
+          - prod
+          - dev
+
+jobs:
+  docker-release:
+    uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main
+    with:
+      image_name: api-polygon-tokens
+      environment: ${{ github.event_name == 'push' && 'dev' || inputs.environment }}
