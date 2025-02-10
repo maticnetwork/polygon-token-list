@@ -1,0 +1,21 @@
+name: Polygon Webflow APIs
+on:
+  push:
+    branches:
+      - master
+      - dev
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  docker-release:
+    if: |
+      (github.event_name == 'push' && github.ref == 'refs/heads/dev') ||
+      (github.event_name == 'push' && github.ref == 'refs/heads/master')
+    uses: ./.github/workflows/docker_publish_gcp.yaml
+    with:
+      core_app: api-polygon-tokens
+      environment: ${{ (github.ref == 'refs/heads/dev' && 'dev') || (github.ref == 'refs/heads/master' && 'prod') }}
