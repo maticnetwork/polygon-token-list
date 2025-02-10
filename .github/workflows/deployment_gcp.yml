@@ -1,9 +1,18 @@
-name: api-polygon-tokens Deployment GCP
+name: Portal Deployment GCP
+
 on:
   push:
     branches:
       - master
+      - dev
   workflow_dispatch:
+    inputs:
+      environment:
+        required: true
+        type: choice
+        description: "Select the environment to deploy to"
+        options:
+          - prod
 
 permissions:
   contents: read
@@ -11,7 +20,11 @@ permissions:
 
 jobs:
   docker-release:
+    if: |
+      (github.event_name == 'push' && github.ref == 'refs/heads/dev') ||
+      (github.event_name == 'push' && github.ref == 'refs/heads/master') ||
+      (github.event_name == 'workflow_dispatch' && inputs.environment == 'prod')
     uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main
     with:
       image_name: api-polygon-tokens
-      environment: prod
+      environment: ${{ inputs.environment || (github.ref == 'refs/heads/dev' && 'dev') || (github.ref == 'refs/heads/master' && 'prod') }}
