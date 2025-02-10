@@ -14,6 +14,10 @@ on:
           - prod
           - dev
 
+permissions:
+  contents: read
+  id-token: write
+
 jobs:
   docker-release:
     uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main
