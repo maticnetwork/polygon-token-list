@@ -1,4 +1,4 @@
-name: Polygon Webflow APIs
+name: Polygon Tokenlist api GCP docker publish image
 on:
   push:
     branches:
@@ -15,7 +15,7 @@ jobs:
     if: |
       (github.event_name == 'push' && github.ref == 'refs/heads/dev') ||
       (github.event_name == 'push' && github.ref == 'refs/heads/master')
-    uses: ./.github/workflows/docker_publish_gcp.yaml
+    uses: 0xPolygon/pipelines/.github/workflows/gcp_pipeline_release_image.yaml@main
     with:
-      core_app: api-polygon-tokens
+      image_name: api-polygon-tokens
       environment: ${{ (github.ref == 'refs/heads/dev' && 'dev') || (github.ref == 'refs/heads/master' && 'prod') }}
