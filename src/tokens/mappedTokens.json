@@ -29374,13 +29374,6 @@
         "tags": ["erc20"],
         "wrappedTokens": [
             {
-                "wrappedTokenAddress": "0xc1381c17d29a22df5c3015c3d83ebd90abd0e6b3",
-                "wrappedNetworkId": -1,
-                "tags": ["fx", "erc20"],
-                "fxRootTunnelAddress": "0x0cc2caed31490b546c741bd93dbba8ab387f7f2c",
-                "fxChildTunnelAddress": "0xd531Cf2142D9b9Dc8b077dF3c4E93B46E7Cf879a"
-            },
-            {
                 "wrappedTokenAddress": "0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2",
                 "wrappedNetworkId": -1,
                 "tags": ["pos", "erc20"]
@@ -40507,38 +40500,6 @@
         "wrappedTokens": [
             {
                 "wrappedTokenAddress": "0x84b5fd5bde8c4162597c2db970d2770429b708c0",
-                "wrappedNetworkId": -1,
-                "tags": ["fx", "erc20"]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "TruStake MATIC Vault Shares",
-        "symbol": "TruMATIC",
-        "decimals": 18,
-        "originTokenAddress": "0x6ba703406bc530d7e160f2b25a253e21d1de5ad9",
-        "originNetworkId": 0,
-        "tags": ["erc20"],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xca2443391dd5b73dc0264af8fa71f312d9784c43",
-                "wrappedNetworkId": -1,
-                "tags": ["fx", "erc20"]
-            }
-        ]
-    },
-    {
-        "chainId": 1,
-        "name": "TruStake MATIC Vault Shares",
-        "symbol": "TruMATIC",
-        "decimals": 18,
-        "originTokenAddress": "0x0ee0f1e438e4f0d8e3aa8d1f35592aa5303863a4",
-        "originNetworkId": 0,
-        "tags": ["erc20"],
-        "wrappedTokens": [
-            {
-                "wrappedTokenAddress": "0xfe4e02555ef9f74d19c7f536d229661eb3a727c2",
                 "wrappedNetworkId": -1,
                 "tags": ["fx", "erc20"]
             }
