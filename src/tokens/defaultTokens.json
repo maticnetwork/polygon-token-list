@@ -176,6 +176,27 @@
         "logoURI": "https://assets.polygon.technology/tokenAssets/caps.svg"
     },
     {
+      "chainId": 1,
+      "name": "LUMIA",
+      "symbol": "LUMIA",
+      "decimals": 18,
+      "originTokenAddress": "0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
+      "originNetworkId": 0,
+      "tags": ["governanceToken"],
+      "wrappedTokens": [
+        {
+          "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+          "wrappedNetworkId": 7,
+          "tags": ["lxly", "governanceToken"],
+        },
+        {
+          "wrappedTokenAddress": "0x6Bf498AD8BAdC0603164aF4238EA8046bf7a3100",
+          "tags": ["lxly", "erc20"],
+        },
+      ],
+      "logoURI": "https://assets.polygon.technology/tokenAssets/lumia.png",
+    },
+    {
         "chainId": 1,
         "name": "Tether USD",
         "symbol": "USDT",
