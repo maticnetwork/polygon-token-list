@@ -192,7 +192,7 @@
         {
           "wrappedTokenAddress": "0x23D559B5E2d2ba2De97E0868b2b9C64A2C668B15",
           "tags": ["lxly", "erc20"]
-        },
+        }
       ],
       "logoURI": "https://assets.polygon.technology/tokenAssets/lumia.png"
     },
