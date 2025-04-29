@@ -182,7 +182,7 @@
       "decimals": 18,
       "originTokenAddress": "0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
       "originNetworkId": 0,
-      "tags": ["governanceToken"],
+      "tags": ["erc20"],
       "wrappedTokens": [
         {
           "wrappedTokenAddress": "0x0000000000000000000000000000000000000000",
